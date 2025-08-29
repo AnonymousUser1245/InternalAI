@@ -1,0 +1,148 @@
+Part 6.4  Formulating the takeover offer
+Division 2  Consideration for the offer
+Section 622
+
+Part 6.4  Formulating the takeover offer
+Division 2  Consideration for the offer
+218 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(c) if the consideration offered or provided is a cash sum and 
+other consideration—the sum of the amount of the cash sum 
+and the value of the other consideration.
+The value of consideration that is not a cash sum is to be 
+ascertained as at the time the relevant offer, purchase or agreement 
+is made.
+(5) If:
+(a) a person agrees to buy a security in a company; and
+(b) the agreement provides that the price payable for the security 
+is a price specified in the agreement but may be varied in 
+accordance with the terms of the agreement;
+any variation in price under the agreement is to be disregarded in 
+working out, for the purposes of subsection (3), the price agreed to 
+be paid for the security under the agreement.
+
+Part 6.4  Formulating the takeover offer
+Division 2  Consideration for the offer
+622  Escalation agreements
+
+Benefits linked to bids and proposed bids not allowed
+(1) A person who makes or proposes to make a takeover bid for 
+securities, or their associate, contravenes this section if:
+(a) a person acquires a relevant interest in securities in the bid 
+class within the 6 months before the bid is made or proposed; 
+and
+(b) at any time whatever, the bidder, proposed bidder or 
+associate gives or agrees to give a benefit to, or receives or 
+agrees to receive a benefit from:
+(i) a person who had a relevant interest in any of the 
+paragraph (a) securities immediately before the 
+acquisition; or
+(ii) an associate of a person who had a relevant interest in 
+any of those securities at that time; and
+(c) the benefit is attributable to the acquisition or matters that 
+include the acquisition; and
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Formulating the takeover offer  Part 6.4
+Consideration for the offer  Division 2
+
+Part 6.4  Formulating the takeover offer
+Division 2  Consideration for the offer
+Section 623
+
+Corporations Act 2001 219
+Compilation No. 143 Compilation date: 09/07/2025(d) the amount or value of the benefit is, or is to be, determined 
+by reference to or to matters that include either of the 
+following:
+(i) the amount or value of the consideration for the 
+securities under the bid or proposed bid;
+(ii) the amount or value of the consideration for which the 
+bidder or proposed bidder acquires, offers or proposes 
+to offer to acquire, securities in the bid class during the 
+offer period (whether or not under the bid) or under 
+Chapter 6A.
+Strict liability offences
+(1A) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Contravening agreements void
+(2) An agreement is void to the extent that it purports to provide for:
+(a) a person to give a benefit to a person; or
+(b) a person to receive a benefit from a person;
+in contravention of subsection (1).
+
+Part 6.4  Formulating the takeover offer
+Division 2  Consideration for the offer
+623  Collateral benefits not allowed
+
+(1) A bidder, or an associate, must not, during the offer period for a 
+takeover bid, give, offer to give or agree to give a benefit to a 
+person if:
+(a) the benefit is likely to induce the person or an associate to:
+(i) accept an offer under the bid; or
+(ii) dispose of securities in the bid class; and
+(b) the benefit is not offered to all holders of securities in the bid 
+class under the bid.
+(1A) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.4  Formulating the takeover offer
+Division 2  Consideration for the offer
+Section 623
+
+Part 6.4  Formulating the takeover offer
+Division 2  Consideration for the offer
+220 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) For the purpose of this section, a person does not receive a benefit 
+that is not offered under a takeover bid merely because the person 
+sells bid class securities on-market and the takeover bid is an 
+off-market bid or a conditional bid.
+(3) This section does not prohibit:
+(a) the variation of a takeover offer as provided by 
+sections 649A to 650D; or
+(b) an acquisition of securities through an on-market transaction; 
+or
+(c) simultaneous takeover bids for different classes of securities 
+in the target.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Formulating the takeover offer  Part 6.4
+The offer period  Division 3
+
+Part 6.4  Formulating the takeover offer
+Division 2  Consideration for the offer
+Section 624
+
+Corporations Act 2001 221
+Compilation No. 143 Compilation date: 09/07/2025Division 3—The offer period
+
+Part 6.4  Formulating the takeover offer
+Division 2  Consideration for the offer
+624  Offer period
+
+Offer period set in offer
+(1) The offers under a takeover bid must remain open for the period 
+stated in the offer. The period must:
+(a) start on the date the first offer under the bid is made; and
+(b) last for at least 1 month, and not more than 12 months.
+However, the offer may be withdrawn during that period under 
+section 652B.
+Note: Sections 649C (market bids) and 650C (off-market bids) deal with 
+variation of the offer period.
+Automatic extension of offer period if bidder reaches 50% or 
+consideration increased in last week
+(2) If, within the last 7 days of the offer period:
+(a) for an off-market bid—the offers under the bid are varied to 
+improve the consideration offered; or
+(b) in any case—the bidder’s voting power in the target increases 
+to more than 50%;
+the offer period is extended so that it ends 14 days after the event 
+referred to in paragraph (a) or (b). The bidder must give the target 
+and everyone who has not accepted an offer under the bid written 
+notice that the extension has occurred within 3 days after that 
+event.
+Note: The consideration for a market bid cannot be increased in the last 5 
+trading days of the offer period (see section 649B).
+Strict liability offences
+(3) An offence based on subsection (2) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers

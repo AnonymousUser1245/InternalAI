@@ -1,0 +1,176 @@
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 300
+
+Corporations Act 2001 69
+Compilation No. 143 Compilation date: 09/07/2025(c) the number of meetings of each board committee held during 
+the year and each director’s attendance at those meetings; and
+(d) the qualifications and experience of each person who is a 
+company secretary of the company as at the end of the year.
+Special rules for listed companies and schemes
+(11) The report for a listed company must also include the following 
+details for each director:
+(a) their relevant interests in shares of the company or a related 
+body corporate;
+(b) their relevant interests in debentures of, or interests in a 
+registered scheme made available by, the company or a 
+related body corporate;
+(c) their rights or options over shares in, debentures of or 
+interests in a registered scheme made available by, the 
+company or a related body corporate;
+(d) contracts:
+(i) to which the director is a party or under which the 
+director is entitled to a benefit; and
+(ii) that confer a right to call for or deliver shares in, or 
+debentures of or interests in a registered scheme made 
+available by the company or a related body corporate;
+(e) all directorships of other listed companies held by the 
+director at any time in the 3 years immediately before the end 
+of the financial year and the period for which each 
+directorship has been held.
+Note: Directors must also disclose interests of these kinds to a relevant 
+market operator under section 205G as they are acquired.
+(11AA) If an individual plays a significant role in the audit of a listed 
+company or listed registered scheme for the financial year in 
+reliance on an approval granted under section 324DAA, the report 
+for the company or scheme must also include details of, and 
+reasons for, the approval.
+(11A) If a registered company auditor plays a significant role in the audit 
+of a listed company for the financial year in reliance on a 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 300
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+70 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025declaration made under section 342A, the report for the company 
+must also include details of the declaration.
+Listed companies—non-audit services and auditor independence
+(11B) The report for a listed company must also include the following in 
+relation to each auditor:
+(a) details of the amounts paid or payable to the auditor for 
+non-audit services provided, during the year, by the auditor 
+(or by another person or firm on the auditor’s behalf);
+(b) a statement whether the directors are satisfied that the 
+provision of non-audit services, during the year, by the 
+auditor (or by another person or firm on the auditor’s behalf) 
+is compatible with the general standard of independence for 
+auditors imposed by this Act;
+(c) a statement of the directors’ reasons for being satisfied that 
+the provision of those non-audit services, during the year, by 
+the auditor (or by another person or firm on the auditor’s 
+behalf) did not compromise the auditor independence 
+requirements of this Act.
+These details and statements must be included in the directors’ 
+report under the heading “Non-audit services”. If consolidated 
+financial statements are required, the details and statements must 
+relate to amounts paid or payable to the auditor by, and non-audit 
+services provided to, any entity (including the company, registered 
+scheme, registrable superannuation entity or disclosing entity) that 
+is part of the consolidated entity.
+(11C) For the purposes of paragraph (11B)(a), the details of amounts paid 
+or payable to an auditor for non-audit services provided, during the 
+year, by the auditor (or by another person or firm on the auditor’s 
+behalf) are:
+(a) the name of the auditor; and
+(b) the dollar amount that:
+(i) the listed company; or
+(ii) if consolidated financial statements are required—any 
+entity that is part of the consolidated entity;
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Annual financial reports, sustainability reports and directors’ reports  Division 1
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 300
+
+Corporations Act 2001 71
+Compilation No. 143 Compilation date: 09/07/2025paid, or is liable to pay, for each of those non-audit services.
+(11D) The statements under paragraphs (11B)(b) and (c) must be made in 
+accordance with:
+(a) advice provided by the listed company’s audit committee if 
+the company has an audit committee; or
+(b) a resolution of the directors of the listed company if 
+paragraph (a) does not apply.
+(11E) For the purposes of subsection (11D), a statement is taken to be 
+made in accordance with advice provided by the company’s audit 
+committee only if:
+(a) the statement is consistent with that advice and does not 
+contain any material omission of material included in that 
+advice; and
+(b) the advice is endorsed by a resolution passed by the members 
+of the audit committee; and
+(c) the advice is written advice signed by a member of the audit 
+committee on behalf of the audit committee and given to the 
+directors.
+Special rules for listed registered schemes
+(12) The report for a registered scheme whose interests are quoted on a 
+declared financial market must also include the following details 
+for each director of the company that is the responsible entity for 
+the scheme:
+(a) their relevant interests in interests in the scheme;
+(b) their rights or options over interests in the scheme;
+(c) contracts to which the director is a party or under which the 
+director is entitled to a benefit and that confer a right to call 
+for or deliver interests in the scheme.
+Special rules for registered schemes
+(13) The report for a registered scheme must also include details of:
+(a) the fees paid to the responsible entity and its associates out of 
+scheme property during the financial year; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 300A
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+72 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) the number of interests in the scheme held by the responsible 
+entity or its associates as at the end of the financial year; and
+(c) interests in the scheme issued during the financial year; and
+(d) withdrawals from the scheme during the financial year; and
+(e) the value of the scheme’s assets as at the end of the financial 
+year, and the basis for the valuation; and
+(f) the number of interests in the scheme as at the end of the 
+financial year.
+Note: This subsection applies to sub-funds of retail CCIVs in a modified 
+form: see section 1232E.
+Proceedings on behalf of a company
+(14) The report for a company must also include the following details of 
+any application for leave under section 237 made in respect of the 
+company:
+(a) the applicant’s name; and
+(b) a statement whether leave was granted.
+(15) The report for a company must also include the following details of 
+any proceedings that a person has brought or intervened in on 
+behalf of the company with leave under section 237:
+(a) the person’s name;
+(b) the names of the parties to the proceedings;
+(c) sufficient information to enable members to understand the 
+nature and status of the proceedings (including the cause of 
+action and any orders made by the court).
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+300A  Annual directors’ report—specific information to be provided
+
+by listed companies
+(1) The directors’ report for a financial year for a company must also 
+include (in a separate and clearly identified section of the report):
+(a) discussion of board policy for determining, or in relation to, 
+the nature and amount (or value, as appropriate) of 
+remuneration of the key management personnel for:
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Annual financial reports, sustainability reports and directors’ reports  Division 1
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 300A

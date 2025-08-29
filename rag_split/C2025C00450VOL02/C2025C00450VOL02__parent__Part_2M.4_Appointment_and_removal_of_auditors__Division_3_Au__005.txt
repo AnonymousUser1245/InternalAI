@@ -1,0 +1,243 @@
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CG
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+176 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) the giving of the information;
+are not admissible in evidence against the person in a criminal 
+proceeding, or any other proceeding for the recovery of a penalty, 
+other than proceedings for an offence based on the information 
+given being false or misleading.
+(5D) If ASIC is given a notice under paragraph (5A)(e), ASIC must, as 
+soon as practicable after the notice is received, give a copy of the 
+notice to the audited body.
+Strict liability contravention of specific independence requirements 
+by director of audit company
+(6) A person (the defendant) contravenes this subsection if:
+(a) an audit company engages in audit activity at a particular 
+time; and
+(b) a relevant item of the table in subsection 324CH(1) applies at 
+that time to a person or entity covered by subsection (9) of 
+this section; and
+(c) the defendant is a director of the audit company at that time.
+(7) For the purposes of an offence based on subsection (6), strict 
+liability applies to the physical elements of the offence specified in 
+paragraphs (6)(a) and (b).
+Note 1: For strict liability, see section 6.1 of the Criminal Code.
+Note 2: Subsection (8) provides a defence.
+(8) A person does not commit an offence because of a contravention of 
+subsection (6) in relation to audit activity engaged in by an audit 
+company at a particular time if the person has reasonable grounds 
+to believe that the audit company had in place at that time a quality 
+control system that provided reasonable assurance (taking into 
+account the size and nature of the audit practice of the audit 
+company) that the audit company and its employees complied with 
+the requirements of this Subdivision.
+Note: A defendant bears an evidential burden in relation to the matters in 
+this subsection, see subsection 13.3(3) of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Appointment and removal of auditors  Part 2M.4
+Auditor independence  Division 3
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CG
+
+Corporations Act 2001 177
+Compilation No. 143 Compilation date: 09/07/2025People and entities covered
+(9) The following table sets out:
+(a) the persons and entities covered by this subsection in relation 
+to audit activity engaged in by an audit company; and
+(b) the items of the table in subsection 324CH(1) that are the 
+relevant items for each of those persons and entities:
+Audit company
+Item For this person or entity... the relevant items of 
+the table in 
+subsection 324CH(1
+) are...
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+1 the audit company 4
+
+7
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+10 to 19
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+2 a service company or trust
+
+acting for, or on behalf of, the 
+audit company, or another 
+entity performing a similar 
+function4
+7
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+10 to 19
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+3 a director or senior manager of
+
+the audit company1 to 7
+9
+15
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+4 a professional member of the
+
+audit team conducting the 
+audit of the audited body1 to 6
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+8 to 19
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+5 an immediate family member
+
+of a professional member of 
+the audit team conducting the 
+audit of the audited body1 and 2
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+10 to 19
+
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CG
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+178 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Audit company
+Item For this person or entity... the relevant items of 
+the table in 
+subsection 324CH(1
+) are...
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+6 a person who:
+
+(a) is a non-audit services 
+provider; and
+(b) does not satisfy the 
+maximum hours test in 
+subsection (10)10 to 12
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+7 an immediate family member
+
+of a person who:
+(a) is a non-audit services 
+provider; and
+(b) does not satisfy the 
+maximum hours test in 
+subsection (10)10 to 12
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+8 an entity that the audit
+
+company (or a service 
+company or trust acting for, or 
+on behalf of, the audit 
+company, or another entity 
+performing a similar function) 
+controls15
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+9 a body corporate in which the
+
+audit company (or a service 
+company or trust acting for, or 
+on behalf of, the audit 
+company, or another entity 
+performing a similar function) 
+has a substantial holding15
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+10 an entity that an officer of the
+
+audit company controls or a 
+body corporate in which an 
+officer of the audit company 
+has a substantial holding16
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Appointment and removal of auditors  Part 2M.4
+Auditor independence  Division 3
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CG
+
+Corporations Act 2001 179
+Compilation No. 143 Compilation date: 09/07/2025Audit company
+Item For this person or entity... the relevant items of 
+the table in 
+subsection 324CH(1
+) are...
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+11 a person who:
+
+(a) is a former officer of the 
+audit company; and
+(b) does not satisfy the 
+independence test in 
+subsection (11)1 and 2
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+12 a person who:
+
+(a) is a former professional 
+employee of the audit 
+company; and
+(b) does not satisfy the 
+independence test in 
+subsection (11)1 and 2
+Maximum hours test
+(10) A non-audit services provider satisfies the maximum hours test in 
+this subsection if:
+(a) the number of hours for which the person provides services 
+(other than services related to the conduct of an audit) to the 
+audited body on behalf of the auditor during the period to 
+which the audit relates does not exceed 10 hours; and
+(b) the number of hours for which the person provided services 
+(other than services related to the conduct of an audit) to the 
+audited body on behalf of the auditor during the 12 months 
+immediately before the beginning of the period to which the 
+audit relates does not exceed 10 hours.
+In a prosecution for an offence based on subsection (1), (2), (5) or 
+(6), the prosecution must prove that the non-audit services provider 
+did not satisfy the maximum hours test in this subsection.
+(10A) Paragraphs (10)(a) and (b) do not apply if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CG
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+180 Corporations Act 2001

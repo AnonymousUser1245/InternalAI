@@ -1,0 +1,212 @@
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+Section 650A
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+266 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Off-market bids (express variation by bidder)
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+650A  General
+
+(1) A bidder may only vary the offers under an off-market bid in 
+accordance with section 650B, 650C or 650D.
+Note: ASIC may allow other variations under section 655A.
+(2) If the bidder varies the offer under an off-market bid in accordance 
+with section 650B, 650C or 650D, the bidder must vary all 
+unaccepted offers under the bid in the same way.
+Note: Subsections 650B(2) and (3) deal with the effect of a variation on 
+takeover contracts that have already resulted from acceptances of 
+offers under the bid when the variation is made.
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+650B  Off-market bids—consideration offered
+
+Improving the consideration offered
+(1) The bidder may vary the offers made under the bid to improve the 
+consideration offered:
+(a) by increasing a cash sum offered; or
+(b) by increasing the number of securities offered; or
+(c) by increasing the rate of interest payable under debentures 
+offered; or
+(d) by increasing the amount or value of debentures offered; or
+(e) by increasing the number of unissued securities that may be 
+acquired under options offered; or
+(f) by offering a cash sum in addition to securities; or
+(g) if the securities being acquired include shares to which rights 
+to accrued dividends are attached—by giving the holders the 
+right to:
+(i) retain the whole or a part of the dividend; or
+(ii) be paid an amount equal to the amount of the dividend;
+in addition to the consideration already offered; or
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Variation of offers  Part 6.6
+Off-market bids (express variation by bidder)  Division 2
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+Section 650B
+
+Corporations Act 2001 267
+Compilation No. 143 Compilation date: 09/07/2025(h) offering an additional alternative form of consideration.
+Note: If the bidder increases the consideration during the last 7 days of the 
+offer period, subsection 624(2) extends the offer period by a further 14 
+days.
+Effect of increase in consideration on offers already accepted
+(2) Improving the consideration has the effects set out in the following 
+table on the rights of a person who has already accepted an offer 
+when the variation is made.
+Effect of improving consideration [operative]
+Improvement Effect on person who has already 
+accepted bid offer
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+1 improvement of the only form of
+
+consideration being offeredentitled to the improved consideration
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+2 2 or more forms of consideration
+
+offered and all forms improved by the 
+same factor or percentageentitled to the improvement in the 
+form of consideration accepted
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+3 2 or more forms of consideration
+
+offered and improvement in the 
+consideration is identical for all formsentitled to the improvement in the 
+form of consideration accepted
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+4 addition of a new form of
+
+considerationentitled to make a fresh election as to 
+the form of consideration to be taken
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+5 any other improvement entitled to make a fresh election as to
+
+the form of consideration to be taken
+(2A) The person is entitled to receive the improved consideration 
+immediately, subject to the following paragraphs:
+(a) if the time for payment of the consideration in accordance 
+with subsection 620(2) has not yet occurred, the person is not 
+entitled to receive the improved consideration until that time;
+(b) if the person has to make an election before being entitled to 
+the improved consideration, the person is not entitled to 
+receive the improved consideration until the later of:
+(i) the time when the election is made; and
+(ii) the time applicable under paragraph (a).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+Section 650C
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+268 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Fresh election as to the form of consideration
+(3) If a person who has already accepted an offer has the right to make 
+a fresh election as to the form of consideration to be taken, the 
+bidder must send the person as soon as practicable after the 
+variation a written notice informing them about their right to make 
+the election.
+Note 1: Section 651B says how the election is to be exercised.
+Note 2: Sections 648B and 648C provide for the manner in which documents 
+may be sent to holders.
+Strict liability offences
+(4) An offence based on subsection (3) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+650C  Off-market bids—extension of offer period
+
+(1) A bidder making an off-market bid may extend the offer period at 
+any time before the end of the offer period.
+(2) If the bid is subject to a defeating condition, the bidder may extend 
+the offer period after the publication of the notice under 
+subsection 630(3) only if one of the following happens after the 
+publication:
+(a) another person lodges with ASIC a bidder’s statement for a 
+takeover bid for securities in the bid class;
+(b) another person announces a takeover bid for securities in the 
+bid class;
+(c) another person makes offers under a takeover bid for 
+securities in the bid class;
+(d) the consideration for offers under another takeover bid for 
+securities in the bid class is improved.
+Note: Section 624 says how long the total offer period can be.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Variation of offers  Part 6.6
+Off-market bids (express variation by bidder)  Division 2
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+Section 650D
+
+Corporations Act 2001 269
+Compilation No. 143 Compilation date: 09/07/2025650D  Off-market bids—method of making variation
+Variation to be made by notice to the target and holders
+(1) To vary offers under an off-market bid, the bidder must:
+(a) prepare a notice that:
+(i) sets out the terms of the proposed variation; and
+(ii) if the bid is subject to a defeating condition and the 
+proposed variation postpones for more than 1 month the 
+time by which the bidder must satisfy their obligations 
+under the bid—informs people about the right to 
+withdraw acceptances under section 650E; and
+(b) lodge the notice with ASIC; and
+(c) after the notice is lodged, give the notice to:
+(i) the target; and
+(ii) everyone to whom offers were made under the bid.
+Note: Sections 648B and 648C provide for the manner in which documents 
+may be sent to holders.
+(2) A person must be sent a copy of the notice under 
+subparagraph (1)(c)(ii) even if they have already accepted the 
+offer. However, they need not be sent a copy if:
+(a) the variation merely extends the offer period; and
+(b) the bid is not subject to a defeating condition at the time the 
+notice is given to the target.
+(3) A notice under subsection (1) must be signed by:
+(a) if the bidder is, or includes, an individual—the individual; 
+and
+(b) if the bidder is, or includes, a body corporate (other than a 
+notified foreign passport fund) with 2 or more directors—not 
+fewer than 2 of the directors who are authorised to sign the 
+notice by a resolution passed at a directors’ meeting; and
+(c) if the bidder is, or includes, a body corporate (other than a 
+notified foreign passport fund) that has only one director—
+that director.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+Section 650E
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+270 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) A copy of a notice given to a person under subparagraph (1)(c)(ii) 
+must include a statement that:
+(a) a copy of the notice was lodged with ASIC on a specified 
+date; and
+(b) ASIC takes no responsibility for the contents of the notice.
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+650E  Right to withdraw acceptance

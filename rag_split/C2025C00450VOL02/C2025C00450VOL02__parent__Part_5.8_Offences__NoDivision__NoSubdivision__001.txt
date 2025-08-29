@@ -1,0 +1,187 @@
+Part 5.8  Offences
+592  Incurring of certain debts; fraudulent conduct
+
+(1) Where:
+(a) a company has incurred a debt before 23 June 1993; and
+(b) immediately before the time when the debt was incurred:
+(i) there were reasonable grounds to expect that the 
+company will not be able to pay all its debts as and 
+when they become due; or
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Offences  Part 5.8
+
+Part 5.8  Offences
+Section 592
+
+Corporations Act 2001 751
+Compilation No. 143 Compilation date: 09/07/2025(ii) there were reasonable grounds to expect that, if the 
+company incurs the debt, it will not be able to pay all its 
+debts as and when they become due; and
+(c) the company was, at the time when the debt was incurred, or 
+becomes at a later time, a company to which this section 
+applies;
+any person who was a director of the company, or took part in the 
+management of the company, at the time when the debt was 
+incurred contravenes this subsection and the company and that 
+person or, if there are 2 or more such persons, those persons are 
+jointly and severally liable for the payment of the debt.
+(1A) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(2) In any proceedings against a person under subsection (1), it is a 
+defence if it is proved:
+(a) that the debt was incurred without the person’s express or 
+implied authority or consent; or
+(b) that at the time when the debt was incurred, the person did 
+not have reasonable cause to expect:
+(i) that the company would not be able to pay all its debts 
+as and when they became due; or
+(ii) that, if the company incurred that debt, it would not be 
+able to pay all its debts as and when they became due.
+Note: A defendant bears a legal burden in relation to a matter mentioned in 
+subsection (2), see section 13.4 of the Criminal Code.
+(3) Proceedings may be brought under subsection (1) for the recovery 
+of a debt whether or not the person against whom the proceedings 
+are brought, or any other person, has been convicted of an offence 
+under subsection (1) in respect of the incurring of that debt.
+(4) In proceedings brought under subsection (1) for the recovery of a 
+debt, the liability of a person under that subsection in respect of the 
+debt may be established on the balance of probabilities.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.8  Offences
+
+Part 5.8  Offences
+Section 593
+
+Part 5.8  Offences
+752 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(5) Where subsection (1) renders a person or persons liable to pay a 
+debt incurred by a company, the payment by that person or either 
+or any of those persons of the whole or any part of that debt does 
+not render the company liable to the person concerned in respect of 
+the amount so paid.
+(6) Where:
+(a) a company has done an act (including the making of a 
+contract or the entering into of a transaction) with intent to 
+defraud creditors of the company or of any other person or 
+for any other fraudulent purpose; and
+(b) the company was at the time when it does the act, or becomes 
+at a later time, a company to which this section applies;
+any person who was knowingly concerned in the doing of the act 
+with that intent or for that purpose contravenes this subsection.
+(6A) For the purposes of an offence based on subsection (6), absolute 
+liability applies to paragraph (6)(b).
+Note: For absolute liability, see section 6.2 of the Criminal Code.
+(7) A certificate issued by the proper officer of an Australian court 
+stating that a person specified in the certificate:
+(a) was convicted of an offence under subsection (1) in relation 
+to a debt specified in the certificate incurred by a company so 
+specified; or
+(b) was convicted of an offence under subsection (6) in relation 
+to a company specified in the certificate;
+is, in any proceedings, prima facie evidence of the matters stated in 
+the certificate.
+(8) A document purporting to be a certificate issued under 
+subsection (7) is, unless the contrary is established, taken to be 
+such a certificate and to have been duly issued.
+
+Part 5.8  Offences
+593  Powers of Court
+
+(1) Where a person has been convicted of an offence under 
+subsection 592(1) in respect of the incurring of a debt, the Court, 
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Offences  Part 5.8
+
+Part 5.8  Offences
+Section 593
+
+Corporations Act 2001 753
+Compilation No. 143 Compilation date: 09/07/2025on the application of ASIC or the person to whom the debt is 
+payable, may, if it thinks it proper to do so, declare that the 
+first-mentioned person is personally responsible without any 
+limitation of liability for the payment to the person to whom the 
+debt is payable of an amount equal to the whole of the debt or such 
+part of it as the Court thinks proper.
+(2) Where a person has been convicted of an offence under 
+subsection 592(6), the Court, on the application of ASIC or of a 
+prescribed person, may, if it thinks it proper to do so, declare that 
+the first-mentioned person is personally responsible without any 
+limitation of liability for the payment to the company of the 
+amount required to satisfy so much of the debts of the company as 
+the Court thinks proper.
+(3) In relation to a company in respect of which a conviction referred 
+to in subsection (2) relates:
+(a) the appropriate officer; and
+(b) a creditor or contributory of the company authorised by 
+ASIC to make an application under that subsection; and
+(c) if the company was a company to which section 592 applied 
+by reason of paragraph 589(1)(c)—a member of the 
+company;
+are prescribed persons for the purposes of that subsection.
+(4) Where the Court makes a declaration under subsection (1) in 
+relation to a person, it may give such further directions as it thinks 
+proper for the purpose of giving effect to that declaration.
+(5) In particular, the Court may order that the liability of the person 
+under the declaration is a charge:
+(a) on a debt or obligation due from the company to the person; 
+or
+(b) on a right or interest under a security interest in any property 
+of the company held by or vested in the person or a person on 
+the person’s behalf, or a person claiming as assignee from or 
+through the person liable or a person acting on the person’s 
+behalf.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.8  Offences
+
+Part 5.8  Offences
+Section 594
+
+Part 5.8  Offences
+754 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(6) The Court may, from time to time, make such further order as it 
+thinks proper for the purpose of enforcing a charge imposed under 
+subsection (5).
+(7) For the purpose of subsection (5), assignee includes a person to 
+whom or in whose favour, by the directions of the person liable, 
+the debt, obligation or security interest was created, issued or 
+transferred or the interest created, but does not include an assignee 
+for valuable consideration, not including consideration by way of 
+marriage, given in good faith and without actual knowledge of any 
+of the matters upon which the conviction or declaration was made.
+(8) On the hearing of an application under subsection (1) or (2), the 
+appropriate officer or other applicant may give evidence or call 
+witnesses.
+
+Part 5.8  Offences
+594  Certain rights not affected
+
+Except as provided by subsection 592(4) nothing in 
+subsection 592(1) or 593(1) or (2) affects any rights of a person to 
+indemnity, subrogation or contribution.
+
+Part 5.8  Offences
+595  Inducement to be appointed liquidator etc. of company
+
+(1) A person must not give, or agree or offer to give, to another person 
+any valuable consideration with a view to securing the 
+first-mentioned person’s own appointment or nomination, or to 
+securing or preventing the appointment or nomination of a third 
+person, as:
+(a) a liquidator or provisional liquidator of a company; or
+(b) an administrator of a company; or
+(c) an administrator of a deed of company arrangement executed, 
+or to be executed, by a company; or
+(ca) a restructuring practitioner for a company; or
+(cb) a restructuring practitioner for a restructuring plan made, or 
+to be made, by a company; or
+(d) a receiver, or a receiver and manager, of property of a 
+company; or
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Offences  Part 5.8
+
+Part 5.8  Offences
+Section 596

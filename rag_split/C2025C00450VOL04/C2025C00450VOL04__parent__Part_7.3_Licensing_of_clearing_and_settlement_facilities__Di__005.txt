@@ -1,0 +1,168 @@
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823P  Recapitalisation directions—working out the fair value of
+
+other capital instruments
+(1) Before giving a recapitalisation direction directing a CS facility 
+licensee to issue one or more specified classes of capital 
+instruments (see subparagraph 823F(1)(c)(iii)), the Reserve Bank 
+must comply with any requirements prescribed by the regulations 
+for ascertaining the fair value of the capital instruments.
+(2) Regulations made for the purposes of this section may specify 
+different requirements for different classes of capital instruments.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823Q
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+160 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025823Q  Recapitalisation directions—contravening certain provisions 
+does not affect the validity of the direction etc.
+A contravention of section 823M, 823N or 823P does not affect the 
+validity of a recapitalisation direction or anything done in 
+compliance with the direction.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823R  Recapitalisation directions—exceptions to Part IV of the
+
+Competition and Consumer Act 2010
+For the purposes of subsection 51(1) of the Competition and 
+Consumer Act 2010, the following things are specified and 
+specifically authorised:
+(a) the acquisition of shares in a CS facility licensee as a direct 
+result of:
+(i) the issue of the shares in compliance with a 
+recapitalisation direction given to the licensee; or
+(ii) the exercise of a right to acquire the shares that was 
+issued in compliance with such a recapitalisation 
+direction;
+(b) the acquisition of other capital instruments as a direct result 
+of the issue of those capital instruments in compliance with a 
+recapitalisation direction given to a CS facility licensee.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823W
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+162 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the body corporate being subject to the exercise of a power 
+under section 823F by the Reserve Bank;
+(b) if the body corporate is a member of a group of bodies 
+corporate—another member of the group being subject to the 
+exercise of such a power.
+Payment Systems and Netting Act 1998 prevails over this section
+(4) If there is any inconsistency between:
+(a) subsections (1) to (3) of this section; and
+(b) the Payment Systems and Netting Act 1998;
+that Act prevails to the extent of the inconsistency.
+Agreements to which this section does not apply
+(5) This section does not apply to a kind of agreement prescribed by 
+the regulations for the purposes of this subsection.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823W  All ASIC and Reserve Bank directions etc. under this Part—
+
+failure by officers to take reasonable steps to ensure 
+compliance
+(1) An officer of a CS facility licensee contravenes this subsection if:
+(a) the officer fails to take reasonable steps to ensure that the 
+licensee complies with a direction given under this Part by 
+ASIC, or the Reserve Bank, to the licensee; and
+(b) it would be reasonable to expect that the officer’s duties 
+include ensuring that the licensee complies with that 
+direction.
+Note: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+(2) If an officer of a CS facility licensee contravenes subsection (1), 
+the officer contravenes that subsection in respect of:
+(a) the first day the contravention happens; and
+(b) each later day (if any) the circumstances that gave rise to the 
+contravention continue (including the day of conviction for 
+any such offence or any later day).
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of clearing and settlement facilities  Part 7.3
+Regulation of CS facility licensees  Division 2
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823X
+
+Corporations Act 2001 163
+Compilation No. 143 Compilation date: 09/07/2025Note: This subsection does not imply that section 4K of the Crimes Act 1914 
+does not apply to offences against this Act or the regulations.
+(3) For the purposes of subsection (2), a contravention of 
+subsection (1) by an officer of a CS facility licensee in respect of a 
+direction given to the licensee under subsection 823BB(8) or
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823BC(8) is taken to begin on the later of:
+
+(a) the day by which the licensee was required to comply with 
+the direction; and
+(b) the first day on which paragraph (1)(b) applied in relation to 
+the officer and the direction.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823X  All ASIC and Reserve Bank directions under this Part—
+
+protection from liability for compliance in good faith
+(1) An action or other proceeding (whether criminal or civil) does not 
+lie against a person in relation to anything done, or omitted to be 
+done, in good faith by the person if:
+(a) the person does the thing, or omits to do the thing, for the 
+purpose of any of the following:
+(i) complying with a direction given under this Part by 
+ASIC, or the Reserve Bank, to a body corporate;
+(ii) taking a measure, or an action, specified in such a 
+direction;
+(iii) doing, or refraining from doing, anything in accordance 
+with such a direction; and
+(b) it is reasonable for the person to do the thing, or to omit to do 
+the thing, in order to achieve that purpose; and
+(c) the person is any of the following:
+(i) an officer or senior manager of the body corporate, or of 
+a related body corporate;
+(ii) an employee or agent of the body corporate, or of a 
+related body corporate;
+(iii) the body corporate or a related body corporate;
+(iv) a person engaged to provide services (including advice) 
+to the body corporate or a related body corporate.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823X
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+164 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: In a prosecution for an offence, a defendant bears an evidential burden 
+in relation to the matters in this subsection: see subsection 13.3(3) of 
+the Criminal Code.
+(2) For the purposes of paragraph (1)(b), treat it as reasonable for a 
+person to do a thing, or to omit to do a thing, in order to achieve a 
+purpose unless no reasonable person in that person’s position 
+would do the thing, or omit to do the thing, in order to achieve that 
+purpose.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of clearing and settlement facilities  Part 7.3
+The Australian CS facility licence  Division 3
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 824A
+
+Corporations Act 2001 165
+Compilation No. 143 Compilation date: 09/07/2025Division 3—The Australian CS facility licence

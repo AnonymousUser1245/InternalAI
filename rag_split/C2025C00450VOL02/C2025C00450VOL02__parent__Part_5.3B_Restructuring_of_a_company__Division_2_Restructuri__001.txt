@@ -1,0 +1,241 @@
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 453N
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+444 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) The power of a court under section 1318 to relieve a person from 
+liability as mentioned in that section extends to relieving a person 
+from liability to be ordered under this section to pay compensation.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+453N  Effect of things done during restructuring of company
+
+A payment made, transaction entered into, or any other act or thing 
+done, in good faith by:
+(a) the restructuring practitioner for a company under 
+restructuring; or
+(b) a company under restructuring with the consent of the 
+restructuring practitioner for the company; or
+(c) a company under restructuring in compliance with an order 
+of the Court;
+is valid and effectual for the purposes of this Act, and is not liable 
+to be set aside in a winding up of the company.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+453P  Effect of restructuring on company’s members
+
+Transfer of shares
+(1) A transfer of shares in a company that is made while the company 
+is under restructuring is void except if:
+(a) both:
+(i) the restructuring practitioner gives written consent to 
+the transfer; and
+(ii) that consent is unconditional; or
+(b) all of the following subparagraphs apply:
+(i) the restructuring practitioner gives written consent to 
+the transfer;
+(ii) that consent is subject to one or more specified 
+conditions;
+(iii) those conditions have been satisfied; or
+(c) the Court makes an order under subsection (4) authorising 
+the transfer.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Restructuring of a company  Part 5.3B
+Restructuring  Division 2
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 453P
+
+Corporations Act 2001 445
+Compilation No. 143 Compilation date: 09/07/2025(2) The restructuring practitioner may only give consent under 
+paragraph (1)(a) or (b) if the restructuring practitioner believes on 
+reasonable grounds that the transfer is in the best interests of the 
+company’s creditors as a whole.
+(3) If the restructuring practitioner refuses to give consent under 
+paragraph (1)(a) or (b) to a transfer of shares in the company:
+(a) the prospective transferor; or
+(b) the prospective transferee; or
+(c) a creditor of the company;
+may apply to the Court for an order authorising the transfer.
+(4) If the Court is satisfied, on an application under subsection (3), that 
+the transfer is in the best interests of the company’s creditors as a 
+whole, the Court may, by order, authorise the transfer.
+(5) If the restructuring practitioner gives consent under 
+paragraph (1)(b) to a transfer of shares in the company:
+(a) the prospective transferor; or
+(b) the prospective transferee; or
+(c) a creditor of the company;
+may apply to the Court for an order setting aside any or all of the 
+conditions to which the consent is subject.
+(6) If the Court is satisfied, on an application under subsection (5), that 
+any or all of the conditions covered by the application are not in 
+the best interests of the company’s creditors as a whole, the Court 
+may, by order, set aside any or all of the conditions.
+(7) The restructuring practitioner is entitled to be heard in a proceeding 
+before the Court in relation to an application under subsection (3) 
+or (5).
+Alteration in the status of members
+(8) An alteration in the status of members of a company that is made 
+while the company is under restructuring is void except if:
+(a) both:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 453P
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+446 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(i) the restructuring practitioner gives written consent to 
+the alteration; and
+(ii) that consent is unconditional; or
+(b) all of the following subparagraphs apply:
+(i) the restructuring practitioner gives written consent to 
+the alteration;
+(ii) that consent is subject to one or more specified 
+conditions;
+(iii) those conditions have been satisfied; or
+(c) the Court makes an order under subsection (12) authorising 
+the alteration.
+Note: An alteration in the status of members of a company that is made 
+while a company is under restructuring may not be void if it is made 
+for the purposes of the conversion and write-off provisions determined 
+by APRA (see Subdivision B of Division 1A of Part II of the Banking 
+Act 1959, Division 2 of Part IIIA of the Insurance Act 1973 and
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 453R
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+448 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025453R  Restrictions on exercise of third party property rights
+General rule
+(1) During the restructuring of a company, the restrictions set out in 
+the table at the end of this section apply in relation to the exercise 
+of the rights of a person (the third party) in property of the 
+company, or other property used or occupied by, or in the 
+possession of, the company, as set out in the table.
+Note: The property of the company includes any PPSA retention of title 
+property of the company (see section 452B).
+Exception—consent of restructuring practitioner or leave of court
+(2) The restrictions set out in the table at the end of this section do not 
+apply in relation to the exercise of a third party’s rights in property 
+if the rights are exercised:
+(a) with the restructuring practitioner’s written consent; or
+(b) with the leave of the Court.
+Possessory security interests—continued possession
+(3) If a company’s property is subject to a possessory security interest, 
+and the property is in the lawful possession of the secured party, 
+the secured party may continue to possess the property during the 
+restructuring of the company.
+Restrictions on exercise of third party rights
+Item If the third party is … then …
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+1 a secured party in relation to
+
+property of the company, and is not 
+otherwise covered by this tablethe third party cannot enforce the 
+security interest.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+2 a secured party in relation to a
+
+possessory security interest in the 
+property of the companythe third party cannot sell the 
+property, or otherwise enforce the 
+security interest.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Restructuring of a company  Part 5.3B
+Restructuring  Division 2
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 453S
+
+Corporations Act 2001 449
+Compilation No. 143 Compilation date: 09/07/2025Restrictions on exercise of third party rights
+Item If the third party is … then …
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+3 a lessor of property used or occupied
+
+by, or in the possession of, the 
+company, including a secured party 
+(a PPSA secured party) in relation 
+to a PPSA security interest in goods 
+arising out of a lease of the goodsthe following restrictions apply:
+(a) distress for rent must not be 
+carried out against the property;
+(b) the third party cannot take 
+possession of the property or 
+otherwise recover it;
+(c) if the third party is a PPSA 
+secured party—the third party 
+cannot otherwise enforce the 
+security interest.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+4 an owner (other than a lessor) of
+
+property used or occupied by, or in 
+the possession of, the company, 
+including a secured party (a PPSA 
+secured party) in relation to a PPSA 
+security interest in the propertythe following restrictions apply:
+(a) the third party cannot take 
+possession of the property or 
+otherwise recover it;
+(b) if the third party is a PPSA 
+secured party—the third party 
+cannot otherwise enforce the 
+security interest.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+453S  Stay of proceedings
+
+(1) During the restructuring of a company, a proceeding in a court 
+against the company or in relation to any of its property cannot be 
+begun or proceeded with, except:
+(a) with the restructuring practitioner’s written consent; or
+(b) with the leave of the Court and in accordance with such 
+terms (if any) as the Court imposes.
+(2) Subsection (1) does not apply to:
+(a) a criminal proceeding; or
+(b) a prescribed proceeding.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 453T
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+450 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025453T  Suspension of enforcement process
+During the restructuring of a company, no enforcement process in 
+relation to property of the company can be begun or proceeded 
+with, except:
+(a) with the leave of the Court; and
+(b) in accordance with such terms (if any) as the Court imposes.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+453U  Duties of court officer in relation to property of company

@@ -1,0 +1,83 @@
+Part 1.2  Interpretation
+Division 3  Carrying on business
+Section 21
+
+Part 1.2  Interpretation
+Division 3  Carrying on business
+158 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) administering, managing, or otherwise dealing with, property 
+situated in Australia, or in the State or Territory, as the case 
+may be, as an agent, legal personal representative or trustee, 
+whether by employees or agents or otherwise.
+(3) Despite subsection (2), a body corporate does not carry on business 
+in Australia, or in a State or Territory, merely because, in 
+Australia, or in the State or Territory, as the case may be, the body:
+(a) is or becomes a party to a proceeding or effects settlement of 
+a proceeding or of a claim or dispute; or
+(b) holds meetings of its directors or shareholders or carries on 
+other activities concerning its internal affairs; or
+(c) maintains a bank account; or
+(d) effects a sale through an independent contractor; or
+(e) solicits or procures an order that becomes a binding contract 
+only if the order is accepted outside Australia, or the State or 
+Territory, as the case may be; or
+(f) creates evidence of a debt, or creates a security interest in 
+property, including PPSA retention of title property of the 
+body; or
+(g) secures or collects any of its debts or enforces its rights in 
+regard to any securities relating to such debts; or
+(h) conducts an isolated transaction that is completed within a 
+period of 31 days, not being one of a number of similar 
+transactions repeated from time to time; or
+(j) invests any of its funds or holds any property.
+(4) In working out whether someone carries on a financial services 
+business disregard paragraph (3)(e).
+Note: See also section 911D for when a financial services business is taken 
+to be carried on in this jurisdiction.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Types of company  Division 5A
+
+Part 1.2  Interpretation
+Division 3  Carrying on business
+Section 45A
+
+Corporations Act 2001 159
+Compilation No. 143 Compilation date: 09/07/2025Division 5A—Types of company
+
+Part 1.2  Interpretation
+Division 3  Carrying on business
+45A  Meaning of proprietary company, small proprietary company and
+
+large proprietary company
+(1) A proprietary company is a company that is registered as, or 
+converts to, a proprietary company under this Act.
+Note 1: A proprietary company can be registered under section 118 or 601BD. 
+A company can convert to a proprietary company under Part 2B.7.
+Note 2: A proprietary company needs to be limited by shares or be an 
+unlimited company with a share capital (see subsection 112(1)).
+Note 3: A proprietary company needs to:
+(a) have no more than 50 shareholders, although employee 
+shareholders and shareholders connected with CSF offers do not 
+count for this purpose; and
+(b) not do anything to require disclosure to investors under 
+Chapter 6D (except in limited circumstances);
+(see section 113).
+Small proprietary company
+(2) A proprietary company is a small proprietary company for a 
+financial year if it satisfies at least 2 of the following paragraphs:
+(a) the consolidated revenue for the financial year of the 
+company and the entities it controls (if any) is less than $25 
+million, or any other amount prescribed by the regulations for 
+the purposes of this paragraph;
+(b) the value of the consolidated gross assets at the end of the 
+financial year of the company and the entities it controls (if 
+any) is less than $12.5 million, or any other amount 
+prescribed by the regulations for the purposes of this 
+paragraph;
+(c) the company and the entities it controls (if any) have fewer 
+than 50, or any other number prescribed by the regulations 
+for the purposes of this paragraph, employees at the end of 
+the financial year.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory

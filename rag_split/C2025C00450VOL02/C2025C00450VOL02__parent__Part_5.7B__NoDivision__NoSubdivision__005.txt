@@ -1,0 +1,220 @@
+Part 5.7B
+Schedule 2) of the company that occurred as a direct or
+
+indirect result of the disposition; or
+(b) the company ceased to carry on business altogether as a 
+direct or indirect result of the disposition.
+Director who did not take part in management
+(4) If the person was a director of the company at the key time, it is a 
+defence if it is proved that, because of illness or for some other 
+good reason, he or she did not take part at that time in the 
+management of the company.
+Reasonable steps taken to prevent debt or disposition
+(5) It is a defence if it is proved that the person took all reasonable 
+steps to prevent the company from incurring the debt or making the 
+disposition of its property.
+(6) In determining whether a defence under subsection (5) has been 
+proved, the matters to which regard is to be had include, but are not 
+limited to:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Director liable to compensate company  Division 4
+
+Part 5.7B
+Section 588J
+
+Corporations Act 2001 727
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Director liable to compensate company
+
+Part 5.7B
+
+Director liable to compensate company  Division 4
+
+Part 5.7B
+Section 588L
+
+Corporations Act 2001 729
+Compilation No. 143 Compilation date: 09/07/2025the court may order the person to pay the company compensation 
+equal to the loss or damage (whether or not the court imposes a 
+penalty for the offence).
+
+Part 5.7B
+588L  Enforcement of order under section 588J or 588K
+
+An order to pay compensation that a court makes under 
+section 588J or 588K may be enforced as if it were a judgment of 
+the court.
+
+Part 5.7B
+588M  Recovery of compensation for loss resulting from insolvent
+
+trading
+(1) This section applies where:
+(a) a person (in this section called the director) has contravened 
+subsection 588G(2) or (3) in relation to the incurring of a 
+debt by a company; and
+(b) the person (in this section called the creditor) to whom the 
+debt is owed has suffered loss or damage in relation to the 
+debt because of the company’s insolvency; and
+(c) the debt was wholly or partly unsecured when the loss or 
+damage was suffered; and
+(d) the company is being wound up;
+whether or not:
+(e) the director has been convicted of an offence in relation to 
+the contravention; or
+(f) a civil penalty order has been made against the director in 
+relation to the contravention.
+(1A) This section also applies if:
+(a) a person (the director) has contravened 
+subsection 588GAB(1) or (2) or 588GAC(1) or (2) relating to 
+disposition of property by a company; and
+(b) one or more creditors of the company have suffered loss or 
+damage because of the disposition and the company’s 
+insolvency; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Director liable to compensate company  Division 4
+
+Part 5.7B
+Section 588Q
+
+Corporations Act 2001 731
+Compilation No. 143 Compilation date: 09/07/2025588Q  Certificates evidencing contravention
+For the purposes of this Part, a certificate that:
+(a) purports to be signed by the Registrar or other proper officer 
+of an Australian court; and
+(b) states:
+(i) that that court has declared that a specified person has, 
+by failing to prevent a specified company from 
+incurring a specified debt, contravened 
+subsection 588G(3) in relation to the company; or
+(ii) that a specified person was convicted by that court for 
+an offence constituted by a contravention of 
+section 588G in relation to the incurring of a specified 
+debt by a specified company; or
+(iii) that a specified person charged before that court with 
+such an offence was found in that court to have 
+committed the offence but that the court did not proceed 
+to convict the person of the offence; or
+(iv) that that court has declared that a specified person has 
+contravened subsection 588GAB(2) or 
+subsection 588GAC(2) in relation to a specified 
+disposition of property by a specified company; or
+(v) that a specified person was convicted by that court for 
+an offence constituted by a contravention of 
+subsection 588GAB(1) or 588GAC(1) in relation to a 
+specified disposition of property by a specified 
+company; or
+(vi) that a specified person charged before that court with an 
+offence described in subparagraph (v) was found in that 
+court to have committed the offence but that the court 
+did not proceed to convict the person of the offence;
+is, unless it is proved that the declaration, conviction or finding 
+was set aside, quashed or reversed, conclusive evidence:
+(c) that the declaration was made, that the person was convicted 
+of the offence, or that the person was so found, as the case 
+may be; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Director liable to compensate company  Division 4
+
+Part 5.7B
+Section 588T
+
+Corporations Act 2001 733
+Compilation No. 143 Compilation date: 09/07/2025(ii) a written statement of the reasons why the liquidator 
+thinks that proceedings under section 588M in relation 
+to the incurring of that debt, or the making of that 
+disposition, should not be begun.
+
+Part 5.7B
+588T  When creditor may sue for compensation without liquidator’s
+
+consent
+(1) This section applies where a notice is given under section 588S.
+(2) The creditor may begin proceedings in a court under section 588M 
+in relation to the incurring by the company of the debt, or the 
+making by the company of the disposition, specified in the notice 
+if:
+(a) as at the end of 3 months after the liquidator receives the 
+notice, he or she has not consented to the creditor beginning 
+such proceedings; and
+(b) on an application made after those 3 months, the court has 
+given leave for the proceedings to begin.
+(3) If:
+(a) during those 3 months, the liquidator gives to the creditor a 
+written statement of the reasons why the liquidator thinks 
+that such proceedings should not be begun; and
+(b) the creditor applies for leave under paragraph (2)(b);
+then:
+(c) the creditor must file the statement with the court when so 
+applying; and
+(d) in determining the application, the court is to have regard to 
+the reasons set out in the statement.
+
+Part 5.7B
+588U  Events preventing creditor from suing
+
+(1) A creditor of a company that is being wound up cannot begin 
+proceedings under section 588M in relation to the incurring of a 
+debt, or the making of a disposition, by the company if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Liability of holding company for insolvent trading by subsidiary  Division 5
+
+Part 5.7B
+Section 588V
+
+Corporations Act 2001 735
+Compilation No. 143 Compilation date: 09/07/2025Division 5—Liability of holding company for insolvent 
+trading by subsidiary
+
+Part 5.7B
+588V  When holding company liable
+
+(1) A corporation contravenes this section if:
+(a) the corporation is the holding company of a company at the 
+time when the company incurs a debt; and
+(b) the company is insolvent at that time, or becomes insolvent 
+by incurring that debt, or by incurring at that time debts 
+including that debt; and
+(c) at that time, there are reasonable grounds for suspecting that 
+the company is insolvent, or would so become insolvent, as 
+the case may be; and
+(d) one or both of the following subparagraphs applies:
+(i) the corporation, or one or more of its directors, is or are 
+aware at that time that there are such grounds for so 
+suspecting;
+(ii) having regard to the nature and extent of the 
+corporation’s control over the company’s affairs and to 
+any other relevant circumstances, it is reasonable to 
+expect that:
+(A) a holding company in the corporation’s 
+circumstances would be so aware; or
+(B) one or more of such a holding company’s 
+directors would be so aware; and
+(e) that time is at or after the commencement of this Act.
+(2) A corporation that contravenes this section is not guilty of an 
+offence.
+
+Part 5.7B
+588W  Recovery of compensation for loss resulting from insolvent
+
+trading
+(1) Where:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Liability of holding company for insolvent trading by subsidiary  Division 5
+
+Part 5.7B
+Section 588X

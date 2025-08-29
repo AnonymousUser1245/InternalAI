@@ -1,0 +1,155 @@
+Part 2H.5  Dividends
+
+Part 2H.5  Dividends
+Section 254SA
+
+Part 2H.5  Dividends
+592 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 2H.5—Dividends
+
+Part 2H.5  Dividends
+254SA  Companies limited by guarantee not to pay dividends
+
+A company limited by guarantee must not pay a dividend to its 
+members.
+
+Part 2H.5  Dividends
+254T  Circumstances in which a dividend may be paid
+
+(1) A company must not pay a dividend unless:
+(a) the company’s assets exceed its liabilities immediately before 
+the dividend is declared and the excess is sufficient for the 
+payment of the dividend; and
+(b) the payment of the dividend is fair and reasonable to the 
+company’s shareholders as a whole; and
+(c) the payment of the dividend does not materially prejudice the 
+company’s ability to pay its creditors.
+Note 1: As an example, the payment of a dividend would materially prejudice 
+the company’s ability to pay its creditors if the company would 
+become insolvent as a result of the payment.
+Note 2: For a director’s duty to prevent insolvent trading on payment of 
+dividends, see section 588G.
+Note 3: Section 1230M applies to a CCIV instead of this section.
+(2) Assets and liabilities are to be calculated for the purposes of this 
+section in accordance with accounting standards in force at the 
+relevant time (even if the standard does not otherwise apply to the 
+financial year of some or all of the companies concerned).
+
+Part 2H.5  Dividends
+254U  Other provisions about paying dividends (replaceable rule—see
+
+section 135)
+(1) The directors may determine that a dividend is payable and fix:
+(a) the amount; and
+(b) the time for payment; and
+Authorised Version C2025C00450 registered 21/07/2025Shares  Chapter 2H
+Dividends  Part 2H.5
+
+Part 2H.5  Dividends
+Section 254V
+
+Corporations Act 2001 593
+Compilation No. 143 Compilation date: 09/07/2025(c) the method of payment.
+The methods of payment may include the payment of cash, the 
+issue of shares, the grant of options and the transfer of assets.
+(2) Interest is not payable on a dividend.
+
+Part 2H.5  Dividends
+254V  When does the company incur a debt?
+
+(1) A company does not incur a debt merely by fixing the amount or 
+time for payment of a dividend. The debt arises only when the time 
+fixed for payment arrives and the decision to pay the dividend may 
+be revoked at any time before then.
+(2) However, if the company has a constitution and it provides for the 
+declaration of dividends, the company incurs a debt when the 
+dividend is declared.
+
+Part 2H.5  Dividends
+254W  Dividend rights
+
+Shares in public companies
+(1) Each share in a class of shares in a public company has the same 
+dividend rights unless:
+(a) the company has a constitution and it provides for the shares 
+to have different dividend rights; or
+(b) different dividend rights are provided for by special 
+resolution of the company.
+Note: Section 1230N is about dividend rights in a CCIV.
+Shares in proprietary companies (replaceable rule—see 
+section 135)
+(2) Subject to the terms on which shares in a proprietary company are 
+on issue, the directors may pay dividends as they see fit.
+No liability companies
+(3) A person is not entitled to a dividend on a share in a no liability 
+company if a call:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2H  Shares
+
+Part 2H.5  Dividends
+
+Part 2H.5  Dividends
+Section 254WA
+
+Part 2H.5  Dividends
+594 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) has been made on the share; and
+(b) is due and unpaid.
+(4) Dividends are payable to the shareholders in a no liability company 
+in proportion to the number of shares held by them, irrespective of 
+the amount paid up, or credited as paid up, on the shares. This 
+subsection has effect subject to any provisions in the company’s 
+constitution relating to shares that are not ordinary shares.
+
+Part 2H.5  Dividends
+254WA  Application of this Part to MCI mutual entities
+
+(1) Section 254SA does not prevent an MCI mutual entity that is a 
+company limited by guarantee paying a dividend in respect of an 
+MCI.
+(2) Without limiting section 254T, an MCI mutual entity must not pay 
+a dividend unless the payment of the dividend is fair and 
+reasonable to the entity’s members as a whole.
+Authorised Version C2025C00450 registered 21/07/2025Shares  Chapter 2H
+Notice requirements  Part 2H.6
+
+Part 2H.5  Dividends
+Section 254X
+
+Corporations Act 2001 595
+Compilation No. 143 Compilation date: 09/07/2025Part 2H.6—Notice requirements
+Note: This Part does not apply to a CCIV: see section 1230P.
+
+Part 2H.5  Dividends
+254X  Notice to ASIC of share issue
+
+(1) Within 28 days after issuing shares, a company must lodge with 
+ASIC a notice in the prescribed form that sets out:
+(a) the number of shares that were issued; and
+(b) if the company has different classes of shares—the class to 
+which each of those shares belongs; and
+(c) the amount (if any) paid, or agreed to be considered as paid, 
+on each of those shares; and
+(d) the amount unpaid (if any) on each of those shares; and
+(e) if the company is a public company and the shares were 
+issued for non-cash consideration—the prescribed particulars 
+about the issue of the shares, unless the shares were issued 
+under a written contract and a copy of the contract is lodged 
+with the notice; and
+(f) if the company is a proprietary company and the shares are 
+issued pursuant to a CSF offer—that the company has one or 
+more CSF shareholders as a result of the issuing of the 
+shares.
+Note 1: The company must lodge information when rights attached to the 
+shares change, or when the shares are divided or converted into new 
+classes (see section 246F).
+Note 2: A proprietary company may also have to notify certain particulars 
+under Part 2C.2.
+(2) If the shares were issued for non-cash consideration under a 
+contract, the company must also lodge with ASIC a certificate 
+stating that all stamp duty payable on the contract under any 
+applicable law relating to stamp duty has been paid. This certificate 
+must be lodged with the subsection (1) notice or at a later time 
+permitted by the regulations or by ASIC.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2H  Shares

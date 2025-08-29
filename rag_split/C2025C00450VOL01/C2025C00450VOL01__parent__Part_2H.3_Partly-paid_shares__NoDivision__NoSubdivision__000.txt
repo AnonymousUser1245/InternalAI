@@ -1,0 +1,189 @@
+Part 2H.3  Partly-paid shares
+
+Part 2H.3  Partly-paid shares
+Section 254P
+
+Part 2H.3  Partly-paid shares
+586 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025254P  No liability companies—calls on shares
+Making calls
+(1) A call on a share in a no liability company is not effective unless it 
+is made payable at least 14 days after the call is made.
+Notice of call
+(2) At least 7 days before a call on shares in a no liability company 
+becomes payable, the company must give the holders of the shares 
+notice of:
+(a) the amount of the call; and
+(b) the day when it is payable; and
+(c) details for making the payment.
+If the notice is not given, the call is not payable.
+(3) A call does not have any effect on a forfeited share that is held by 
+or in trust for the company under subsection 254Q(6). However, 
+when the share is re-issued or sold by the company, the share may 
+be credited as paid up to the amount determined by the company in 
+accordance with its constitution or by resolution.
+
+Part 2H.3  Partly-paid shares
+254Q  No liability companies—forfeiture and sale of shares for
+
+failure to meet call
+Forfeiture and sale of shares
+(1) A share in a no liability company is immediately forfeited if:
+(a) a call is made on the share; and
+(b) the call is unpaid at the end of 14 days after it became 
+payable.
+Note: The holder of the share may redeem it under section 254R.
+(2) The forfeited share must then be offered for sale by public auction 
+within 6 weeks after the call became payable.
+Authorised Version C2025C00450 registered 21/07/2025Shares  Chapter 2H
+Partly-paid shares  Part 2H.3
+
+Part 2H.3  Partly-paid shares
+Section 254Q
+
+Corporations Act 2001 587
+Compilation No. 143 Compilation date: 09/07/2025Advertisement of sale
+(3) At least 14 days, and not more than 21 days, before the day of the 
+sale, a notice of the sale must be published in accordance with 
+subsection (5A). The specific number of shares to be offered need 
+not be specified in the notice and it is sufficient for the notice to be 
+to the effect that all shares on which a call remains unpaid will be 
+sold.
+Postponement of sale
+(4) An intended sale of forfeited shares of which a notice has been 
+published in accordance with subsection (3) may be postponed for 
+not more than 21 days from the date of sale specified in the notice. 
+A notice of the date to which the sale is postponed must be 
+published in accordance with subsection (5A).
+(5) There may be more than 1 postponement but the sale cannot be 
+postponed to a date more than 90 days from the first date fixed for 
+the intended sale.
+Publishing notices
+(5A) A notice under subsection (3) or (4) is published in accordance 
+with this subsection if the notice is published:
+(a) unless paragraph (b) of this subsection applies—in a manner 
+that results in the notice being accessible to the public and 
+reasonably prominent; or
+(b) if a determination in force under subsection (5B) specifies 
+one or more manners in which such a notice may be 
+published—in a manner so specified.
+(5B) For the purposes of paragraph (5A)(b), ASIC may, by legislative 
+instrument, make a determination specifying one or more manners 
+in which a notice under subsection (3) or (4) may be published.
+(5C) A manner of publication may be specified in the determination 
+only if ASIC considers that the manner of publication would result 
+in such a notice being accessible to the public and reasonably 
+prominent.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2H  Shares
+
+Part 2H.3  Partly-paid shares
+
+Part 2H.3  Partly-paid shares
+Section 254Q
+
+Part 2H.3  Partly-paid shares
+588 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Shares may be offered as credited to a particular amount
+(6) The share may be sold credited as paid up to the sum of:
+(a) the amount paid upon the share at the time of forfeiture; and
+(b) the amount of the call; and
+(c) the amount of any other calls becoming payable on or before 
+the day of the sale;
+if the company in accordance with its constitution or by ordinary 
+resolution so determines.
+Reserve price
+(7) The directors may fix a reserve price for the share that does not 
+exceed the sum of:
+(a) the amount of the call due and unpaid on the share at the time 
+of forfeiture; and
+(b) the amount of any other calls that become payable on or 
+before the date of the sale.
+Withdrawal from sale
+(8) The share may be withdrawn from sale if no bid at least equal to 
+the reserve price is made at the sale.
+Disposal of shares withdrawn from sale
+(9) If:
+(a) no bid for the share is received at the sale; or
+(b) the share is withdrawn from sale;
+the share must be held by the directors in trust for the company. It 
+must be then disposed of in the manner determined by the 
+company in accordance with its constitution or by resolution. 
+Unless otherwise specifically provided by resolution, the share 
+must first be offered to shareholders for a period of 14 days before 
+being disposed of in any other manner.
+Authorised Version C2025C00450 registered 21/07/2025Shares  Chapter 2H
+Partly-paid shares  Part 2H.3
+
+Part 2H.3  Partly-paid shares
+Section 254Q
+
+Corporations Act 2001 589
+Compilation No. 143 Compilation date: 09/07/2025Suspension of voting rights attached to share held in trust
+(10) At any meeting of the company, no person is entitled to any vote in 
+respect of the shares held by the directors in trust under 
+subsection (9).
+Application of proceeds of sale
+(11) The proceeds of the sale under subsection (2) or the disposal under 
+subsection (9) must be applied to pay:
+(a) first, the expenses of the sale; and
+(b) then, any expenses necessarily incurred in respect of the 
+forfeiture; and
+(c) then, the calls on the share that are due and unpaid.
+The balance (if any) must be paid to the member whose share has 
+been sold. If there is a share certificate that relates to the share, the 
+balance does not have to be paid until the member delivers the 
+certificate to the company.
+Validity of sale
+(12) If a sale is not held in time because of error or inadvertence, a late 
+sale is not invalid if it is held as soon as practicable after the 
+discovery of the error or inadvertence.
+Failure to comply an offence
+(13) If there is failure to comply with subsection (2) or (3), the company 
+is guilty of an offence.
+Strict liability offences
+(14) An offence by the company based on subsection (13) is an offence 
+of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2H  Shares
+
+Part 2H.3  Partly-paid shares
+
+Part 2H.3  Partly-paid shares
+Section 254R
+
+Part 2H.3  Partly-paid shares
+590 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025254R  No liability companies—redemption of forfeited shares
+(1) Despite section 254Q, if a person’s share has been forfeited, the 
+person may redeem the share, at any time up to or on the last 
+business day before the proposed sale, by paying the company:
+(a) all calls due on the share; and
+(b) if the company so requires:
+(i) a portion, calculated on a pro rata basis, of all expenses 
+incurred by the company in respect of the forfeiture; and
+(ii) a portion, calculated on a pro rata basis, of all costs and 
+expenses of any proceeding that has been taken in 
+respect of the forfeiture.
+On payment, the person is entitled to the share as if the forfeiture 
+had not occurred.
+(2) On the last business day before the proposed sale, the registered 
+office of the company must be open during the hours for which it is 
+by this Act required to be open and accessible to the public.
+Authorised Version C2025C00450 registered 21/07/2025Shares  Chapter 2H
+Capitalisation of profits  Part 2H.4
+
+Part 2H.3  Partly-paid shares
+Section 254S
+
+Corporations Act 2001 591
+Compilation No. 143 Compilation date: 09/07/2025Part 2H.4—Capitalisation of profits
+
+Part 2H.3  Partly-paid shares
+254S  Capitalisation of profits
+
+A company may capitalise profits. The capitalisation need not be 
+accompanied by the issue of shares.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2H  Shares

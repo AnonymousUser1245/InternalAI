@@ -1,0 +1,191 @@
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+
+Act 2020
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+Section 1678A
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+544 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251678A  Registration of Norfolk Island companies—general
+Scope of section
+(1) This section applies to a corporation that is eligible for registration 
+as a company under Part 5B.1.
+Registration
+(2) ASIC must register the corporation as a company under Part 5B.1 
+on the commencement day, as if it had received an application for 
+registration from the corporation in accordance with 
+section 601BC.
+(3) ASIC must register the corporation:
+(a) as a type of company corresponding to whichever of the 
+types covered by subsection (4) corresponds to its type under 
+the Norfolk Island Companies Act immediately before 
+commencement; and
+(b) with the same characteristics and attributes as the corporation 
+had immediately before commencement.
+Note: Most eligible corporations will retain the same name, registered 
+office, directors and members. However, for whether the corporation 
+retains the same name and directors, see subsections 1678B(4) and 
+(8).
+(4) This subsection covers the following types of company:
+(a) a proprietary company limited by shares;
+(b) an unlimited proprietary company;
+(c) a proprietary company limited both by shares and by 
+guarantee;
+(d) a public company limited by shares;
+(e) an unlimited public company;
+(f) a company limited by guarantee;
+(g) a public company limited both by shares and by guarantee;
+(h) a no liability company.
+Authorised Version C2025C00450 registered 21/07/2025Transitional provisions  Chapter 10
+Transitional provisions relating to the Territories Legislation Amendment Act 2020
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+
+Act 2020
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+Section 1678B
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+546 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) the company’s ACN; and
+(iii) the company’s type (see subsection 1678A(4)); and
+(iv) that the company is registered as a company under this 
+Act; and
+(v) that the company is taken to be registered in Norfolk 
+Island; and
+(vi) the date of the company’s registration.
+Note: The date of the company’s registration is the commencement day (see 
+subsection 1678A(2)).
+Company name
+(4) Despite section 601BF, ASIC must register the company with a 
+name consisting of:
+(a) either:
+(i) the corporation’s name immediately before 
+commencement; or
+(ii) if that name is prescribed by regulations made for the 
+purposes of paragraph 147(1)(c) as unacceptable for 
+registration—a name that consists of the expression 
+“Australian Company Number” followed by the 
+company’s ACN; and
+(b) the words required by subsection 148(2) or (3).
+(5) If the company is registered with a name that is identical or nearly 
+identical to a name that is reserved or registered for another body 
+or entity under an Act covered by subsection (6), the company’s 
+registration with that name does not affect the availability of the 
+name to the company or to the other body or entity under such an 
+Act, despite any provision of such an Act to the contrary.
+(6) The Acts covered by this subsection are:
+(a) this Act; and
+(b) the Business Names Registration Act 2011; and
+(c) the Business Names Registration (Transitional and 
+Consequential Provisions) Act 2011.
+Authorised Version C2025C00450 registered 21/07/2025Transitional provisions  Chapter 10
+Transitional provisions relating to the Territories Legislation Amendment Act 2020
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+
+Act 2020
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+Section 1678E
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+548 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(including personal information) in relation to the registration 
+of the corporation as a company under Part 5B.1; and
+(b) the eligible corporation may disclose the requested 
+information to ASIC; and
+(c) ASIC may record or use information disclosed under 
+paragraph (b).
+Note: This section constitutes an authorisation for the purposes of the 
+Privacy Act 1988 and other laws (including the common law).
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+1678E  Saving of rules in relation to particular corporations
+
+(1) Despite the repeal of section 1678D by subsection (5) of that 
+section, a rule of the kind mentioned in paragraph 1678D(2)(b) 
+continues in force until the earlier of the following times:
+(a) the end of the period specified under subsection 1678D(3) for 
+the rule;
+(b) when the rule is repealed under subsection (2).
+Note: Paragraph 1678D(2)(b) provides that ASIC may make rules under 
+subsection 1678D(1) in relation to the registration of a particular 
+corporation or corporations.
+(2) A rule of the kind mentioned in paragraph 1678D(2)(b) may, under 
+this subsection, be repealed before the end of the period specified 
+under subsection 1678D(3).
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+1678F  Director identification numbers—Norfolk Island company
+
+directors
+Scope
+(1) This section applies if commencement (within the meaning of this 
+Part) occurs on or after the application day within the meaning of 
+subsection 1653(1).
+(2) This section applies in relation to a person who:
+(a) is not an eligible officer immediately before commencement; 
+and
+Authorised Version C2025C00450 registered 21/07/2025Transitional provisions  Chapter 10
+Transitional provisions relating to the Territories Legislation Amendment Act 2020
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+
+Act 2020
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+Section 1678F
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+550 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: Subsection 1653(4) applies a default period of 28 days under 
+section 1272C within which an application can be made for a director 
+identification number.
+Authorised Version C2025C00450 registered 21/07/2025Transitional provisions  Chapter 10
+Application and transitional provisions relating to Schedule 1 to the Treasury Laws 
+Amendment (2021 Measures No. 1) Act 2021  Part 10.52
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+Section 1679
+
+Corporations Act 2001 551
+Compilation No. 143 Compilation date: 09/07/2025Part 10.52—Application and transitional provisions 
+relating to Schedule 1 to the Treasury 
+Laws Amendment (2021 Measures No. 1) 
+Act 2021
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+1679  Definitions
+
+In this Part:
+Chapter 2G meeting has the meaning given by section 253P.
+commencement day means the day on which Schedule 1 to the 
+Treasury Laws Amendment (2021 Measures No. 1) Act 2021 
+commences.
+
+Part 10.51  Transitional provisions relating to the Territories Legislation Amendment
+1679A  Application—virtual meetings and electronic
+
+communications
+(1) The amendments made by Schedule 1 to the Treasury Laws 
+Amendment (2021 Measures No. 1) Act 2021 apply in relation to:
+(a) a Chapter 2G meeting; and
+(b) a document that relates to a Chapter 2G meeting that is 
+required or permitted to be given to a person under this Act;
+if:
+(c) the meeting is held on or after the commencement day; and
+(d) the document is given on or after the commencement day.
+(2) The amendments made by Schedule 1 to the Treasury Laws 
+Amendment (2021 Measures No. 1) Act 2021 apply in relation to 
+any document that is required or permitted to be given to a person 
+under this Act that relates to a resolution to be considered without a 
+Chapter 2G meeting if the document is given on or after the 
+commencement day.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions

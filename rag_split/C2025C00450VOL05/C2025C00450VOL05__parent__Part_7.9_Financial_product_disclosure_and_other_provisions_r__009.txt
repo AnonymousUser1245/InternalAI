@@ -1,0 +1,184 @@
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1013E
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+50 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251013E  General obligation to include other information that might 
+influence a decision to acquire
+Subject to subsection 1013C(2) and sections 1013F and 1013FA, a 
+Product Disclosure Statement must also contain any other 
+information that might reasonably be expected to have a material 
+influence on the decision of a reasonable person, as a retail client, 
+whether to acquire the product.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+1013F  General limitations on extent to which information is
+
+required to be included
+(1) Despite anything in section 1013D or 1013E, information, or a 
+statement containing information, is not required to be included in 
+a Product Disclosure Statement if it would not be reasonable for a 
+person considering, as a retail client, whether to acquire the 
+product to expect to find the information in the Statement.
+(2) In considering whether it would not be reasonable for a person 
+considering, as a retail client, whether to acquire the product to 
+expect to find particular information in the Statement, the matters 
+that may be taken into account include, but are not limited to:
+(a) the nature of the product (including its risk profile); and
+(b) the extent to which the product is well understood by the 
+kinds of person who commonly acquire products of that kind 
+as retail clients; and
+(c) the kinds of things such persons may reasonably be expected 
+to know; and
+(d) if the product is an ED security that is not a continuously 
+quoted security—the effect of the following provisions:
+(i) Chapter 2M as it applies to disclosing entities;
+(ii) sections 674, 674A, 675 and 675A; and
+(e) the way in which the product is promoted, sold or distributed; 
+and
+(f) any other matters specified in the regulations.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Product Disclosure Statements  Division 2
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1013FA
+
+Corporations Act 2001 51
+Compilation No. 143 Compilation date: 09/07/20251013FA  Information not required to be included in PDS for 
+continuously quoted securities
+(1) This section applies to a Product Disclosure Statement that relates 
+to a continuously quoted security.
+(2) Despite anything in section 1013D, 1013E or 1013F, information is 
+not required to be included in the Product Disclosure Statement if:
+(a) for a continuously quoted security that is not a security of a 
+notified foreign passport fund—the information is included 
+in any of the following documents:
+(i) the annual financial report most recently lodged with 
+ASIC by the issuer of the product;
+(ia) if the issuer of the product has lodged with ASIC a 
+sustainability report—the most recently lodged 
+sustainability report;
+(ii) any half-year financial report lodged with ASIC by the 
+issuer of the product after the lodgment of that annual 
+financial report and before the date of the Product 
+Disclosure Statement;
+(iii) any continuous disclosure notices given by the issuer of 
+the product after the lodgment of that annual financial 
+report and before the date of the Product Disclosure 
+Statement; and
+(aa) for a continuously quoted security of a notified foreign 
+passport fund—the information is included in any of the 
+following documents:
+(i) a copy of a report for the fund for the most recent 
+financial year for the fund, prepared in accordance with 
+the financial reporting requirements applying to the 
+fund under the Passport Rules for the home economy 
+for the fund;
+(ii) a copy of an auditor’s report that relates to the report 
+mentioned in subparagraph (i);
+(iii) any continuous disclosure notices given by the issuer of 
+the product after the lodgment of the report mentioned 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1013G
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+52 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025in subparagraph (i) and before the date of the Product 
+Disclosure Statement; and
+(b) the Product Disclosure Statement:
+(i) states that as a disclosing entity, the issuer of the 
+product is subject to regular reporting and disclosure 
+obligations; and
+(ii) informs people of their right to obtain a copy of any of 
+the documents referred to in paragraph (a) or (aa) (as the 
+case requires).
+If the Product Disclosure Statement informs people of their right to 
+obtain a copy of the document, the issuer of the product must give 
+a copy of the document free of charge to anyone who asks for it.
+(3) ASIC may determine that this section does not apply to Product 
+Disclosure Statements for continuously quoted securities if ASIC is 
+satisfied that in the previous 12 months:
+(a) the issuer of the continuously quoted securities contravened:
+(i) the provisions of Chapter 2M; or
+(ii) subsection 674(2), 674A(2), 675(2) or 675A(2); or
+(iii) subsection 1012DAA(10) or 1012DA(9); or
+(iv) section 1308 as it applies to a notice under 
+subsection 1012DAA(2) or 1012DA(5); or
+(b) the responsible person for the Product Disclosure Statement 
+contravened section 1016E, 1021D, 1021E or 1021J.
+(4) The determination must be made in writing and ASIC must publish 
+a copy of the determination in the Gazette.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+1013G  Product Disclosure Statement must be dated
+
+A Product Disclosure Statement must be dated. The date must be:
+(a) if a copy of the Product Disclosure Statement has been 
+lodged with ASIC (see section 1015B)—the date on which it 
+was so lodged; or
+(b) in any other case—the date on which the Product Disclosure 
+Statement was prepared or its preparation was completed.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Product Disclosure Statements  Division 2
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1013GA
+
+Corporations Act 2001 53
+Compilation No. 143 Compilation date: 09/07/20251013GA  Extra requirements if Product Disclosure Statement relates 
+to foreign passport fund products
+(1) This section applies to a Product Disclosure Statement that relates 
+to foreign passport fund products.
+(2) The Product Disclosure Statement must:
+(a) identify the home economy for the notified foreign passport 
+fund to which the foreign passport fund products relate; and
+(b) include a statement that:
+(i) the operation of the fund is regulated by the law of the 
+home economy for the fund; and
+(ii) the operator of the fund and the custodian of the assets 
+of the fund are regulated under the law of the home 
+economy for the fund; and
+(iii) the rights and remedies available to a person who 
+acquires the foreign passport fund product may differ 
+from the rights and remedies available in relation to a 
+registered scheme; and
+(iv) information made available to members of the fund in 
+the home economy will from time to time be made 
+available to Australian members of the fund by posting 
+the information on the fund’s website; and
+(c) include an outline of the main rights and remedies available 
+under the law of the home economy for the fund to persons 
+who acquire the foreign passport fund product in this 
+jurisdiction; and
+(d) include an outline of how information mentioned in 
+subparagraph (b)(iv) may be accessed by Australian members 
+of the fund; and
+(e) include a statement that the rights of a member of the fund on 
+the fund being wound up are mainly determined under the 
+constitution for the fund and the law of the home economy 
+for the fund.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1013H
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+54 Corporations Act 2001

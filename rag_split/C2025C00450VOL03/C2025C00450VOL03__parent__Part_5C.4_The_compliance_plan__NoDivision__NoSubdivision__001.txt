@@ -1,0 +1,166 @@
+Part 5C.4  The compliance plan
+28 days, after the lead auditor becomes aware of those
+
+circumstances.
+Contravention by lead auditor
+(4B) A person contravenes this subsection if:
+(a) the person is the lead auditor for an audit of a compliance 
+plan; and
+(b) the person is aware of circumstances that:
+(i) the person has reasonable grounds to suspect amount to 
+a contravention of this Act; or
+(ii) amount to an attempt, in relation to the audit, by any 
+person to unduly influence, coerce, manipulate or 
+mislead a person involved in the conduct of the audit 
+(see subsection (12)); or
+(iii) amount to an attempt, by any person, to otherwise 
+interfere with the proper conduct of the audit; and
+(c) if subparagraph (b)(i) applies:
+(i) the contravention is a significant one; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes
+
+Part 5C.4  The compliance plan
+
+Part 5C.4  The compliance plan
+Section 601HG
+
+Part 5C.4  The compliance plan
+86 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) the contravention is not a significant one and the person 
+believes that the contravention has not been or will not 
+be adequately dealt with by commenting on it in the 
+auditor’s report or bringing it to the attention of the 
+directors; and
+(d) the person does not notify ASIC in writing of those 
+circumstances as soon as practicable, and in any case within
+
+Part 5C.4  The compliance plan
+28 days, after the person becomes aware of those
+
+circumstances.
+(5) The auditor of the compliance plan:
+(a) has a right of access at all reasonable times to the books of 
+the scheme; and
+(b) may require an officer of the responsible entity to give the 
+auditor information and explanations for the purposes of the 
+audit.
+(6) An officer of the responsible entity must:
+(a) allow the auditor of the compliance plan to have access to the 
+books of the scheme; and
+(b) give the auditor information or an explanation required under 
+subsection (5); and
+(c) otherwise assist the conduct of the audit.
+(7) The responsible entity must lodge the auditor’s report under 
+subsection (3) with ASIC at the same time as the financial 
+statements and reports in respect of the scheme are to be lodged 
+with ASIC (see sections 292 and 321).
+(7A) An offence based on subsection (1), (3), (6) or (7) is an offence of 
+strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(8) The auditor of the compliance plan has qualified privilege in 
+respect of:
+(a) a statement made in a report under subsection (3); or
+(b) a notification to ASIC under subsection (4).
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+The compliance plan  Part 5C.4
+
+Part 5C.4  The compliance plan
+Section 601HG
+
+Corporations Act 2001 87
+Compilation No. 143 Compilation date: 09/07/2025(9) This section does not prevent the responsible entity from arranging 
+for the auditor of the compliance plan to carry out audits in 
+addition to those required by this section.
+Significant contraventions
+(10) In determining for the purposes of this section whether a 
+contravention of this Act is a significant one, have regard to:
+(a) the level of penalty provided for in relation to the 
+contravention; and
+(b) the effect that the contravention has, or may have, on:
+(i) the overall financial position of the company, registered 
+scheme, notified foreign passport fund or disclosing 
+entity; or
+(ii) the adequacy of the information available about the 
+overall financial position of the company, registered 
+scheme, notified foreign passport fund or disclosing 
+entity; and
+(c) any other relevant matter.
+(11) Without limiting paragraph (10)(a), a penalty provided for in 
+relation to a contravention of a provision of Part 2M.2 or 2M.3, or 
+section 324DAA, 324DAB or 324DAC, includes a penalty 
+imposed on a director, because of the operation of section 344, for 
+failing to take reasonable steps to comply with, or to secure 
+compliance with, that provision.
+Person involved in audit
+(12) In this section:
+person involved in the conduct of an audit means:
+(a) the auditor; or
+(b) the lead auditor for the audit; or
+(c) the review auditor for the audit; or
+(d) a professional member of the audit team for the audit; or
+(e) any other person involved in the conduct of the audit.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes
+
+Part 5C.4  The compliance plan
+
+Part 5C.4  The compliance plan
+Section 601HH
+
+Part 5C.4  The compliance plan
+88 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025601HH  Removal and resignation of auditors
+Removal of auditor by responsible entity
+(1) The responsible entity:
+(a) must remove the auditor of the compliance plan if the auditor 
+becomes ineligible under subsection 601HG(2) to act as 
+auditor of the compliance plan; and
+(b) may, with ASIC’s consent, remove the auditor of the 
+compliance plan.
+Resignation of auditor
+(2) The auditor of the compliance plan may resign by written notice to 
+the responsible entity if:
+(a) the auditor:
+(i) applies to ASIC in writing for its consent to the 
+resignation; and
+(ii) gives the responsible entity written notice of the 
+application at or about the same time as applying to 
+ASIC; and
+(b) ASIC consents to the resignation.
+(3) As soon as practicable after receiving the application, ASIC must 
+notify the auditor and the responsible entity whether it consents to 
+the resignation.
+(4) A statement by the auditor in the application or in answer to an 
+inquiry by ASIC relating to the reasons for the application:
+(a) is not admissible in evidence in any civil or criminal 
+proceedings against the auditor (other than proceedings for a 
+contravention of section 1308); and
+(b) may not be made the ground of a prosecution (other than a 
+prosecution for a contravention of section 1308), action or 
+suit against the auditor.
+A certificate by ASIC that the statement was made in the 
+application, or in answer to an inquiry by ASIC, is conclusive 
+evidence that the statement was so made.
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+The compliance plan  Part 5C.4
+
+Part 5C.4  The compliance plan
+Section 601HI
+
+Corporations Act 2001 89
+Compilation No. 143 Compilation date: 09/07/2025(5) The auditor’s resignation takes effect on the later of:
+(a) the day (if any) specified in the notice of resignation; or
+(b) the day ASIC consents to the resignation; or
+(c) the day (if any) fixed by ASIC for the purpose.
+
+Part 5C.4  The compliance plan
+601HI  Action on change of auditor of compliance plan
+
+If the auditor of the compliance plan of a registered scheme 
+changes, the responsible entity must, as soon as practicable after 
+the change and in writing, ask ASIC to alter the record of the 
+scheme’s registration to show the name of the new auditor as the 
+auditor of the scheme’s compliance plan. ASIC must comply with 
+the request if the change complies with this Act.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes

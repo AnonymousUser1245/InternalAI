@@ -1,0 +1,173 @@
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+1436A  Treatment of representatives—insurance agents
+
+(1) This section has effect despite anything else in this Subdivision, 
+including sections 1436 and 1437.
+(2) This section applies if, immediately before the FSR 
+commencement, a person is an insurance intermediary (but not an 
+insurance broker) within the meaning of the Insurance (Agents and 
+Brokers) Act 1984 as then in force because of an agreement they 
+have with an insurer under section 10 of that Act. For the purposes 
+of this section:
+(a) the person is the insurance agent; and
+(b) the agreement is the authorising agreement; and
+(c) the matters dealt with in the provisions included in the 
+agreement in compliance with section 10 of that Act, and any 
+other matters included in the agreement that are related to 
+those matters, are the relevant matters; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1436A
+
+Corporations Act 2001 347
+Compilation No. 143 Compilation date: 09/07/2025The variation or revocation must be made by notice in writing 
+lodged with ASIC.
+(5) Subject to subsection (7), during the transition period, the 
+Insurance (Agents and Brokers) Act 1984 as in force immediately 
+before the FSR commencement, and any associated provisions, 
+(the relevant old legislation) continue to apply (despite the repeal 
+of that Act) to, and in relation to, the insurance agent, the principal 
+and the relevant matters.
+(6) Subject to subsection (7), during the transition period, the relevant 
+new legislation (within the meaning of section 1431) does not 
+apply to, or in relation to, the insurance agent, the principal and the 
+relevant matters.
+(7) Regulations made for the purposes of this subsection may do either 
+or both of the following:
+(a) provide that specified provisions of the relevant old 
+legislation apply (with or without specified modifications), or 
+do not apply, to the insurance agent, the principal and some 
+or all of the relevant matters;
+(b) provide that specified provisions of the relevant new 
+legislation apply (with or without specified modifications), or 
+do not apply, to the insurance agent, the principal and some 
+or all of the relevant matters.
+The regulations may provide as mentioned in paragraph (a) or (b) 
+even after the end of the transition period.
+(8) If:
+(a) before the end of the transition period, or such longer period 
+during which regulations made for the purposes of 
+subsection (7) provide for the application of some or all of 
+the relevant old legislation, the insurance agent engages in 
+conduct that, under the authorising agreement as then in 
+force, creates a right to brokerage, commission or other 
+remuneration (which may be a present right, or a future right 
+that is dependent on matters specified in the authorising 
+agreement); and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1438
+
+Corporations Act 2001 349
+Compilation No. 143 Compilation date: 09/07/2025(4) An exemption may apply unconditionally or subject to specified 
+conditions. A person to whom a condition specified in an 
+exemption applies must comply with the condition. The Court may 
+order the person to comply with the condition in a specified way. 
+Only ASIC may apply to the Court for the order.
+(5) An exemption or declaration must be in writing and ASIC must 
+publish notice of it in the Gazette.
+(6) If conduct (including an omission) of a person would not constitute 
+an offence if a particular declaration under paragraph (2)(b) had 
+not been made, that conduct does not constitute an offence unless, 
+before the conduct occurred (in addition to complying with the 
+gazettal requirement of subsection (5)):
+(a) the text of the declaration was made available by ASIC on 
+the internet; or
+(b) ASIC gave written notice setting out the text of the 
+declaration to the person.
+In a prosecution for an offence to which this subsection applies, the 
+prosecution must prove that paragraph (a) or (b) was complied with 
+before the conduct occurred.
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1438
+
+Corporations Act 2001 351
+Compilation No. 143 Compilation date: 09/07/2025(iii) the date specified in the notice is at least 28 days after 
+the notice is lodged with ASIC.
+Note 1: A notice under paragraph (b) may be lodged during the period 
+between the commencement of this section and the FSR 
+commencement, or it may be lodged after the FSR commencement.
+Note 2: Subject to Division 2, the provisions covered by paragraphs (2)(a) to 
+(f) apply from the FSR commencement in relation to all financial 
+products to which they purport to apply.
+(4) If the date specified in a notice lodged with ASIC in accordance 
+with paragraph (3)(b) is the FSR commencement, there is no 
+transition period in relation to the financial product or products to 
+which the notice relates.
+(5) A notice (the first notice) lodged with ASIC in accordance with 
+paragraph (3)(b):
+(a) may, by a further notice lodged with ASIC, be varied to 
+specify a different date (the new date), but only if:
+(i) that further notice is lodged with ASIC at least 28 days 
+before the date specified in the first notice; and
+(ii) the new date is at least 28 days after that further notice 
+is lodged with ASIC; and
+(b) may, by a further notice lodged with ASIC, be revoked, but 
+only if that further notice is lodged with ASIC at least 28 
+days before the date specified in the first notice.
+A date that was specified in a notice before its variation or 
+revocation in accordance with this subsection is to be disregarded 
+for the purposes of the other provisions of this section.
+(6) If the issuer of a financial product lodges a notice with ASIC in 
+accordance with paragraph (3)(b) that covers the product, the issuer 
+must comply with any applicable requirements determined, by 
+legislative instrument, by ASIC for the purposes of this subsection 
+in relation to the following matters:
+(a) informing people about the notice and its significance; and
+(b) informing people about any subsequent variation or 
+revocation of the notice.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1440
+
+Corporations Act 2001 353
+Compilation No. 143 Compilation date: 09/07/2025(c) the person knew that, or was reckless as to whether, the 
+product issuer had lodged a notice under that paragraph that 
+specified that date; or
+(d) the person did not know that, and was not reckless as to 
+whether, the product issuer had lodged a notice under that 
+paragraph that specified that date, but the conduct would 
+have contravened the provisions referred to in section 1440 
+that would have applied to and in relation to the product if 
+those provisions had still applied when the conduct occurred.
+(2) In this section:
+conduct means an act, an omission to perform an act or a state of 
+affairs.
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+1440  Continued application of certain provisions of old disclosure
+
+regimes during transition period
+During the transition period (if any) for a financial product, the 
+following provisions continue to apply, despite their repeal or 
+amendment, to and in relation to the financial product:
+(a) if the product is a managed investment product—all the 
+provisions of Chapter 6D of the old Corporations Act, other 
+than section 722 of that Act, and any associated provisions;
+(b) if the product is a derivative—section 1210 of the old 
+Corporations Act, and any associated provisions;
+(c) if the product is a superannuation product—the following 
+provisions, and any associated provisions:
+(i) section 153, and all the provisions of Divisions 3 and 4 
+of Part 19, of the Superannuation Industry (Supervision) 
+Act 1993 as in force immediately before the FSR 
+commencement;
+(ii) the section 153A of that Act that was provided for in 
+Modification Declaration no. 15 as in force immediately 
+before the FSR commencement, being a declaration of 
+modification made under section 332 of that Act;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1442

@@ -1,0 +1,190 @@
+Part 2J.2  Self-acquisition and control of shares
+
+Part 2J.2  Self-acquisition and control of shares
+Section 259C
+
+Part 2J.2  Self-acquisition and control of shares
+616 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025not itself a subsidiary of a domestic corporation—a 
+resolution passed at a general meeting of that holding 
+company.
+Special exemptions for financial institutions
+(3) A company’s taking security over shares (or units of shares) in 
+itself or in a company that controls it is exempted from 
+subsection (1) if:
+(a) the company’s ordinary business includes providing finance; 
+and
+(b) the security is taken in the ordinary course of that business 
+and on ordinary commercial terms.
+(4) If a company acquires shares (or units of shares) in itself because it 
+exercises rights under a security permitted by subsection (2) or (3), 
+then, within the following 12 months, the company must cease to 
+hold those shares (or units of shares). ASIC may extend this period 
+of 12 months if the company applies for the extension before the 
+end of the period.
+(5) Any voting rights attached to the shares (or units of shares) cannot 
+be exercised while the company continues to hold them.
+(6) If, at the end of the 12 months (or extended period), the company 
+still holds any of the shares (or units of shares), the company 
+commits an offence for each day while that situation continues.
+(7) An offence based on subsection (6) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2J.2  Self-acquisition and control of shares
+259C  Issuing or transferring shares to controlled entity
+
+(1) The issue or transfer of shares (or units of shares) of a company to 
+an entity it controls is void unless:
+(a) the issue or transfer is to the entity as a personal 
+representative; or
+(b) the issue or transfer is to the entity as trustee and neither the 
+company nor any entity it controls has a beneficial interest in 
+Authorised Version C2025C00450 registered 21/07/2025Transactions affecting share capital  Chapter 2J
+Self-acquisition and control of shares  Part 2J.2
+
+Part 2J.2  Self-acquisition and control of shares
+Section 259D
+
+Corporations Act 2001 617
+Compilation No. 143 Compilation date: 09/07/2025the trust, other than a beneficial interest that satisfies these 
+conditions:
+(i) the interest arises from a security given for the purposes 
+of a transaction entered into in the ordinary course of 
+business in connection with providing finance; and
+(ii) that transaction was not entered into with an associate of 
+the company or an entity it controls; or
+(c) the issue to the entity is made as a result of an offer to all the 
+members of the company who hold shares of the class being 
+issued and is made on a basis that does not discriminate 
+unfairly, either directly or indirectly, in favour of the entity; 
+or
+(d) the transfer to the entity is by a wholly-owned subsidiary of a 
+body corporate and the entity is also a wholly-owned 
+subsidiary of that body corporate.
+(2) ASIC may exempt a company from the operation of this section. 
+The exemption:
+(a) must be in writing; and
+(b) may be granted subject to conditions.
+(3) If paragraph (1)(c) or (d) applies to an issue or transfer of shares 
+(or units of shares), section 259D applies.
+
+Part 2J.2  Self-acquisition and control of shares
+259D  Company controlling entity that holds shares in it
+
+(1) If any of the following occur:
+(a) a company obtains control of an entity that holds shares (or 
+units of shares) in the company;
+(b) a company’s control over an entity that holds shares (or units 
+of shares) in the company increases;
+(c) a company issues shares (or units of shares) to an entity it 
+controls in the situation covered by paragraph 259C(1)(c);
+(d) shares (or units of shares) in the company are transferred to 
+an entity it controls in the situation covered by 
+paragraph 259C(1)(d);
+then, within 12 months after it occurs either:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2J  Transactions affecting share capital
+
+Part 2J.2  Self-acquisition and control of shares
+
+Part 2J.2  Self-acquisition and control of shares
+Section 259D
+
+Part 2J.2  Self-acquisition and control of shares
+618 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(e) the entity must cease to hold the shares (or units); or
+(f) the company must cease to control the entity.
+ASIC may extend this period of 12 months if the company applies 
+for the extension before the end of the period.
+(2) If this section applies to shares (or units of shares), it also applies 
+to bonus shares issued in respect of those shares (or units of 
+shares). Within the same period that applies to the shares 
+themselves under subsection (1), either:
+(a) the entity must cease to hold the bonus shares; or
+(b) the company must cease to control the entity.
+(3) Any voting rights attached to the shares (or units of shares) cannot 
+be exercised while the company continues to control the entity.
+(4) If, at the end of the 12 months (or extended period), the company 
+still controls the entity and the entity still holds the shares (or units 
+of shares), the company commits an offence for each day while 
+that situation continues.
+(4A) An offence based on subsection (4) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(5) This section does not apply to shares (or units of shares) if:
+(a) they are held by the entity as a personal representative; or
+(b) they are held by the entity as trustee and neither the company 
+nor any entity it controls has a beneficial interest in the trust, 
+other than a beneficial interest that satisfies these conditions:
+(i) the interest arises from a security given for the purposes 
+of a transaction entered into in the ordinary course of 
+business in connection with providing finance; and
+(ii) that transaction was not entered into with an associate of 
+the company or an entity it controls.
+(6) A contravention of this section does not affect the validity of any 
+transaction.
+Authorised Version C2025C00450 registered 21/07/2025Transactions affecting share capital  Chapter 2J
+Self-acquisition and control of shares  Part 2J.2
+
+Part 2J.2  Self-acquisition and control of shares
+Section 259E
+
+Corporations Act 2001 619
+Compilation No. 143 Compilation date: 09/07/2025259E  When a company controls an entity
+(1) For the purposes of this Part, a company controls an entity if the 
+company has the capacity to determine the outcome of decisions 
+about the entity’s financial and operating policies.
+(2) In determining whether a company has this capacity:
+(a) the practical influence the company can exert (rather than the 
+rights it can enforce) is the issue to be addressed; and
+(b) any practice or pattern of behaviour affecting the entity’s 
+financial or operating policies is to be taken into account 
+(even if it involves a breach of an agreement or a breach of 
+trust).
+(3) Merely because the company and an unrelated entity jointly have 
+the capacity to determine the outcome of decisions about another 
+entity’s financial and operating policies, the company does not 
+control the other entity.
+(4) A company is not taken to control an entity merely because of a 
+capacity that it is under a legal obligation to exercise for the benefit 
+of someone other than its shareholders.
+Note: This situation could arise, for example, if the company holds shares as 
+a trustee or is performing duties as a liquidator.
+
+Part 2J.2  Self-acquisition and control of shares
+259F  Consequences of failing to comply with section 259A or 259B
+
+(1) If a company contravenes section 259A or subsection 259B(1):
+(a) the contravention does not affect the validity of the 
+acquisition or security or of any contract or transaction 
+connected with it; and
+(b) the company is not guilty of an offence.
+(2) Any person who is involved in a company’s contravention of 
+section 259A or subsection 259B(1) contravenes this subsection.
+Note 1: Subsection (2) is a civil penalty provision (see section 1317E).
+Note 2: Section 79 defines involved.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2J  Transactions affecting share capital
+
+Part 2J.2  Self-acquisition and control of shares
+
+Part 2J.2  Self-acquisition and control of shares
+Section 259F
+
+Part 2J.2  Self-acquisition and control of shares
+620 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) A person commits an offence if they are involved in a company’s 
+contravention of section 259A or subsection 259B(1) and the 
+involvement is dishonest.
+Authorised Version C2025C00450 registered 21/07/2025Transactions affecting share capital  Chapter 2J
+Financial assistance  Part 2J.3
+
+Part 2J.2  Self-acquisition and control of shares
+Section 260A
+
+Corporations Act 2001 621
+Compilation No. 143 Compilation date: 09/07/2025Part 2J.3—Financial assistance
+Note: This Part does not apply to a CCIV: see section 1231L.
+
+Part 2J.2  Self-acquisition and control of shares
+260A  Financial assistance by a company for acquiring shares in the

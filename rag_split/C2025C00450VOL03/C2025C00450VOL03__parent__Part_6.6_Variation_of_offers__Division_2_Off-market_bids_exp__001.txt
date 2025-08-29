@@ -1,0 +1,120 @@
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+Section 650F
+
+Corporations Act 2001 271
+Compilation No. 143 Compilation date: 09/07/2025(a) take any actions that are specified in regulations made for the 
+purposes of this paragraph in relation to the withdrawal of 
+acceptance; and
+(b) return any documents that the person sent the bidder with the 
+acceptance of the offer;
+within 14 days after:
+(c) if the person does the things referred to in subsection (2) on 
+the same day—that day; or
+(d) if the person does those things on different days—the last of 
+those days.
+(6) If under this section a person returns to a company any certificates 
+(together with any necessary transfer documents) in respect of the 
+securities issued by the company, the company must cancel those 
+securities as soon as possible. Any reduction in share capital is 
+authorised by this subsection.
+(7) An offence based on subsection (5) or (6) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+650F  Freeing off-market bids from defeating conditions
+
+(1) If the offers under an off-market bid are subject to a defeating 
+condition, the bidder may free the offers, and the takeover 
+contracts, from the condition only by giving the target a notice 
+declaring the offers to be free from the condition in accordance 
+with this section:
+(a) if the condition is that the bidder may withdraw unaccepted 
+offers if an event or circumstance referred to in 
+subsection 652C(1) or (2) occurs in relation to the target—
+not later than 3 business days after the end of the offer 
+period; or
+(b) in any other case—not less than 7 days before the end of the 
+offer period.
+(2) The notice must:
+(a) state that the offers are free from the condition; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+Section 650G
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+272 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) specify the bidder’s voting power in the company.
+(3) The notice must be:
+(a) if the securities in the bid class are quoted—given to the 
+relevant market operator; and
+(b) if those securities are not quoted—lodged with ASIC.
+(4) An offence based on subsection (3) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+650G  Contracts and acceptances void if defeating condition not
+
+fulfilled
+All takeover contracts, and all acceptances that have not resulted in 
+binding takeover contracts, for an off-market bid are void if:
+(a) offers made under the bid have at any time been subject to a 
+defeating condition; and
+(b) the bidder has not declared the offers to be free from the 
+condition within the period before the date applicable under 
+subsection 630(1) or (2); and
+(c) the condition has not been fulfilled at the end of the offer 
+period.
+A transfer of securities based on an acceptance or contract that is 
+void under this section must not be registered.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Variation of offers  Part 6.6
+Off-market bids (automatic variations)  Division 3
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+Section 651A
+
+Corporations Act 2001 273
+Compilation No. 143 Compilation date: 09/07/2025Division 3—Off-market bids (automatic variations)
+
+Part 6.6  Variation of offers
+Division 2  Off-market bids (express variation by bidder)
+651A  Off-market bid—effect on bid consideration of purchases
+
+made outside bid
+Effect of purchases outside bid on offers made under the bid
+(1) The offers made under an off-market bid, and the takeover 
+contracts, are varied under this section if:
+(a) the bidder purchases securities in the bid class outside the bid 
+during the bid period; and:
+(b) the consideration for that purchase consists solely of a cash 
+sum; and
+(c) either:
+(i) the consideration, or 1 of the forms of consideration, 
+payable under the bid consists of a cash sum only and 
+the consideration referred to in paragraph (b) is higher 
+than the cash sum payable for the securities under the 
+bid; or
+(ii) a cash sum only is not the consideration, or 1 of the 
+forms of consideration, payable under the bid.
+Note 1: Section 9 defines takeover contract.
+Note 2: The effect of section 623 is that the purchase outside the bid has to be 
+made through an on-market transaction (see subsection 623(1) and 
+paragraph 623(3)(b)).
+Effect on unaccepted cash offers
+(2) If:
+(a) one of the forms of consideration offered to a person under 
+an off-market bid is a cash sum only; and
+(b) the person has not accepted the offer before the purchase 
+outside the bid occurs;
+the cash sum is taken to be increased to the highest outside 
+purchase price before the offer is accepted.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers

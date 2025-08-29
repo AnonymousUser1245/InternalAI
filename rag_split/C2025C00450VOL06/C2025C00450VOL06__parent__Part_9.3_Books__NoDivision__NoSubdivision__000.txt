@@ -1,0 +1,187 @@
+Part 9.3  Books
+
+Part 9.3  Books
+Section 1300
+
+Part 9.3  Books
+60 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 9.3—Books
+
+Part 9.3  Books
+1300  Inspection of books
+
+(1) A book that is by this Act required to be available for inspection 
+must, subject to and in accordance with this Act, be available for 
+inspection at the place where, in accordance with this Act, it is kept 
+and at all times when the registered office in this jurisdiction of the 
+body corporate concerned is required to be open to the public.
+(2) If any register kept by a company or a foreign company for the 
+purposes of this Act is kept at a place other than the registered 
+office of the company or foreign company, that place must be open 
+to permit the register to be inspected during the same hours as 
+those during which the registered office of the company or foreign 
+company is required to be open to the public.
+(2A) If a person asks a proprietary company in writing to inspect a 
+particular book of the company that the person has a right to 
+inspect, the company must make it available within 7 days, for 
+inspection by the person at the place where it is required to be kept.
+Note: This section applies to a CCIV as if the CCIV were a proprietary 
+company: see section 1242B.
+(2B) An offence based on subsection (2A) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(3) A person permitted by this Act (other than section 70-30 of
+
+Part 9.3  Books
+Schedule 2) to inspect a book may make copies of, or take extracts
+
+from, the book and any person who refuses or fails to allow a 
+person so permitted to make a copy of, or take an extract from, the 
+book is guilty of an offence.
+Note: Section 70-30 of Schedule 2 is about books relating to an external 
+administration.
+(4) An offence based on subsection (3) is an offence of strict liability.
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Books  Part 9.3
+
+Part 9.3  Books
+Section 1301
+
+Corporations Act 2001 61
+Compilation No. 143 Compilation date: 09/07/2025Note: For strict liability, see section 6.1 of the Criminal Code.
+Books relating to notified foreign passport funds
+(5) Subsection (1) does not apply in relation to the books of the 
+operator of a notified foreign passport fund that relate to the fund, 
+or the books of a notified foreign passport fund.
+(6) If a book of that kind is by this Act required to be available for 
+inspection, it must, subject to and in accordance with this Act, be 
+available for inspection:
+(a) at the registered office in this jurisdiction of the operator of 
+the fund; and
+(b) at all times when that office is open to the public.
+
+Part 9.3  Books
+1301  Location of books on computers
+
+(1) This section applies if:
+(a) a corporation records, otherwise than in writing, matters (the 
+stored matters) this Act requires to be contained in a book; 
+and
+(b) the record of the stored matters is kept at a place (the place of 
+storage) other than the place (the place of inspection) where 
+the book is, apart from this section, required to be kept; and
+(c) at the place of inspection means are provided by which the 
+stored matters are made available for inspection in written 
+form; and
+(d) the corporation has lodged a notice:
+(i) stating that this section is to apply in respect of:
+(A) except where sub-subparagraph (B) applies—
+the book; or
+(B) if the stored matters are only some of the 
+information that is required to be contained in 
+the book—the book and matters that are of the 
+same kind as the stored matters; and
+(ii) specifying the situation of the place of storage and the 
+place of inspection.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.3  Books
+
+Part 9.3  Books
+Section 1303
+
+Part 9.3  Books
+62 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) Subject to subsection (4), the corporation is taken to have complied 
+with the requirements of this Act as to the location of the book, but 
+only in so far as the book is required to contain the stored matters.
+(3) Subject to subsection (4), for the purposes of the application of 
+subsection 1085(3) and section 1300 in relation to the corporation 
+and the book, the book is taken to be kept at the place of 
+inspection, even though the record of the stored matters is kept at 
+the place of storage.
+(4) If:
+(a) the situation of the place of storage or the place of inspection 
+changes; and
+(b) the corporation does not lodge notice of the change within 14 
+days after the change;
+this section, as it applies to the corporation because of the lodging 
+of the notice referred to in paragraph (1)(d), ceases to so apply at 
+the end of that period of 14 days.
+
+Part 9.3  Books
+1303  Court may compel compliance
+
+If any person in contravention of this Act refuses to permit the 
+inspection of any book or to supply a copy of any book, the Court 
+may by order compel an immediate inspection of the book or order 
+the copy to be supplied.
+
+Part 9.3  Books
+1304  Translations of instruments
+
+(1) Where under this Act a person is required to lodge an instrument or 
+a certified copy of an instrument and the instrument is not written 
+in English, the person must lodge at the same time a certified 
+translation of the instrument into English.
+(2) Where under this Act a body corporate is required to make an 
+instrument available for inspection and the instrument is not 
+written in English, the body corporate must keep at its registered 
+office or, if it does not have a registered office, at its principal 
+office in this jurisdiction, a certified translation of the instrument 
+into English.
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Books  Part 9.3
+
+Part 9.3  Books
+Section 1305
+
+Corporations Act 2001 63
+Compilation No. 143 Compilation date: 09/07/2025(3) In this section, instrument includes any certificate, contract or 
+other document.
+
+Part 9.3  Books
+1305  Admissibility of books in evidence
+
+(1) A book kept by a body corporate under a requirement of this Act is 
+admissible in evidence in any proceeding and is prima facie 
+evidence of any matter stated or recorded in the book.
+(2) A document purporting to be a book kept by a body corporate is, 
+unless the contrary is proved, taken to be a book kept as mentioned 
+in subsection (1).
+
+Part 9.3  Books
+1306  Form and evidentiary value of books
+
+(1) A book that is required by this Act to be kept or prepared may be 
+kept or prepared:
+(a) by making entries in a bound or looseleaf book; or
+(b) by recording or storing the matters concerned by means of a 
+mechanical, electronic or other device; or
+(c) in any other manner approved by ASIC.
+(2) Subsection (1) does not authorise a book to be kept or prepared by 
+a mechanical, electronic or other device unless:
+(a) the matters recorded or stored will be capable, at any time, of 
+being reproduced in a written form; or
+(b) a reproduction of those matters is kept in a written form 
+approved by ASIC.
+(3) A corporation must take all reasonable precautions, including such 
+precautions (if any) as are prescribed, for guarding against damage 
+to, destruction of or falsification of or in, and for discovery of 
+falsification of or in, any book or part of a book required by this 
+Act to be kept or prepared by the corporation.
+(4) Where a corporation records or stores any matters by means of a 
+mechanical, electronic or other device, any duty imposed by this 
+Act to make a book containing those matters available for 
+inspection or to provide copies of the whole or a part of a book 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.3  Books
+
+Part 9.3  Books
+Section 1307
+
+Part 9.3  Books
+64 Corporations Act 2001

@@ -1,0 +1,139 @@
+Part 2N.4  Return of particulars
+
+Part 2N.4  Return of particulars
+Section 348A
+
+Part 2N.4  Return of particulars
+260 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 2N.4—Return of particulars
+
+Part 2N.4  Return of particulars
+348A  ASIC may give a return of particulars
+
+(1) ASIC may give to a company or responsible entity of a registered 
+scheme a return of particulars for the company or scheme if ASIC 
+suspects or believes that particulars recorded in relation to the 
+company or scheme in a register maintained by ASIC under 
+subsection 1274(1) are not correct.
+(1A) ASIC may give to the operator of a notified foreign passport fund a 
+return of particulars for the fund if ASIC suspects or believes that 
+particulars recorded in relation to the fund in a register:
+(a) that ASIC maintains, or ensures is maintained, under 
+subsection 1214(1); or
+(b) that ASIC maintains under subsection 1274(1);
+are not correct.
+(2) Subsection (2A) applies if an agreement or approval under 
+subsection 352(1) covers the lodgment of a response to a return of 
+particulars for a company, registered scheme or notified foreign 
+passport fund.
+(2A) ASIC may satisfy subsection (1) or (1A) by making the return of 
+particulars available by electronic means to:
+(a) the company, the responsible entity of the scheme or the 
+operator of the fund; or
+(b) an agent of the company, the responsible entity or the 
+operator.
+(3) A return of particulars must specify the date of issue.
+
+Part 2N.4  Return of particulars
+348B  ASIC may ask questions
+
+ASIC may include, in a return of particulars for a company, a 
+registered scheme or a notified foreign passport fund a requirement 
+Authorised Version C2025C00450 registered 21/07/2025Updating ASIC information about companies, registered schemes and notified foreign 
+passport funds  Chapter 2N
+Return of particulars  Part 2N.4
+
+Part 2N.4  Return of particulars
+Section 348C
+
+Corporations Act 2001 261
+Compilation No. 143 Compilation date: 09/07/2025that the company, responsible entity of the scheme or operator of 
+the fund provide a particular prescribed by the regulations for the 
+purposes of this section.
+
+Part 2N.4  Return of particulars
+348C  ASIC may require a solvency resolution and statement
+
+(1) ASIC may include, in a return of particulars for a company, a 
+requirement that the company comply with subsection (2) or 
+subsection (3). The company may choose which subsection to 
+comply with.
+Note: This section does not apply to CCIVs: see subsection 1232U(2).
+(2) The company complies with this subsection if:
+(a) before the company lodges a response to the return of 
+particulars, the directors of the company pass a solvency 
+resolution; and
+(b) the response to the return of particulars states whether the 
+resolution passed was a positive solvency resolution or a 
+negative solvency resolution.
+(3) The company complies with this subsection if the response to the 
+return of particulars states the date on which the directors passed a 
+positive solvency resolution under section 347A in respect of the 
+company’s most recent review date.
+
+Part 2N.4  Return of particulars
+348D  General requirements in relation to a return of particulars
+
+Response is required
+(1) A company, responsible entity of a registered scheme or operator 
+of a notified foreign passport fund must respond to a return of 
+particulars that it receives. The response must comply with 
+subsection (2).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2N  Updating ASIC information about companies, registered schemes and 
+notified foreign passport funds
+
+Part 2N.4  Return of particulars
+
+Part 2N.4  Return of particulars
+Section 348D
+
+Part 2N.4  Return of particulars
+262 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Contents of response
+(2) The response to a return of particulars by a company, the 
+responsible entity of a registered scheme or the operator of a 
+notified foreign passport fund:
+(a) must be lodged with ASIC within 2 months after the date of 
+issue of the return; and
+(b) must be in the prescribed form; and
+(c) must be signed or authenticated; and
+(d) if, as at the date that the response is signed or authenticated, 
+any particular set out in the return is not correct—must be 
+such that the particulars set out in the return, taken together 
+with the response, are correct as at the date the response is 
+signed or authenticated; and
+(e) if the return includes a requirement that the company, 
+responsible entity of the scheme or operator of the fund 
+provide a particular under section 348B—must provide the 
+required particular, correct as at the date the response is 
+signed or authenticated; and
+(f) if the return includes a requirement to comply with a 
+subsection of section 348C—must include the statement 
+required by the subsection that the company chooses to 
+comply with.
+Response satisfies other requirements to notify
+(3) If a company responds to a return of particulars:
+(a) correcting a particular; or
+(b) providing a particular;
+in accordance with subsection (2), any requirement elsewhere in 
+this Act to lodge a prescribed form in relation to the particular is 
+satisfied by the response.
+(4) Subsection (3) does not affect the company’s liability for late 
+lodgment fees incurred before the response to the return of 
+particulars is lodged or continuing offences committed before that 
+time.
+Authorised Version C2025C00450 registered 21/07/2025Updating ASIC information about companies, registered schemes and notified foreign 
+passport funds  Chapter 2N
+Return of particulars  Part 2N.4
+
+Part 2N.4  Return of particulars
+Section 348D
+
+Corporations Act 2001 263
+Compilation No. 143 Compilation date: 09/07/2025Strict liability offences
+(5) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2N  Updating ASIC information about companies, registered schemes and 
+notified foreign passport funds

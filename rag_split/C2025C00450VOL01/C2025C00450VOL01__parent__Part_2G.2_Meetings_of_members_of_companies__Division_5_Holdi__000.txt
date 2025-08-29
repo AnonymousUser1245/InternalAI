@@ -1,0 +1,198 @@
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+Section 249Q
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+500 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 5—Holding meetings of members
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+249Q  Purpose
+
+A meeting of a company’s members must be held for a proper 
+purpose.
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+249R  How meetings of members may be held
+
+A company may hold a meeting of its members:
+(a) at one or more physical venues; or
+(b) at one or more physical venues and using virtual meeting 
+technology; or
+(c) using virtual meeting technology only, if this is required or 
+permitted by the company’s constitution expressly.
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+249RA  Place and time of meetings and presence at meetings
+
+(1) The place at which a meeting of the members of a company is held 
+is taken to be:
+(a) if the meeting is held at only one physical venue (whether or 
+not it is also held using virtual meeting technology)—that 
+physical venue; or
+(b) if the meeting is held at more than one physical venue 
+(whether or not it is also held using virtual meeting 
+technology)—the main physical venue of the meeting as set 
+out in the notice of the meeting; or
+(c) if the meeting is held using virtual meeting technology 
+only—the registered office of the company.
+(2) The time at which the meeting is held is taken to be the time at the 
+place at which the meeting is taken to be held in accordance with 
+subsection (1).
+(3) A member who attends the meeting (whether at a physical venue or 
+by using virtual meeting technology) is taken for all purposes to be 
+present in person at the meeting while so attending.
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+Holding meetings of members  Division 5
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+Section 249S
+
+Corporations Act 2001 501
+Compilation No. 143 Compilation date: 09/07/2025249S  Reasonable opportunity to participate
+(1) A company that holds a meeting of its members must give the 
+members entitled to attend the meeting, as a whole, a reasonable 
+opportunity to participate in the meeting.
+Note: Section 1322 provides for consequences of a breach of this subsection.
+(2) Without limiting the scope of subsection (1), the effects of that 
+subsection include those set out in subsections (3), (4), (5), (6) and 
+(7).
+(3) The meeting must be held at a time that is reasonable at:
+(a) if the meeting is held at only one physical venue (whether or 
+not it is also held using virtual meeting technology)—that 
+physical venue; or
+(b) if the meeting is held at more than one physical venue 
+(whether or not it is also held using virtual meeting 
+technology)—the main physical venue of the meeting as set 
+out in the notice of the meeting; or
+(c) if the meeting is held using virtual meeting technology 
+only—a physical venue at which it would be reasonable to 
+hold the meeting.
+(4) If the meeting is held at only one physical venue (whether or not it 
+is also held using virtual meeting technology), it must be 
+reasonable to hold the meeting at that physical venue.
+(5) If the meeting is held at more than one physical venue (whether or 
+not it is also held using virtual meeting technology), it must be 
+reasonable to hold the meeting at its main physical venue as set out 
+in the notice of the meeting.
+(6) If the meeting is held at more than one physical venue (whether or 
+not it is also held using virtual meeting technology), the technology 
+used to hold the meeting at more than one physical venue must be 
+reasonable.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+Section 249T
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+502 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(7) If the meeting is held using virtual meeting technology (whether or 
+not it is held at one or more physical venues), that virtual meeting 
+technology must:
+(a) be reasonable; and
+(b) allow the members who are entitled to attend the meeting, 
+and do attend the meeting using that virtual meeting 
+technology, as a whole, to exercise orally and in writing any 
+rights of those members to ask questions and make 
+comments.
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+249T  Quorum (replaceable rule—see section 135)
+
+(1) The quorum for a meeting of a company’s members is 2 members 
+and the quorum must be present at all times during the meeting.
+Note: For single member companies, see section 249B.
+(2) In determining whether a quorum is present, count individuals 
+attending as proxies or body corporate representatives. However, if 
+a member has appointed more than 1 proxy or representative, count 
+only 1 of them. If an individual is attending both as a member and 
+as a proxy or body corporate representative, count them only once.
+Note 1: For rights to appoint proxies, see section 249X.
+Note 2: For body corporate representatives, see section 250D.
+(3) A meeting of the company’s members that does not have a quorum 
+present within 30 minutes after the time for the meeting set out in 
+the notice of meeting is adjourned to a meeting (the resumed 
+meeting) at a later time.
+(3A) The directors may specify:
+(a) the date and time of the resumed meeting; and
+(b) if any of the company’s members is entitled to physically 
+attend the resumed meeting—the location or locations at 
+which the members may do so; and
+(c) if virtual meeting technology is to be used in holding the 
+meeting—sufficient information to allow the members to 
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+Holding meetings of members  Division 5
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+Section 249U
+
+Corporations Act 2001 503
+Compilation No. 143 Compilation date: 09/07/2025participate in the resumed meeting by means of the 
+technology.
+(3B) If the directors do not specify one or more of the things mentioned 
+in subsection (3A):
+(a) if the date is not specified—the meeting is adjourned to the 
+same day in the next week; and
+(b) if the time is not specified—the meeting is adjourned to the 
+same time; and
+(c) if any of the company’s members was entitled to physically 
+attend the meeting and the location is not specified—the 
+meeting is adjourned to the same location or locations as 
+were specified for the original meeting; and
+(d) if virtual meeting technology was used in holding the 
+meeting and sufficient information to allow members to 
+participate in the resumed meeting by means of the 
+technology is not specified—participation in the resumed 
+meeting by means of the technology must be provided in the 
+same manner as set out in the notice for the original meeting.
+(4) If no quorum is present at the resumed meeting within 30 minutes 
+after the time for the meeting, the meeting is dissolved.
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+249U  Chairing meetings of members (replaceable rule—see
+
+section 135)
+(1) The directors may elect an individual to chair meetings of the 
+company’s members.
+(2) The directors at a meeting of the company’s members must elect 
+an individual present to chair the meeting (or part of it) if an 
+individual has not already been elected by the directors to chair it 
+or, having been elected, is not available to chair it, or declines to 
+act, for the meeting (or part of the meeting).
+(3) The members at a meeting of the company’s members must elect a 
+member present to chair the meeting (or part of it) if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+Section 249V
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+504 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) a chair has not previously been elected by the directors to 
+chair the meeting; or
+(b) a previously elected chair is not available, or declines to act, 
+for the meeting (or part of the meeting).
+(4) The chair must adjourn a meeting of the company’s members if the 
+members present with a majority of votes at the meeting agree or 
+direct that the chair must do so.
+
+Part 2G.2  Meetings of members of companies
+Division 5  Holding meetings of members
+249V  Auditor’s right to be heard at general meetings

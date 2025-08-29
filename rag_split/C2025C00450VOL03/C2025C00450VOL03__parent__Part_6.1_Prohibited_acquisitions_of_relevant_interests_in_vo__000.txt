@@ -1,0 +1,173 @@
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+Section 606
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+186 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(1A) However, the person may acquire the relevant interest under one of 
+the exceptions set out in section 611 without contravening 
+subsection (1).
+Note: A defendant bears an evidential burden in relation to the matter in 
+subsection (1A), see subsection 13.3(3) of the Criminal Code.
+Acquisition of legal or equitable interest giving rise to relevant 
+interest for someone else
+(2) A person must not acquire a legal or equitable interest in securities 
+of a body corporate if, because of the acquisition:
+(a) another person acquires a relevant interest in issued voting 
+shares in a company that is:
+(i) a listed company; or
+(ii) an unlisted company with more than 50 members; and
+(b) someone’s voting power in the company increases:
+(i) from 20% or below to more than 20%; or
+(ii) from a starting point that is above 20% and below 90%.
+(2A) However, if the acquisition of the relevant interest is covered by 
+one of the exceptions set out in section 611, the person may 
+acquire the legal or equitable interest without contravening 
+subsection (2).
+Note: A defendant bears an evidential burden in relation to the matter in 
+subsection (2A), see subsection 13.3(3) of the Criminal Code.
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+50 member threshold
+
+(3) In determining whether the company has more than 50 members 
+for the purposes of subsection (1) or (2), count joint holders of a 
+particular parcel of shares as 1 person.
+Offers and invitations
+(4) A person must not:
+(a) make an offer, or cause an offer to be made on their behalf, if 
+the person would contravene subsection (1) or (2) if the offer 
+were accepted; or
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Prohibited acquisitions of relevant interests in voting shares  Part 6.1
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+Section 606
+
+Corporations Act 2001 187
+Compilation No. 143 Compilation date: 09/07/2025(b) issue an invitation, or cause an invitation to be issued on their 
+behalf, if the person would contravene subsection (1) or (2) 
+if:
+(i) an offer were made in response to the invitation; and
+(ii) the offer were accepted.
+Fault-based offence
+(4A) A person commits an offence if the person contravenes 
+subsection (1), (2) or (4).
+Absolute liability offence
+(4B) A person commits an offence of absolute liability if the person 
+contravenes subsection (1), (2) or (4).
+Defences
+(5) It is a defence to the prosecution of a person for contravening 
+subsection (1), (2) or (4) if the person proves that they contravened 
+the subsection:
+(a) because of inadvertence or mistake; or
+(b) because the person was not aware of a relevant fact or 
+occurrence.
+In determining whether the defence is available, disregard the 
+person’s ignorance of, or a mistake on the person’s 
+part concerning, a matter of law.
+Note: A defendant bears a legal burden in relation to a matter mentioned in 
+subsection (5), see section 13.4 of the Criminal Code.
+Extended meaning of acquiring relevant interests—conversions 
+and increases in voting rights
+(6) A person is taken for the purposes of subsection (1) or (2) to 
+acquire a relevant interest in voting shares in a company if:
+(a) securities in which the person already had a relevant interest 
+become voting shares in the company; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+Section 607
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+188 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) there is an increase in the number of votes that may be cast 
+on a poll attached to voting shares that the person already had 
+a relevant interest in.
+The acquisition occurs when the securities become voting shares or 
+the number of votes increases.
+Note: Some examples of cases to which this subsection applies are:
+•A person exercises a right to convert a non-voting preference 
+share into an ordinary share that carries votes.
+•A person pays up partly-paid shares with limited votes and 
+this leads to an increase in the number of votes attached to the 
+shares.
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+607  Effect on transactions
+
+A transaction is not invalid merely because it involves a 
+contravention of section 606.
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+608  Relevant interests in securities
+
+Basic rule—relevant interest is holding, or controlling voting or 
+disposal of, securities
+(1) A person has a relevant interest in securities if they:
+(a) are the holder of the securities; or
+(b) have power to exercise, or control the exercise of, a right to 
+vote attached to the securities; or
+(c) have power to dispose of, or control the exercise of a power 
+to dispose of, the securities.
+It does not matter how remote the relevant interest is or how it 
+arises. If 2 or more people can jointly exercise one of these powers, 
+each of them is taken to have that power.
+Extension to control exercisable through a trust, agreement or 
+practice
+(2) In this section, power or control includes:
+(a) power or control that is indirect; and
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Prohibited acquisitions of relevant interests in voting shares  Part 6.1
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+Section 608
+
+Corporations Act 2001 189
+Compilation No. 143 Compilation date: 09/07/2025(b) power or control that is, or can be, exercised as a result of, by 
+means of or by the revocation or breach of:
+(i) a trust; or
+(ii) an agreement; or
+(iii) a practice; or
+(iv) any combination of them;
+whether or not they are enforceable; and
+(c) power or control that is, or can be made, subject to restraint 
+or restriction.
+It does not matter whether the power or control is express or 
+implied, formal or informal, exercisable alone or jointly with 
+someone else. It does not matter that the power or control cannot 
+be related to a particular security.
+Extension to relevant interests held through bodies corporate
+(3) A person has the relevant interests in any securities that any of the 
+following has:
+(a) a body corporate, or managed investment scheme, in which 
+the person’s voting power is above 20%;
+(b) a body corporate, or managed investment scheme, that the 
+person controls.
+Paragraph (a) does not apply to a relevant interest that the body 
+corporate or scheme itself has in the securities merely because of 
+the operation of that paragraph in relation to another body 
+corporate or managed investment scheme.
+(4) For the purposes of paragraph (3)(b), a person controls a body 
+corporate if the person has the capacity to determine the outcome 
+of decisions about the body corporate’s financial and operating 
+policies.
+(5) In determining whether a person has this capacity:
+(a) the practical influence the person can exert (rather than the 
+rights they can enforce) is the issue to be addressed; and
+(b) any practice or pattern of behaviour affecting the body 
+corporate’s financial or operating policies is to be taken into 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+Section 608
+
+Part 6.1  Prohibited acquisitions of relevant interests in voting shares
+190 Corporations Act 2001

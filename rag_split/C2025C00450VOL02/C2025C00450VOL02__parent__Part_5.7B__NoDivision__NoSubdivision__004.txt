@@ -1,0 +1,199 @@
+Part 5.7B
+
+Duties to prevent insolvent trading and creditor-defeating dispositions  Division 3
+Section 588GAC
+Corporations Act 2001 715
+Compilation No. 143 Compilation date: 09/07/2025Note 1: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+Note 2: Recklessness is the fault element for the result of the company making 
+the disposition and for subparagraphs (1)(a)(i), (ii), (iii) and (iv) and 
+paragraph (1)(b): see section 5.6 of the Criminal Code.
+(2) A person must not engage in conduct of procuring, inciting, 
+inducing or encouraging the making by a company of a disposition 
+of property that results in the company making the disposition of 
+the property, if:
+(a) one or more of the following applies:
+(i) the company is insolvent;
+(ii) the company becomes insolvent because of the 
+disposition or a number of dispositions made at the time 
+of the disposition;
+(iii) less than 12 months after the disposition, the start of an 
+external administration (as defined in Schedule 2) of the 
+company occurs as a direct or indirect result of the 
+disposition;
+(iv) less than 12 months after the disposition, the company 
+ceases to carry on business altogether as a direct or 
+indirect result of the disposition; and
+(b) the person knows, or a reasonable person in the position of 
+the person would know, that the disposition is a 
+creditor-defeating disposition.
+Note 1: This subsection is a civil penalty provision (see section 1317E).
+Note 2: Section 588E provides for presumptions about when a company is 
+insolvent and about matters relevant to whether a disposition is a 
+creditor-defeating disposition.
+Exceptions
+(3) Subsections (1) and (2) do not apply if the disposition was made:
+(a) under a compromise or arrangement approved by a Court 
+under section 411; or
+(b) under a deed of company arrangement executed by the 
+company; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Duties to prevent insolvent trading and creditor-defeating dispositions  Division 3
+
+Part 5.7B
+Section 588GA
+
+Corporations Act 2001 717
+Compilation No. 143 Compilation date: 09/07/2025Note 1: The person bears an evidential burden in relation to the matter in this 
+subsection (see subsection (3)).
+Note 2: For subsection (1) to be available, certain matters must be being done 
+or be done (see subsections (4) and (5)).
+Working out whether a course of action is reasonably likely to lead 
+to a better outcome
+(2) For the purposes of (but without limiting) subsection (1), in 
+working out whether a course of action is reasonably likely to lead 
+to a better outcome for the company, regard may be had to 
+whether:
+(a) the person is properly informing himself or herself of the 
+company’s financial position; or
+(b) the person is taking appropriate steps to prevent any 
+misconduct by officers or employees of the company that 
+could adversely affect the company’s ability to pay all its 
+debts; or
+(c) the person is taking appropriate steps to ensure that the 
+company is keeping appropriate financial records consistent 
+with the size and nature of the company; or
+(d) the company or the person is obtaining advice from an 
+appropriately qualified entity who was given sufficient 
+information to give appropriate advice; or
+(e) the person is developing or implementing a plan for 
+restructuring the company to improve its financial position.
+(3) A person who wishes to rely on subsection (1) in a proceeding for, 
+or relating to, a contravention of subsection 588G(2), 588GAB(1) 
+or (2) or 588GAC(1) or (2) bears an evidential burden in relation to 
+that matter.
+Matters that must be being done or be done
+(4) Subsection (1) does not apply in relation to a person and either a 
+debt or a disposition if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Duties to prevent insolvent trading and creditor-defeating dispositions  Division 3
+Section 588GAAA
+Corporations Act 2001 719
+Compilation No. 143 Compilation date: 09/07/2025Definitions
+(7) In this section:
+better outcome, for the company, means an outcome that is better 
+for the company than the immediate appointment of an 
+administrator, or liquidator, of the company.
+evidential burden, in relation to a matter, means the burden of 
+adducing or pointing to evidence that suggests a reasonable 
+possibility that the matter exists or does not exist.
+588GAAA  Safe harbour—temporary relief in response to the 
+coronavirus
+Safe harbour
+(1) Subsection 588G(2) does not apply in relation to a person and a 
+debt incurred by a company if the debt is incurred:
+(a) in the ordinary course of the company’s business; and
+(b) during:
+(i) the 6-month period starting on the day this section 
+commences; or
+(ii) any longer period that starts on the day this section 
+commences and that is prescribed by the regulations for 
+the purposes of this subparagraph; and
+(c) before any appointment during that period of an 
+administrator, restructuring practitioner or liquidator of the 
+company.
+(2) A person who wishes to rely on subsection (1) in a proceeding for, 
+or relating to, a contravention of subsection 588G(2) bears an 
+evidential burden in relation to that matter.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Duties to prevent insolvent trading and creditor-defeating dispositions  Division 3
+Section 588GAAC
+Corporations Act 2001 721
+Compilation No. 143 Compilation date: 09/07/2025evidential burden, in relation to a matter, means the burden of 
+adducing or pointing to evidence that suggests a reasonable 
+possibility that the matter exists or does not exist.
+588GAAC  Safe harbour—temporary relief for companies looking 
+for a restructuring practitioner
+Safe harbour
+(1) Subsection 588G(2) does not apply in relation to a person and a 
+debt incurred by a company if:
+(a) the company is eligible for temporary restructuring relief 
+when the debt is incurred; and
+(b) the debt is incurred in the ordinary course of the company’s 
+business; and
+(c) the company has taken all reasonable steps to appoint a 
+restructuring practitioner before the debt was incurred.
+(2) A person who wishes to rely on subsection (1) in a proceeding for, 
+or relating to, a contravention of subsection 588G(2) bears an 
+evidential burden in relation to that matter.
+When the safe harbour does not apply
+(3) Subsection (1) is taken never to have applied in relation to a person 
+and a debt in circumstances prescribed by the regulations for the 
+purposes of this subsection.
+Definitions
+(4) In this section:
+evidential burden, in relation to a matter, means the burden of 
+adducing or pointing to evidence that suggests a reasonable 
+possibility that the matter exists or does not exist.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Duties to prevent insolvent trading and creditor-defeating dispositions  Division 3
+
+Part 5.7B
+Section 588GB
+
+Corporations Act 2001 723
+Compilation No. 143 Compilation date: 09/07/2025(i) the person did not possess the book or information at 
+any time referred to in that subsection; and
+(ii) there were no reasonable steps the person could have 
+taken to obtain the book or information; or
+(b) each entity seeking to rely on the notice, order, subsection, 
+paragraph or warrant referred to in that subsection fails to 
+comply with subsection (5) in relation to the person; or
+(c) an order applying to the person, and the book or information, 
+is in force under subsection (4).
+(4) The Court may order that subsection (1) or (2) does not apply to a 
+person, and a book or information, if:
+(a) the Court is satisfied that the failures by the person as 
+mentioned in that subsection were due to exceptional 
+circumstances or that it is otherwise in the interests of justice 
+to make the order; and
+(b) an application for the order is made by the person.
+Notice of effect of this section must be given
+(5) An entity that seeks to rely on a notice, order, subsection or 
+warrant referred to in subsection (1) or (2) must set out the effect 
+of this section:
+(a) for a notice under subsection 438C(3), section 477 or 
+subsection 530B(4)—in that notice; or
+(b) for an order under section 486 or for subsection 438B(3),
+
+Part 5.7B
+477(3) or 530A(2)—in a written notice given to the person
+
+when the entity seeks to rely on that order or subsection; or
+(c) for a warrant issued under subsection 530C(2)—in a written 
+notice given to the person when the entity seeks to exercise 
+the warrant.
+This subsection does not apply to an entity that seeks to rely on 
+paragraph 429(2)(b), subsection 438B(1) or (2), 
+paragraph 453F(1)(c), section 453G or subsection 475(1), 497(4) 
+or 530A(1).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Duties to prevent insolvent trading and creditor-defeating dispositions  Division 3
+
+Part 5.7B
+Section 588H

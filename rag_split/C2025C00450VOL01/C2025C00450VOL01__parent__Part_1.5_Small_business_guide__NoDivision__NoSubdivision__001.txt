@@ -1,0 +1,266 @@
+Part 1.5  Small business guide
+2  The company structure for small business
+
+Part 1.5  Small business guide
+2.1 Proprietary company for small business
+
+Generally, a proprietary company limited by shares is the most 
+suitable company for use by small business. Such a proprietary 
+company must have a least 1 shareholder but no more than 50 
+shareholders (not counting employee shareholders, CSF 
+shareholders, or holders of shares issued pursuant to CSF offers 
+that have yet to be traded in certain ways). It may have 1 or more 
+directors.
+[sections 112—113]
+
+Part 1.5  Small business guide
+3  Setting up a new company
+
+The operators of small businesses can either buy “shelf” companies 
+or set up new companies themselves.
+
+Part 1.5  Small business guide
+3.1 “Shelf” companies
+
+The operator of a small business may find it more convenient to 
+buy a “shelf” company (a company that has already been registered 
+but has not traded) from businesses which set up companies for 
+this purpose or from some legal or accounting firms.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.5  Small business guide
+
+Part 1.5  Small business guide
+Section 3
+
+Part 1.5  Small business guide
+248 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20253.2 Setting up a company
+To set up a new company themselves, the operator must apply to 
+ASIC for registration of the company.
+A proprietary company limited by shares must have at least 1 
+shareholder.
+To obtain registration, a person must lodge a properly completed 
+application form with ASIC. The form must set out certain 
+information including details of every person who has consented to 
+be a shareholder, director or company secretary of the company.
+The company comes into existence when ASIC registers it.
+[sections 117—119, 135—136, 140]
+
+Part 1.5  Small business guide
+3.3 ACN and name
+
+When a company is registered, ASIC allocates to it a unique 9 digit 
+number called the Australian Company Number (ACN). (For use 
+of the ACN see 4.1).
+In practice, a new company must have a name that is different from 
+the name of a company that is already registered. A proprietary 
+company limited by shares must have the words “Proprietary 
+Limited” as part of its name. Those words can be abbreviated to 
+“Pty Ltd”.
+A proprietary company may adopt its ACN as its name. If it does 
+so, its name must also contain the words “Australian Company 
+Number” (which can be abbreviated to “ACN”). For example, the 
+company’s name might be “ACN 123 456 789 Pty Ltd”.
+[sections 119, 147—161]
+
+Part 1.5  Small business guide
+3.4 Contracts entered into before the company is registered
+
+A company can ratify a contract entered into by someone on its 
+behalf or for its benefit before it was registered. If the company 
+does not ratify the contract, the person who entered into the 
+contract may be personally liable.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Small business guide  Part 1.5
+
+Part 1.5  Small business guide
+Section 3
+
+Corporations Act 2001 249
+Compilation No. 143 Compilation date: 09/07/2025[sections 131—133]
+
+Part 1.5  Small business guide
+3.5 First shareholders, directors and company secretary
+
+A person listed with their consent as a shareholder, director or 
+company secretary in the application for registration of the 
+company becomes a shareholder, director or company secretary of 
+the company on its registration.
+The same person may be both a director of the company and the 
+company secretary.
+See 5.1 and 5.2 for directors and 5.4 for company secretaries. See
+
+Part 1.5  Small business guide
+6.1 for shareholders.
+
+[section 120]
+
+Part 1.5  Small business guide
+3.6 Issuing shares
+
+It is a replaceable rule (see 1.6) that, before issuing new shares, a 
+company must first offer them to the existing shareholders in the 
+proportions that the shareholders already hold. A company may 
+issue shares at a price it determines.
+[sections 254B, 254D]
+
+Part 1.5  Small business guide
+3.7 Registered office
+
+A company must have a registered office in Australia and must 
+inform ASIC of the location of the office. A post office box cannot 
+be the registered office of a company. The purpose of the 
+registered office is to have a place where all communications and 
+notices to the company may be sent.
+If the company does not occupy the premises where its registered 
+office is located, the occupier of the premises must agree in writing 
+to having the company’s registered office located there.
+A proprietary company is not required to open its registered office 
+to the public but this does not affect its obligation to make 
+documents available for inspection.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.5  Small business guide
+
+Part 1.5  Small business guide
+Section 3
+
+Part 1.5  Small business guide
+250 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025The company must notify ASIC of any change of address of its 
+registered office.
+[sections 100, 142, 143, 173, 1300]
+
+Part 1.5  Small business guide
+3.8 Principal place of business
+
+If a company has a principal place of business that is different from 
+its registered office, it must notify ASIC of the address of its 
+principal place of business and of any changes to that address.
+[sections 117, 146]
+
+Part 1.5  Small business guide
+3.9 Registers kept by the company
+
+A company must keep registers, including a register of 
+shareholders. A company must keep its registers at:
+• the company’s registered office; or
+• the company’s principal place of business; or
+• a place (whether on premises of the company or of 
+someone else) where the work in maintaining the register 
+is done; or
+• another place approved by ASIC.
+A register may be kept either in a bound or looseleaf book or on 
+computer.
+If a register is kept on computer, its contents must be capable of 
+being printed out in hard copy.
+[sections 172, 1300, 1301, 1306]
+
+Part 1.5  Small business guide
+3.10 Register of shareholders
+
+A company must keep in its register of shareholders such 
+information as:
+• the names and addresses of its shareholders; and
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Small business guide  Part 1.5
+
+Part 1.5  Small business guide
+Section 4
+
+Corporations Act 2001 251
+Compilation No. 143 Compilation date: 09/07/2025• details of shares held by individual shareholders.
+[sections 168—169]
+
+Part 1.5  Small business guide
+4  Continuing obligations after the company is set up
+
+The Corporations Act and other laws impose obligations on 
+companies themselves and on their directors and company 
+secretaries. Some of the more important obligations imposed under 
+the Corporations Act are discussed below.
+
+Part 1.5  Small business guide
+4.1 Use of company name and ACN
+
+The name of a company must be shown at all the company’s 
+business premises (including its registered office) that are open to 
+the public. The company’s name and its ACN or ABN (if the last 9 
+digits are the same, and in the same order, as the last 9 digits of its 
+ACN) must appear:
+• on some of its public documents; and
+• on its cheques and negotiable instruments; and
+• on all documents lodged with ASIC; and
+• if it has one, on its common seal.
+[sections 123, 144, 147—156,
+ASIC Practice Note 47]
+
+Part 1.5  Small business guide
+4.2 Extract of particulars
+
+Each year, ASIC issues each company with an extract of 
+particulars within 2 weeks of the company’s review date (which is 
+generally the anniversary of the company’s registration). The 
+extract includes details recorded on ASIC’s database such as:
+• names and addresses of each director and company 
+secretary;
+• issued shares and options granted;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.5  Small business guide
+
+Part 1.5  Small business guide
+Section 4
+
+Part 1.5  Small business guide
+252 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025• details of its shareholders;
+• address of its registered office;
+• address of its principal place of business.
+If any of the details are not correct as at the date the extract is 
+received, the company must correct those details.
+The correction may be lodged with ASIC on a printed form or, if 
+an agreement is in place to lodge electronically, in accordance with 
+the agreement.
+[Sections 346A and 346C, 352]
+
+Part 1.5  Small business guide
+4.3 Review fee
+
+A company must pay a review fee to ASIC each year.
+[Corporations (Review Fees) Act 2003]
+
+Part 1.5  Small business guide
+4.4 Notification to ASIC of changes
+
+The company must notify ASIC if certain basic changes to the 
+company occur. The following table sets out these notification 
+requirements.
+Notification requirements
+If... the company must 
+notify ASIC of the 
+change...see section...
+
+Part 1.5  Small business guide
+1 a company issues shares within 28 days after the
+
+issue254X
+
+Part 1.5  Small business guide
+2 a company changes the location
+
+of a registerwithin 7 days after the 
+change172
+
+Part 1.5  Small business guide
+3 a company changes the address of
+
+its registered office or principal 
+place of businesswithin 28 days after the 
+change 142, 146
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Small business guide  Part 1.5

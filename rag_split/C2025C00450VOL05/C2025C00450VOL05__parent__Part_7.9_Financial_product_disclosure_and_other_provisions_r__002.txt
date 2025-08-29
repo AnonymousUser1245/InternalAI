@@ -1,0 +1,212 @@
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021G
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+164 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251021G  Financial services licensee failing to ensure authorised 
+representative gives etc. disclosure documents or 
+statements as required
+Financial services licensee must ensure authorised representative 
+gives etc. disclosure documents or statements as required
+(1) A financial services licensee contravenes this subsection if the 
+licensee does not take reasonable steps to ensure that an authorised 
+representative of the licensee complies with their obligations under 
+this Part to give or communicate disclosure documents or 
+statements as and when required by this Part.
+Fault-based offence
+(2) A person commits an offence if the person contravenes 
+subsection (1).
+Civil liability
+(3) A person contravenes this subsection if the person contravenes 
+subsection (1).
+Note: This subsection is a civil penalty provision (see section 1317E).
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+1021H  Offences if a Product Disclosure Statement (or
+
+Supplementary PDS) does not comply with certain 
+requirements
+(1) A person commits an offence if:
+(a) the person prepares (or has someone else prepare for them) a 
+Product Disclosure Statement, a Supplementary Product 
+Disclosure Statement or a Replacement Product Disclosure 
+Statement (the disclosure document); and
+(b) the disclosure document does not comply with:
+(i) if it is a Product Disclosure Statement—section 1013B 
+or 1013G or subsection 942DA(3); or
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Enforcement  Division 7
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021I
+
+Corporations Act 2001 165
+Compilation No. 143 Compilation date: 09/07/2025(ii) if it is a Supplementary Product Disclosure Statement—
+section 1013G, 1014B or 1014C; or
+(iii) if it is a Replacement Product Disclosure Statement—
+subsection 942DA(3), section 1013G or 
+subsection 1014K(1), (2) or (3); and
+(c) the person:
+(i) gives (see subsection (3)) another person the disclosure 
+document in circumstances in which it is required by a 
+provision of this Part to be given to the other person; or
+(ii) gives (see subsection (3)), or makes available to, 
+another person the disclosure document, reckless as to 
+whether the other person will or may rely on the 
+information in it; or
+(iii) gives (see subsection (3)), or makes available to, 
+another person the disclosure document, reckless as to 
+whether the other person, or someone else, will or may 
+give it, or make it available, to another person as 
+mentioned in subparagraph (i) or (ii).
+Note: A defendant bears an evidential burden in relation to the matters in 
+sections 1012D, 1012DAA, 1012DA and 1012E.
+(2) For the purposes of an offence based on subsection (1), strict 
+liability applies to paragraph (b) of that subsection.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(3) In this section, give means give by any means (including orally), 
+and is not limited to giving in accordance with section 1015C.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+1021I  Offence of giving disclosure document or statement that has
+
+not been prepared by the appropriate person
+(1) A regulated person commits an offence if:
+(a) the regulated person:
+(i) gives (see subsection (2)) another person a disclosure 
+document or statement (not being information required 
+by paragraph 1012G(3)(a)) in circumstances in which it 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021J
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+166 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025is required by a provision of this Part to be given to the 
+other person; or
+(ii) gives (see subsection (2)), or makes available to, 
+another person a disclosure document or statement (not 
+being information required by paragraph 1012G(3)(a)), 
+reckless as to whether the other person will or may rely 
+on the information in it; and
+(b) the disclosure document or statement has not been prepared 
+by, or on behalf of, the person required by section 1013A to 
+prepare it.
+Note: A defendant bears an evidential burden in relation to the matters in 
+sections 1012D, 1012DAA, 1012DA and 1012E.
+(2) In this section, give means give by any means (including orally), 
+and is not limited to giving in accordance with section 1015C.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+1021J  Offences if preparer etc. of disclosure document or statement
+
+becomes aware that it is defective
+(1) A person commits an offence if:
+(a) the person prepares (or has someone else prepare for them) a 
+disclosure document or statement (not being information 
+required by paragraph 1012G(3)(a)); and
+(b) the person becomes aware that the disclosure document or 
+statement is defective; and
+(c) the person does not, as soon as practicable, take reasonable 
+steps to ensure that any regulated person to whom the 
+disclosure document or statement has been provided for 
+further distribution is given a direction that satisfies one of 
+more of the following subparagraphs:
+(i) a direction not to distribute the disclosure document or 
+statement;
+(ii) if it is a Product Disclosure Statement—a direction not 
+to distribute the Product Disclosure Statement unless it 
+is accompanied by a Supplementary Product Disclosure 
+Statement that corrects the deficiency;
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Enforcement  Division 7
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021K
+
+Corporations Act 2001 167
+Compilation No. 143 Compilation date: 09/07/2025(iii) if it is a Product Disclosure Statement or a 
+Supplementary Product Disclosure Statement—a 
+direction not to distribute the Product Disclosure 
+Statement or Supplementary Product Disclosure 
+Statement without first altering it in a way that is 
+specified in the direction, being a way that corrects the 
+deficiency and that complies with section 1015E.
+(2) A regulated person commits an offence if:
+(a) the person is given a direction referred to in paragraph (1)(c); 
+and
+(b) the person does not comply with the direction.
+(3) A regulated person commits an offence if:
+(a) a disclosure document or statement (not being information 
+required by paragraph 1012G(3)(a)) has been provided to the 
+person for distribution; and
+(b) the person becomes aware that the disclosure document or 
+statement is defective; and
+(c) the person does not take reasonable steps to notify the person 
+by whom, or on whose behalf, the disclosure document or 
+statement was prepared of the particulars of the deficiency.
+(4) In this section, a reference to distributing a disclosure document or 
+statement includes (but is not limited to) giving the document or 
+statement to another person in purported compliance with a 
+requirement of this Part.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+1021K  Offence of unauthorised alteration of Product Disclosure
+
+Statement (or Supplementary PDS)
+(1) A person commits an offence if:
+(a) the person engages in conduct that results in an alteration of a 
+Product Disclosure Statement or a Supplementary Product 
+Disclosure Statement that has been prepared by or on behalf 
+of another person (the responsible person); and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021L
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+168 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) the alteration results in the Product Disclosure Statement or 
+Supplementary Product Disclosure Statement becoming 
+defective, or more defective than it previously was; and
+(c) the alteration is not made with the authority of the 
+responsible person; and
+(d) either:
+(i) the person, in purported compliance with a provision of 
+this Part, gives (see subsection (2)) the altered Product 
+Disclosure Statement or Supplementary Product 
+Disclosure Statement to another person; or
+(ii) the person gives (see subsection (2)), or makes available 
+to, another person the altered Product Disclosure 
+Statement or Supplementary Product Disclosure 
+Statement, reckless as to whether the other person will 
+or may rely on the information in it; or
+(iii) the person gives (see subsection (2)), or makes available 
+to, another person the altered Product Disclosure 
+Statement or Supplementary Product Disclosure 
+Statement, reckless as to whether the other person, or 
+someone else, will or may give it, or make it available, 
+to another person as mentioned in subparagraph (i) or 
+(ii).
+(2) In this section, give means give by any means (including orally), 
+and is not limited to giving in accordance with section 1015C.

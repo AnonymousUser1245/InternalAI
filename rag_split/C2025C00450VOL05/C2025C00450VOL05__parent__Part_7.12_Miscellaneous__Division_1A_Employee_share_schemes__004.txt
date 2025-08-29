@@ -1,0 +1,215 @@
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZB
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+368 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251100ZB  Amounts that are excluded from the monetary cap
+(1) Each amount mentioned in a subsection of this section is not 
+included in working out under section 1100ZA whether an offer 
+breaches the monetary cap.
+(2) An amount paid into an ESS contribution plan for the offer.
+(3) An amount payable by a participant or related person for the issue 
+or sale of ESS interests to the extent that, under the terms of the 
+offer, the amount can only become payable during a liquidity 
+period for the ESS interests.
+(4) An amount payable on the exercise of options or incentive rights to 
+the extent that, under the terms of the offer, the amount can only 
+become payable during a liquidity period for the underlying ESS 
+interests.
+(5) An amount payable by an ESS participant for the issue or sale of 
+ESS interests to the extent that, under the terms of the offer:
+(a) the amount can only become payable no longer than 7 days 
+before the start of a liquidity period for the ESS interests; and
+(b) all application money received from ESS participants before 
+the start of a liquidity period must be held on trust for the 
+ESS participants until:
+(i) the start of the liquidity period; or
+(ii) the money is returned to the ESS participants; and
+(c) if application money needs to be returned to an ESS 
+participant, it must be returned as soon as practicable.
+(6) An amount payable by an ESS participant on the exercise of 
+options or incentive rights to the extent that, under the terms of the 
+offer:
+(a) the amount can only become payable no longer than 7 days 
+before the start of a liquidity period for the underlying ESS 
+interests; and
+(b) all application money received from ESS participants before 
+the start of a liquidity period must be held in trust for the ESS 
+participants until:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Employee share schemes  Division 1A
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZC
+
+Corporations Act 2001 369
+Compilation No. 143 Compilation date: 09/07/2025(i) the start of the liquidity period; or
+(ii) the money is returned to the ESS participants; and
+(c) if application money needs to be returned to an ESS 
+participant, it must be returned as soon as practicable.
+Liquidity period for ESS interests
+(7) A liquidity period for an ESS interest is a period during which:
+(a) the ESS interest is in a class of interests that is able to be 
+traded on the official list of a financial market covered by 
+section 1100K; or
+(b) an executed sale agreement constituting an offer to acquire 
+ESS interests in the same class as the ESS interest is open for 
+acceptance; or
+(c) a circumstance prescribed by the regulations for the purposes 
+of this paragraph exists.
+Regulations may prescribe other amounts
+(8) The regulations may prescribe an amount for the purposes of this 
+subsection.
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZC
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+370 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) Unless the issue or sale is eligible to be made under this Division 
+only because of subsection 1100R(2), issues and sales of securities 
+or financial products that result from the offer are to be disregarded 
+when counting issues and sales, and the amount raised from issues 
+and sales, for the purposes of subsection 708(1) (for securities) and
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+1012E(2) (for financial products).
+
+(5) Section 1012A (about disclosure in relation to personal advice) 
+does not apply in relation to financial product advice relating to the 
+offer.
+(6) Part 7.8A (about the design and distribution requirements relating 
+to financial products for retail clients) does not apply in relation to 
+the issue, sale or transfer of a security that is an ESS interest under 
+the offer.
+Relief relating to Australian financial services licensing
+(7) A person is exempt from the requirement under 
+subsection 911A(1) to hold an Australian financial services licence 
+for a financial service they provide if:
+(a) the service:
+(i) is the provision of general advice by the person in 
+connection with the offer; or
+(ii) is, or is provided incidentally to, a custodial or 
+depository service that is provided by the person in 
+connection with the offer; or
+(iii) the service is issuing or dealing in a financial product by 
+the person in connection with the offer; or
+(iv) is dealing in an interest in an ESS contribution plan for 
+the offer; and
+(b) the person is:
+(i) the body corporate or the responsible entity of the 
+registered scheme to which the offer relates; or
+(ii) an associated entity of that body corporate or 
+responsible entity.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Employee share schemes  Division 1A
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZD
+
+Corporations Act 2001 371
+Compilation No. 143 Compilation date: 09/07/2025Relief relating to hawking of financial products
+(8) Subsection 992A(1) does not apply in relation to the offer.
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+1100ZD  Regulatory relief for certain subsequent sale offers of ESS
+
+interests
+The provisions of Part 6D.2, 6D.3 and 7.9 do not apply in relation 
+to an offer of ESS interests in a body corporate or registered 
+scheme for sale if:
+(a) the body corporate or scheme operates an employee share 
+scheme; and
+(b) the person making the offer reasonably believes that:
+(i) the person acquired the interests under the employee 
+share scheme; and
+(ii) the person is making the offer only to persons who are 
+ESS participants in relation to the body corporate or 
+registered scheme.
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+1100ZE  Dealing with money received before ESS interest is issued
+
+(1) If a person offers ESS interests for issue or sale to an ESS 
+participant in connection with an employee share scheme, the 
+person must hold:
+(a) all application money received from ESS participants 
+applying for ESS interests in connection with the employee 
+share scheme; and
+(b) all other money paid by them on account of the ESS interests 
+before they are issued or transferred;
+in trust under this section for the ESS participants until:
+(c) the ESS interests are issued or transferred; or
+(d) the money is returned to the ESS participants.
+(2) If the application money needs to be returned to an ESS 
+participant, the person must return the money as soon as 
+practicable.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZF
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+372 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) An offence based on subsection (1) or (2) is an offence of strict 
+liability.
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+1100ZF  Dealing with money received before liquidity period
+
+(1) If a person is required by the terms of an offer of ESS interests in a 
+body corporate that is not included in the official list of a financial 
+market covered by section 1100K to hold application money 
+received from ESS participants in trust until the start of a liquidity 
+period, the person must hold the application money in trust under 
+this section until:
+(a) the start of the liquidity period; or
+(b) the money is returned to the ESS participants.
+(2) If the application money needs to be returned to an ESS 
+participant, the person must return the money as soon as 
+practicable.
+(3) An offence based on subsection (1) or (2) is an offence of strict 
+liability.
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+1100ZG  Revocation of regulatory relief in certain circumstances
+
+Revocation of regulatory relief—general case
+(1) Section 1100ZC does not apply, and is taken never to have applied, 
+to an offer for the issue, sale or transfer of ESS interests in 
+connection with an employee share scheme of a body corporate or 
+registered scheme if:
+(a) at the time the offer was made, it was eligible to be made 
+under this Division because of the operation of 
+section 1100Q (offers for monetary consideration); and
+(b) at any time after the offer is made, an ESS participant makes 
+a payment to acquire ESS interests under the offer, or makes 
+a payment to exercise options or incentive rights that were 
+acquired under the offer; and
+(c) at any time after the offer is made, any of the following 
+occur:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Employee share schemes  Division 1A
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZG

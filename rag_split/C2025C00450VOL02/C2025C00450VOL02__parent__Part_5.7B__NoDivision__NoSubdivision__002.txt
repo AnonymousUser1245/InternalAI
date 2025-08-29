@@ -1,0 +1,213 @@
+Part 5.7B
+
+Voidable transactions  Division 2
+Section 588FGAC
+Corporations Act 2001 691
+Compilation No. 143 Compilation date: 09/07/2025Liquidator to be given copies of orders etc.
+(3) If ASIC makes an order under subsection 588FGAA(3) relating to 
+a company, ASIC must give the company’s liquidator a copy of the 
+order, and of any revocation or amendment of the order.
+588FGAC  Compliance with orders generally
+A person must not engage in conduct if the conduct contravenes an 
+order under subsection 588FGAA(3).
+Note: Failure to comply with this section is an offence: see 
+subsection 1311(1).
+588FGAD  Compliance with orders for payment
+Enforcement of order for payment generally
+(1) An amount payable by a person to a company under an order made 
+under paragraph 588FGAA(3)(b) is recoverable by the company as 
+a debt by action against the person in a court of competent 
+jurisdiction.
+Court order for payment if person convicted of offence
+(2) If a court convicts a person of an offence based on 
+section 588FGAC relating to a contravention by the person or 
+someone else of an order made under paragraph 588FGAA(3)(b), 
+the court may (in addition to imposing a penalty on the person for 
+the offence) order the person to pay the company an amount not 
+exceeding the amount involved in the contravention.
+Complying with order for payment by transferring property
+(3) A person ordered under paragraph 588FGAA(3)(b) to pay a 
+company the value of any property may comply with the order by 
+transferring the property to the company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Voidable transactions  Division 2
+Section 588FGB
+Corporations Act 2001 693
+Compilation No. 143 Compilation date: 09/07/2025(vi) section 222AHA of the Income Tax Assessment Act
+
+Part 5.7B
+1936;
+
+(vii) Subdivision 16-B in Schedule 1 to the Taxation 
+Administration Act 1953; or
+(b) to pay the amount of an estimate of unpaid superannuation 
+guarantee charge under Division 268 in Schedule 1 to the 
+Taxation Administration Act 1953.
+(2) Each person who was a director of the company when the payment 
+was made is liable to indemnify the Commissioner in respect of 
+any loss or damage resulting from the order.
+(3) An amount payable to the Commissioner under subsection (2):
+(a) is a debt due to the Commonwealth and payable to the 
+Commissioner; and
+(b) may be recovered in a court of competent jurisdiction by the 
+Commissioner, or a Deputy Commissioner of Taxation, suing 
+in his or her official name.
+(4) The court may, in the proceedings in which it made the order 
+against the Commissioner, order a person to pay to the 
+Commissioner an amount payable by the person under 
+subsection (2).
+(5) A person who pays an amount under subsection (2) has the same 
+rights:
+(a) whether by way of indemnity, subrogation, contribution or 
+otherwise; and
+(b) against the company or anyone else;
+as if the payment had been made under a guarantee:
+(c) of the liability referred to in subsection (1); and
+(d) under which the person and every other person who was a 
+director of the company as mentioned in subsection (2) were 
+jointly and severally liable as guarantors.
+588FGB  Defences in proceedings under section 588FGA
+(1) This section has effect for the purposes of:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Voidable transactions  Division 2
+
+Part 5.7B
+Section 588FH
+
+Corporations Act 2001 695
+Compilation No. 143 Compilation date: 09/07/2025(b) there were no such steps the person could have taken.
+(7) In determining whether a defence under subsection (6) has been 
+proved, the matters to which regard is to be had include, but are not 
+limited to:
+(a) any action the person took with a view to appointing an 
+administrator of the company or a restructuring practitioner 
+for the company; and
+(b) when that action was taken; and
+(c) the results of that action.
+
+Part 5.7B
+588FH  Liquidator may recover from related entity benefit resulting
+
+from insolvent transaction
+(1) This section applies where a company is being wound up and a 
+transaction of the company:
+(a) is an insolvent transaction of the company; and
+(b) is voidable under section 588FE; and
+(c) has had the effect of discharging, to the extent of a particular 
+amount, a liability (whether under a guarantee or otherwise 
+and whether contingent or otherwise) of a related entity of 
+the company.
+(2) The company’s liquidator may recover from the related entity, as a 
+debt due to the company, an amount equal to the amount referred 
+to in paragraph (1)(c).
+(3) In deciding what orders (if any) to make under section 588FF or 
+588FGAA on an application relating to the transaction, a court or 
+ASIC must take into account any amount recovered under 
+subsection (2) of this section.
+(4) If the liquidator recovers an amount under subsection (2) from the 
+related entity, the related entity has the same rights:
+(a) whether by way of indemnity, subrogation, contribution or 
+otherwise; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Voidable transactions  Division 2
+
+Part 5.7B
+Section 588FJ
+
+Corporations Act 2001 697
+Compilation No. 143 Compilation date: 09/07/2025(2) The circulating security interest is void, as against the company’s 
+liquidator, except so far as it secures:
+(a) an advance paid to the company, or at its direction, at or after 
+that time and as consideration for the circulating security 
+interest; or
+(b) interest on such an advance; or
+(c) the amount of a liability under a guarantee or other obligation 
+undertaken at or after that time on behalf of, or for the benefit 
+of, the company; or
+(d) an amount payable for property or services supplied to the 
+company at or after that time; or
+(e) interest on an amount so payable.
+(3) Subsection (2) does not apply if it is proved that the company was 
+solvent immediately after that time.
+(4) Paragraphs (2)(a) and (b) do not apply in relation to an advance so 
+far as it was applied to discharge, directly or indirectly, an 
+unsecured debt, whether contingent or otherwise, that the company 
+owed to:
+(a) the secured party; or
+(b) if the secured party was a body corporate—a related entity of 
+the body.
+(5) Paragraphs (2)(d) and (e) do not apply in relation to an amount 
+payable as mentioned in paragraph (2)(d) in so far as the amount 
+exceeds the market value of the property or services when supplied 
+to the company.
+(6) If, during the 6 months ending on the relation-back day, or after 
+that day but on or before the day when the winding up began, a 
+debt secured by the circulating security interest was discharged, out 
+of the company’s money or property, to the extent of a particular 
+amount (in this subsection called the realised amount), the 
+liquidator may, by proceedings in a court of competent jurisdiction, 
+recover from the secured party, as a debt due to the company, the 
+amount worked out in accordance with the formula:
+Unsecured amount Realisation costs -
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Vesting of PPSA security interests if not continuously perfected  Division 2A
+
+Part 5.7B
+Section 588FK
+
+Corporations Act 2001 699
+Compilation No. 143 Compilation date: 09/07/2025Division 2A—Vesting of PPSA security interests if not 
+continuously perfected
+
+Part 5.7B
+588FK  Interpretation and application
+
+(1) A word or expression used in this Division (other than the 
+expression PPSA security interest) has the same meaning as in the 
+Personal Property Securities Act 2009.
+Note 1: As a result of this section, in this Division, company has the same 
+meaning as in the Personal Property Securities Act 2009.
+Note 2: For PPSA security interest, see section 9.
+(2) Subsection (1) applies despite any other provision of this Act.
+(3) For the purposes of this Division, whether or not a person has 
+acquired actual or constructive knowledge of a circumstance is to 
+be determined in accordance with sections 297 to 300 of the 
+Personal Property Securities Act 2009.
+
+Part 5.7B
+588FL  Vesting of PPSA security interests if collateral not registered
+
+within time
+Scope
+(1) This section applies if:
+(a) any of the following events occurs:
+(i) an order is made, or a resolution is passed, for the 
+winding up of a company;
+(ii) an administrator of a company is appointed under 
+section 436A, 436B or 436C;
+(iii) a company executes a deed of company arrangement 
+under Part 5.3A;
+(iv) a restructuring practitioner for the company is appointed 
+under section 453B;
+(v) a company makes a restructuring plan under Division 3 
+of Part 5.3B;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Vesting of PPSA security interests if not continuously perfected  Division 2A
+
+Part 5.7B
+Section 588FL

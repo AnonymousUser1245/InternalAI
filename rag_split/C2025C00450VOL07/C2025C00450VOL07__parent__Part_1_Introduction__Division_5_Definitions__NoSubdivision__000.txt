@@ -1,0 +1,244 @@
+Part 1  Introduction
+Division 5  Definitions
+Section 5-5
+
+Part 1  Introduction
+Division 5  Definitions
+4 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025approved form: a document is lodged in the approved form if it is 
+lodged in accordance with section 100-6.
+committee of inspection for a company means:
+(a) a committee appointed under sections 80-10 to 80-25 in 
+relation to the external administration of the company; or
+(b) a committee that is taken to be a committee of inspection in 
+relation to the external administration of the company under 
+subsection 80-26(3) (the company is a member of a pooled 
+group).
+creditor, when used in relation to a company under external 
+administration, means a creditor of the company.
+current conditions: see section 5-10.
+end of administration return means the return required to be 
+lodged under subsection 70-6(2).
+end of an external administration of a company means:
+(a) in relation to a company under administration—the day 
+worked out under paragraph 435C(1)(b); and
+(b) in relation to a company subject to a deed of company 
+arrangement—the day the deed is terminated; and
+(ba) in relation to a company under restructuring—the day 
+worked out under regulations made for the purposes of 
+paragraph 453A(b); and
+(bb) in relation to a company subject to a restructuring plan—the 
+day the plan is terminated; and
+(c) in the case of a winding up of a company—the day on which 
+the affairs of the company are fully wound up.
+external administration of a company: see section 5-15.
+external administrator of a company: see section 5-20.
+financial interest: a person has a financial interest in the external 
+administration of a company in the circumstances set out in 
+section 5-30.
+Authorised Version C2025C00450 registered 21/07/2025Insolvency Practice Schedule (Corporations)  Schedule 2
+Introduction  Part 1
+Definitions  Division 5
+
+Part 1  Introduction
+Division 5  Definitions
+Section 5-5
+
+Corporations Act 2001 5
+Compilation No. 143 Compilation date: 09/07/2025GST has the same meaning as in the A New Tax System (Goods 
+and Services Tax) Act 1999.
+Insolvency Practice Rules means the rules made by the Minister 
+under section 105-1.
+Insolvency Practice Schedule (Bankruptcy) means Schedule 2 to 
+the Bankruptcy Act 1966, and includes rules made under 
+section 105-1 of that Schedule.
+March quarter means the period of 3 months beginning on
+
+Part 1  Introduction
+Division 5  Definitions
+1 January.
+
+maximum default amount for an external administrator of a 
+company: see section 60-15.
+member of a pooled group: see section 5-27.
+pooled group: see section 5-27.
+prescribed means prescribed by the Insolvency Practice Rules.
+property has a meaning affected by section 5-26.
+registered liquidator means an individual who is registered as a 
+liquidator under Part 2 of this Schedule.
+Register of Liquidators means the register established and 
+maintained by ASIC under section 15-1.
+related entity, in relation to an individual, has the same meaning as 
+in the Bankruptcy Act 1966.
+remuneration determination, for an external administrator of a 
+company, means a determination made in accordance with 
+section 60-10 in relation to the external administrator.
+resolution: a resolution is passed by creditors or contributories of a 
+company:
+(a) in a meeting—in the circumstances prescribed under 
+paragraph 75-50(2)(k); or
+Authorised Version C2025C00450 registered 21/07/2025Schedule 2  Insolvency Practice Schedule (Corporations)
+
+Part 1  Introduction
+Division 5  Definitions
+Section 5-5
+
+Part 1  Introduction
+Division 5  Definitions
+6 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) without a meeting—in the circumstances prescribed under 
+paragraph 75-40(5)(b).
+reviewing liquidator means a registered liquidator who has been 
+appointed under section 90-23 or 90-24 to conduct a review.
+special resolution: a special resolution is passed by creditors or 
+contributories of a company:
+(a) in a meeting—in the circumstances prescribed under 
+paragraph 75-50(2)(k); or
+(b) without a meeting—in the circumstances prescribed under 
+paragraph 75-40(5)(b).
+start of an external administration of a company means:
+(a) in relation to a company under administration—the day an 
+administrator of the company is appointed under 
+section 436A, 436B or 436C; and
+(b) in relation to a company that is subject to a deed of company 
+arrangement—the day the deed is executed; and
+(ba) in relation to a company under restructuring—the day a 
+restructuring practitioner for the company is appointed under 
+section 453B; and
+(bb) in relation to a company that is subject to a restructuring 
+plan—the day the plan is made; and
+(c) in the case of a winding up of a company—the day the 
+winding up of the company is taken to have begun under 
+section 513A or 513B; and
+(d) in relation to a company for which a provisional liquidator 
+has been appointed—the day the provisional liquidator is 
+appointed.
+this Schedule includes the Insolvency Practice Rules.
+Authorised Version C2025C00450 registered 21/07/2025Insolvency Practice Schedule (Corporations)  Schedule 2
+Introduction  Part 1
+Definitions  Division 5
+
+Part 1  Introduction
+Division 5  Definitions
+Section 5-10
+
+Corporations Act 2001 7
+Compilation No. 143 Compilation date: 09/07/2025Subdivision C—Other definitions
+
+Part 1  Introduction
+Division 5  Definitions
+5-10  Meaning of current conditions
+
+(1) Each of the following is a current condition imposed on a 
+registered liquidator:
+(a) a condition that a committee decides that the registered 
+liquidator is to be subject to under subsection 20-20(5) or (6), 
+subject to any variation that a committee has decided should 
+be made to the condition under section 20-55;
+(b) a condition imposed on all registered liquidators, or on 
+registered liquidators of the liquidator’s class, under 
+section 20-35;
+(c) a condition imposed under subsection 40-15(2) (direction not 
+to accept further appointments);
+(d) a condition that a committee decides that the registered 
+liquidator is to be subject to under paragraph 40-55(1)(f) or 
+(g) (conditions as a result of disciplinary action), subject to 
+any variation that a committee has decided should be made to 
+the condition under section 20-55;
+(e) a condition imposed on the registered liquidator by the Court 
+under section 45-1.
+(2) However, the current conditions imposed on a registered 
+liquidator do not include:
+(a) a condition that a committee has decided to remove under 
+section 20-55; or
+(b) a condition that is removed under subsection 40-15(4) 
+(condition removed because a direction not to accept further 
+appointments has been withdrawn); or
+(c) a condition that the Court has ordered be removed under 
+section 45-1.
+
+Part 1  Introduction
+Division 5  Definitions
+5-15  Meaning of external administration of a company
+
+A company is taken to be under external administration if:
+(a) the company is under administration; or
+Authorised Version C2025C00450 registered 21/07/2025Schedule 2  Insolvency Practice Schedule (Corporations)
+
+Part 1  Introduction
+Division 5  Definitions
+Section 5-20
+
+Part 1  Introduction
+Division 5  Definitions
+8 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) a deed of company arrangement has been entered into in 
+relation to the company; or
+(ba) the company is under restructuring; or
+(bb) a restructuring plan has been made in relation to the 
+company; or
+(c) a liquidator has been appointed in relation to the company; or
+(d) a provisional liquidator has been appointed in relation to the 
+company.
+Note: A company is not under external administration for the purposes of 
+this Schedule merely because a receiver, receiver and manager, or 
+other controller has been appointed in relation to property of the 
+company.
+
+Part 1  Introduction
+Division 5  Definitions
+5-20  Meaning of external administrator of a company
+
+A person is an external administrator of a company if the person 
+is:
+(a) the administrator of the company; or
+(b) the administrator under a deed of company arrangement that 
+has been entered into in relation to the company; or
+(ba) the restructuring practitioner for the company; or
+(bb) the restructuring practitioner for a restructuring plan that has 
+been made in relation to the company; or
+(c) the liquidator of the company; or
+(d) the provisional liquidator of the company.
+Note: A person is not an external administrator of a company for the 
+purposes of this Schedule merely because the person has been 
+appointed as a receiver, receiver and manager, or controller in relation 
+to property of the company.
+
+Part 1  Introduction
+Division 5  Definitions
+5-25  References to the external administrator of a company
+
+A reference in this Schedule to the external administrator of a 
+company is to be read:
+(a) in relation to a company in respect of which there are 2 or 
+more joint external administrators—as a reference to all of 
+the external administrators; and
+Authorised Version C2025C00450 registered 21/07/2025Insolvency Practice Schedule (Corporations)  Schedule 2
+Introduction  Part 1
+Definitions  Division 5
+
+Part 1  Introduction
+Division 5  Definitions
+Section 5-26
+
+Corporations Act 2001 9
+Compilation No. 143 Compilation date: 09/07/2025(b) in relation to a company in respect of which there are 2 or 
+more joint and several external administrators—as a 
+reference to all of the external administrators or any one or 
+more of the external administrators.
+
+Part 1  Introduction
+Division 5  Definitions
+5-26  Property of a company
+
+The property of a company includes any PPSA retention of title 
+property of the company.
+Note: See sections 9 (definition of property) and 51F (PPSA retention of 
+title property).
+
+Part 1  Introduction
+Division 5  Definitions
+5-27  Meaning of pooled group

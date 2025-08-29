@@ -1,0 +1,116 @@
+Part 7.8  Other provisions relating to conduct etc. connected with financial products
+Division 8  Miscellaneous
+Section 992B
+
+Corporations Act 2001 813
+Compilation No. 143 Compilation date: 09/07/2025992B  Exemptions and modifications by ASIC
+(1) ASIC may:
+(a) exempt a person or class of persons from all or specified 
+provisions of this Part; or
+(b) exempt a financial product or class of financial products from 
+all or specified provisions of this Part; or
+(c) declare that this Part applies in relation to a person or a 
+financial product, or a class of persons or financial products, 
+as if specified provisions of this Part were omitted, modified 
+or varied as specified in the declaration.
+(3) An exemption may apply unconditionally or subject to specified 
+conditions. A person to whom a condition specified in an 
+exemption applies must comply with the condition. The Court may 
+order the person to comply with the condition in a specified way. 
+Only ASIC may apply to the Court for the order.
+(4) An exemption or declaration must be in writing and ASIC must 
+publish notice of it in the Gazette.
+(5) If conduct (including an omission) of a person would not have 
+constituted an offence if a particular declaration under 
+paragraph (1)(c) had not been made, that conduct does not 
+constitute an offence unless, before the conduct occurred (in 
+addition to complying with the gazettal requirement of 
+subsection (4)):
+(a) the text of the declaration was made available by ASIC on 
+the internet; or
+(b) ASIC gave written notice setting out the text of the 
+declaration to the person.
+In a prosecution for an offence to which this subsection applies, the 
+prosecution must prove that paragraph (a) or (b) was complied with 
+before the conduct occurred.
+(6) For the purpose of this section, the provisions of this Part include:
+(a) definitions in this Act, or in the regulations, as they apply to 
+references in this Part; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.8  Other provisions relating to conduct etc. connected with financial products
+Division 8  Miscellaneous
+Section 992C
+
+Part 7.8  Other provisions relating to conduct etc. connected with financial products
+Division 8  Miscellaneous
+814 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) any provisions of Part 10.2 (transitional provisions) that 
+relate to provisions of this Part.
+Note: Because of section 761H, a reference to this Part or Part 10.2 also 
+includes a reference to regulations or other instruments made for the 
+purposes of this Part or Part 10.2 (as the case requires).
+
+Part 7.8  Other provisions relating to conduct etc. connected with financial products
+Division 8  Miscellaneous
+992C  Exemptions and modifications by regulations
+
+(1) The regulations may:
+(a) exempt a person or class of persons from all or specified 
+provisions of this Part; or
+(b) exempt a financial product or a class of financial products 
+from all or specified provisions of this Part; or
+(c) provide that this Part applies as if specified provisions were 
+omitted, modified or varied as specified in the regulations.
+(2) For the purpose of this section, the provisions of this Part include:
+(a) definitions in this Act, or in the regulations, as they apply to 
+references in this Part; and
+(b) any provisions of Part 10.2 (transitional provisions) that 
+relate to provisions of this Part.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Other provisions relating to conduct etc. connected with financial products and financial 
+services, other than financial product disclosure  Part 7.8
+Enforcement  Division 9
+
+Part 7.8  Other provisions relating to conduct etc. connected with financial products
+Division 8  Miscellaneous
+Section 993A
+
+Corporations Act 2001 815
+Compilation No. 143 Compilation date: 09/07/2025Division 9—Enforcement
+
+Part 7.8  Other provisions relating to conduct etc. connected with financial products
+Division 8  Miscellaneous
+993A  Overview
+
+This Division contains provisions creating offences by reference to 
+various rules contained in preceding Divisions of this Part. 
+However, it does not create all the offences relating to those rules, 
+as some offences are created by subsection 1311(1). Where 
+offences are created by subsection 1311(1) in relation to a rule, this 
+is indicated by a note at the end of the provision containing the 
+rule.
+
+Part 7.8  Other provisions relating to conduct etc. connected with financial products
+Division 8  Miscellaneous
+993B  Offence of failing to pay client money into an account as
+
+required
+Strict liability offence
+(1) A financial services licensee commits an offence if:
+(a) the licensee is required by subsection 981B(1) to pay 
+particular money into an account in accordance with that 
+subsection; and
+(b) the licensee does not pay the money into an account in 
+accordance with that subsection.
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Ordinary offence
+(3) A financial services licensee commits an offence if:
+(a) the licensee is required by subsection 981B(1) to pay 
+particular money into an account in accordance with that 
+subsection; and
+(b) the licensee does not pay the money into an account in 
+accordance with that subsection.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

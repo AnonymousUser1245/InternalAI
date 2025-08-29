@@ -1,0 +1,179 @@
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+Section 766C
+
+Corporations Act 2001 45
+Compilation No. 143 Compilation date: 09/07/2025(b) any other document or statement of a kind prescribed by 
+regulations made for the purposes of this paragraph.
+outside expert, in relation to an exempt document or statement, 
+means an expert who is not:
+(a) the person by whom, or on whose behalf, the exempt 
+document or statement was prepared; or
+(b) an employee or director of that person.
+
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+766C  Meaning of dealing
+
+(1) The the following conduct (whether engaged in as principal or 
+agent) constitutes dealing in a financial product:
+(a) applying for or acquiring a financial product;
+(b) issuing a financial product;
+(c) in relation to securities and interests in managed investment 
+schemes—underwriting the securities or interests;
+(d) varying a financial product;
+(e) disposing of a financial product.
+(2) Arranging for a person to engage in conduct referred to in 
+subsection (1) is also dealing in a financial product, unless the 
+actions concerned amount to providing financial product advice.
+(2A) Despite subsections (1) and (2), providing a crowd-funding service 
+does not constitute dealing in a financial product.
+(3) A person is taken not to deal in a financial product if the person 
+deals in the product on their own behalf (whether directly or 
+through an agent or other representative), unless:
+(a) the person is an issuer of financial products; and
+(b) the dealing is in relation to one or more of those products.
+(3A) For the purposes of subsection (3), a person (the agent) who deals 
+in a product as an agent or representative of another person (the 
+principal) is not taken to deal in the product on the agent’s own 
+behalf, even if that dealing, when considered as a dealing by the 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+Section 766D
+
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+46 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025principal, is a dealing by the principal on the principal’s own 
+behalf.
+(4) Also, a transaction entered into by a person who is, or who 
+encompasses or constitutes in whole or in part, any of the 
+following entities:
+(a) a government or local government authority;
+(b) a public authority or instrumentality or agency of the Crown;
+(c) a body corporate (other than a CCIV) or an unincorporated 
+body;
+(ca) a CCIV;
+is taken not to be dealing in a financial product by that person if 
+the transaction relates only to:
+(d) securities of that entity; or
+(e) if the entity is a government—debentures, stocks or bonds 
+issued or proposed to be issued by that government.
+(5) Paragraph (4)(c) does not apply if the entity:
+(a) carries on a business of investment in securities, interests in 
+land or other investments; and
+(b) in the course of carrying on that business, invests funds 
+subscribed, whether directly or indirectly, after an offer or 
+invitation to the public (within the meaning of section 82) 
+made on terms that the funds subscribed would be invested.
+(6) A transaction entered into by a sub-underwriter of an issue of 
+securities that relates only to the sub-underwriting is taken not to 
+be dealing in a financial product.
+(7) The regulations may prescribe conduct that is taken to be, or not to 
+be, dealing in a financial product. Regulations made for the 
+purposes of this subsection have effect despite anything else in this 
+section.
+
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+766D  Meaning of makes a market
+
+(1) A person makes a market for a financial product if:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of financial service and related terms  Division 4
+
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+Section 766E
+
+Corporations Act 2001 47
+Compilation No. 143 Compilation date: 09/07/2025(a) either through a facility, at a place or otherwise, the person 
+regularly states the prices at which they propose to acquire or 
+dispose of financial products on their own behalf; and
+(b) other persons have a reasonable expectation that they will be 
+able to regularly effect transactions at the stated prices; and
+(c) the actions of the person do not, or would not if they 
+happened through a facility or at a place, constitute operating 
+a financial market because of the effect of 
+paragraph 767A(2)(a).
+(2) Paragraph (1)(a) does not apply to a person stating prices at which 
+they propose to acquire or dispose of financial products if:
+(a) the person is the issuer of the products; and
+(b) the products are:
+(i) superannuation products; or
+(ii) managed investment products; or
+(iii) financial products referred to in paragraph 764A(1)(ba) 
+(which relates to certain managed investment schemes 
+that are not registered schemes); or
+(iv) foreign passport fund products.
+
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+766E  Meaning of custodial or depository service
+
+(1) A person (the provider) provides a custodial or depository service 
+to another person (the client) if, under an arrangement between the 
+provider and the client, or between the provider and another person 
+with whom the client has an arrangement, (whether or not there are 
+also other parties to any such arrangement), a financial product, or 
+a beneficial interest in a financial product, is held by the provider 
+in trust for, or on behalf of, the client or another person nominated 
+by the client.
+(2) The following provisions apply in relation to a custodial or 
+depository service:
+(a) subject to paragraph (b), the time at which a custodial or 
+depository service is provided is the time when the financial 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+Section 766E
+
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+48 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025product or beneficial interest concerned is first held by the 
+provider as mentioned in subsection (1);
+(b) for the purposes of Part 7.6, and of any other provisions of 
+this Act prescribed by regulations made for the purposes of 
+this paragraph, the continued holding of the financial product 
+or beneficial interest concerned by the provider as mentioned 
+in subsection (1) also constitutes the provision of a custodial 
+or depository service.
+Note: Because of paragraph (a) (subject to regulations made for the purposes 
+of paragraph (b)), the requirements of Part 7.7 relating to financial 
+services disclosure need only be complied with before the product or 
+interest is first held by the provider. However, because of 
+paragraph (b), the provider will be subject to the licensing and related 
+requirements of Part 7.6 for so long as they continue to hold the 
+product or interest.
+(3) However, the following conduct does not constitute providing a 
+custodial or depository service:
+(a) the operation of a clearing and settlement facility;
+(b) the operation of a registered scheme, or the holding of the 
+assets of a registered scheme;
+(ba) the operation of a notified foreign passport fund;
+(bb) the holding of the assets of a notified foreign passport fund;
+(c) the operation of:
+(i) a regulated superannuation fund; or
+(ii) an AFCA regulated superannuation scheme; or
+(iii) an approved deposit fund; or
+(iv) a pooled superannuation trust;
+by the trustees of that fund, scheme or trust;
+(ca) the operation of a statutory fund by a life company (within 
+the meaning of the Life Insurance Act 1995);
+(d) the provision of services to a related body corporate;
+(e) any other conduct of a kind prescribed by regulations made 
+for the purposes of this paragraph.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of financial service and related terms  Division 4
+
+Part 7.1  Preliminary
+Division 4  Meaning of financial service and related terms
+Section 766F

@@ -1,0 +1,281 @@
+Part 6A.7  Miscellaneous
+
+Part 6A.7  Miscellaneous
+Section 669A
+
+Part 6A.7  Miscellaneous
+338 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) This section does not apply to a document that is required or 
+permitted to be sent by or to ASIC under this Chapter.
+(5) This section applies to a requirement or permission to send a 
+document, whether the expression send, give, serve or dispatch, or 
+any other expression, is used.
+Authorised Version C2025C00450 registered 21/07/2025Rights and liabilities in relation to Chapter 6 and 6A matters  Chapter 6B
+
+Part 6A.7  Miscellaneous
+Section 670A
+
+Corporations Act 2001 339
+Compilation No. 143 Compilation date: 09/07/2025Chapter 6B—Rights and liabilities in relation 
+to Chapter 6 and 6A matters
+
+Part 6A.7  Miscellaneous
+670A  Misstatements in, or omissions from, takeover and compulsory
+
+acquisition and buy-out documents
+(1) A person must not give:
+(a) a bidder’s statement;
+(b) a takeover offer document;
+(c) a notice of variation of a takeover offer;
+(d) a target’s statement;
+(e) a compulsory acquisition notice under section 661B or 664C;
+(f) a compulsory buy-out notice under section 662B, 663B or
+
+Part 6A.7  Miscellaneous
+665B;
+
+(g) a report that is included in, or accompanies, a statement or 
+notice referred to in paragraphs (a) to (f);
+if there is:
+(h) for all documents—a misleading or deceptive statement in 
+the document; or
+(i) for a bidder’s statement or target’s statement—an omission 
+from the document of material required by section 636 or
+
+Part 6A.7  Miscellaneous
+638; or
+
+(j) for a bidder’s statement or a target’s statement—a new 
+circumstance that:
+(i) has arisen since the document was lodged; and
+(ii) would have been required by section 636 or 638 to be 
+included in the document if it had arisen before the 
+document was lodged; or
+(k) for an expert’s report under subsection 636(2) or section 640,
+
+Part 6A.7  Miscellaneous
+663B, 664C or 665B—an omission from the report of
+
+material required by subsection 648A(3) or 667B(2).
+Note 1: See section 670D for defences.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6B  Rights and liabilities in relation to Chapter 6 and 6A matters
+
+Part 6A.7  Miscellaneous
+Section 670B
+
+Part 6A.7  Miscellaneous
+340 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note 2: Section 1041H imposes liabilities in respect of other conduct related 
+to the dealings in securities.
+Forecasts and other forward-looking statement
+(2) A person is taken to make a misleading statement about a future 
+matter (including the doing of, or refusing to do, an act) if they do 
+not have reasonable grounds for making the statement. This 
+subsection does not limit the meaning of a reference to a 
+misleading statement or a statement that is misleading in a material 
+particular.
+Offence if statement, omission or new matter materially adverse
+(3) A person commits an offence if they contravene subsection (1) 
+and:
+(a) the misleading or deceptive statement; or
+(b) the omission or new circumstance;
+is materially adverse from the point of view of the holder of 
+securities to whom the document is given.
+Civil liability
+(4) A person contravenes this subsection if:
+(a) the person contravenes subsection (1); and
+(b) either:
+(i) the misleading or deceptive statement; or
+(ii) the omission or new circumstance;
+is materially adverse from the point of view of the holder of 
+securities to whom the document is given.
+Note: This subsection is a civil penalty provision (see section 1317E).
+
+Part 6A.7  Miscellaneous
+670B  Right to recover for loss or damage resulting from
+
+contravention
+(1) A person who suffers loss or damage that results from a 
+contravention of subsection 670A(1) may recover the amount of 
+the loss or damage from a person referred to in the following table 
+Authorised Version C2025C00450 registered 21/07/2025Rights and liabilities in relation to Chapter 6 and 6A matters  Chapter 6B
+
+Part 6A.7  Miscellaneous
+Section 670B
+
+Corporations Act 2001 341
+Compilation No. 143 Compilation date: 09/07/2025if the loss or damage is one that the table makes the person liable 
+for. This is so even if the person did not commit, and was not 
+involved in, the contravention.
+People liable on the document [operative table]
+For these documents
+these people… ...are liable for loss or damages 
+caused by
+bidder’s statement or takeover offer document
+
+Part 6A.7  Miscellaneous
+1 the bidder any contravention of
+
+subsection 670A(1) in relation to the 
+document
+
+Part 6A.7  Miscellaneous
+2 each director of a bidder that is a
+
+body if the consideration offered 
+under the bid is not a cash sum onlyany contravention of 
+subsection 670A(1) in relation to the 
+document
+
+Part 6A.7  Miscellaneous
+3 a director of a bidder that is a body
+
+(other than a notified foreign 
+passport fund) unless the director 
+proves that they:
+(a) were not present when the 
+directors resolved to adopt the 
+statement or offer document; or
+(b) voted against the resolution;
+if the consideration offered under 
+the bid is a cash sum onlyany contravention of 
+subsection 670A(1) in relation to the 
+document
+See also items 10 and 11.
+notice of variation of a takeover offer
+
+Part 6A.7  Miscellaneous
+4 the bidder any contravention of
+
+subsection 670A(1) in relation to the 
+document
+
+Part 6A.7  Miscellaneous
+5 a director of a bidder that is a body any contravention of
+
+subsection 670A(1) in relation to the 
+document
+See also items 10 and 11.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6B  Rights and liabilities in relation to Chapter 6 and 6A matters
+
+Part 6A.7  Miscellaneous
+Section 670B
+
+Part 6A.7  Miscellaneous
+342 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025People liable on the document [operative table]
+For these documents
+these people… ...are liable for loss or damages 
+caused by
+a target’s statement
+
+Part 6A.7  Miscellaneous
+6 the target any contravention of
+
+subsection 670A(1) in relation to the 
+document
+
+Part 6A.7  Miscellaneous
+7 a director of the target unless the
+
+director proves that they:
+(a) were not present when the 
+directors resolved to adopt the 
+statement; or
+(b) voted against the resolutionany contravention of 
+subsection 670A(1) in relation to the 
+document
+See also items 10 and 11.
+a compulsory acquisition or compulsory buy-out notice
+
+Part 6A.7  Miscellaneous
+8 the person giving the notice any contravention of
+
+subsection 670A(1) in relation to the 
+document
+
+Part 6A.7  Miscellaneous
+9 a director of a body corporate (other
+
+than a notified foreign passport 
+fund) giving the notice unless the 
+director proves that they:
+(a) were not present when the 
+directors resolved to give the 
+notice; or
+(b) voted against the resolutionany contravention of 
+subsection 670A(1) in relation to the 
+document
+See also items 10 and 11.
+
+Part 6A.7  Miscellaneous
+9A if a notified foreign passport fund is
+
+giving the notice, a director of the 
+operator of the fund unless the 
+director proves that they:
+(a) were not present when the 
+directors resolved to give the 
+notice; or
+(b) voted against the resolutionany contravention of 
+subsection 670A(1) in relation to the 
+document
+See also items 10 and 11.
+Authorised Version C2025C00450 registered 21/07/2025Rights and liabilities in relation to Chapter 6 and 6A matters  Chapter 6B
+
+Part 6A.7  Miscellaneous
+Section 670C
+
+Corporations Act 2001 343
+Compilation No. 143 Compilation date: 09/07/2025People liable on the document [operative table]
+For these documents
+these people… ...are liable for loss or damages 
+caused by
+
+Part 6A.7  Miscellaneous
+10 all documents
+
+a person named in the document, 
+with their consent, as having made 
+a statement:
+(a) that is included in the document; 
+or
+(b) on which a statement made in 
+the document is basedthe inclusion of the statement in the 
+document
+
+Part 6A.7  Miscellaneous
+11 a person who contravenes, or is
+
+involved in a contravention of, 
+subsection 670A(1)that contravention
+(2) An action under subsection (1) may begin at any time within 6 
+years after the day on which the cause of action arose.
+(3) This Chapter does not affect any liability that a person has under 
+any other law.
+Note: Conduct that contravenes subsection 670A(1) is expressly excluded 
+from the operation of section 1041H.
+
+Part 6A.7  Miscellaneous
+670C  People liable on takeover or compulsory acquisition statement
+
+to inform maker about deficiencies in the statement
+(1) A person referred to in the table in subsection 670B(1) in relation 
+to a document must notify the issuer of the document in writing as 
+soon as practicable if they become aware during the bid period or 
+objection period that:
+(a) a material statement in the document is misleading or 
+deceptive; or
+(b) there is a material omission from the document of 
+information required by section 636, 638 or 640; or
+(c) a material new circumstance that:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6B  Rights and liabilities in relation to Chapter 6 and 6A matters
+
+Part 6A.7  Miscellaneous
+Section 670D
+
+Part 6A.7  Miscellaneous
+344 Corporations Act 2001

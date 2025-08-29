@@ -1,0 +1,159 @@
+Part 6.4  Formulating the takeover offer
+Division 1  General
+Section 618
+
+Part 6.4  Formulating the takeover offer
+Division 1  General
+214 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025618  Offers must be for all or a proportion of securities in the bid 
+class
+Off-market bid
+(1) An offer for securities under an off-market bid must be an offer to 
+buy:
+(a) all the securities in the bid class; or
+(b) a specified proportion of the securities in the bid class.
+The proportion specified under paragraph (b) must be the same for 
+all holders of securities in the bid class.
+Off-market bid—non-marketable parcels
+(2) If accepting an offer under an off-market bid for quoted securities 
+would leave a person with a parcel of the securities that is less than 
+a marketable parcel (within the meaning of the rules of the relevant 
+financial market), the offer extends to that parcel.
+Market bid
+(3) An offer for securities under a market bid must be an offer to buy 
+all the securities in the bid class.
+
+Part 6.4  Formulating the takeover offer
+Division 1  General
+619  General terms of the offer
+
+Off-market bid
+(1) All the offers made under an off-market bid must be the same.
+Note: The offers may include alternative forms of consideration (see 
+section 621).
+(2) In applying subsection (1), disregard the following:
+(a) any differences in the offers attributable to the fact that the 
+number of securities that may be acquired under each offer is 
+limited by the number of securities held by the holder;
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Formulating the takeover offer  Part 6.4
+General  Division 1
+
+Part 6.4  Formulating the takeover offer
+Division 1  General
+Section 620
+
+Corporations Act 2001 215
+Compilation No. 143 Compilation date: 09/07/2025(b) any differences in the offers attributable to the fact that the 
+offers relate to securities having different accrued dividend or 
+distribution entitlements;
+(c) any differences in the offers attributable to the fact that the 
+offers relate to securities on which different amounts are paid 
+up or remain unpaid;
+(d) any differences in the offers attributable to the fact that the 
+bidder may issue or transfer only whole numbers of securities 
+as consideration for the acquisition;
+(e) any additional cash amount offered to holders instead of the 
+fraction of a security that they would otherwise be offered.
+Foreign holders
+(3) If the consideration for the bid includes an offer of securities, the 
+securities do not need to be offered to foreign holders of the 
+target’s securities if under the terms of the bid:
+(a) the bidder must appoint a nominee for foreign holders of the 
+target’s securities who is approved by ASIC; and
+(b) the bidder must transfer to the nominee:
+(i) the securities that would otherwise be transferred to the 
+foreign holders who accept the bid for that 
+consideration; or
+(ii) the right to acquire those securities; and
+(c) the nominee must sell the securities, or those rights, and 
+distribute to each of those foreign holders their proportion of 
+the proceeds of the sale net of expenses.
+
+Part 6.4  Formulating the takeover offer
+Division 1  General
+620  Off-market bid (offer formalities)
+
+(1) Each offer under an off-market bid must:
+(a) be in writing; and
+(b) have the same date; and
+(c) provide that, unless withdrawn, it will remain open until the 
+end of the offer period (see section 624); and
+(d) state how, and when, the bidder is to satisfy their obligations.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.4  Formulating the takeover offer
+Division 1  General
+Section 620
+
+Part 6.4  Formulating the takeover offer
+Division 1  General
+216 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) Each offer must provide that the bidder is to pay or provide the 
+consideration for the offer:
+(a) if the bidder is given the necessary transfer documents with 
+the acceptance—by the end of whichever of the following 
+periods ends earlier:
+(i) 1 month after the offer is accepted or, if the offer is 
+subject to a defeating condition, within 1 month after 
+the takeover contract becomes unconditional
+(ii) 21 days after the end of the offer period; or
+(b) if the bidder is given the necessary transfer documents after 
+the acceptance and before the end of the bid period—within 1 
+month after the bidder is given the necessary transfer 
+documents; or
+(c) if the bidder is given the necessary transfer documents after 
+the acceptance and after the end of the bid period—within 21 
+days after the bidder is given the necessary transfer 
+documents.
+Note: Subsection 630(1) requires an offer that is subject to a defeating 
+condition to specify a date for declaring whether the condition has 
+been fulfilled or not.
+(3) The offer may provide that the bidder may avoid the takeover 
+contract if the bidder is not given the necessary transfer documents 
+within 1 month after the end of the offer period.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Formulating the takeover offer  Part 6.4
+Consideration for the offer  Division 2
+
+Part 6.4  Formulating the takeover offer
+Division 1  General
+Section 621
+
+Corporations Act 2001 217
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Consideration for the offer
+
+Part 6.4  Formulating the takeover offer
+Division 1  General
+621  Consideration offered
+
+Off-market bid—general
+(1) A bidder making an off-market bid for securities may offer any 
+form of consideration for the securities, including:
+(a) a cash sum; or
+(b) securities (including shares, debentures, interests in a 
+managed investment scheme or options); or
+(c) a combination of a cash sum and securities.
+Note: Sections 650B and 651A deal with variations of the consideration 
+offered under the bid.
+Market bid—cash only
+(2) As the offers under a market bid for securities are made through a 
+declared financial market, the bidder must offer to acquire the 
+securities for a cash sum only for each security.
+Note: Section 649B deals with variations of the price offered under the bid.
+All bids—minimum consideration if bidder purchased securities in 
+the 4 months before the bid
+(3) The consideration offered for securities in the bid class under a 
+takeover bid must equal or exceed the maximum consideration that 
+the bidder or an associate provided, or agreed to provide, for a 
+security in the bid class under any purchase or agreement during 
+the 4 months before the date of the bid.
+(4) For the purposes of subsection (3), the consideration offered or 
+provided for a security is:
+(a) if the consideration offered or provided is a cash sum only—
+the amount of that cash sum; or
+(b) if the consideration offered or provided does not include a 
+cash sum—the value of that consideration; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers

@@ -1,0 +1,222 @@
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 53AA
+
+Corporations Act 2001 173
+Compilation No. 143 Compilation date: 09/07/2025(h) section 1241E (about when conduct does not constitute 
+providing a custodial or depository service in relation to a 
+CCIV);
+(i) section 1241F (about Australian financial services licences to 
+conduct the affairs of a CCIV);
+(j) section 1241L (about financial services disclosure does not 
+apply to conducting the affairs of CCIVs);
+(k) a provision of this Act prescribed by the regulations for the 
+purposes of this paragraph.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+53AA  Meaning of business affairs—body corporate
+
+A body corporate’s business affairs include (without limitation):
+(a) any of the body’s affairs (including anything that is included 
+in the body’s affairs because of section 53 or 53AAA); and
+(b) matters concerned with ascertaining the corporations with 
+which the body is or has been connected.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+53AB  Meaning of business affairs—natural person
+
+A natural person’s business affairs include (without limitation):
+(a) the person’s examinable operations and examinable assets 
+and liabilities; and
+(b) any act done (including any contract made and any 
+transaction entered into) by or on behalf of the person, or to 
+or in relation to the person or his or her business or property, 
+at a time when:
+(i) the person was, under the Bankruptcy Act 1966 or the 
+law of an external Territory, a bankrupt in respect of a 
+bankruptcy from which the person had not been 
+discharged; or
+(ii) the person had, under a law of an external Territory or 
+of a foreign country, the status of an undischarged 
+bankrupt; or
+(iii) the person’s property was subject to control under
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 53AC
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+174 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025because of an authority given by the person under 
+section 188 of that Act; or
+(iv) a personal insolvency agreement under Part X of the 
+Bankruptcy Act 1966 or under the corresponding 
+provisions of the law of an external Territory or of a 
+foreign country was in effect in relation to the person or 
+the person’s property; and
+(c) without limiting the generality of paragraph (b), any conduct 
+of the trustee of such a bankrupt estate or of such a personal 
+insolvency agreement or a person acting under such an 
+authority; and
+(d) matters concerned with ascertaining the corporations with 
+which the person is or has been connected.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+53AC  Meaning of business affairs—partnership
+
+A partnership’s business affairs include (without limitation):
+(a) the partnership’s promotion, formation, membership, control, 
+examinable operations and examinable assets and liabilities; 
+and
+(b) the partnership’s management and proceedings; and
+(c) any act done (including any contract made and any 
+transaction entered into) by or on behalf of the partnership, or 
+to or in relation to the partnership, at a time when the 
+partnership is being wound up; and
+(d) matters concerned with ascertaining the corporations with 
+which the partnership is or has been connected.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+53AD  Meaning of business affairs—trust
+
+A trust’s business affairs include (without limitation):
+(a) the creation of the trust; and
+(b) matters arising under, or otherwise relating to, the terms of 
+the trust; and
+(c) the appointment and removal of a trustee of the trust; and
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Meaning of some other expressions  Division 7
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 57
+
+Corporations Act 2001 175
+Compilation No. 143 Compilation date: 09/07/2025(d) the business, trading, transactions and dealings of the trustee 
+of the trust; and
+(e) the profits, income and receipts of the trustee of the trust; and
+(f) the losses, outgoings and expenditure of the trustee of the 
+trust; and
+(g) the trust property, including transactions and dealings in, and 
+the income arising from, the trust property; and
+(h) the liabilities of the trustee of the trust; and
+(j) the management of the trust; and
+(k) any act done (including any contract made and any 
+transaction entered into) by or on behalf of the trustee of the 
+trust, or to or in relation to the trust, at a time when the trust 
+is being wound up; and
+(l) matters concerned with ascertaining the corporations with 
+which the trust is or has been connected.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+57  Classes of shares or interests in managed investment schemes
+
+(1) The shares in a body corporate, if not divided into 2 or more 
+classes, constitute a class.
+Note: A CCIV must have a minimum of one class of shares per sub-fund: 
+see section 1230A.
+(2) If the interests in a managed investment scheme to which an 
+undertaking relates are not divided into 2 or more classes, they 
+constitute a class.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+57A  Meaning of corporation
+
+(1) Subject to this section, in this Act, corporation includes:
+(a) a company; and
+(b) any body corporate (whether incorporated in this jurisdiction 
+or elsewhere); and
+(c) an unincorporated body that under the law of its place of 
+origin, may sue or be sued, or may hold property in the name 
+of its secretary or of an office holder of the body duly 
+appointed for that purpose.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 58AA
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+176 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) Neither of the following is a corporation:
+(a) an exempt public authority;
+(b) a corporation sole.
+(3) To avoid doubt, an Aboriginal and Torres Strait Islander 
+corporation is taken to be a corporation for the purposes of this 
+Act.
+Note: Various provisions of this Act that generally apply to corporations do 
+not apply to Aboriginal and Torres Strait Islander corporations 
+because of express provisions to that effect: see section 190B, 
+subsection 197(5), section 206HB and subsections 599(2), 1309(6),
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+1318(5) and 1335(3).
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+58AA  Meaning of court and Court
+
+(1) Subject to subsection (2), in this Act:
+court means any court.
+Court means any of the following courts:
+(a) the Federal Court;
+(b) the Supreme Court of a State or Territory;
+(c) the Federal Circuit and Family Court of Australia 
+(Division 1);
+(d) a court to which section 41 of the Family Law Act 1975 
+applies because of a Proclamation made under 
+subsection 41(2) of that Act.
+(2) Except where there is a clear expression of a contrary intention (for 
+example, by use of the expression “the Court”), proceedings in 
+relation to a matter under this Act may, subject to Part 9.6A, be 
+brought in any court.
+Note: The matters dealt with in Part 9.6A include the applicability of limits 
+on the jurisdictional competence of courts.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Meaning of some other expressions  Division 7
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 58B
+
+Corporations Act 2001 177
+Compilation No. 143 Compilation date: 09/07/202558B  Discharge of obligations under this Act
+(2) Subject to subsection (3), an act required to be done under this Act 
+may, for the purposes of this Act, be done anywhere in Australia, 
+whether in or outside this jurisdiction.
+(3) Nothing in subsection (2) affects the operation of any provision of 
+this Act that:
+(a) expressly requires a particular act to be done in this 
+jurisdiction; or
+(b) expressly or by implication permits a particular act to be 
+done outside Australia.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+59  Debentures as consideration for acquisition of shares
+
+A reference to a body corporate that offers debentures as 
+consideration for the acquisition of shares in a body corporate 
+includes a reference to a body corporate that offers a cash sum as 
+consideration for the acquisition of shares where it is to be a term 
+of the contract for the acquisition of those shares that the offeree 
+makes, or that the sum is applied in whole or in part in making, a 
+payment by way of deposit with, or loan to, the body corporate that 
+offers the sum.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+60  Declaration of relevant relationships

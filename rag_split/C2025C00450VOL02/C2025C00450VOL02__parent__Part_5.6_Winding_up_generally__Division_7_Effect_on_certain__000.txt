@@ -1,0 +1,164 @@
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+Section 565
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+620 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 7—Effect on certain transactions
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+565  Undue preference
+
+(1) A settlement, a conveyance or transfer of property, a charge on 
+property, a payment made, or an obligation incurred, before
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+23 June 1993, by a company that, if it had been made or incurred
+
+by a natural person, would, in the event of his or her becoming a 
+bankrupt, be void as against the trustee in the bankruptcy, is, in the 
+event of the company being wound up, void as against the 
+liquidator.
+(2) For the purposes of subsection (1), the date that corresponds with 
+the date of presentation of the petition in bankruptcy in the case of 
+a natural person is the relation-back day.
+(3) For the purposes of this section, the date that corresponds with the 
+date on which a person becomes a bankrupt is the relation-back 
+day.
+(4) Subject to Part 5.3A, a transfer or assignment by a company of all 
+its property to trustees for the benefit of all its creditors is void.
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+566  Effect of floating charge
+
+A floating charge on the undertaking or property of the company 
+created before 23 June 1993 and within 6 months before the 
+relation-back day is, unless it is proved that the company 
+immediately after the creation of the charge was solvent, invalid 
+except to the amount of any money paid to the company at the time 
+of or subsequently to the creation of and in consideration for the 
+charge together with interest on that amount at the rate of 8% per 
+annum or at such other rate as is prescribed.
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+567  Liquidator’s right to recover in respect of certain transactions
+
+(1) Where any property, business or undertaking has been acquired by 
+a company for a cash consideration before 23 June 1993 and within 
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Effect on certain transactions  Division 7
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+Section 567
+
+Corporations Act 2001 621
+Compilation No. 143 Compilation date: 09/07/20254 years before the relation-back day in relation to a winding up of 
+the company:
+(a) from a promoter of the company or a spouse of such a 
+promoter, or from a relative of such a promoter or spouse; or
+(b) from a person who was, at the time of the acquisition, a 
+director of the company, from a spouse of such a director, or 
+from a relative of such a person or spouse; or
+(c) from a body corporate that was, at the time of the acquisition, 
+related to the company; or
+(d) from a person who was, at the time of the acquisition, a 
+director of a body corporate that was related to the company, 
+from a spouse of such a person, or from a relative of such a 
+person or spouse;
+the liquidator may recover from the person or body corporate from 
+which the property, business or undertaking was acquired any 
+amount by which the cash consideration for the acquisition 
+exceeded the value of the property, business or undertaking at the 
+time of its acquisition.
+(2) Where any property, business or undertaking has been sold by a 
+company for a cash consideration before 23 June 1993 and within
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+4 years before the relation-back day in relation to a winding up of
+
+the company:
+(a) to a promoter of the company or a spouse of such a promoter, 
+or to a relative of such a promoter or spouse; or
+(b) to a person who was, at the time of the sale, a director of the 
+company, to a spouse of such a director, or to a relative of 
+such a person or spouse; or
+(c) to a body corporate that was, at the time of the sale, related to 
+the company; or
+(d) to a person who was, at the time of the sale, a director of a 
+body corporate that was related to the company, to a spouse 
+of such a director, or to a relative of such a person or spouse;
+the liquidator may recover from the person or body corporate to 
+which the property, business or undertaking was sold any amount 
+by which the value of the property, business or undertaking at the 
+time of the sale exceeded the cash consideration.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+Section 567
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+622 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) For the purposes of this section, the value of the property, business 
+or undertaking includes the value of any goodwill, profits or gain 
+that might have been made from the property, business or 
+undertaking.
+(4) In this section, cash consideration means any consideration 
+payable otherwise than by the issue of shares in the company.
+(5) Where:
+(a) a disposition of property is made by a company before
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+23 June 1993 and within 6 months before the relation-back
+
+day in relation to a winding up of the company; and
+(b) the disposition of property confers a preference upon a 
+creditor of the company; and
+(c) the disposition of property has the effect of discharging an 
+officer of the company from a liability (whether under a 
+guarantee or otherwise and whether contingent or otherwise);
+the liquidator:
+(d) in a case to which paragraph (e) does not apply—may 
+recover from that officer an amount equal to the value of the 
+relevant property, as the case may be; or
+(e) where the liquidator has recovered from the creditor in 
+respect of the disposition of the relevant property:
+(i) an amount equal to part of the value of the relevant 
+property; or
+(ii) part of the relevant property;
+may recover from that officer an amount equal to the amount 
+by which the value of the relevant property exceeds the sum 
+of any amounts recovered as mentioned in subparagraph (i) 
+and the amount of the value of any property recovered as 
+mentioned in subparagraph (ii).
+(6) Where:
+(a) a liquidator recovers an amount of money from an officer of 
+a company in respect of a disposition of property to a creditor 
+as mentioned in subsection (5); and
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Effect on certain transactions  Division 7
+
+Part 5.6  Winding up generally
+Division 7  Effect on certain transactions
+Section 567
+
+Corporations Act 2001 623
+Compilation No. 143 Compilation date: 09/07/2025(b) the liquidator subsequently recovers from that creditor an 
+amount equal to the whole or part of the value of the property 
+disposed of;
+the officer may recover from the liquidator an amount equal to the 
+amount so recovered or the value of the property so recovered.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

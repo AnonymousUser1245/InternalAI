@@ -1,0 +1,221 @@
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+1337J  Transfer of proceedings by Federal Circuit and Family Court
+
+of Australia (Division 1) and State Family Courts
+(1) This section applies to a proceeding (the relevant proceeding) in a 
+court (the transferor court) if:
+(a) the relevant proceeding is with respect to a civil matter 
+arising under the Corporations legislation; and
+(b) the transferor court is:
+(i) the Federal Circuit and Family Court of Australia 
+(Division 1); or
+(ii) a State Family Court.
+(2) If it appears to the transferor court:
+(a) that the relevant proceeding arises out of, or is related to, 
+another proceeding pending in:
+(i) the Federal Court; or
+(ii) another State or Territory court;
+and that the court in which the other proceeding is pending is 
+the most appropriate court to determine the relevant 
+proceeding; or
+(b) that having regard to:
+(i) whether, in the transferor court’s opinion, apart from 
+this Division, the relevant proceeding, or a substantial 
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Jurisdiction and procedure of Courts  Part 9.6A
+Civil jurisdiction  Division 1
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+Section 1337J
+
+Corporations Act 2001 221
+Compilation No. 143 Compilation date: 09/07/2025part of it, would have been incapable of being instituted 
+in the transferor court; and
+(ii) the extent to which, in the transferor court’s opinion, the 
+matters for determination in the relevant proceeding are 
+matters not within the transferor court’s jurisdiction 
+apart from this Division; and
+(iii) the interests of justice;
+the Federal Court, or another State or Territory court, is the 
+most appropriate court to determine the relevant proceeding; 
+or
+(c) that it is otherwise in the interests of justice that the Federal 
+Court, or another State or Territory court, determine the 
+relevant proceeding;
+the transferor court must transfer the relevant proceeding to the 
+Federal Court or to that other court.
+(3) Subject to subsection (2), if it appears to the transferor court:
+(a) that the relevant proceeding arises out of, or is related to, 
+another proceeding pending in another court that is:
+(i) the Federal Circuit and Family Court of Australia 
+(Division 1); or
+(ii) a State Family Court;
+and that has jurisdiction under section 1337C in the matters 
+for determination in the relevant proceeding and that the 
+other court is the most appropriate court to determine the 
+relevant proceeding; or
+(b) that it is otherwise in the interests of justice that the relevant 
+proceeding be determined by another court that is:
+(i) the Federal Circuit and Family Court of Australia 
+(Division 1); or
+(ii) a State Family Court;
+and that has jurisdiction under section 1337C in the matters 
+for determination in the relevant proceeding;
+the transferor court must transfer the relevant proceeding to the 
+other court.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+Section 1337K
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+222 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) If:
+(a) the transferor court transfers the relevant proceeding to 
+another court; and
+(b) it appears to the transferor court that:
+(i) there is another proceeding pending in the transferor 
+court that arises out of, or is related to, the relevant 
+proceeding; and
+(ii) it is in the interests of justice that the other court also 
+determine the other proceeding;
+the transferor court must also transfer the other proceeding to the 
+other court.
+(5) Nothing in this section confers on a court jurisdiction that the court 
+would not otherwise have.
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+1337K  Transfer of proceedings in lower courts
+
+(1) This section applies to a proceeding (the relevant proceeding) in a 
+court (the transferor court) if:
+(a) the relevant proceeding is with respect to a civil matter 
+arising under the Corporations legislation; and
+(b) the transferor court is a lower court of a State or Territory.
+(2) If it appears to the transferor court that, having regard to the 
+interests of justice, it is more appropriate for:
+(a) the relevant proceeding; or
+(b) an application in the relevant proceeding;
+to be determined by another court that has jurisdiction in the 
+matters for determination in the relevant proceeding or application, 
+the transferor court may take action under whichever of 
+subsections (3) and (4) applies.
+(3) If the other court is also a lower court, the transferor court may 
+transfer the relevant proceeding or application to the other court.
+(4) If the other court is a superior court, the transferor court may:
+(a) transfer the relevant proceeding or application to the relevant 
+Supreme Court; and
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Jurisdiction and procedure of Courts  Part 9.6A
+Civil jurisdiction  Division 1
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+Section 1337L
+
+Corporations Act 2001 223
+Compilation No. 143 Compilation date: 09/07/2025(b) recommend that the relevant proceeding or application be 
+transferred by the Supreme Court to the other court.
+(5) The relevant Supreme Court is not bound to comply with a 
+recommendation under subsection (4) and it may instead decide:
+(a) to deal with the relevant proceeding or application itself; or
+(b) to transfer the relevant proceeding or application to some 
+other court (which could be the transferor court).
+(6) Nothing in this section allows the relevant Supreme Court to 
+transfer the relevant proceeding or application to another court 
+otherwise than in accordance with section 1337H and the other 
+requirements of this Division.
+(7) Nothing in this section confers on a court jurisdiction that the court 
+would not otherwise have.
+(8) In this section:
+relevant Supreme Court means the Supreme Court of the State or 
+Territory of which the transferor court is a court.
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+1337L  Further matters for a court to consider when deciding
+
+whether to transfer a proceeding
+In deciding whether to transfer under section 1337H, 1337J or
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+1337K a proceeding or application, a court must have regard to:
+
+(a) the principal place of business of any body corporate 
+concerned in the proceeding or application; and
+(b) the place or places where the events that are the subject of the 
+proceeding or application took place; and
+(c) the other courts that have jurisdiction to deal with the 
+proceeding or application.
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+1337M  Transfer may be made at any stage
+
+A court may transfer under section 1337H, 1337J or 1337K a 
+proceeding or application:
+(a) on the application of a party made at any stage; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+Section 1337N
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+224 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) of the court’s own motion.
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+1337N  Transfer of documents
+
+If, under section 1337H, 1337J or 1337K, a court (the transferor 
+court) transfers a proceeding, or an application in a proceeding, to 
+another court:
+(a) the Registrar or other proper officer of the transferor court 
+must transmit to the Registrar or other proper officer of the 
+other court all documents filed in the transferor court in 
+respect of the proceeding or application, as the case may be; 
+and
+(b) the other court must proceed as if:
+(i) the proceeding had been originally instituted in the other 
+court; and
+(ii) the same proceedings had been taken in the other court 
+as were taken in the transferor court; and
+(iii) in a case where an application is transferred—the 
+application had been made in the other court.
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+1337P  Conduct of proceedings
+
+(1) Subject to sections 1337S, 1337T and 1337U, if it appears to a 
+court that, in determining a matter for determination in a 
+proceeding, the court will, or will be likely to, be exercising 
+relevant jurisdiction, the rules of evidence and procedure to be 
+applied in dealing with that matter are to be the rules that:
+(a) are applied in a superior court in Australia; and
+(b) the court considers appropriate to be applied in the 
+circumstances.
+(2) If a proceeding is transferred or removed to a court (the transferee 
+court) from another court (the transferor court), the transferee 
+court must deal with the proceeding as if, subject to any order of 
+the transferee court, the steps that had been taken for the purposes 
+of the proceeding in the transferor court (including the making of 
+an order), or similar steps, had been taken in the transferee court.
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Jurisdiction and procedure of Courts  Part 9.6A
+Civil jurisdiction  Division 1
+
+Part 9.6A  Jurisdiction and procedure of Courts
+Division 1  Civil jurisdiction
+Section 1337Q

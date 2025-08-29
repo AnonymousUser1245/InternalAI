@@ -1,0 +1,193 @@
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+Section 1071H
+
+Corporations Act 2001 309
+Compilation No. 143 Compilation date: 09/07/20251071H  Duties of company with respect to issue of certificates
+(1) Subject to subsection (2), within 2 months after a company issues a 
+security, the company must:
+(a) complete and have ready for delivery to the holder of the 
+security all the appropriate certificates or other title 
+documents in connection with the issue of the security; and
+(b) unless otherwise instructed by the holder, send or deliver the 
+completed certificates or other title documents to:
+(i) the holder; or
+(ii) if the holder has instructed the company in writing to 
+send them to a nominated person—that person.
+Paragraph (a) has effect in relation to shares subject to the 
+conditions on which the shares are issued.
+(2) If the operating rules of a prescribed CS facility include a provision 
+to the effect that:
+(a) no document is required by subsection (1) to be completed 
+and delivered by a company in relation to the issue of a 
+security in specified circumstances; or
+(b) the only document required by subsection (1) to be 
+completed and delivered by a company in relation to the 
+issue of a security in specified circumstances is the document 
+required by the provision;
+the provision has effect accordingly.
+(3) Within one month after the date on which a transfer of a security is 
+lodged with a company, the company must:
+(a) complete and have ready for delivery to the transferee all the 
+appropriate transfer and title documents in connection with 
+the transfer; and
+(b) unless otherwise instructed by the transferee, send or deliver 
+the completed documents to:
+(i) the transferee; or
+(ii) if the transferee has instructed the company in writing to 
+send them to a nominated person—that person.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+Section 1071H
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+310 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025This subsection does not apply to a transfer that the company is for 
+any reason entitled to refuse to register and does not register.
+(4) The only document required by subsection (3) to be completed and 
+delivered by a company in relation to a transfer covered by the 
+operating rules of a prescribed CS facility is the document (if any) 
+that those rules require to be completed and delivered.
+(5) A company need not comply:
+(a) with subsection (1) in relation to the issue of a security; or
+(b) with subsection (3) in relation to a transfer of a security;
+if the person to whom the security is issued, or the transferee, has:
+(c) applied to ASIC for the making of a declaration under this 
+subsection; and
+(d) been declared by ASIC, by writing published in the Gazette, 
+to be a person in relation to whom this section does not 
+apply.
+(6) If:
+(a) either:
+(i) if subsection (1) applies—the holder referred to in that 
+subsection serves a notice on the company requiring the 
+company to remedy a contravention of that subsection; 
+or
+(ii) if subsection (3) applies—the transferee referred to in 
+that subsection serves a notice on the company requiring 
+the company to remedy a contravention of that 
+subsection; and
+(b) the company fails to remedy the contravention within 10 
+days after the service of the notice; and
+(c) the person entitled to have the documents delivered to him or 
+her applies to the Court for an order under this subsection;
+the Court may make an order directing the company and any 
+officer or employee of the company to remedy the contravention 
+within such period as is specified in the order.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Title and transfer  Part 7.11
+Transfer of certain securities  Division 2
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+Section 1072A
+
+Corporations Act 2001 311
+Compilation No. 143 Compilation date: 09/07/2025(7) An order under subsection (6) may provide that all costs of, and 
+incidental to, the application are to be borne by:
+(a) the company; or
+(b) any officer or employee of the company who was involved in 
+the contravention;
+in such proportions as the Court thinks just and reasonable.
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+Section 1072B
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+312 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025If shares held jointly
+(5) If a shareholder who owns shares jointly dies, the company will 
+recognise only the survivor as being entitled to the deceased 
+shareholder’s interest in the shares. The estate of the deceased 
+shareholder is not released from any liability in respect of the 
+shares.
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+1072B  Transmission of shares on bankruptcy (replaceable rule—see
+
+section 135)
+(1) If a person entitled to shares because of the bankruptcy of a 
+shareholder gives the directors the information they reasonably 
+require to establish the person’s entitlement to be registered as 
+holder of the shares, the person may:
+(a) by giving a written and signed notice to the company, elect to 
+be registered as the holder of the shares; or
+(b) by giving a completed transfer form to the company, transfer 
+the shares to another person.
+(2) On receiving an election under paragraph (1)(a), the company must 
+register the person as the holder of the shares.
+(3) A transfer under paragraph (1)(b) is subject to the same rules (for 
+example, about entitlement to transfer and registration of transfers) 
+as apply to transfers generally.
+(4) This section has effect subject to the Bankruptcy Act 1966.
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+1072C  Rights of trustee of estate of bankrupt shareholder
+
+(1) If:
+(a) because of the Bankruptcy Act 1966, a share in a company, 
+being part of the property of a bankrupt, vests in the trustee 
+of the bankrupt’s estate; and
+(b) the bankrupt is the registered holder of that share;
+this section applies whether or not the trustee has been registered 
+as the holder of the share.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Title and transfer  Part 7.11
+Transfer of certain securities  Division 2
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+Section 1072C
+
+Corporations Act 2001 313
+Compilation No. 143 Compilation date: 09/07/2025(2) On producing such information as the company’s directors 
+properly require, the trustee is entitled to:
+(a) the same dividends and other benefits; and
+(b) the same rights, for example, but without limitation, rights in 
+relation to:
+(i) meetings of the company; or
+(ii) documents, including notices of such meetings; or
+(iii) voting; or
+(iv) inspection of the company’s records;
+as the bankrupt would be entitled to if he or she were not a 
+bankrupt.
+(3) The trustee has the same rights:
+(a) to transfer the share; and
+(b) to require a person to do an act or give a consent in 
+connection with completing or registering a transfer of the 
+share;
+as the bankrupt would have if he or she were not a bankrupt.
+(4) If the trustee transfers the share, the transfer is as valid as if the 
+trustee had been registered as the holder of the share when the 
+trustee executed the instrument of transfer.
+(5) A person or body whose consent or approval is required for the 
+transfer of shares in the company must not unreasonably withhold 
+consent or approval for the transfer of the share by the trustee.
+(6) If:
+(a) the company’s constitution requires:
+(i) the share to be offered for purchase to a member of the 
+company; or
+(ii) an invitation to buy the share to be issued to such a 
+member; and
+(b) as at the end of a reasonable period after the trustee so offers 
+the share, or so issues such an invitation, no such member 
+has agreed to buy the share from the trustee at a reasonable 
+price;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+Section 1072D
+
+Part 7.11  Title and transfer
+Division 2  Transfer of certain securities
+314 Corporations Act 2001

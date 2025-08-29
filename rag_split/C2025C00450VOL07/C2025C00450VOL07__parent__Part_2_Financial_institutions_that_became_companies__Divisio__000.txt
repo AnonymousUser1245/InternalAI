@@ -1,0 +1,76 @@
+Part 2  Financial institutions that became companies
+Division 3  Share capital
+
+Clause 18
+
+Part 2  Financial institutions that became companies
+Division 3  Share capital
+190 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/202518  Application of no par value rule
+(1) Section 254C applies to shares issued by a transferring financial 
+institution of a State or Territory before the transfer date as well as 
+shares issued on and after that.
+(2) In relation to a share issued by the institution before the transfer 
+date:
+(a) the amount paid on the share is the sum of all amounts paid 
+to the institution at any time for the share (but not including 
+any premium); and
+(b) the amount unpaid on the share is the difference between the 
+issue price of the share (but not including any premium) and 
+the amount paid on the share (see paragraph (a)).
+
+Part 2  Financial institutions that became companies
+Division 3  Share capital
+19  Calls on partly-paid shares
+
+The liability of a shareholder for calls in respect of money unpaid 
+on shares issued before the transfer date by a transferring financial 
+institution of a State or Territory (whether on account of the par 
+value of the shares or by way of premium) is not affected by the 
+share ceasing to have a par value.
+
+Part 2  Financial institutions that became companies
+Division 3  Share capital
+20  References in contracts and other documents to par value
+
+(1) This clause applies for the purpose of interpreting and applying the 
+following after the commencement of this Act:
+(a) a contract entered into by a transferring financial institution 
+of a State or Territory before the transfer date (including the 
+institution’s constitution);
+(b) a trust deed or other document executed by or in relation to 
+the institution before the transfer date.
+Note: The interpretation and application of contracts and deeds before this 
+Act commences was governed by clause 20 of the transfer provisions.
+(2) A reference to the par value of a share issued by a transferring 
+financial institution of a State or Territory is taken to be a reference 
+to:
+Authorised Version C2025C00450 registered 21/07/2025Transfer of financial institutions and friendly societies  Schedule 4
+Financial institutions that became companies  Part 2
+Share capital  Division 3
+Clause 20
+Corporations Act 2001 191
+Compilation No. 143 Compilation date: 09/07/2025(a) if the share is issued before the transfer date—the par value 
+of the share immediately before then; or
+(b) if the share is issued on or after the transfer date but shares of 
+the same class were on issue immediately before then—the 
+par value that the share would have had if it had been issued 
+then; or
+(c) if the share is issued on or after the transfer date and shares of 
+the same class were not on issue immediately before then—
+the par value determined by the directors.
+A reference to share premium is taken to be a reference to any 
+residual share capital in relation to the share.
+(3) A reference to a right to a return of capital on a share issued by the 
+institution is taken to be a reference to a right to a return of capital 
+of a value equal to the amount paid in respect of the share’s par 
+value.
+(4) A reference to the aggregate par value of the institution’s issued 
+share capital is taken to be a reference to that aggregate as it 
+existed immediately before the transfer date and:
+(a) increased to take account of the par value of any shares 
+issued after then; and
+(b) reduced to take account of the par value of any shares 
+cancelled after then.
+Authorised Version C2025C00450 registered 21/07/2025Schedule 4  Transfer of financial institutions and friendly societies

@@ -1,0 +1,70 @@
+Part 2E.1  Member approval needed for related party benefit
+Division 3  Procedure for obtaining member approval
+Section 225
+
+Corporations Act 2001 457
+Compilation No. 143 Compilation date: 09/07/2025(8) Subject to subsection 225(1), a contravention of this section does 
+not affect the validity of a resolution.
+(9) Subject to Part 1.1A, this section has effect despite:
+(a) anything else in:
+(i) this Act; or
+(ii) any other law (including the general law) of a State or 
+Territory; or
+(b) anything in a body corporate’s constitution.
+
+Part 2E.1  Member approval needed for related party benefit
+Division 3  Procedure for obtaining member approval
+225  Voting on the resolution
+
+(1) If any votes on the resolution are cast in contravention of 
+subsection 224(1), it must be the case that the resolution would still 
+be passed even if those votes were disregarded.
+(2) If a poll was duly demanded, or is otherwise required under 
+section 250JA, on the question that the resolution be passed, 
+subsections (3) and (4) apply in relation to voting on the poll.
+(3) In relation to each member of the public company who voted on 
+the resolution in person, the public company must record in 
+writing:
+(a) the member’s name; and
+(b) how many votes the member cast for the resolution and how 
+many against.
+(4) In relation to each member of the public company who voted on 
+the resolution by proxy, or by a representative authorised under 
+section 250D, the public company must record in writing:
+(a) the member’s name; and
+(b) in relation to each person who voted as proxy, or as such a 
+representative, for the member:
+(i) the person’s name; and
+(ii) how many votes the person cast on the resolution as 
+proxy, or as such a representative, for the member; and
+(iii) how many of those votes the person cast for the 
+resolution and how many against.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2E  Related party transactions
+
+Part 2E.1  Member approval needed for related party benefit
+Division 3  Procedure for obtaining member approval
+Section 226
+
+Part 2E.1  Member approval needed for related party benefit
+Division 3  Procedure for obtaining member approval
+458 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(5) For 7 years after the day when a resolution under this Division is 
+passed, the public company must retain the records it made under 
+this section in relation to the resolution.
+(6) An offence based on subsection (3), (4) or (5) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2E.1  Member approval needed for related party benefit
+Division 3  Procedure for obtaining member approval
+226  Notice of resolution to be lodged
+
+The public company must lodge a notice setting out the text of the 
+resolution within 14 days after the resolution is passed.
+
+Part 2E.1  Member approval needed for related party benefit
+Division 3  Procedure for obtaining member approval
+227  Declaration by court of substantial compliance
+
+(1) The Court may declare that the conditions prescribed by this

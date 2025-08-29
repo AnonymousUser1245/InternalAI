@@ -1,0 +1,181 @@
+Part 6D.4  ASIC’s powers
+
+Part 6D.4  ASIC’s powers
+Section 739
+
+Part 6D.4  ASIC’s powers
+494 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 6D.4—ASIC’s powers
+
+Part 6D.4  ASIC’s powers
+739  ASIC stop orders
+
+Power to make orders
+(1) This section applies if ASIC is satisfied that:
+(a) information in a disclosure document lodged with ASIC is 
+not worded and presented in a clear, concise and effective 
+manner (see section 715A); or
+(b) an offer of securities under a disclosure document lodged 
+with ASIC would contravene section 728; or
+(c) an advertisement or publication of a kind referred to in 
+subsection 734(5) or (6) that relates to securities is defective 
+(see subsection (6) of this section); or
+(d) an offer of securities under a CSF offer document, or the 
+publication of a CSF offer document on a platform of a CSF 
+intermediary, contravenes subsection 738Y(1) (which relates 
+to defective CSF offer documents); or
+(e) a CSF offer document does not comply with section 738K 
+(other requirements for CSF offer documents); or
+(f) an advertisement or publication of a kind referred to in 
+subsection 738ZG(6) is defective (see subsection (6) of this 
+section); or
+(g) an offer of securities that is expressed to be made under
+
+Part 6D.4  ASIC’s powers
+
+Part 6D.4  ASIC’s powers
+Section 740
+
+Part 6D.4  ASIC’s powers
+496 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) there is an omission from the advertisement or publication of 
+material required by the relevant subsection to be included in 
+the advertisement or publication; or
+(c) in the case of an advertisement or publication of a kind 
+referred to in subsection 734(5) that relates to an offer of 
+securities in a class that is not already quoted, and is 
+published before a disclosure document in relation to the 
+offer is lodged—the advertisement or publication includes 
+material that is not referred to in paragraph 734(5)(b).
+Forecasts and other forward-looking statements
+(7) For the purposes of the definition of defective in subsection (6), a 
+person is taken to make a misleading statement about a future 
+matter (including the doing of, or refusing to do, an act) if they do 
+not have reasonable grounds for making the statement.
+(8) Subsection (7) does not limit the circumstances in which a 
+statement may be misleading.
+
+Part 6D.4  ASIC’s powers
+740  Anti-avoidance determinations
+
+(1) ASIC may determine in writing that a number of different bodies 
+are closely related and that their transactions should be aggregated 
+for the purposes of this Chapter. If ASIC does so:
+(a) an issue, sale or transfer of securities in any other bodies is 
+taken to also be an issue, sale or transfer of the securities of 
+each of the other bodies by those bodies; and
+(b) any money received from an issue, sale or transfer of 
+securities in any of the bodies is taken to also be received by 
+each of the other bodies from an issue, sale or transfer of its 
+own securities; and
+(c) for the purpose of subsection 738H(2), assets or revenue of 
+any of the bodies are taken also to be assets or revenue of 
+each of the other bodies.
+ASIC must give written notice of the determination to each of the 
+bodies.
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+ASIC’s powers  Part 6D.4
+
+Part 6D.4  ASIC’s powers
+Section 741
+
+Corporations Act 2001 497
+Compilation No. 143 Compilation date: 09/07/2025(2) ASIC may determine in writing that the transactions of a body and 
+of a person who controls the body should be aggregated for the 
+purposes of this Chapter. If ASIC does so:
+(a) an issue of securities in the body is taken to also be the 
+transfer of the securities by the controller; and
+(b) any money received from an issue of securities in the body is 
+taken to also be received by the controller from a transfer of 
+the securities; and
+(c) a sale or transfer of securities in the body by the controller is 
+taken to also be the issue of the securities by the body; and
+(d) any money received from a sale or transfer of securities in the 
+body by the controller is taken to also be received by the 
+body from an issue of the securities; and
+(e) for the purpose of subsection 738H(2), assets or revenue of 
+the body are taken also to be assets or revenue of the 
+controller.
+ASIC must give written notice of the determination to the body and 
+the controller.
+
+Part 6D.4  ASIC’s powers
+741  ASIC’s power to exempt and modify
+
+(1) ASIC may:
+(a) exempt a person from a provision of this Chapter; or
+(b) declare that this Chapter applies to a person as if specified 
+provisions were omitted, modified or varied as specified in 
+the declaration.
+(2) The exemption or declaration may do all or any of the following:
+(a) apply to all or specified provisions of this Chapter;
+(b) apply to all persons, specified persons, or a specified class of 
+persons;
+(c) relate to all securities, specified securities or a specified class 
+of securities;
+(d) relate to any other matter generally or as specified.
+(3) An exemption may apply unconditionally or subject to specified 
+conditions. A person to whom a condition specified in an 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.4  ASIC’s powers
+
+Part 6D.4  ASIC’s powers
+Section 741
+
+Part 6D.4  ASIC’s powers
+498 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025exemption applies must comply with the condition. The Court may 
+order the person to comply with the condition in a specified way. 
+Only ASIC may apply to the Court for the order.
+(4) The exemption or declaration must be in writing and ASIC must 
+publish notice of it in the Gazette.
+(5) For the purposes of this section, the provisions of this Chapter 
+include:
+(a) regulations made for the purposes of this Chapter; and
+(b) definitions in this Act or the regulations as they apply to 
+references in:
+(i) this Chapter; or
+(ii) regulations made for the purposes of this Chapter; and
+(c) the old Division 12 of Part 11.2 transitionals.
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Miscellaneous  Part 6D.5
+
+Part 6D.4  ASIC’s powers
+Section 742
+
+Corporations Act 2001 499
+Compilation No. 143 Compilation date: 09/07/2025Part 6D.5—Miscellaneous
+
+Part 6D.4  ASIC’s powers
+742  Exemptions and modifications by regulations
+
+(1) The regulations may:
+(a) exempt a person or class of persons from all or specified 
+provisions of this Chapter; or
+(b) exempt a security or class of securities from all or specified 
+provisions of this Chapter; or
+(c) provide that this Chapter applies as if specified provisions 
+were omitted, modified or varied as specified in the 
+regulations.
+(2) Without limiting subsection (1), regulations made for the purposes 
+of this section may:
+(a) declare that provisions of this Chapter are modified so that 
+they apply (with or without further modifications) in relation 
+to persons, securities, financial products or situations to 
+which they would not otherwise apply; or
+(b) declare that provisions of this Chapter are modified so that 
+they apply (whether with or without further modifications) in 
+a way that changes the person by whom or to whom a 
+document or information is required to be given by a 
+provision of this Chapter.
+(3) For the purpose of this section, the provisions of this Chapter 
+include:
+(a) definitions in this Act, or in the regulations, as they apply to 
+references in this Chapter; and
+(b) any provisions of Part 10.2 (transitional provisions) that 
+relate to provisions of this Chapter.
+Authorised Version C2025C00450 registered 21/07/2025

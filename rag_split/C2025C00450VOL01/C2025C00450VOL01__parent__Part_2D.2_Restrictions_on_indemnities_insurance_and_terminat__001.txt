@@ -1,0 +1,194 @@
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+200D  Contravention to receive benefit without member approval
+
+(1) A person who:
+(a) holds, or has at any previous time held, a managerial or 
+executive office in a company or related body corporate; or
+(b) is the spouse of a person referred to in paragraph (a); or
+(c) is a relative of a person referred to in paragraph (a) or of the 
+spouse of such a person; or
+(d) is an associate of a person referred to in paragraph (a) or the 
+spouse of an associate of such a person;
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Restrictions on indemnities, insurance and termination payments  Part 2D.2
+Termination payments  Division 2
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+Section 200E
+
+Corporations Act 2001 385
+Compilation No. 143 Compilation date: 09/07/2025must not receive a benefit if the giving of the benefit contravenes 
+section 200B or 200C.
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+200E  Approval by members
+
+Conditions for member approval
+(1) For the purposes of section 200B, the conditions set out in 
+subsections (1B), (2) and (2A) must be satisfied for there to be 
+member approval under this section for the giving of the benefit to 
+the person in connection with the retiree’s retirement from the 
+office or position.
+(1A) For the purposes of section 200C, the conditions set out in 
+subsections (1B) and (2) must be satisfied for there to be member 
+approval under this section for the giving of the benefit.
+First condition
+(1B) The first condition is that the giving of the benefit be approved by 
+a resolution passed at a general meeting of:
+(a) the company; and
+(b) if the company is a subsidiary of a listed domestic 
+corporation—the listed corporation; and
+(c) if the company has a holding company that:
+(i) is a domestic corporation that is not listed; and
+(ii) is not itself a subsidiary of a domestic corporation;
+the holding company.
+Second condition
+(2) The second condition is that details of the benefit must be set out 
+in, or accompany, the notice of the general meeting that is to 
+consider the resolution. The details must include:
+(a) if the proposed benefit is a payment:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2D  Officers and employees
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+Section 200E
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+386 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(i) the amount of the payment; or
+(ii) if that amount cannot be ascertained at the time of the 
+disclosure—the manner in which that amount is to be 
+calculated and any matter, event or circumstance that 
+will, or is likely to, affect the calculation of that amount; 
+and
+(b) otherwise:
+(i) the money value of the proposed benefit; or
+(ii) if that value cannot be ascertained at the time of the 
+disclosure—the manner in which that value is to be 
+calculated and any matter, event or circumstance that 
+will, or is likely to, affect the calculation of that value.
+These requirements are in addition to, and not in derogation of, any 
+other law that requires disclosure to be made with respect to giving 
+or receiving a benefit.
+Third condition—for approvals relating to section 200B
+(2A) The third condition is that at the general meeting, a vote on the 
+resolution must not be cast (in any capacity) by or on behalf of:
+(a) the retiree; or
+(b) an associate of the retiree.
+(2B) Subsection (2A) does not prevent the casting of a vote if:
+(a) it is cast by a person as a proxy appointed by writing that 
+specifies how the proxy is to vote on the resolution; and
+(b) it is not cast on behalf of the retiree or an associate of the 
+retiree.
+(2C) The regulations may prescribe cases where subsection (2A) does 
+not apply.
+Meeting may approve a lesser benefit
+(3) For the purposes of subsection (1B), the resolution may give 
+approval by approving the giving of another benefit to the person 
+if:
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Restrictions on indemnities, insurance and termination payments  Part 2D.2
+Termination payments  Division 2
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+Section 200F
+
+Corporations Act 2001 387
+Compilation No. 143 Compilation date: 09/07/2025(a) the other benefit is given to the person instead of the 
+proposed benefit; and
+(b) the amount or money value of the benefit is less than the 
+amount or money value of the proposed benefit.
+Effect of approval on directors’ duties
+(4) Member approval under this section does not relieve a director of a 
+body corporate from any duty to the body corporate (whether under 
+section 180, 181, 182, 183 or 184 or otherwise and whether of a 
+fiduciary nature or not) in connection with the giving of the 
+benefit.
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+200F  Exempt benefits and benefits given in certain circumstances
+
+(1) Subsection 200B(1) does not apply to:
+(a) a benefit that is a payment made in respect of leave of 
+absence to which the person is entitled under an industrial 
+instrument; or
+(aa) a benefit given under an order of a court; or
+(b) a benefit given in prescribed circumstances.
+(2) Subsection 200B(1) does not apply to a benefit given in connection 
+with a person’s retirement from an office or position in relation to a 
+company if:
+(a) the benefit is:
+(i) a genuine payment by way of damages for breach of 
+contract; or
+(ii) given to the person under an agreement made between 
+the company and the person before the person became 
+the holder of the office or position as the consideration, 
+or part of the consideration, for the person agreeing to 
+hold the office or position; and
+(b) the value of the benefit, when added to the value of all other 
+benefits (if any) already given in connection with the 
+person’s retirement from offices or positions in the company 
+and related bodies corporate, does not exceed the amount 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2D  Officers and employees
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+Section 200F
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+388 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025worked out under whichever of subsections (3) and (4) is 
+applicable.
+(3) This subsection applies if the relevant period for the person is less 
+than 1 year. The amount worked out under this subsection is:
+where:
+estimated annual base salary is a reasonable estimate of the base 
+salary that the person would have received from the company and 
+related bodies corporate during the relevant period if the relevant 
+period had been 1 year.
+Note: The relevant period for the person is defined in subsection (5).
+(4) This subsection applies in every other case. The amount worked 
+out under this subsection is:
+(a) if the relevant period is 1 year—the base salary that the 
+person received from the company and related bodies 
+corporate during the relevant period; or
+(b) if the relevant period is more than 1 year but less than 2 
+years—the average annual base salary that the person 
+received from the company and related bodies corporate 
+during the relevant period, worked out as if:
+(i) the relevant period were 2 years; and
+(ii) the person’s annual base salary for the second year were 
+a reasonable estimate of what the person would have 
+received as base salary after the first year of the relevant 
+period had the relevant period been 2 years; or
+(c) if the relevant period is 2 years—the average annual base 
+salary that the person received from the company and related 
+bodies corporate during the relevant period; or
+(d) if the relevant period is more than 2 years but less than 3 
+years—the average annual base salary that the person 
+received from the company and related bodies corporate 
+during the relevant period, worked out as if:Estimated Number of days in
+annual base salary relevant period
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+365´
+
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Restrictions on indemnities, insurance and termination payments  Part 2D.2
+Termination payments  Division 2
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+Section 200G

@@ -1,0 +1,65 @@
+Part 7.7  Financial services disclosure
+Division 2  Person provided with financial service as retail client to be given a Financial
+943D  Effect of giving a person a Supplementary Financial Services
+
+Guide
+If:
+(a) a person is given a Financial Services Guide (the FSG); and
+(b) at the same time, or later, they are given a Supplementary 
+Financial Services Guide (the SFSG) that supplements the 
+FSG;
+the FSG is taken, from when the SFSG is given to the person, to 
+include the information and statements contained in the SFSG.
+
+Part 7.7  Financial services disclosure
+Division 2  Person provided with financial service as retail client to be given a Financial
+943E  Situation in which only a Supplementary Financial Services
+
+Guide need be given
+If:
+(a) apart from this section, a person (the providing entity) would 
+be required to give another person (the client) a Financial 
+Services Guide (the new FSG); and
+(b) the client has, because of some previous conduct, already 
+been given a Financial Services Guide (the earlier FSG) 
+containing some, but not all, of the information that the new 
+FSG is required to contain;
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial services disclosure  Part 7.7
+Person provided with financial service as retail client to be given a Financial Services 
+Guide  Division 2
+
+Part 7.7  Financial services disclosure
+Division 2  Person provided with financial service as retail client to be given a Financial
+Section 943F
+
+Corporations Act 2001 649
+Compilation No. 143 Compilation date: 09/07/2025the provider may, instead of giving the client the new FSG, give 
+the client a Supplementary Financial Services Guide that contains 
+the additional information.
+
+Part 7.7  Financial services disclosure
+Division 2  Person provided with financial service as retail client to be given a Financial
+943F  Altering a Supplementary Financial Services Guide after its
+
+preparation and before giving it to a person
+A financial services licensee, or an authorised representative of a 
+financial services licensee, must not, in purported compliance with 
+a provision of this Part, give a person a Supplementary Financial 
+Services Guide (the SFSG) that has been altered (otherwise than 
+pursuant to paragraph (b)) after the date specified in the SFSG as 
+required by subsection 943C(2) unless:
+(a) the alteration was made by, or with the authority of:
+(i) if section 942B applies to the Financial Services Guide 
+that the SFSG supplements—the financial services 
+licensee to which the Guide relates; or
+(ii) if section 942C applies to the Financial Services Guide 
+that the SFSG supplements—the financial services 
+licensee, or each of the financial services licensees, who 
+authorised the distribution of the SFSG; and
+(b) if the alteration is a material alteration—the date of the SFSG 
+has been changed to the date on which the alteration was 
+made.
+Note: Failure to comply with this section is an offence (see 
+subsection 1311(1)).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

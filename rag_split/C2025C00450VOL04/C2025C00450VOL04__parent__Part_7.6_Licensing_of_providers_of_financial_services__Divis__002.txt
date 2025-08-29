@@ -1,0 +1,211 @@
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+Section 922N
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+600 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(c) subsection 922F(3) provides that the notice does not need to 
+include that information.
+Note: In criminal proceedings, a defendant bears an evidential burden in 
+relation to the matter in subsection (2) (see subsection 13.3(3) of the 
+Criminal Code).
+Fault-based offence
+(3) A person commits an offence if the person contravenes 
+subsection (1).
+(4) Subsection 4K(2) of the Crimes Act 1914 does not apply to 
+subsection (1) of this section.
+Note: A person may commit an offence or contravene a civil penalty 
+provision if the person gives false or misleading information (see 
+section 1308 of this Act and section 137.1 of the Criminal Code).
+Civil liability
+(5) A person contravenes this subsection if the person contravenes 
+subsection (1).
+Note: This subsection is a civil penalty provision (see section 1317E).
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+922N  Obligation for relevant providers to provide information to
+
+financial services licensees
+Information about relevant provider
+(1) A person must provide information to a financial services licensee 
+in accordance with this section if:
+(a) the person is a relevant provider; and
+(b) the person has been authorised to provide personal advice to 
+retail clients, on behalf of the licensee, in relation to relevant 
+financial products; and
+(c) the licensee has asked the person to provide the information 
+so that the licensee can:
+(i) comply with its obligation to lodge a notice relating to 
+the person in accordance with section 922D; or
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of providers of financial services  Part 7.6
+Registers relating to financial services  Division 9
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+Section 922P
+
+Corporations Act 2001 601
+Compilation No. 143 Compilation date: 09/07/2025(iii) determine whether the licensee has an obligation to 
+lodge a notice under section 922HB.
+Note: A person may commit an offence or contravene a civil penalty 
+provision if the person gives false or misleading information (see 
+section 1308 of this Act and section 137.1 of the Criminal Code).
+When information must be given
+(2) The information must be given to the licensee within a period that 
+allows the licensee to comply with the obligation referred to in 
+paragraph (1)(c).
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+922P  Change in matter within 30 business days
+
+(1) Notices must be given under sections 922D and 922H in relation to 
+a person who was a relevant provider even if the person ceases to 
+be a relevant provider before a notice has been lodged under 
+section 922D.
+(2) A notice is not required to be given under section 922HB in 
+relation to a person if:
+(a) the person was a relevant provider at the end of a financial 
+services licensee’s CPD year; and
+(b) the person was authorised at that time to provide personal 
+advice to retail clients, on behalf of the licensee, in relation to 
+relevant financial products; and
+(c) the person ceases to be a relevant provider within 30 business 
+days of becoming a relevant provider.
+(3) A notice is not required to be given under sections 922J and 922K 
+in relation to a person who starts or ceases to have control of a 
+body corporate licensee if the person ceases to have control of the 
+licensee within 30 business days of starting to have control of the 
+licensee.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+Section 922Q
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+602 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision C—Register of Relevant Providers
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+922Q  Register of Relevant Providers
+
+Register to include details of relevant providers
+(1) ASIC must enter details on a Register of Relevant Providers in 
+respect of each person who is or was a relevant provider.
+Contents of Register
+(2) The details that must be entered on the Register include the 
+following:
+(a) the relevant provider’s name;
+(b) the relevant provider’s principal place of business;
+(c) the name of each financial services licensee on whose behalf 
+the relevant provider is or was authorised to provide personal 
+advice to retail clients in relation to relevant financial 
+products;
+(d) if applicable, each person who has control of the licensee;
+(e) the relevant provider’s date and place of birth;
+(f) the licence number given under subsection 913C(1) to the 
+relevant provider and each licensee referred to in 
+paragraph (c);
+(g) if applicable, the number given under section 922R;
+(h) if the relevant provider is a relevant provider as a result of 
+section 916B:
+(i) the name of the authorised representative who 
+authorised the relevant provider under that section; and
+(ii) the number allocated to the authorised representative by 
+ASIC;
+(i) the recent advising history of the relevant provider;
+(j) if the relevant provider is a provisional relevant provider:
+(i) the fact that the relevant provider is a provisional 
+relevant provider; and
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of providers of financial services  Part 7.6
+Registers relating to financial services  Division 9
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+Section 922Q
+
+Corporations Act 2001 603
+Compilation No. 143 Compilation date: 09/07/2025(ii) the day the relevant provider began undertaking work 
+and training in accordance with subsection 921B(4); and
+(iii) a statement that the relevant provider is required to be 
+supervised in accordance with Subdivision C of
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+Section 922Q
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+604 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(i) the relevant financial products in relation to which the 
+relevant provider is authorised to provide personal 
+advice to retail clients;
+(ii) whether the relevant provider is authorised to provide 
+class of product advice in relation to some or all of 
+those products;
+(t) if applicable, the ABN of any of the following:
+(i) the relevant provider;
+(ii) each licensee referred to in paragraph (c);
+(iii) if applicable, the authorised representative referred to in 
+paragraph (h);
+(u) information about the educational qualifications of, and any 
+training courses completed by, the relevant provider (but not 
+courses completed in accordance with a CPD provision), to 
+the extent that the qualifications and training courses are 
+relevant to the provision of financial services;
+(ua) whether a registration under section 921ZC of the relevant 
+provider is in force;
+(ub) whether the relevant provider provides, or is to provide, a tax 
+(financial) advice service;
+(uc) if an instrument of a kind prescribed by regulations made for 
+the purposes of subsection (3) is given to, or made in relation 
+to, the relevant provider—details of the instrument;
+(ud) if a Financial Services and Credit Panel gives the relevant 
+provider an infringement notice and the relevant provider 
+pays the amount stated in the notice before the end of the 
+payment period for the notice—all of the following:
+(i) details of the notice;
+(ii) a statement that the relevant provider has complied with 
+the notice;
+(iii) a statement that compliance with the notice is not an 
+admission of guilt or liability;
+(iv) a statement that the relevant provider is not regarded as 
+having contravened the provision specified in the 
+notice;
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of providers of financial services  Part 7.6
+Registers relating to financial services  Division 9
+
+Part 7.6  Licensing of providers of financial services
+Division 9  Registers relating to financial services
+Section 922R
+
+Corporations Act 2001 605
+Compilation No. 143 Compilation date: 09/07/2025(ue) any declaration under section 1317E that the relevant 
+provider has contravened a restricted civil penalty provision;
+(w) any other information that ASIC believes should be included 
+in the Register that relates to the provision of financial 
+services by the relevant provider.
+Note 1: Not all of the Register’s contents are publicly available. However, 
+section 1274A provides that ASIC may permit a person to search 
+certain registers kept by ASIC for prescribed information.
+Note 2: Information in paragraph (2)(s) may not be known in relation to a 
+provisional relevant provider (see subsection 922F(4)).
+(3) The regulations may prescribe instruments of one or more of the 
+following kinds:
+(a) an instrument made by a Financial Services and Credit Panel 
+under subsection 921K(1);
+(b) a warning or reprimand given by ASIC under 
+subsection 921S(1);
+(c) a warning or reprimand given by a Financial Services and 
+Credit Panel under subsection 921T(1).

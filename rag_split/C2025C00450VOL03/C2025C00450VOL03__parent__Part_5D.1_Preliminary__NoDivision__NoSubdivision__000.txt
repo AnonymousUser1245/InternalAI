@@ -1,0 +1,187 @@
+Part 5D.1  Preliminary
+
+Section 601RAC
+
+Part 5D.1  Preliminary
+122 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) performing functions of a kind referred to in 
+paragraph 601RAC(2)(b) and at least one other estate 
+management function;
+(c) that it is, and will continue to be, capable of providing the 
+services, and performing the functions, referred to in 
+paragraph (b) of this subsection;
+(d) that it is a fit and proper person;
+(e) that an unacceptable control situation does not exist in 
+relation to it in relation to any person;
+(f) any other matter the Minister specifies by written notice to 
+the company.
+Note: Under Division 137 of the Criminal Code it may be an offence for a 
+company to provide false or misleading information or documents to 
+the Minister in purported compliance with this requirement.
+(3) A client of a trustee company is a person to whom a financial 
+service (being a traditional trustee company service) is provided by 
+the trustee company.
+Note: Regulations made for the purpose of subsection 766A(1B) may 
+prescribe the person or persons to whom a class of traditional trustee 
+company services is taken to be provided.
+601RAC  Meaning of traditional trustee company services and estate 
+management functions
+(1) The following are traditional trustee company services:
+(a) performing estate management functions (see subsection (2));
+(b) preparing a will, a trust instrument, a power of attorney or an 
+agency arrangement;
+(c) applying for probate of a will, applying for grant of letters of 
+administration, or electing to administer a deceased estate;
+(d) establishing and operating common funds;
+(e) any other services prescribed by the regulations for the 
+purpose of this paragraph.
+(2) The following are estate management functions (whether 
+provided alone or jointly with another person or persons):
+Authorised Version C2025C00450 registered 21/07/2025Licensed trustee companies  Chapter 5D
+Preliminary  Part 5D.1
+  
+Section 601RAD
+Corporations Act 2001 123
+Compilation No. 143 Compilation date: 09/07/2025(a) acting as a trustee of any kind, or otherwise administering or 
+managing a trust;
+(b) acting as executor or administrator of a deceased estate;
+(c) acting as agent, attorney or nominee;
+(d) acting as receiver, controller or custodian of property;
+(e) otherwise acting as manager or administrator (including in 
+the capacity as guardian) of the estate of an individual;
+(f) acting in any other capacity prescribed by the regulations for 
+the purpose of this paragraph.
+(3) Subsections (1) and (2) do not apply to:
+(a) operating a registered scheme; or
+(b) providing a custodial or depository service; or
+(c) acting as trustee for debenture holders under Chapter 2L; or
+(d) acting as a receiver or other controller of property of a 
+corporation under Part 5.2; or
+(e) acting as trustee of a superannuation fund, an approved 
+deposit fund or a pooled superannuation trust; or
+(f) acting in any other capacity prescribed by the regulations for 
+the purpose of this paragraph.
+601RAD  Meaning of person with a proper interest
+(1) A person with a proper interest, in relation to an estate, includes 
+(but is not limited to) the following:
+(a) ASIC;
+(b) in relation to a charitable trust:
+(i) the settlor, or one of the settlors, of the trust; or
+(ii) a person who, under the terms of the trust, has power to 
+appoint or remove a trustee of the trust or to vary (or 
+cause to be varied) any of the terms of the trust; or
+(iii) a Minister of a State or Territory who has 
+responsibilities relating to charitable trusts; or
+(iv) a person who is named in the instrument establishing 
+the trust as a person who may receive payments on 
+behalf of the trust; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5D  Licensed trustee companies
+
+Part 5D.1  Preliminary
+
+Section 601RAE
+
+Part 5D.1  Preliminary
+124 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(v) a person who is named in the instrument establishing 
+the trust as a person who must, or may, be consulted by 
+the trustee or trustees before distributing or applying 
+money or other property for the purposes of the trust; or
+(vi) a person of a class that the trust is intended to benefit;
+(c) in the case of the estate of a deceased person:
+(i) if the person died testate—a beneficiary under the 
+person’s will; or
+(ii) if the person died intestate—a person who, under a law 
+of a State or Territory, has, or is entitled to, an interest 
+in the deceased’s estate;
+(d) in the case of any other trust:
+(i) the settlor, or one of the settlors, of the trust; or
+(ii) a person who, under the terms of the trust, has power to 
+appoint or remove a trustee of the trust or to vary (or 
+cause to be varied) any of the terms of the trust; or
+(iii) a beneficiary of the trust;
+(e) in relation to an application to a court relating to the estate—
+a person that the court considers, in the circumstances of the 
+case, has a proper interest in the estate;
+(f) a person prescribed by the regulations as having a proper 
+interest in the estate;
+(g) if a person covered by any of the above paragraphs is under a 
+legal disability—an agent of the person.
+(2) None of the paragraphs or subparagraphs of subsection (1) limits, 
+or is limited by, any of the other paragraphs or subparagraphs of 
+that subsection.
+601RAE  Interaction between trustee company provisions and State 
+and Territory laws
+(1) The trustee company provisions are:
+(a) the provisions of this Chapter, and regulations or other 
+instruments made for the purposes of this Chapter; and
+Authorised Version C2025C00450 registered 21/07/2025Licensed trustee companies  Chapter 5D
+Preliminary  Part 5D.1
+  
+Section 601RAE
+Corporations Act 2001 125
+Compilation No. 143 Compilation date: 09/07/2025(b) the provisions of Chapter 7, and regulations or other 
+instruments made for the purposes of Chapter 7, as they 
+apply in relation to financial services that are traditional 
+trustee company services.
+(2) Subject to subsections (3) and (4), the trustee company provisions 
+are intended to apply to the exclusion of laws of a State or 
+Territory of the following kinds:
+(a) laws that authorise or license companies to provide 
+traditional trustee company services generally (as opposed to 
+laws that authorise or license companies to provide a 
+particular traditional trustee company service);
+(b) laws that regulate the fees that may be charged by companies 
+for the provision of traditional trustee company services, and 
+laws that require the disclosure of such fees;
+(c) laws that deal with the provision of accounts by companies in 
+relation to traditional trustee company services that they 
+provide;
+(d) laws that deal with the duties of officers or employees of 
+companies that provide traditional trustee company services;
+(e) laws that regulate the voting power that people may hold in 
+companies that provide traditional trustee company services, 
+or that otherwise impose restrictions on the ownership or 
+control of companies that provide traditional trustee company 
+services;
+(f) laws (other than laws referred to in section 601WBC) that 
+deal with what happens to assets and liabilities held by a 
+company, in connection with the provision by the company 
+of traditional trustee company services, if the company 
+ceases to be licensed or authorised to provide such services.
+(3) Subject to subsection (4), the trustee company provisions are not 
+intended to apply to the exclusion of laws of a State or Territory 
+that require a company to have (or to have staff who have) 
+particular qualifications or experience if the company is to provide 
+traditional trustee company services of a particular kind.
+(4) The regulations may provide:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5D  Licensed trustee companies
+
+Part 5D.1  Preliminary
+
+Section 601RAE
+
+Part 5D.1  Preliminary
+126 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) that the trustee company provisions are intended to apply to 
+the exclusion of prescribed State or Territory laws, or 
+prescribed provisions of State or Territory laws; or
+(b) that the trustee company provisions are intended not to apply 
+to the exclusion of prescribed State or Territory laws, or 
+prescribed provisions of State or Territory laws.
+(5) The provisions of this Chapter have effect subject to this section.
+Note: For example, section 601SAC (which provides that the powers etc. 
+conferred by or under this Chapter are in addition to other powers etc.) 
+is to be interpreted subject to this section.
+(6) Part 1.1A does not apply in relation to the trustee company 
+provisions.
+Authorised Version C2025C00450 registered 21/07/2025Licensed trustee companies  Chapter 5D
+Powers etc. of licensed trustee companies  Part 5D.2
+General provisions  Division 1
+Section 601SAA
+Corporations Act 2001 127
+Compilation No. 143 Compilation date: 09/07/2025Part 5D.2—Powers etc. of licensed trustee 
+companies

@@ -1,0 +1,43 @@
+Part 2E.1  Member approval needed for related party benefit
+Division have been satisfied if it finds that they have been
+
+substantially satisfied.
+(2) A declaration may be made only on the application of an interested 
+person.
+Authorised Version C2025C00450 registered 21/07/2025Related party transactions  Chapter 2E
+Related parties and financial benefits  Part 2E.2
+
+Part 2E.1  Member approval needed for related party benefit
+Division have been satisfied if it finds that they have been
+Section 228
+
+Corporations Act 2001 459
+Compilation No. 143 Compilation date: 09/07/2025Part 2E.2—Related parties and financial benefits
+
+Part 2E.1  Member approval needed for related party benefit
+Division have been satisfied if it finds that they have been
+228  Related parties
+
+Controlling entities
+(1) An entity that controls a public company is a related party of the 
+public company.
+Directors and their spouses
+(2) The following persons are related parties of a public company:
+(a) directors of the public company;
+(b) directors (if any) of an entity that controls the public 
+company;
+(c) if the public company is controlled by an entity that is not a 
+body corporate—each of the persons making up the 
+controlling entity;
+(d) spouses of the persons referred to in paragraphs (a), (b) and 
+(c).
+Relatives of directors and spouses
+(3) The following relatives of persons referred to in subsection (2) are 
+related parties of the public company:
+(a) parents;
+(b) children.
+Entities controlled by other related parties
+(4) An entity controlled by a related party referred to in subsection (1), 
+(2) or (3) is a related party of the public company unless the entity 
+is also controlled by the public company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2E  Related party transactions

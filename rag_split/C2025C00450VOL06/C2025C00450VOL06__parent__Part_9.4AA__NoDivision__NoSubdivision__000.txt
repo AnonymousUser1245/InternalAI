@@ -1,0 +1,196 @@
+Part 9.4AA
+
+Section 1317DAA
+Corporations Act 2001 117
+Compilation No. 143 Compilation date: 09/07/2025subsection 674(2) or 675(2) are taken to be references to the 
+responsible entity having breached such an undertaking given 
+in relation to the registered scheme.
+(3) For the purposes of applying this Part to a disclosing entity that is 
+an undertaking to which interests in a notified foreign passport 
+fund relate:
+(a) references to the disclosing entity are taken to be references 
+to the operator of the fund; and
+(b) references to a financial report for a financial year being 
+lodged by a disclosing entity are taken to be references to a 
+copy of a report for the fund for the financial year, prepared 
+in accordance with the financial reporting requirements 
+applying to the fund under the Passport Rules for the home 
+economy for the fund, being lodged by the operator of the 
+fund; and
+(c) references to securities of a disclosing entity are taken to be 
+references to interests in the fund; and
+(d) references to a disclosing entity being convicted of an 
+offence based on subsection 674(2) or 675(2) are taken to be 
+references to the operator of the fund being convicted of such 
+an offence in relation to the fund; and
+(f) references to a disclosing entity having breached an 
+enforceable undertaking given to ASIC under section 93AA 
+or 93B of the ASIC Act in relation to the requirements of 
+subsection 674(2) or 675(2) are taken to be references to the 
+operator of the fund having breached such an undertaking 
+given in relation to the fund.
+(4) For the purposes of this Part, in determining whether a disclosing 
+entity has contravened subsection 674(2) or 675(2), treat the 
+offences created by those subsections as being offences of strict 
+liability.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AA
+
+Section 1317DAD
+Corporations Act 2001 119
+Compilation No. 143 Compilation date: 09/07/2025ASIC must have regard to certain matters
+(4) In determining whether to issue an infringement notice to a listed 
+disclosing entity for an alleged contravention of subsection 674(2), 
+ASIC must have regard to:
+(a) any guidelines issued by the relevant market operator for the 
+listed disclosing entity that relate to the provisions of the 
+listing rules referred to in subsection 674(1); and
+(b) any other relevant matter.
+Infringement notice does not have effect
+(5) The infringement notice does not have any effect if the 
+infringement notice:
+(a) is issued more than 12 months after the day on which the 
+contravention of subsection 674(2) or 675(2) is alleged to 
+have occurred; or
+(b) relates to more than one alleged contravention of 
+subsection 674(2) or 675(2) by the disclosing entity.
+1317DAD  Statement of reasons must be given
+Statement of reasons
+(1) Before issuing the infringement notice, ASIC must:
+(a) give the disclosing entity a written statement that sets out 
+ASIC’s reasons for believing that the disclosing entity has 
+contravened subsection 674(2) or 675(2); and
+(b) give a representative of the disclosing entity an opportunity 
+to:
+(i) appear at a private hearing before ASIC; and
+(ii) give evidence to ASIC; and
+(iii) make submissions to ASIC;
+in relation to the alleged contravention of subsection 674(2) 
+or 675(2).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AA
+
+Section 1317DAE
+Corporations Act 2001 121
+Compilation No. 143 Compilation date: 09/07/2025(ii) the particular provision that was contravened; and
+(g) must specify the penalty that is payable in relation to the 
+alleged contravention; and
+(h) must state that the penalty is payable to ASIC on behalf of 
+the Commonwealth; and
+(i) if it is alleged that the disclosing entity contravened 
+subsection 674(2)—may specify information that the 
+disclosing entity must notify to the relevant market operator 
+in accordance with the provisions of the listing rules referred 
+to in subsection 674(1); and
+(j) if it is alleged that the disclosing entity contravened 
+subsection 675(2)—may require the disclosing entity to 
+lodge a document with ASIC that contains specified 
+information; and
+(k) must explain the effect of sections 1317DAF, 1317DAG and 
+1317DAH; and
+(l) must state that the disclosing entity may make written 
+representations to ASIC seeking the withdrawal of the 
+infringement notice; and
+(m) must contain any other matters that are prescribed in the 
+regulations.
+(2) Subject to subsection (3), the penalty specified in the infringement 
+notice under paragraph (1)(g) for an alleged contravention of 
+subsection 674(2) is:
+(a) $100,000 if the disclosing entity is a Tier 1 entity; or
+(b) $66,000 if the disclosing entity is a Tier 2 entity; or
+(c) $33,000 if the disclosing entity is a Tier 3 entity.
+(3) The penalty specified in the infringement notice under 
+paragraph (1)(g) for an alleged contravention of subsection 674(2) 
+is:
+(a) $100,000 if the disclosing entity is a Tier 2 entity; or
+(b) $66,000 if the disclosing entity is a Tier 3 entity;
+if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AA
+
+Section 1317DAF
+Corporations Act 2001 123
+Compilation No. 143 Compilation date: 09/07/2025(ii) a Tier 2 entity if its market capitalisation on the relevant 
+day exceeds $100 million but does not exceed $1,000 
+million; and
+(iii) a Tier 3 entity if its market capitalisation on the relevant 
+day does not exceed $100 million or it is not possible to 
+work out its market capitalisation on the relevant day 
+because it has not lodged a financial report with ASIC 
+before the relevant day; and
+(b) the relevant day for an infringement notice is the last day of 
+the financial year in relation to which the latest financial 
+report by the disclosing entity has been lodged with ASIC 
+before the infringement notice is issued.
+(7) This is how to work out a disclosing entity’s market capitalisation 
+on the relevant day:
+(a) for each class of security of the disclosing entity that is a 
+quoted security:
+(i) work out the closing price, on the relevant day, for 
+securities in that class on the declared financial market 
+on which the securities are quoted; and
+(ii) multiply that price by the number of securities in that 
+class on issue on the relevant day (as shown in the 
+financial report lodged with ASIC for the period that 
+ends on the relevant day); and
+(b) add up the amounts obtained under paragraph (a): the result 
+is the disclosing entity’s market capitalisation on the relevant 
+day.
+Disregard quoted securities of the disclosing entity that are options.
+1317DAF  Effect of issue and compliance with infringement notice
+Circumstances in which this section applies
+(1) This section applies if subsection (2) or (3) is satisfied.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AA
+
+Section 1317DAF
+Corporations Act 2001 125
+Compilation No. 143 Compilation date: 09/07/2025No proceedings may be started etc.
+(5) Subject to subsection (6), no proceedings (whether criminal or 
+civil) may be started or continued against the disclosing entity in 
+relation to:
+(a) the alleged contravention of the provision specified in the 
+infringement notice; or
+(b) an offence constituted by the same conduct that constituted 
+the alleged contravention.
+(6) Subsection (5) does not apply to the following proceedings:
+(a) compensation proceedings, contravention proceedings, 
+enforcement proceedings and public interest proceedings that 
+relate to the alleged contravention of the provision specified 
+in the infringement notice;
+(b) proceedings to enforce the following orders of a Court:
+(i) an order made in relation to proceedings referred to in 
+paragraph (a);
+(ii) an order made under subsection 1335(2) in relation to 
+proceedings referred to in paragraph (a) other than 
+public interest proceedings;
+(c) any other proceedings in respect of a breach of an order 
+referred to in paragraph (b);
+(d) an appeal to a Court against the following decisions or orders 
+of a Court:
+(i) a decision or order made in relation to proceedings 
+referred to in paragraph (a);
+(ii) a decision or order made under subsection 1335(2) in 
+relation to the proceedings referred to in paragraph (a) 
+other than public interest proceedings.
+(7) To avoid doubt, subsection (5) does not prevent ASIC from:
+(a) making an order under section 91 of the ASIC Act; or
+(b) bringing proceedings to enforce the order.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AA
+
+Section 1317DAH
+Corporations Act 2001 127
+Compilation No. 143 Compilation date: 09/07/2025(5) To avoid doubt, subsection (3) does not prevent ASIC from:
+(a) making a determination under subsection 708AA(3),
+
+Part 9.4AA
+708A(2), 713(6), 713A(23), 1012DAA(3), 1012DA(2) or
+
+Part 9.4AA
+1013FA(3) of this Act; or

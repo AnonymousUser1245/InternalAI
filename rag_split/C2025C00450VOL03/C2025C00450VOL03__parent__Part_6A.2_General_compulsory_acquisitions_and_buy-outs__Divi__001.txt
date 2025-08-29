@@ -1,0 +1,127 @@
+(1) A person who holds securities covered by the compulsory 
+acquisition notice may object to the acquisition of the securities by 
+signing an objection form and giving it to the 90% holder. The 
+objection:
+(a) relates to all securities that are covered by the notice and are 
+held by the person at the end of the objection period; and
+(b) cannot be withdrawn.
+(2) The 90% holder must lodge with ASIC a copy of any objection 
+form given under subsection (1) as soon as practicable after it is 
+given.
+(3) As soon as practicable after the end of the objection period, the
+
+Part 6A.2  General compulsory acquisitions and buy-outs
+Division 1  Compulsory acquisition of securities by 90% holder
+90% holder must:
+
+(a) prepare a list that sets out:
+(i) the names of people who hold securities covered by the 
+compulsory acquisition notice and have objected to the 
+acquisition; and
+(ii) details of the securities they hold; and
+(b) lodge the list with ASIC; and
+(c) give a copy of the list to the company; and
+(d) if the company is listed—give a copy to the relevant market 
+operator.
+Authorised Version C2025C00450 registered 21/07/2025Compulsory acquisitions and buy-outs  Chapter 6A
+General compulsory acquisitions and buy-outs  Part 6A.2
+Compulsory acquisition of securities by 90% holder  Division 1
+
+Part 6A.2  General compulsory acquisitions and buy-outs
+Division 1  Compulsory acquisition of securities by 90% holder
+Section 664F
+
+Corporations Act 2001 323
+Compilation No. 143 Compilation date: 09/07/2025(4) If people who hold at least 10% of the securities covered by the 
+compulsory acquisition notice object to the acquisition before the 
+end of the objection period, the 90% holder must give everyone to 
+whom the compulsory acquisition notice was sent under 
+section 664C:
+(a) a notice that the proposed acquisition will not occur; or
+(b) a notice that the 90% holder has applied to the Court for 
+approval of the acquisition under section 664F;
+within 1 month after the end of the objection period.
+(5) An offence based on subsection (2), (3) or (4) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 6A.2  General compulsory acquisitions and buy-outs
+Division 1  Compulsory acquisition of securities by 90% holder
+664F  The Court’s power to approve acquisition
+
+(1) If people who hold at least 10% of the securities covered by the 
+compulsory acquisition notice object to the acquisition before the 
+end of the objection period, the 90% holder may apply to the Court 
+for approval of the acquisition of the securities covered by the 
+notice.
+(2) The 90% holder must apply within 1 month after the end of the 
+objection period.
+(3) If the 90% holder establishes that the terms set out in the 
+compulsory acquisition notice give a fair value for the securities, 
+the Court must approve the acquisition of the securities on those 
+terms. Otherwise it must confirm that the acquisition will not take 
+place.
+Note: See section 667C on valuation.
+(4) The 90% holder must bear the costs that a person incurs on legal 
+proceedings in relation to the application unless the Court is 
+satisfied that the person acted improperly, vexatiously or otherwise 
+unreasonably. The 90% holder must bear their own costs.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6A  Compulsory acquisitions and buy-outs
+
+Part 6A.2  General compulsory acquisitions and buy-outs
+Division 1  Compulsory acquisition of securities by 90% holder
+Section 664G
+
+Part 6A.2  General compulsory acquisitions and buy-outs
+Division 1  Compulsory acquisition of securities by 90% holder
+324 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025664G  Signpost—completing the acquisition of the securities
+See section 666A for how to complete the acquisition.
+Authorised Version C2025C00450 registered 21/07/2025Compulsory acquisitions and buy-outs  Chapter 6A
+General compulsory acquisitions and buy-outs  Part 6A.2
+Compulsory buy-out of convertible securities by 100% holder  Division 2
+
+Part 6A.2  General compulsory acquisitions and buy-outs
+Division 1  Compulsory acquisition of securities by 90% holder
+Section 665A
+
+Corporations Act 2001 325
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Compulsory buy-out of convertible securities 
+by 100% holder
+
+Part 6A.2  General compulsory acquisitions and buy-outs
+Division 1  Compulsory acquisition of securities by 90% holder
+665A  100% holder must offer to buy out holders of convertible
+
+securities
+(1) A person is a 100% holder of securities in a class if the person, 
+either alone or with a related body corporate, holds full beneficial 
+interests in all the securities in the class.
+(2) A 100% holder in relation to a class of securities (the main class) 
+who becomes a 100% holder through compulsory acquisitions 
+under this Part must offer to buy out the holders of securities in 
+another class that are convertible into main class securities in 
+accordance with sections 665B and 665C. This subsection does not 
+apply to securities if a notice is given in relation to the securities 
+under section 661B, 662B or 664C.
+Note: For when securities are convertible into main class securities, see the 
+definition of convertible securities in section 9.
+(3) An offence based on subsection (2) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 6A.2  General compulsory acquisitions and buy-outs
+Division 1  Compulsory acquisition of securities by 90% holder
+665B  100% holder to tell holders of convertible securities of their
+
+right to be bought out
+Notice to holders of convertible securities
+(1) The 100% holder must:
+(a) prepare a notice in the prescribed form that:
+(i) states that the person giving the notice has acquired all 
+the securities in the main class; and
+(ii) sets out the information that was included in the 
+compulsory acquisition notice given in relation to 
+securities in the main class under paragraphs 664C(1)(d) 
+and (e); and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6A  Compulsory acquisitions and buy-outs

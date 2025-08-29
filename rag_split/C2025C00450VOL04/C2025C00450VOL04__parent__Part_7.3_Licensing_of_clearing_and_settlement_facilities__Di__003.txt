@@ -1,0 +1,197 @@
+products and ensuring fair and effective provision of 
+services by CS facilities
+(1) ASIC may, by written notice given to a CS facility licensee, direct 
+the licensee:
+(a) not to provide the licensee’s services in relation to any 
+transactions that:
+(i) the licensee receives notice of after the direction is 
+given; and
+(ii) relate to a specified financial product or class of 
+financial products; or
+(b) to take, or refrain from taking:
+(i) any actions; or
+(ii) one or more specified actions;
+relating to dealings with transactions relating to a specified 
+financial product or class of financial products;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823DA
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+148 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025if subsection (2) applies.
+(2) This subsection applies if ASIC considers that:
+(a) the direction is necessary, or in the public interest, to protect 
+people dealing in a financial product or class of financial 
+products; or
+(b) the licensee has not done all things reasonably practicable to 
+ensure the facility’s services are provided in a fair and 
+effective way.
+(3) The direction:
+(a) must specify a reasonable time by which, or a reasonable 
+period during which, it is to be complied with; and
+(b) must include the reasons for the direction; and
+(c) may deal with either or both of the matters in 
+paragraphs (1)(a) and (b).
+(4) The licensee must comply with the direction (even if, under 
+subsection 823DA(1), the licensee has requested ASIC to refer the 
+direction to the Minister).
+Note: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+(5) If the licensee fails to comply with the direction, ASIC may apply 
+to the Court for, and the Court may make, an order that the licensee 
+comply with the direction.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823DA  Matters relating to ASIC directions—protecting dealings in
+
+financial products and ensuring fair and effective 
+provision of services by CS facilities
+Referrals to the Minister
+(1) If, at any time after a CS facility licensee receives a direction under 
+subsection 823D(1), the licensee requests in writing that ASIC 
+refer the direction to the Minister, ASIC must do so immediately.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of clearing and settlement facilities  Part 7.3
+Regulation of CS facility licensees  Division 2
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823DA
+
+Corporations Act 2001 149
+Compilation No. 143 Compilation date: 09/07/2025(2) The Minister may, if the Minister considers it appropriate after 
+being referred the direction, direct ASIC to vary or revoke the 
+direction.
+(3) ASIC must comply with the direction given under subsection (2) 
+immediately.
+(4) A direction given under subsection (2) is not a legislative 
+instrument.
+Variations and revocations
+(5) ASIC may vary or revoke a direction given under 
+subsection 823D(1):
+(a) in like manner; and
+(b) subject to like conditions, except if a condition is contrary to 
+a direction given under subsection (2) of this section;
+(see subsection 33(3) of the Acts Interpretation Act 1901).
+Notifying other affected persons
+(6) As soon as practicable after:
+(a) giving a direction under subsection 823D(1) to a CS facility 
+licensee; or
+(b) varying or revoking such a direction;
+ASIC must give written notice of the direction, variation or 
+revocation to:
+(c) the operator of each financial market with which the facility 
+has arrangements to provide services for transactions effected 
+through the market; and
+(d) if the direction relates to one or more specified financial 
+products—each issuer of those products; and
+(e) the Reserve Bank.
+Directions are not legislative instruments
+(7) A direction given under subsection 823D(1) is not a legislative 
+instrument.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823E
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+150 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision D—Reserve Bank’s directions powers
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823E  Reserve Bank’s directions power—directions to increase
+
+compliance or reduce systemic risk
+(1) The Reserve Bank may, by written notice given to a CS facility 
+licensee, direct the licensee to take:
+(a) specified action that the Reserve Bank reasonably believes 
+will promote compliance by the licensee with its obligations 
+as a CS facility licensee under:
+(i) paragraph 821A(1)(aa) or (ab); or
+(ii) section 821BA; or
+(iii) subsection 821C(3);
+if the Reserve Bank reasonably believes that the licensee is 
+not complying or is not likely to comply with those 
+obligations; or
+(b) specified action to comply with all or part of one or more 
+standards in force under section 827D that applies to the 
+licensee, if the Reserve Bank reasonably believes that the 
+licensee is not complying with those standards or parts; or
+(c) specified action to reduce systemic risk in the provision of 
+the facility’s services, if the Reserve Bank reasonably 
+believes that the licensee:
+(i) has not done; or
+(ii) is unlikely to do;
+all things reasonably practicable to reduce systemic risk in 
+the provision of the facility’s services.
+(2) The direction must specify a reasonable time by which, or a 
+reasonable period during which, it is to be complied with.
+(3) The licensee must comply with the direction (even if, under 
+subsection (4), the licensee has requested the Reserve Bank to refer 
+the direction to the Minister).
+Note: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of clearing and settlement facilities  Part 7.3
+Regulation of CS facility licensees  Division 2
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823F
+
+Corporations Act 2001 151
+Compilation No. 143 Compilation date: 09/07/2025Referrals to the Minister
+(4) If, at any time after a CS facility licensee receives a direction under 
+subsection (1), the licensee requests in writing that the Reserve 
+Bank refer the direction to the Minister, the Reserve Bank must do 
+so immediately.
+(5) The Minister may, if the Minister considers it appropriate after 
+being referred the direction, direct the Reserve Bank to vary or 
+revoke the direction.
+(6) The Reserve Bank must comply with the direction given under 
+subsection (5).
+Note: The Reserve Bank will need to do so immediately: see 
+paragraph 823K(1)(b).
+(7) A direction given under subsection (5) is not a legislative 
+instrument.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823F  Reserve Bank’s directions power—directions to preserve
+
+stability in the Australian financial system
+(1) The Reserve Bank may, by written notice given to a CS facility 
+licensee holding a licence granted under subsection 824B(1) 
+(domestic clearing and settlement facilities), direct the licensee to:
+(a) do, or refrain from doing, anything under either or both of the 
+following instruments (the operating instruments):
+(i) the facility’s operating rules;
+(ii) the written procedures the facility must have under 
+regulations made for the purposes of 
+subsection 822A(2); or
+(b) change one or more of those operating instruments; or
+(c) subject to sections 823M and 823P:
+(i) increase the licensee’s level of share capital to a 
+specified level; or
+(ii) issue one or more specified classes of shares, or one or 
+more specified classes of rights to acquire shares, in the 
+licensee; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823F
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+152 Corporations Act 2001

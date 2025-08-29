@@ -1,0 +1,213 @@
+Part 7.9A  Product intervention orders
+Section 1023H
+
+Corporations Act 2001 193
+Compilation No. 143 Compilation date: 09/07/2025Repeal of product intervention orders
+(5) A product intervention order that is a legislative instrument that 
+ceases to be in force is repealed by force of this subsection.
+
+Part 7.9A  Product intervention orders
+1023H  Extension of product intervention orders
+
+(1) ASIC may, in accordance with an approval under subsection (4), 
+by legislative instrument, declare that a product intervention order 
+that is in force:
+(a) remains in force until it is revoked; or
+(b) remains in force for a specified period, unless it is revoked 
+earlier.
+Note: A declaration under this subsection has the effect of overriding any 
+provisions in a product intervention order about the duration of the 
+order: see subsection 1023G(3).
+(2) ASIC may make more than one declaration under subsection (1) in 
+relation to a product intervention order that is in force.
+Approval of Minister
+(3) ASIC may, at any time before the order ceases to be in force, give 
+the Minister a report on whether the declaration should be made.
+(4) After considering the report, the Minister may give an approval in 
+writing for the purposes of subsection (1).
+
+Part 7.9A  Product intervention orders
+1023J  Amendment of product intervention orders
+
+(1) Subject to this section, ASIC may, in writing, amend a product 
+intervention order that is in force.
+Requirements before amending product intervention orders
+(2) If a declaration under section 1023H is in force in relation to a 
+product intervention order, ASIC must not amend the order without 
+the Minister’s approval, given after considering a report from 
+ASIC on whether the amendment should be made.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9A  Product intervention orders
+
+Part 7.9A  Product intervention orders
+Section 1023K
+
+Part 7.9A  Product intervention orders
+194 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) ASIC may, at any time before the order ceases to be in force, give 
+the Minister a report on whether the amendment should be made.
+Amendments of product intervention orders
+(4) An amendment of a product intervention order must not be such 
+that the order remains in force for a period longer than the 
+maximum period determined for the order in accordance with 
+subsection 1023G(2) or 1023H(1).
+(5) An amendment of a product intervention order comes into force:
+(a) for an amendment of an order that is a legislative 
+instrument—on the day after the amendment is registered 
+under the Legislation Act 2003; or
+(b) otherwise—on the day after the day on which the notice 
+under subsection 1023L(6) in relation to the amendment is 
+published;
+or a later day specified in the amendment.
+Amendments of orders that are legislative instruments
+(6) An amendment of a product intervention order that is a legislative 
+instrument must be by legislative instrument.
+
+Part 7.9A  Product intervention orders
+1023K  Revocation of product intervention orders
+
+(1) Subject to this section, ASIC may, in writing, revoke a product 
+intervention order.
+Requirements for revocation of product intervention orders
+(2) If a declaration under section 1023H is in force in relation to a 
+product intervention order, ASIC must not revoke the order 
+without the Minister’s approval, given after considering a report 
+from ASIC on whether the order should be revoked.
+(3) ASIC may, at any time before the order ceases to be in force, give 
+the Minister a report on whether the order should be revoked.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Product intervention orders  Part 7.9A
+
+Part 7.9A  Product intervention orders
+Section 1023L
+
+Corporations Act 2001 195
+Compilation No. 143 Compilation date: 09/07/2025Revocation of orders that are legislative instruments
+(4) A revocation of a product intervention order that is a legislative 
+instrument must be by legislative instrument.
+
+Part 7.9A  Product intervention orders
+1023L  ASIC to issue public notice of product intervention orders
+
+Product intervention orders
+(1) ASIC must serve a copy of a product intervention order that is not 
+a legislative instrument on any person to whom ASIC considers the 
+order applies. Failure to comply with this subsection does not 
+invalidate the order.
+(2) ASIC must publish each product intervention order, as in force for 
+the time being, on its website.
+Note: The Legislation Act 2003 requires legislative instruments to be 
+registered on the Federal Register of Legislation and provides for 
+compilations of legislative instruments.
+(3) ASIC must also publish on its website, with the product 
+intervention order, a notice that:
+(a) describes the significant detriment to retail clients that has 
+resulted from, or will or is likely to result from, the financial 
+product or class of financial products to which the order 
+relates, and sets out why the order is an appropriate way of 
+reducing the detriment; and
+(b) describes the consultation that ASIC undertook in relation to 
+the order; and
+(c) if the order comes into force after it is published—specifies 
+the day it comes into force.
+(4) ASIC must publish on its website, with the product intervention 
+order, each declaration under section 1023H (which relates to 
+extensions of product intervention orders) that relates to the order.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9A  Product intervention orders
+
+Part 7.9A  Product intervention orders
+Section 1023M
+
+Part 7.9A  Product intervention orders
+196 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Amendments of product intervention orders
+(5) ASIC must serve a copy of the instrument amending a product 
+intervention order that is not a legislative instrument on any person 
+to whom ASIC considers the order applies. Failure to comply with 
+this subsection does not invalidate the order.
+(6) ASIC must publish on its website, with the product intervention 
+order, each amendment of the product intervention order.
+(7) ASIC must also publish on its website, with the amendment, a 
+notice that:
+(a) sets out why the amendment is appropriate; and
+(b) describes the consultation that ASIC undertook in relation to 
+the amendment; and
+(c) if the day the amendment is to take effect is later than the day 
+after the day of publication of the amendment—specifies the 
+day the amendment is to take effect.
+Revocation of product intervention orders
+(8) If a product intervention order is revoked, ASIC must publish 
+notice of the revocation on its website.
+
+Part 7.9A  Product intervention orders
+1023M  Remaking product intervention orders
+
+If a product intervention order ceases to be in force or is revoked, 
+ASIC must not remake the order, or make an order in substantially 
+the same terms, unless:
+(a) ASIC is satisfied the circumstances have materially changed 
+since the order was made; or
+(b) the Minister approves, in writing, the remaking or making of 
+the order.
+
+Part 7.9A  Product intervention orders
+1023N  Product intervention orders may require notification
+
+(1) A product intervention order in relation to a financial product may:
+(a) require that a specified person who has:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Product intervention orders  Part 7.9A
+
+Part 7.9A  Product intervention orders
+Section 1023P
+
+Corporations Act 2001 197
+Compilation No. 143 Compilation date: 09/07/2025(i) dealt in, or dealt in a specified way in, a financial 
+product in relation to a retail client; or
+(ii) provided financial product advice, or a specified kind of 
+financial product advice, to a retail client in relation to a 
+financial product;
+take reasonable steps to notify the retail client:
+(iii) of the terms of the order; and
+(iv) of any other matter specified in regulations made for the 
+purposes of this subparagraph; and
+(b) specify requirements in relation to giving those notifications 
+(including requirements as to the periods within which to 
+give those notifications).
+(2) In this section, dealing in a financial product has the meaning 
+given by subsection 994A(1).
+
+Part 7.9A  Product intervention orders
+1023P  Enforcement of product intervention orders
+
+(1) A person must not engage in conduct contrary to a product 
+intervention order that is in force in relation to the person.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+(2) A person who is required by a product intervention order to take 
+reasonable steps to notify a retail client must comply with the 
+requirement.
+Note 1: For this requirement, see subsection 1023N(1).
+Note 2: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 3: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+(3) Subsections (1) and (2) do not apply if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9A  Product intervention orders
+
+Part 7.9A  Product intervention orders
+Section 1023Q
+
+Part 7.9A  Product intervention orders
+198 Corporations Act 2001

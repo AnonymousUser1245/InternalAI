@@ -1,0 +1,213 @@
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+
+CS facility
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+Section 1073A
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+322 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 3—Transfer of certain securities effected 
+otherwise than through a prescribed CS facility
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+1073A  Application of the Division to certain securities
+
+(1) This Division applies to the following securities:
+(a) shares in a company;
+(b) debentures of a company;
+(c) interests in a registered scheme, being interests that are 
+covered by regulations made for the purposes of this 
+paragraph;
+(d) rights (whether existing or future, and whether contingent or 
+not) to acquire, by way of issue, a security referred to in 
+paragraph (a), (b) or (c) (whether or not on payment of any 
+money or for any other consideration);
+(da) a CGS depository interest;
+(db) a simple corporate bonds depository interest;
+(e) securities declared by ASIC under section 1073E to be 
+securities to which the regulations apply.
+(2) This Division applies to an interest in a registered scheme as if:
+(a) references to a company were instead references to the 
+responsible entity of the registered scheme; and
+(b) references to the constitution of a company were instead 
+references to the constitution of the registered scheme; and
+(c) references to members of a company were instead references 
+to members of the registered scheme.
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+1073B  Meaning of transfer
+
+In this Division and Division 4 transfer of a financial product 
+means:
+(a) a change in the ownership of the financial product; or
+(b) if the financial product is a right—the renunciation and 
+transfer of the right.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Title and transfer  Part 7.11
+Transfer of certain securities effected otherwise than through a prescribed CS facility
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+
+CS facility
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+Section 1073D
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+324 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(d) the circumstances in which a person will be taken to be 
+involved in the transfer of a security for the purposes of the 
+regulations; and
+(e) the circumstances in which a person is required not to 
+register, or give effect to, a transfer.
+Sufficient transfer
+(3) Without limiting paragraph (2)(a), the regulations may:
+(a) specify the requirements for a document to be a sufficient 
+transfer of a security; and
+(b) provide that a document meeting specified requirements may 
+be used:
+(i) as a proper instrument of transfer for the purposes of 
+section 1071B; and
+(ii) as an instrument of transfer for the purposes of any 
+other law or instrument governing or relating to the 
+security.
+Rights and liabilities in relation to transfer
+(4) Without limiting paragraph (2)(c), the regulations may provide that 
+a person:
+(a) is taken to have:
+(i) agreed to do, to accept or to be bound by a particular 
+thing; or
+(ii) done a particular thing; or
+(iii) given particular warranties; or
+(iv) done particular things on behalf of another person; or
+(b) is taken to be authorised to do particular things on behalf of 
+another person; or
+(c) is taken to be bound by a particular act; or
+(d) is liable to indemnify another person against particular loss 
+or damage; or
+(e) is entitled to assume a particular matter without inquiry.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Title and transfer  Part 7.11
+Transfer of certain securities effected otherwise than through a prescribed CS facility
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+
+CS facility
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+Section 1073E
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+326 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Jurisdiction
+(7) The regulations may apply to conduct engaged in in this 
+jurisdiction or elsewhere.
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+1073E  ASIC may extend regulations to securities not otherwise
+
+covered
+(1) ASIC may, by writing, declare that:
+(a) particular securities; or
+(b) a particular class of securities;
+are securities to which this Division, and regulations made for the 
+purposes of section 1073D, apply.
+Note: The securities in respect of which a declaration under this subsection 
+may be made are not limited to those covered by paragraphs
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+1073A(1)(a) to (db).
+
+(2) ASIC may specify in the declaration modifications of the 
+regulations that are to have effect in relation to the application of 
+this Division and the regulations to the securities, or the class of 
+securities, to which the declaration relates.
+(3) A declaration under subsection (1) has effect accordingly.
+(4) ASIC must cause a copy of a declaration under subsection (1) to be 
+published in the Gazette.
+(5) If conduct (including an omission) of a person would not have 
+constituted an offence if a particular declaration under 
+subsection (1) had not been made, that conduct does not constitute 
+an offence unless, before the conduct occurred (in addition to 
+complying with the gazettal requirement of subsection (4)):
+(a) the text of the declaration was made available by ASIC on 
+the internet; or
+(b) ASIC gave written notice setting out the text of the 
+declaration to the person.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Title and transfer  Part 7.11
+Transfer of certain securities effected otherwise than through a prescribed CS facility
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+
+CS facility
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+Section 1073F
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+328 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) any other mode of executing a document transferring 
+securities;
+that is otherwise permitted by law.
+(7) A transfer of a security by or to a trustee or legal representative 
+may be effected by means of a transfer in accordance with 
+regulations made for the purposes of this Division. The transfer 
+may be so effected despite the means required by any law or the 
+provisions of the instrument (if any) creating, or having effect in 
+relation to, the trust or will under which the trustee or legal 
+representative is appointed.
+(8) In subsection (7):
+legal representative means:
+(a) the executor, original or by representation, of a will of a dead 
+person; or
+(b) the administrator of the estate of a dead person.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Title and transfer  Part 7.11
+Transfer of financial products effected through prescribed CS facility  Division 4
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+Section 1074A
+
+Corporations Act 2001 329
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Transfer of financial products effected 
+through prescribed CS facility
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+1074A  Financial products to which this Division applies
+
+This Division only applies in relation to particular financial 
+products and a prescribed CS facility if regulations made for the 
+purposes of this section provide that all financial products, or a 
+class of financial products that includes the financial products, are 
+financial products to which this Division applies in relation to the 
+prescribed CS facility (whether or not they are also products to 
+which this Division applies in relation to other prescribed CS 
+facilities).
+
+Part 7.11  Title and transfer
+Division 3  Transfer of certain securities effected otherwise than through a prescribed
+1074C  Operating rules of prescribed CS facility may deal with

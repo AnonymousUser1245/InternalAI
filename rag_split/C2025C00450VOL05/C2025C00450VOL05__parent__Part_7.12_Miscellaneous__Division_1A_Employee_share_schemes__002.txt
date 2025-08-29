@@ -1,0 +1,191 @@
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100X
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+358 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(d) any other financial information prescribed by the regulations 
+for the purposes of this paragraph.
+Financial information
+(2) The financial information is:
+(a) if the body corporate must lodge a report for a financial year 
+with ASIC under section 319—a copy of the most recent 
+report lodged with ASIC; or
+(b) if the body corporate is a registered foreign company—a 
+copy of the most recent documents lodged with ASIC under 
+section 601CK; or
+(c) otherwise—a balance sheet and profit and loss statement 
+prepared in compliance with either the accounting standards 
+or the international accounting standards (within the meaning 
+of the Australian Securities and Investments Commission Act
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+2001).
+
+Valuation information
+(3) This subsection covers the following documents:
+(a) a copy of a valuation of the ESS interest that has been 
+prepared consistently with an applicable method approved by 
+the Commissioner of Taxation under section 960-412 of the 
+Income Tax Assessment Act 1997;
+(b) if securities in the same class as the ESS interests are on offer 
+at the same time as the ESS interests—a disclosure document 
+for that offer that has been lodged with ASIC as mentioned in 
+section 727;
+(c) if financial products in the same class as the ESS interests are 
+on offer at the same time as the ESS interests—a disclosure 
+document or statement (within the meaning of section 952B) 
+in relation to those financial products;
+(d) a copy of an executed agreement under which ESS interests 
+in the same class as the ESS interests are to be acquired on 
+arm’s length terms by a third party who is not an associate of 
+the person making the offer, where the agreement specifies 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Employee share schemes  Division 1A
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100Y
+
+Corporations Act 2001 359
+Compilation No. 143 Compilation date: 09/07/2025the amount of monetary consideration to be paid for an ESS 
+interest in that class;
+(e) a copy of a draft agreement under which ESS interests in the 
+same class as the ESS interests are to be acquired on arm’s 
+length terms by a third party who is not an associate of the 
+person making the offer, where the agreement specifies the 
+amount of monetary consideration to be paid for an ESS 
+interest in that class;
+(f) a document prescribed by the regulations for the purposes of 
+this paragraph.
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+1100Y  Terms of the offer—disclosure etc.
+
+(1) The terms of an offer of ESS interests in connection with an 
+employee share scheme comply with this section if, under those 
+terms:
+(a) an ESS participant cannot acquire an ESS interest under the 
+offer until at least 14 days after receiving the ESS offer 
+document and any supporting information required under 
+section 1100X (if applicable) for the offer; and
+(b) if the ESS offer document included only a summary of the 
+terms of the offer—the person who makes the offer must 
+provide an ESS participant with a copy of the full terms of 
+the offer within 10 business days of the ESS participant 
+requesting a copy of those full terms; and
+(c) if the ESS offer document included only a summary of the 
+terms of a loan or ESS contribution plan—the person who 
+makes the offer must provide an ESS participant with a copy 
+of the full terms of the loan or plan within 10 business days 
+of the ESS participant requesting a copy of those full terms; 
+and
+(d) if the ESS offer document included only a summary of a trust 
+deed—the person who makes the offer must provide an ESS 
+participant with a copy of the full trust deed within 10 
+business days of the ESS participant requesting a copy of the 
+full trust deed; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100Y
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+360 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(e) if the offer is made by a trustee of a trust that meets the 
+requirements of section 1100S—the trustee must comply 
+with the trust deed.
+Note: If an offer contravenes a term mentioned in this subsection, or 
+subsection (3) or (4) (if applicable), regulatory relief for the offer is 
+revoked: see section 1100ZG.
+Additional requirements for unlisted bodies corporate
+(2) Subsections (3) and (4) apply if the offer is of ESS interests in a 
+body corporate that is not included in the official list of a financial 
+market covered by section 1100K.
+(3) The terms of the offer must also provide that, if the ESS participant 
+is given a draft sale agreement in satisfaction of 
+paragraph 1100X(3)(e) (about valuations), the ESS participant 
+cannot acquire an ESS interest until a sale agreement that is not 
+materially different from the draft sale agreement has been 
+executed.
+(4) If the offer is of options or incentive rights, and monetary 
+consideration is to be provided on the exercise of the options or 
+incentive rights, the terms of the offer must also be such that:
+(a) the options cannot be exercised, or the incentive rights cannot 
+vest, unless the following documents are provided to the ESS 
+participant at least 14 days before the exercise of the option 
+or vesting of the incentive right:
+(i) the financial information mentioned in 
+subsection 1100X(2), accompanied by a statement as to 
+whether that financial information has been audited;
+(ii) a document covered by subsection 1100X(3) (about 
+valuations) in relation to the underlying ESS interest;
+(iii) a statement that the body corporate is solvent;
+(iv) any other information prescribed by the regulations for 
+the purposes of this subparagraph; and
+(b) the person who made the offer must provide the ESS 
+participant with the information mentioned in paragraph (a) 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Employee share schemes  Division 1A
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100Z
+
+Corporations Act 2001 361
+Compilation No. 143 Compilation date: 09/07/2025at least 14 days before the option becomes exercisable or the 
+incentive right vests; and
+(c) if the ESS participant is given a draft sale agreement in 
+satisfaction of subparagraph (a)(ii)—the ESS participant 
+cannot exercise the option or right until a sale agreement that 
+is not materially different from the draft sale agreement has 
+been executed.
+Regulations may provide other ways of complying with this section
+(5) An offer also complies with this section if the offer is of a kind 
+prescribed by the regulations for the purposes of this subsection.
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+1100Z  Terms of the offer—misleading statements and omissions
+
+(1) The terms of an offer of ESS interests in connection with an 
+employee share scheme comply with this section if, under those 
+terms:
+(a) the ESS offer document, any supporting information required 
+under section 1100X (if applicable), and the terms of the 
+offer:
+(i) must not include a misleading or deceptive statement; 
+and
+(ii) must not omit any information that would result in the 
+ESS offer document, supporting information or terms of 
+the offer being misleading or deceptive; and
+(b) the person who makes the offer (the offeror) must provide 
+each ESS participant with an updated ESS offer document as 
+soon as practicable after becoming aware that the document 
+that was provided has become out of date, or is otherwise not 
+correct, in a material respect; and
+(c) if the offer is of options or incentive rights and monetary 
+consideration is to be provided on the exercise of the options 
+or incentive rights—the offeror must provide each ESS 
+participant with updated documents in satisfaction of 
+paragraph 1100Y(4)(a) as soon as practicable after becoming 
+aware that the information that was provided has become out 
+of date, or is otherwise not correct, in a material respect; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100Z
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+362 Corporations Act 2001

@@ -1,0 +1,219 @@
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+Section 963BB
+
+Corporations Act 2001 739
+Compilation No. 143 Compilation date: 09/07/2025(v) the nature of any services that the financial services 
+licensee or representative will provide the client (if any) 
+in relation to the relevant product; and
+(vi) a statement that it is a requirement of the law that client 
+consent must be obtained before the payment of an 
+insurance commission;
+(vii) the fact that the consent is irrevocable; and
+(d) the licensee or representative has:
+(i) the client’s written consent or a copy of the client’s 
+written consent; or
+(ii) if the consent was not obtained in writing—a written 
+record of the client’s consent; and
+(e) the licensee or representative gives a copy of the written 
+consent, or a copy of the record of the consent, to the client 
+as soon as reasonably practicable after the consent is 
+obtained.
+(2) To avoid doubt:
+(a) if information meeting the requirements of paragraph (1)(c) 
+has already been disclosed to the client, that paragraph does 
+not require the information to be disclosed again; and
+(b) a consent to a particular rate or frequency of a monetary 
+benefit given for the purposes of subsection (1) is taken to 
+also be a consent to a rate or frequency that is less than that 
+disclosed to the client before that consent was given, as 
+mentioned in subparagraph (1)(c)(ii), (iii) or (iv).
+Renewals of general insurance products
+(3) For the purposes of subsection (1), a consent (the original consent) 
+to a monetary benefit given in connection with the issue or sale to a 
+retail client of a general insurance product is taken to also be a 
+consent to a monetary benefit (a renewal benefit) being given in 
+connection with a renewal of that product if:
+(a) the information disclosed to the client before the original 
+consent was given included the fact that the original consent 
+would cover renewals of the general insurance product; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+Section 963BB
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+740 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) the rate of the renewal benefit is equal to or less than that 
+disclosed to the client before the original consent was given, 
+as mentioned in subparagraph (1)(c)(ii).
+Transfer of financial product advice business
+(4) For the purposes of subsection (1), a consent to a monetary benefit 
+being given to a financial services licensee (the original recipient) 
+or a representative of a financial services licensee (also the original 
+recipient) is taken to also be a consent to the monetary benefit 
+being given to another person (the new recipient) if:
+(a) the original recipient’s financial product advice business is 
+wholly or partly sold or transferred to:
+(i) another financial services licensee; or
+(ii) a representative of another financial services licensee; 
+or
+(iii) another representative of the financial services licensee 
+that is the original recipient; and
+(b) the new recipient is:
+(i) if subparagraph (a)(i) applies—that other licensee; or
+(ii) if subparagraph (a)(ii) applies—that representative of 
+another licensee; or
+(iii) if subparagraph (a)(iii) applies—that other 
+representative of the licensee that is the original 
+recipient.
+Variation of consent
+(5) If a client has given a consent for the purposes of subsection (1), 
+the financial services licensee or representative may:
+(a) disclose to the client proposed variations to one or more of 
+the matters mentioned in subparagraphs (1)(c)(i) to (v); and
+(b) request the client to consent to those variations.
+(6) If:
+(a) the client consents to those variations; and
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Best interests obligations and remuneration  Part 7.7A
+Conflicted remuneration  Division 4
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+Section 963C
+
+Corporations Act 2001 741
+Compilation No. 143 Compilation date: 09/07/2025(b) paragraphs (1)(d) and (e) are satisfied in relation to that 
+variation;
+then the consent has effect as varied for the purposes of this 
+section.
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+963C  Non-monetary benefit given in certain circumstances not
+
+conflicted remuneration
+(1) A non-monetary benefit given to a financial services licensee, or a 
+representative of a financial services licensee, who provides 
+financial product advice to persons as retail clients is not conflicted 
+remuneration in the circumstances set out in any of the following 
+paragraphs:
+(a) the benefit is given to the licensee or representative solely in 
+relation to a general insurance product;
+(b) each of the following is satisfied:
+(i) the benefit is of less than an amount prescribed;
+(ii) identical or similar benefits are not given on a frequent 
+or regular basis;
+(c) the benefit satisfies each of the following:
+(i) the benefit has a genuine education or training purpose;
+(ii) the benefit is relevant to the carrying on of a financial 
+services business;
+(iii) the benefit complies with regulations made for the 
+purposes of this subparagraph;
+(d) the benefit satisfies each of the following:
+(i) the benefit is the provision of information technology 
+software or support;
+(ii) the benefit is related to the provision of financial 
+product advice to persons as retail clients in relation to 
+the financial products issued or sold by the benefit 
+provider;
+(iii) the benefit complies with regulations made for the 
+purposes of this subparagraph;
+(f) the benefit is a prescribed benefit or is given in prescribed 
+circumstances.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+Section 963E
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+742 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) The regulations may prescribe circumstances in which, despite 
+subsection (1), all or part of a benefit is to be treated as conflicted 
+remuneration.
+(3) This section applies despite section 963A and any regulations 
+made for the purposes of section 963AA.
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+Section 963L
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+744 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Exception for insurance products
+(2) In determining whether an issuer or seller of a financial product 
+contravenes subsection (1), disregard section 963BB (which is 
+about informed consent for certain insurance commissions).
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+963L  Volume-based benefits presumed to be conflicted
+
+remuneration
+It is presumed for the purposes of this Division that a benefit of 
+one of the following kinds is conflicted remuneration, unless the 
+contrary is proved:
+(a) a benefit access to which, or the value of which, is wholly or 
+partly dependent on the total value of financial products of a 
+particular class, or particular classes:
+(i) recommended by a financial services licensee, or a 
+representative of a financial services licensee, to retail 
+clients, or a class of retail clients; or
+(ii) acquired by retail clients, or a class of retail clients, to 
+whom a financial services licensee, or a representative 
+of a financial services licensee, provides financial 
+product advice;
+(b) a benefit access to which, or the value of which, is wholly or 
+partly dependent on the number of financial products of a 
+particular class, or particular classes:
+(i) recommended by a financial services licensee, or a 
+representative of a financial services licensee, to retail 
+clients, or a class of retail clients; or
+(ii) acquired by retail clients, or a class of retail clients, to 
+whom a financial services licensee, or a representative 
+of a financial services licensee, provides financial 
+product advice.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Best interests obligations and remuneration  Part 7.7A
+Conflicted remuneration  Division 4
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+Section 963M
+
+Corporations Act 2001 745
+Compilation No. 143 Compilation date: 09/07/2025Subdivision D—Rebate of conflicted remuneration
+
+Part 7.7A  Best interests obligations and remuneration
+Division 4  Conflicted remuneration
+963M  Person covered by this section in relation to conflicted
+
+remuneration
+(1) This section covers a person in relation to conflicted remuneration 
+if:
+(a) the person is legally obliged (disregarding Subdivision C) to 
+give, on or after 1 January 2021, the conflicted remuneration 
+to another person; and
+(b) the person is prohibited under that Subdivision from giving 
+the conflicted remuneration to the other person, or the other 
+person is prohibited under that Subdivision from accepting 
+the conflicted remuneration.
+(2) This section also covers a person in relation to conflicted 
+remuneration if:
+(a) regulations made for the purposes of this subsection specify 
+conditions in relation to the conflicted remuneration; and
+(b) those conditions are met.
+(3) Despite subsections (1) and (2), this section does not cover a 
+person in relation to conflicted remuneration if:
+(a) regulations made for the purposes of this subsection specify 
+conditions in relation to the conflicted remuneration; and
+(b) those conditions are met.

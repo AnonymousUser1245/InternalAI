@@ -1,0 +1,173 @@
+Part 9.4AAA  Protection for whistleblowers
+
+Part 9.4AAA  Protection for whistleblowers
+Section 1317AA
+
+Part 9.4AAA  Protection for whistleblowers
+88 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Disclosure to legal practitioner
+(3) A disclosure of information by an individual qualifies for 
+protection under this Part if the disclosure is made to a legal 
+practitioner for the purpose of obtaining legal advice or legal 
+representation in relation to the operation of this Part.
+Disclosable matters
+(4) This subsection applies to a disclosure of information if the 
+discloser has reasonable grounds to suspect that the information 
+concerns misconduct, or an improper state of affairs or 
+circumstances, in relation to:
+(a) the regulated entity; or
+(b) if the regulated entity is a body corporate—a related body 
+corporate of the regulated entity.
+(5) Without limiting subsection (4), this subsection applies to a 
+disclosure of information if the discloser has reasonable grounds to 
+suspect that the information indicates that any of the following:
+(a) the regulated entity, or an officer or employee of the 
+regulated entity;
+(b) if the regulated entity is a body corporate—a related body 
+corporate of the regulated entity, or an officer or employee of 
+a related body corporate of the regulated entity;
+has engaged in conduct that:
+(c) constitutes an offence against, or a contravention of, a 
+provision of any of the following:
+(i) this Act;
+(ii) the ASIC Act;
+(iii) the Banking Act 1959;
+(iiia) the Financial Accountability Regime Act 2023;
+(iv) the Financial Sector (Collection of Data) Act 2001;
+(v) the Insurance Act 1973;
+(vi) the Life Insurance Act 1995;
+(vii) the National Consumer Credit Protection Act 2009;
+(viii) the Superannuation Industry (Supervision) Act 1993;
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Protection for whistleblowers  Part 9.4AAA
+  
+Section 1317AAA
+Corporations Act 2001 89
+Compilation No. 143 Compilation date: 09/07/2025(ix) an instrument made under an Act referred to in any of 
+subparagraphs (i) to (viii); or
+(d) constitutes an offence against any other law of the 
+Commonwealth that is punishable by imprisonment for a 
+period of 12 months or more; or
+(e) represents a danger to the public or the financial system; or
+(f) is prescribed by the regulations for the purposes of this 
+paragraph.
+Note: There is no requirement for a discloser to identify himself or herself in 
+order for a disclosure to qualify for protection under this Part.
+1317AAA  Meaning of eligible whistleblower
+An individual is an eligible whistleblower in relation to a regulated 
+entity if the individual is, or has been, any of the following:
+(a) an officer of the regulated entity;
+(b) an employee of the regulated entity;
+(c) an individual who supplies services or goods to the regulated 
+entity (whether paid or unpaid);
+(d) an employee of a person that supplies services or goods to 
+the regulated entity (whether paid or unpaid);
+(e) an individual who is an associate of the regulated entity;
+(f) for a regulated entity that is a superannuation entity:
+(i) an individual who is a trustee (within the meaning of the 
+Superannuation Industry (Supervision) Act 1993), 
+custodian (within the meaning of that Act) or 
+investment manager (within the meaning of that Act) of 
+the superannuation entity; or
+(ii) an officer of a body corporate that is a trustee, custodian 
+or investment manager of the superannuation entity; or
+(iii) an employee of an individual referred to in 
+subparagraph (i) or a body corporate referred to in 
+subparagraph (ii); or
+(iv) an individual who supplies services or goods to an 
+individual referred to in subparagraph (i) or a body 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AAA  Protection for whistleblowers
+
+Section 1317AAB
+
+Part 9.4AAA  Protection for whistleblowers
+90 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025corporate referred to in subparagraph (ii) (whether paid 
+or unpaid); or
+(v) an employee of a person that supplies services or goods 
+to an individual referred to in subparagraph (i) or a body 
+corporate referred to in subparagraph (ii) (whether paid 
+or unpaid);
+(g) a relative of an individual referred to in any of paragraphs (a) 
+to (f);
+(h) a dependant of an individual referred to in any of 
+paragraphs (a) to (f), or of such an individual’s spouse;
+(i) an individual prescribed by the regulations for the purposes 
+of this paragraph in relation to the regulated entity.
+1317AAB  Meaning of regulated entity
+Each of the following is a regulated entity:
+(a) a company;
+(b) a corporation to which paragraph 51(xx) of the Constitution 
+applies;
+(c) an ADI (within the meaning of the Banking Act 1959), an 
+authorised NOHC (within the meaning of that Act) or a 
+subsidiary of an ADI or an authorised NOHC;
+(d) a general insurer (within the meaning of the Insurance Act
+
+Part 9.4AAA  Protection for whistleblowers
+1973), an authorised NOHC (within the meaning of that Act)
+
+or a subsidiary of a general insurer or an authorised NOHC;
+(e) a life company (within the meaning of the Life Insurance Act
+
+Part 9.4AAA  Protection for whistleblowers
+1995), a registered NOHC (within the meaning of that Act)
+
+or a subsidiary of a life company or a registered NOHC;
+(f) a superannuation entity or a trustee of a superannuation 
+entity;
+(g) an entity prescribed by the regulations for the purposes of 
+this paragraph.
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Protection for whistleblowers  Part 9.4AAA
+  
+Section 1317AAC
+Corporations Act 2001 91
+Compilation No. 143 Compilation date: 09/07/20251317AAC  Meaning of eligible recipient
+(1) Each of the following is an eligible recipient in relation to a 
+regulated entity that is a body corporate:
+(a) an officer or senior manager of the body corporate or a 
+related body corporate;
+(b) an auditor, or a member of an audit team conducting an audit, 
+of the body corporate or a related body corporate;
+(c) an actuary of the body corporate or a related body corporate;
+(d) a person authorised by the body corporate to receive 
+disclosures that may qualify for protection under this Part.
+(2) Each of the following is an eligible recipient in relation to a 
+regulated entity that is a superannuation entity:
+(a) an officer of the superannuation entity;
+(b) an auditor, or a member of an audit team conducting an audit, 
+of the superannuation entity;
+(c) an actuary of the superannuation entity;
+(d) an individual who is a trustee (within the meaning of the 
+Superannuation Industry (Supervision) Act 1993) of the 
+superannuation entity;
+(e) a director of a body corporate that is the trustee (within the 
+meaning of the Superannuation Industry (Supervision) Act
+
+Part 9.4AAA  Protection for whistleblowers
+1993) of the superannuation entity;
+
+(f) a person authorised by the trustee or trustees (within the 
+meaning of the Superannuation Industry (Supervision) Act
+
+Part 9.4AAA  Protection for whistleblowers
+1993) of the superannuation entity to receive disclosures that
+
+may qualify for protection under this Part.
+(3) The regulations may prescribe persons or bodies that are eligible 
+recipients in relation to all regulated entities, or in relation to a 
+class or classes of regulated entities.
+(4) Subsections (1), (2) and (3) do not limit each other.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AAA  Protection for whistleblowers
+
+Section 1317AAD
+
+Part 9.4AAA  Protection for whistleblowers
+92 Corporations Act 2001

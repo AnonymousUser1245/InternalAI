@@ -1,0 +1,243 @@
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 571
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+636 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 8—Pooling
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 571
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+638 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(5) If a determination under paragraph (1)(c) comes into force in 
+relation to a group of 2 or more companies, the order of priority 
+applicable under sections 556, 560 and 561 is not altered for a 
+company in the group.
+(6) If:
+(a) a determination under paragraph (1)(c) comes into force in 
+relation to a group of 2 or more companies; and
+(b) a secured creditor of a company in the group surrenders the 
+relevant security interest to the liquidator of the company for 
+the benefit of creditors of the companies in the group 
+generally;
+the debt may be recovered as a debt that is jointly and severally 
+payable by the companies in the group.
+(7) If:
+(a) a determination under paragraph (1)(c) comes into force in 
+relation to a group of 2 or more companies; and
+(b) a secured creditor of a company in the group realises the 
+security interest;
+so much of the debt as remains after deducting the net amount 
+realised may be recovered as a debt that is jointly and severally 
+payable by the companies in the group.
+(8) The following provisions have effect subject to any modifications 
+under paragraph (1)(d):
+(a) subsection (2);
+(b) subsection (3);
+(c) subsection (4);
+(d) subsection (5);
+(e) subsection (6);
+(f) subsection (7).
+(9) Subsection (2) does not apply in relation to a secured creditor 
+unless the relevant debt is payable by a company or companies in 
+the group to any other company or companies in the group.
+(10) If:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Pooling  Division 8
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 572
+
+Corporations Act 2001 639
+Compilation No. 143 Compilation date: 09/07/2025(a) a pooling determination comes into force in relation to a 
+group of 2 or more companies; and
+(b) there are one or more eligible employee creditors of a 
+company in the group;
+those eligible employee creditors are entitled to a priority at least 
+equal to what they would have been entitled if the determination 
+had not been made.
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 477 not limited
+
+(11) This section does not limit section 477.
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+572  Variation of pooling determination
+
+If a pooling determination is in force in relation to a group of 2 or 
+more companies, the liquidator or liquidators of the companies 
+may, by writing, vary the determination.
+Note: A variation of a pooling determination comes into force when it is 
+approved by the creditors of the companies in the group—see 
+section 578.
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+573  Lodgment of copy of pooling determination etc.
+
+Pooling determination
+(1) Within 7 days after a pooling determination comes into force in 
+relation to a group of 2 or more companies, the liquidator or 
+liquidators of the companies in the group must lodge a copy of the 
+determination with ASIC.
+Note: A pooling determination comes into force when it is approved by the 
+eligible unsecured creditors of each of the companies in the group—
+see section 578.
+Variation of pooling determination
+(2) Within 7 days after a variation of a pooling determination comes 
+into force in relation to a group of 2 or more companies, the 
+liquidator or liquidators of the companies in the group must lodge a 
+copy of the variation with ASIC.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 577
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+640 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: A variation of a pooling determination comes into force when it is 
+approved by the eligible unsecured creditors of each of the companies 
+in the group—see section 578.
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+577  Eligible unsecured creditors may decide to approve the
+
+determination or variation
+(1A) Within 5 business days after the liquidator or liquidators of a group 
+of 2 or more companies:
+(a) make a pooling determination in relation to the group; or
+(b) vary a pooling determination in force in relation to the group;
+the liquidator or liquidators must convene separate meetings of the 
+eligible unsecured creditors of each of the companies in the group.
+Note: For eligible unsecured creditor, see section 579Q.
+(1) At a meeting convened under subsection (1A), the eligible 
+unsecured creditors may resolve to approve the making of the 
+determination or variation.
+(3) If, at a meeting convened under subsection (1A), the eligible 
+unsecured creditors do not resolve to approve the making of the 
+determination or variation:
+(a) the determination or variation is cancelled at the end of the 
+meeting; and
+(b) if, as at the end of the meeting, a corresponding resolution 
+has not been considered at another meeting convened under 
+subsection (1A) of the eligible unsecured creditors of another 
+company in the group—that other meeting is cancelled.
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+578  When pooling determination comes into force etc.
+
+Pooling determination
+(1) If:
+(a) a pooling determination is made in relation to a group of 2 or 
+more companies; and
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Pooling  Division 8
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 578
+
+Corporations Act 2001 641
+Compilation No. 143 Compilation date: 09/07/2025(b) meetings are convened under subsection 577(1A) of the 
+eligible unsecured creditors of each company in the group; 
+and
+(c) at each meeting, the eligible unsecured creditors pass a 
+resolution, as referred to in section 577, approving the 
+making of the determination;
+then:
+(d) if all the resolutions were passed at the same time—the 
+determination comes into force immediately after the 
+resolutions were passed; or
+(e) if the resolutions were passed at different times—the 
+determination comes into force immediately after the last of 
+those times.
+Note: For eligible unsecured creditor, see section 579Q.
+Variation of pooling determination
+(2) If:
+(a) a pooling determination is in force in relation to a group of 2 
+or more companies; and
+(b) the pooling determination is varied; and
+(c) meetings are convened under subsection 577(1A) of the 
+eligible unsecured creditors of each company in the group; 
+and
+(d) at each meeting, the eligible unsecured creditors pass a 
+resolution, as referred to in section 577, approving the 
+making of the variation;
+then:
+(e) if all the resolutions were passed at the same time—the 
+variation comes into force immediately after the resolutions 
+were passed; or
+(f) if the resolutions were passed at different times—the 
+variation comes into force immediately after the last of those 
+times.
+Note: For eligible unsecured creditor, see section 579Q.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 579
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+642 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025579  Duties of liquidator
+(1) This section applies if:
+(a) the liquidator or liquidators of a group of 2 or more 
+companies exercise a power conferred by section 571 or 
+subsection 577(1A); and
+(b) the liquidator or liquidators, in the exercise of that power, 
+acted:
+(i) with due care; and
+(ii) in good faith; and
+(iii) for the benefit of the creditors of the companies in the 
+group, considered as a whole.
+(2) The liquidator or liquidators are taken not to be in breach of:
+(a) any duty to a company in the group concerned (whether 
+under section 180, 181, 182, 183 or 184 or otherwise and 
+whether of a fiduciary nature or not); or
+(b) any duty to the creditors of a company in the group 
+concerned (whether of a fiduciary nature or not);
+in connection with the exercise of that power.
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+579A  Court may vary or terminate pooling determination
+
+(1) If a pooling determination is in force in relation to a group of 2 or 
+more companies, the Court may make an order varying or 
+terminating the pooling determination if the Court is satisfied that:
+(a) information that was about the business, property, affairs or 
+financial circumstances of a company in the group, and that:
+(i) was false or misleading; and
+(ii) can reasonably be expected to have been material to 
+eligible unsecured creditors of a company in the group 
+in deciding whether to vote in favour of a resolution to 
+approve the making of the pooling determination;
+was given to:
+(iii) the liquidator of a company in the group; or
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Pooling  Division 8
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 579A

@@ -1,0 +1,194 @@
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+Section 111AC
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+230 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Meaning of disclosing entity and related terms
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+111AC  Meaning of disclosing entity
+
+(1) If any securities of a body (except interests in a managed 
+investment scheme) are ED securities, the body is a disclosing 
+entity for the purposes of this Act.
+(2) If any interests in a managed investment scheme are ED securities, 
+the undertaking to which the interests relate is a disclosing entity 
+for the purposes of this Act.
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+111AD  Meaning of ED securities
+
+(1) Securities of a body are ED securities (short for “enhanced 
+disclosure securities”) for the purposes of this Act if, and only if:
+(a) they are ED securities under section 111AE, 111AF, 
+111AFA, 111AFB, 111AG or 111AI; and
+(b) they are not declared under section 111AJ not to be ED 
+securities.
+(2) For the purposes of sections 111AE, 111AF, 111AG and 111AI, a 
+class of shares or debentures is taken to include units of shares or 
+debentures in that class.
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+111AE  Securities of bodies or undertakings included in a licensed
+
+market’s official list
+(1) If:
+(a) a body corporate (other than a notified foreign passport fund) 
+is, with its agreement, consent or acquiescence, included in 
+the official list of a declared financial market; and
+(b) the market’s listing rules (according to their terms) apply to 
+the body in relation to a class (which may be some or all) of 
+securities issued by the body;
+securities issued by the body in that class are ED securities, and 
+that market is a listing market in relation to that body.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Disclosing entities  Part 1.2A
+Meaning of disclosing entity and related terms  Division 2
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+Section 111AE
+
+Corporations Act 2001 231
+Compilation No. 143 Compilation date: 09/07/2025(1A) If:
+(a) an undertaking to which interests in a registered scheme 
+relates is, with the agreement, consent or acquiescence of the 
+responsible entity, included in the official list of a declared 
+financial market; and
+(b) the market’s listing rules (according to their terms) apply to 
+the undertaking in relation to a class (which may be some or 
+all) of managed investment products that relate to the 
+scheme;
+managed investment products in that class that relate to the scheme 
+are ED securities, and that market is a listing market in relation to 
+the undertaking.
+(1B) If:
+(a) an undertaking to which interests in a notified foreign 
+passport fund relate is, with the agreement, consent or 
+acquiescence of the operator of the fund, included in the 
+official list of a declared financial market; and
+(b) the market’s listing rules (according to their terms) apply to 
+the fund in relation to a class (which may be some or all) of 
+foreign passport fund products that relate to the fund;
+foreign passport fund products in that class that relate to the fund 
+are ED securities, and that market is a listing market in relation to 
+the fund.
+(1C) If:
+(a) subsection (1) does not apply to securities issued by a CCIV; 
+and
+(b) a sub-fund of the CCIV is, with the agreement, consent or 
+acquiescence of the CCIV, included in the official list of a 
+declared financial market; and
+(c) the market’s listing rules (according to their terms) apply to 
+the sub-fund in relation to a class of securities issued by the 
+CCIV that are referable to the sub-fund;
+securities in that class that are referable to the sub-fund are ED 
+securities, and that market is a listing market in relation to the 
+CCIV.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+Section 111AF
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+232 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: Subsection (1) may apply to a CCIV instead of this subsection if the 
+CCIV, and not a sub-fund, is included in the official list of a declared 
+financial market.
+(2) Subsections (1) and (1A) do not apply to securities of a body if:
+(a) the body is a public authority of the Commonwealth or an 
+instrumentality or agency of the Crown in right of the 
+Commonwealth; and
+(b) the only securities issued by the body that would otherwise 
+be ED securities because of subsection (1) or (1A) are 
+debentures; and
+(c) both the repayment of principal, and the payment of interest, 
+in respect of those debentures is guaranteed by the 
+Commonwealth.
+(3) Subsections (1) and (1A) do not apply to securities of a body that 
+is:
+(a) a public authority of a State or Territory; or
+(b) an instrumentality or agency of the Crown in right of a State 
+or Territory.
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+111AF  Securities (except debentures and managed investment
+
+products) held by 100 or more persons
+(1) Securities (except debentures or managed investment products) in a 
+class of securities of a body are ED securities if:
+(a) a disclosure document in relation to securities in that class 
+has been lodged with ASIC under Chapter 6D; and
+(b) securities in that class have been issued pursuant to the 
+disclosure document; and
+(c) after an issue of securities in that class pursuant to the 
+disclosure document, 100 or more persons held securities in 
+that class; and
+(d) securities in that class have been held by 100 or more persons 
+at all times since the issue of securities referred to in 
+paragraph (c).
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Disclosing entities  Part 1.2A
+Meaning of disclosing entity and related terms  Division 2
+Section 111AFA
+Corporations Act 2001 233
+Compilation No. 143 Compilation date: 09/07/2025(2) Securities (except debentures and managed investment products) in 
+a class of securities of a body are ED securities if securities in that 
+class have been issued under a recognised offer and the offeror’s 
+records indicate that 100 or more people who reside in this 
+jurisdiction have held securities in that class (whether or not as a 
+result of the recognised offer) at all times since the issue.
+(3) Securities (except debentures) in a class of securities of a CCIV are 
+ED securities if 100 or more people hold securities in that class as 
+a result of offers that gave rise to obligations to give Product 
+Disclosure Statements (whether or not all in the same terms) under 
+Chapter 7 (as that Chapter applies to those securities under
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+Section 111AG
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+234 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025111AG  Securities issued as consideration for an acquisition under 
+an off-market takeover bid or Part 5.1 compromise or 
+arrangement
+(1) Securities (except debentures) in a class of securities of a body are 
+ED securities if:
+(a) securities in that class have been issued by the body as 
+consideration for offers under an off-market bid; and
+(b) after an issue of securities in that class under the off-market 
+bid, 100 or more persons held securities in that class; and
+(c) securities in that class have been held by 100 or more persons 
+at all times since the issue of securities referred to in 
+paragraph (b).
+(2) Securities in a class of securities of a body are ED securities if:
+(a) securities in that class have been issued as consideration for 
+the acquisition or cancellation of securities of another body 
+pursuant to a compromise or arrangement under Part 5.1; and
+(b) securities in that class, or those or any other securities of the 
+other body, were ED securities immediately before securities 
+in that class were first issued pursuant to the compromise or 
+arrangement; and
+(c) after an issue of securities in that class pursuant to the 
+compromise or arrangement, 100 or more persons held 
+securities in that class; and
+(d) securities in that class have been held by 100 or more persons 
+at all times since the issue of securities referred to in 
+paragraph (c).
+
+Part 1.2A  Disclosing entities
+Division 2  Meaning of disclosing entity and related terms
+111AH  When a person holds securities for the purposes of

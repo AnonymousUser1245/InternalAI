@@ -1,0 +1,165 @@
+Part 6A.7  Miscellaneous
+670D  Defences against prosecutions under subsection 670A(3) and
+
+actions under section 670B
+Not knowing statement misleading or deceptive
+(1) A person does not commit an offence against subsection 670A(3), 
+and is not liable under section 670B for a contravention of 
+subsection 670A(1), because of a misleading or deceptive 
+statement in a document if the person proves that they did not 
+know that the statement was misleading or deceptive.
+Authorised Version C2025C00450 registered 21/07/2025Rights and liabilities in relation to Chapter 6 and 6A matters  Chapter 6B
+
+Part 6A.7  Miscellaneous
+Section 670D
+
+Corporations Act 2001 345
+Compilation No. 143 Compilation date: 09/07/2025Not knowing there was an omission
+(2) A person does not commit an offence against subsection 670A(3), 
+and is not liable under section 670B for a contravention of 
+subsection 670A(1), because of an omission from a document in 
+relation to a particular matter if the person proves that they did not 
+know that there was an omission from the document in relation to 
+that matter.
+Reasonable reliance on information given by someone else—
+statements and omissions
+(3) A person does not commit an offence against subsection 670A(3), 
+and is not liable under section 670B for a contravention against 
+subsection 670A(1), because of a misleading or deceptive 
+statement in, or an omission from, a document if the person proves 
+that they placed reasonable reliance on information given to them 
+by:
+(a) if the person is a body—someone other than a director, 
+employee or agent of the body; or
+(b) if the person is an individual—someone other than an 
+employee or agent of the individual.
+(4) For the purposes of subsection (3), a person is not the agent of a 
+body or individual merely because they perform a particular 
+professional or advisory function for the body or individual.
+Withdrawal of consent—statements and omissions
+(5) A person who is named in a document as:
+(a) making a statement included in the document; or
+(b) making a statement on the basis of which a statement is 
+included in the document;
+does not commit an offence against subsection 670A(3), and is not 
+liable under section 670B for a contravention against 
+subsection 670A(1), because of a misleading or deceptive 
+statement in, or an omission from, a document if the person proves 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6B  Rights and liabilities in relation to Chapter 6 and 6A matters
+
+Part 6A.7  Miscellaneous
+Section 670E
+
+Part 6A.7  Miscellaneous
+346 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025that they publicly withdrew their consent to being named in the 
+document in that way.
+Unawareness of new matter
+(6) A person does not commit an offence against subsection 670A(3), 
+and is not liable under section 670B for a contravention of 
+subsection 670A(1), because of a new circumstance that has arisen 
+since the document was lodged if the person proves that they were 
+not aware of the matter.
+
+Part 6A.7  Miscellaneous
+670E  Liability for proposing a bid or not carrying through with bid
+
+(1) A person who:
+(a) enters into a transaction relating to securities in reliance on:
+(i) a public proposal for a takeover bid; or
+(ii) an announcement of a market bid; and
+(b) suffers loss or damage that results from a contravention of 
+section 631:
+may recover the amount of the loss or damage from:
+(c) the person who contravened the section; or
+(d) any person involved in the contravention.
+(2) To determine the amount of compensation payable under 
+subsection (1), deduct the price of the securities at which the 
+transaction was entered into from the price of the securities at 
+which the transaction would have been likely to be entered into if 
+the proposal or announcement had not been made.
+
+Part 6A.7  Miscellaneous
+670F  Defences
+
+A person does not commit an offence under subsection 631(1) or 
+(2), and is not liable under section 670E for a contravention of 
+those subsections if the person proves that they could not 
+reasonably have been expected to comply with those subsections 
+because:
+Authorised Version C2025C00450 registered 21/07/2025Rights and liabilities in relation to Chapter 6 and 6A matters  Chapter 6B
+
+Part 6A.7  Miscellaneous
+Section 670F
+
+Corporations Act 2001 347
+Compilation No. 143 Compilation date: 09/07/2025(a) at the time of the proposal or announcement, circumstances 
+existed that the person did not know of and could not 
+reasonably have been expected to know of; or
+(b) after the proposal or announcement, a change in 
+circumstances occurred that was not caused, directly or 
+indirectly, by the person.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6C  Information about ownership of listed companies, listed registered 
+schemes and listed notified foreign passport funds
+
+Part 6A.7  Miscellaneous
+Section 671A
+
+Part 6A.7  Miscellaneous
+348 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Chapter 6C—Information about ownership 
+of listed companies, listed registered 
+schemes and listed notified foreign 
+passport funds
+
+Part 6A.7  Miscellaneous
+671A  Chapter extends to some listed bodies that are not companies
+
+This Chapter applies to the acquisition of relevant interests in the 
+securities of listed bodies that are not companies but are 
+incorporated or formed in Australia in the same way as it applies to 
+the acquisition of relevant interests in the securities of companies.
+Note: Section 9 defines company and listed.
+Authorised Version C2025C00450 registered 21/07/2025Information about ownership of listed companies, listed registered schemes and listed 
+notified foreign passport funds  Chapter 6C
+Substantial holding information  Part 6C.1
+
+Part 6A.7  Miscellaneous
+Section 671B
+
+Corporations Act 2001 349
+Compilation No. 143 Compilation date: 09/07/2025Part 6C.1—Substantial holding information
+
+Part 6A.7  Miscellaneous
+671B  Information about substantial holdings must be given to
+
+company, responsible entity, fund operator and relevant 
+market operator
+Requirement to give information
+(1) A person must give the information referred to in subsection (3) to 
+a listed company, or the responsible entity for a listed registered 
+scheme, or the operator of a listed notified foreign passport fund in 
+accordance with this section, if:
+(a) the person begins to have, or ceases to have, a substantial 
+holding in the company, scheme or fund; or
+(b) the person has a substantial holding in the company, scheme 
+or fund and there is a movement of at least 1% in their 
+holding; or
+(c) the person makes a takeover bid for securities of the 
+company or scheme.
+The person must also give the information to each relevant market 
+operator.
+Note 1: Section 9 defines substantial holding and associate.
+Note 2: The information must be given even if the situation changes by the 
+time the information is to be given.
+Note 3: Paragraph (c) does not apply in relation to a notified foreign passport 
+fund.
+(2) For the purposes of this section, there is a movement of at least 1% 
+in a person’s holding if the percentage worked out using the 
+following formula increases or decreases by 1 or more percentage 
+points from the percentage they last disclosed under this Part in 
+relation to the company, scheme or fund:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6C  Information about ownership of listed companies, listed registered 
+schemes and listed notified foreign passport funds

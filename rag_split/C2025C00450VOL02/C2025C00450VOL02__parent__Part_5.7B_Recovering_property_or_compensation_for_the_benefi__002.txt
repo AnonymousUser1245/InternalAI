@@ -1,0 +1,54 @@
+for preferred debt
+(1) This section applies where:
+(a) a transaction is an unfair preference given by a company to a 
+creditor of the company after 23 June 1993; and
+(b) at the request of the company’s liquidator, because of an 
+order under section 588FF or 588FGAA, or for any other 
+reason, the creditor has put the company in the same position 
+as if the transaction had not been entered into.
+(2) A court must not make under section 588FF, on an application 
+relating to the transaction, an order prejudicing a right or interest of 
+the creditor.
+(2A) ASIC must not make an order under section 588FGAA that relates 
+to the transaction and prejudices a right or interest of the creditor.
+(3) The creditor may prove in the winding up as if the transaction had 
+not been entered into.
+
+Part 5.7B  Recovering property or compensation for the benefit of creditors of insolvent
+Division 2  Voidable transactions
+588FJ  Circulating security interest created within 6 months before
+
+relation-back day
+(1) This section applies if:
+(a) a company is being wound up in insolvency; and
+(b) the company created a circulating security interest in 
+property of the company at a particular time that is at or after
+
+Part 5.7B  Recovering property or compensation for the benefit of creditors of insolvent
+Division 2  Voidable transactions
+23 June 1993 and:
+
+(i) during the 6 months ending on the relation-back day; or
+(ii) after that day but on or before the day when the winding 
+up began.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Recovering property or compensation for the benefit of creditors of insolvent company
+
+Part 5.7B  Recovering property or compensation for the benefit of creditors of insolvent
+Division 2  Voidable transactions
+Section 588FJ
+
+Part 5.7B  Recovering property or compensation for the benefit of creditors of insolvent
+Division 2  Voidable transactions
+698 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025where:
+realisation costs means so much (if any) of the costs and expenses 
+of enforcing the security interest as is attributable to realising the 
+realised amount.
+unsecured amount means so much of the realised amount as does 
+not exceed so much of the debt as would, if the debt had not been 
+so discharged, have been unsecured, as against the liquidator, 
+because of subsection (2).
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Recovering property or compensation for the benefit of creditors of insolvent company

@@ -1,0 +1,186 @@
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+
+Section 331AAA
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+222 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2B) An audit firm ceases to be auditor of a registered scheme under this 
+subsection if:
+(a) on a particular day (the start day), ASIC is:
+(i) informed of a conflict of interest situation in relation to 
+the scheme under subsection 324CB(1A); or
+(ii) informed of particular circumstances in relation to the 
+scheme under subsection 324CF(1A); and
+(b) ASIC has not been given a notice on behalf of the audit firm, 
+before the notification day (see subsection (2D)), that that 
+conflict of interest situation has, or those circumstances have, 
+ceased to exist before the end of the period (the remedial 
+period) of 21 days, or such longer period as ASIC approves 
+in writing, from the start day.
+(2C) An audit company ceases to be auditor of a registered scheme 
+under this subsection if:
+(a) on a particular day (the start day), ASIC is:
+(i) informed of a conflict of interest situation in relation to 
+the scheme under subsection 324CB(1A) or
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+324CC(1A); or
+
+(ii) informed of particular circumstances in relation to the 
+scheme under subsection 324CF(1A) or 324CG(1A) or 
+(5A); and
+(b) ASIC has not been given a notice on behalf of the audit 
+company, before the notification day (see subsection (2D)), 
+that that conflict of interest situation has, or those 
+circumstances have, ceased to exist before the end of the 
+period (the remedial period) of 21 days, or such longer 
+period as ASIC approves in writing, from the start day.
+(2D) The notification day is:
+(a) the last day of the remedial period; or
+(b) such later day as ASIC approves in writing (whether before 
+or after the remedial period ends).
+(3) A director of the responsible entity of a registered scheme must 
+take all reasonable steps to secure compliance with subsection (1).
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Appointment and removal of auditors  Part 2M.4
+Appointment, removal and fees of auditors for registered schemes  Division 7
+Section 331AAB
+Corporations Act 2001 223
+Compilation No. 143 Compilation date: 09/07/2025(4) If an audit firm ceases to be the auditor of a registered scheme 
+under subsection (2) at a particular time, each member of the firm 
+who:
+(a) is taken to have been appointed as an auditor of the scheme 
+under subsection 324AB(1) or 324AC(4); and
+(b) is an auditor of the scheme immediately before that time;
+ceases to be an auditor of the scheme at that time.
+331AAB  Registered scheme auditor (appointment to fill vacancy)
+(1) If:
+(a) a vacancy occurs in the office of auditor of a registered 
+scheme; and
+(b) there is no surviving or continuing auditor of the scheme;
+the responsible entity must, within 1 month after the vacancy 
+occurs, appoint an auditor to fill the vacancy.
+(2) A director of the responsible entity of a registered scheme must 
+take all reasonable steps to secure compliance with subsection (1).
+331AAC  ASIC’s power to appoint registered scheme auditor
+(1) ASIC may appoint an auditor of a registered scheme if:
+(a) the responsible entity of the scheme does not appoint an 
+auditor when required by this Act to do so; and
+(b) a member of the scheme applies to ASIC in writing for the 
+appointment of an auditor under this section.
+(2) ASIC may only appoint an individual, firm or company as auditor 
+under subsection (1) if the individual, firm or company consents to 
+being appointed.
+331AAD  Remaining auditors may act during vacancy
+While a vacancy in the office of auditor of a registered scheme 
+continues, the surviving or continuing auditor or auditors (if any) 
+may act as auditors of the company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+Section 331AC
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+224 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision B—Removal and resignation of registered scheme 
+auditors
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+331AC  Removal and resignation of auditors
+
+(1) The responsible entity of a registered scheme may, with ASIC’s 
+consent, remove the auditor of the scheme from office.
+(2) An auditor of a registered scheme may, by notice in writing given 
+to the responsible entity, resign as auditor of the scheme if:
+(a) the auditor:
+(i) has, by notice in writing given to ASIC, applied for 
+consent to the resignation and stated the reasons for the 
+application; and
+(ii) has, at or about the same time as giving the notice to 
+ASIC, given the responsible entity notice in writing of 
+the application to ASIC; and
+(b) ASIC has given its consent.
+(3) As soon as practicable after ASIC receives a notice from an auditor 
+under subsection (2), ASIC must notify the auditor, and the 
+responsible entity of the registered scheme, whether it consents to 
+the resignation.
+(4) A statement made by an auditor in an application to ASIC under 
+subsection (2) or in answer to an inquiry by ASIC relating to the 
+reasons for the application:
+(a) is not admissible in evidence in any civil or criminal 
+proceedings against the auditor; and
+(b) must not be made the ground of a prosecution, action or suit 
+against the auditor.
+A certificate by the ASIC that the statement was made in the 
+application or in answer to the inquiry by ASIC is conclusive 
+evidence that the statement was so made.
+(5) The resignation of an auditor takes effect:
+(a) on the day (if any) specified for the purpose in the notice of 
+resignation; or
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Appointment and removal of auditors  Part 2M.4
+Appointment, removal and fees of auditors for registered schemes  Division 7
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+Section 331AD
+
+Corporations Act 2001 225
+Compilation No. 143 Compilation date: 09/07/2025(b) on the day on which ASIC gives its consent to the 
+resignation; or
+(c) on the day (if any) fixed by ASIC for the purpose;
+whichever occurs last.
+(6) If, on the retirement or withdrawal of a member of a firm, the firm 
+will no longer be capable of acting as auditor of a registered 
+scheme because of subparagraph 324BB(1)(b)(i) or (2)(b)(i), the 
+member is (if not disqualified from acting as auditor of the 
+scheme) taken to be the auditor of the scheme until he or she 
+obtains the consent of ASIC to his or her retirement or withdrawal.
+(7) Within 14 days after:
+(a) the removal from office of an auditor of a registered scheme; 
+or
+(b) the receipt of a notice of resignation from an auditor of a 
+registered scheme;
+the responsible entity must lodge with ASIC a notice of the 
+removal or resignation in the prescribed form.
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+331AD  Effect of winding up on office of auditor
+
+An auditor of a registered scheme ceases to hold office if:
+(a) the scheme’s constitution provides that the scheme is to be 
+wound up at a specified time, in specified circumstances or 
+on the happening of a specified event, and that time is 
+reached, those circumstances occur or that event occurs; or
+(b) the members pass a resolution directing the responsible entity 
+to wind up the scheme; or
+(c) the Court makes an order directing the responsible entity to 
+wind up the scheme; or
+(d) the members pass a resolution to remove the responsible 
+entity but do not, at the same meeting, pass a resolution 
+choosing a company to be the new responsible entity that 
+consents to becoming the scheme’s responsible entity.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+Section 331AE
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+226 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision C—Fees and expenses of auditors
+
+Part 2M.4  Appointment and removal of auditors
+Division 7  Appointment, removal and fees of auditors for registered schemes
+331AE  Fees and expenses of auditors

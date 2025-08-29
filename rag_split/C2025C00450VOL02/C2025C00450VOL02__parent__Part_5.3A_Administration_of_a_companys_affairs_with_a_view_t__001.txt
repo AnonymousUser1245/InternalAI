@@ -1,0 +1,129 @@
+(1) The Court may order that subsection 451E(1) does not apply for 
+one or more rights against a company if the Court is satisfied that 
+this is appropriate in the interests of justice.
+(2) An application for the order may be made by the holder of those 
+rights.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Administration of a company’s affairs with a view to executing a deed of company 
+arrangement  Part 5.3A
+Miscellaneous  Division 17
+
+Part 5.3A  Administration of a company’s affairs with a view to executing a deed of
+Division 17  Miscellaneous
+Section 451G
+
+Corporations Act 2001 431
+Compilation No. 143 Compilation date: 09/07/2025451G  Order for rights to be enforceable only with leave of the Court
+Orders
+(1) The Court may order that one or more rights under a contract, 
+agreement or arrangement are enforceable against a company only:
+(a) with the leave of the Court; and
+(b) in accordance with such terms (if any) as the Court imposes.
+Example: The order could be sought for a right to terminate for convenience.
+(2) The Court may make the order if:
+(a) the company is under administration; and
+(b) the Court is satisfied that:
+(i) the rights are being exercised; or
+(ii) the rights are likely to be exercised; or
+(iii) there is a threat to exercise the rights;
+because of one or more reasons referred to in paragraphs
+
+Part 5.3A  Administration of a company’s affairs with a view to executing a deed of
+Division 17  Miscellaneous
+451E(1)(a) to (d); and
+
+(c) an application for the order is made by the administrator of 
+the company.
+(3) An order under subsection (1) must specify the period for which it 
+applies. In working out the period, the Court must have regard to:
+(a) subsections 451E(2), (3) and (4); and
+(b) the interests of justice.
+(4) Subsection (1) does not apply to a right referred to in 
+subsection 451E(5) or (7).
+Note: An order under subsection (1) also does not restrict certain secured 
+creditors (see Subdivision B of Division 7).
+Interim orders
+(5) Before deciding an application for an order under subsection (1), 
+the Court may grant an interim order for one or more rights under a 
+contract, agreement or arrangement not to be enforced against a 
+company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.3A  Administration of a company’s affairs with a view to executing a deed of
+Division 17  Miscellaneous
+Section 451GA
+
+Part 5.3A  Administration of a company’s affairs with a view to executing a deed of
+Division 17  Miscellaneous
+432 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(6) The Court must not require an applicant for an order under 
+subsection (1) to give an undertaking as to damages as a condition 
+of granting an interim order.
+
+Part 5.3A  Administration of a company’s affairs with a view to executing a deed of
+Division 17  Miscellaneous
+451GA  Self-executing provisions
+
+(1) The object of subsection (2) is to ensure that a self-executing 
+provision:
+(a) cannot start to apply against a company for certain reasons; 
+and
+(b) can be the subject of a Court order providing that the 
+provision can only start to apply against a company with the 
+leave of the Court, and in accordance with such terms (if any) 
+as the Court imposes.
+(2) Sections 451E to 451G also apply in relation to a self-executing 
+provision in a corresponding way to the way they apply in relation 
+to a right. For this purpose, assume those sections apply with such 
+modifications as are necessary, including any prescribed by the 
+regulations for the purposes of this subsection.
+Note 1: This subsection achieves the object in subsection (1) by extending the 
+application of all of the outcomes, exceptions and powers in 
+sections 451E to 451G.
+Note 2: These modifications include, for example, treating:
+(a) a reference that a right cannot be enforced (however described) 
+as including a reference that a self-executing provision cannot 
+start to apply; and
+(b) the words “if the right arises for that reason by express provision 
+(however described) of a contract, agreement or arrangement” as 
+being omitted from subsection 451E(1); and
+(c) a reference that one or more rights are enforceable as including a 
+reference that one or more self-executing provisions can start to 
+apply; and
+(d) paragraph 451G(2)(b) as alternatively providing that the Court is 
+satisfied that one or more reasons referred to in paragraphs
+
+Part 5.3A  Administration of a company’s affairs with a view to executing a deed of
+Division 17  Miscellaneous
+451E(1)(a) to (d) can cause the self-executing provisions to start
+
+to apply.
+(3) In this section:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Administration of a company’s affairs with a view to executing a deed of company 
+arrangement  Part 5.3A
+Miscellaneous  Division 17
+
+Part 5.3A  Administration of a company’s affairs with a view to executing a deed of
+Division 17  Miscellaneous
+Section 451H
+
+Corporations Act 2001 433
+Compilation No. 143 Compilation date: 09/07/2025self-executing provision means a provision of a contract, 
+agreement or arrangement that can start to apply automatically:
+(a) for one or more reasons; and
+(b) without any party to the contract, agreement or arrangement 
+making a decision that the provision should start to apply.
+
+Part 5.3A  Administration of a company’s affairs with a view to executing a deed of
+Division 17  Miscellaneous
+451H  When other laws prevail—certain other Commonwealth Acts
+
+If there is any inconsistency between sections 451E to 451GA and 
+one of the following Acts, that Act prevails to the extent of the 
+inconsistency:
+(a) the Payment Systems and Netting Act 1998;
+(b) the International Interests in Mobile Equipment (Cape Town 
+Convention) Act 2013.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

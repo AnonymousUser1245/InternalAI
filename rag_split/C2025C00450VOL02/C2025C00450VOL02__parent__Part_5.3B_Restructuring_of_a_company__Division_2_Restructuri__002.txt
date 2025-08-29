@@ -1,0 +1,216 @@
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 453V
+
+Corporations Act 2001 451
+Compilation No. 143 Compilation date: 09/07/2025(4) The court officer must pay to the restructuring practitioner all 
+proceeds or money of a kind referred to in paragraph (2)(b) or (d) 
+that:
+(a) are in the court officer’s possession; or
+(b) have been paid into the court and have not since been paid 
+out.
+(5) The costs of the execution or attachment are a first charge on 
+property delivered under subsection (3) or proceeds or money paid 
+under subsection (4).
+(6) In order to give effect to a charge under subsection (5) on proceeds 
+or money, the court officer may retain, on behalf of the person 
+entitled to the charge, so much of the proceeds or money as the 
+court officer thinks necessary.
+(7) The Court may, if it is satisfied that it is appropriate to do so, 
+permit the court officer to take action, or to make a payment, that 
+subsection (2) would otherwise prevent.
+(8) A person who buys property in good faith under a sale under a 
+process of execution gets a good title to the property as against the 
+company and the restructuring practitioner, despite anything else in 
+this section.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+453V  Lis pendens taken to exist
+
+(1) This section has effect only for the purposes of a law about the 
+effect of a lis pendens on purchasers or mortgagees.
+(2) During the restructuring of the company, an application to wind up 
+the company is taken to be pending.
+(3) An application that is taken because of subsection (2) to be 
+pending constitutes a lis pendens.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+453W  Restructuring not to trigger liability of director or relative
+
+under guarantee of company’s liability
+(1) During the restructuring of a company:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 453W
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+452 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) a guarantee of a liability of the company cannot be enforced, 
+as against:
+(i) a director of the company who is a natural person; or
+(ii) a spouse or relative of such a director; and
+(b) without limiting paragraph (a), a proceeding in relation to 
+such a guarantee cannot be begun against such a director, 
+spouse or relative;
+except with the leave of the Court and in accordance with such 
+terms (if any) as the Court imposes.
+(2) While subsection (1) prevents a person (the creditor) from:
+(a) enforcing as against another person (the guarantor) a 
+guarantee of a liability of a company; or
+(b) beginning a proceeding against another person (the 
+guarantor) in relation to such a guarantee;
+section 1323 applies in relation to the creditor and the guarantor as 
+if:
+(c) a civil proceeding against the guarantor had begun under this 
+Act; and
+(d) the creditor were the only person of a kind referred to in that 
+section as an aggrieved person.
+Note: Under section 1323, the Court can make a range of orders to ensure 
+that a person can meet the person’s liabilities.
+(3) The effect that section 1323 has because of a particular application 
+of subsection (2) is additional to, and does not prejudice, the effect 
+the section otherwise has.
+(4) In this section:
+guarantee, in relation to a liability of a company, includes a 
+relevant agreement (as defined in section 9) because of which a 
+person other than the company has incurred, or may incur, whether 
+jointly with the company or otherwise, a liability in respect of the 
+liability of the company.
+liability means a debt, liability or other obligation.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Restructuring of a company  Part 5.3B
+Restructuring  Division 2
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 453X
+
+Corporations Act 2001 453
+Compilation No. 143 Compilation date: 09/07/2025453X  Property subject to a banker’s lien—exemption from this 
+Subdivision
+If:
+(a) a company is under restructuring; and
+(b) property of the company consists of:
+(i) cash in the form of notes or coins; or
+(ii) a negotiable instrument; or
+(iii) a security (as defined by subsection 92(1)); or
+(iv) a derivative; and
+(c) the property is subject to a possessory security interest; and
+(d) the secured party is:
+(i) an ADI (within the meaning of the Banking Act 1959); 
+or
+(ii) the operator of a clearing and settlement facility;
+this Subdivision does not apply to the property.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 454C
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+454 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025454C  Secured party acts before or during decision period
+Scope
+(1) This section applies if:
+(a) the whole, or substantially the whole, of the property of a 
+company under restructuring is subject to a security interest; 
+and
+(b) before or during the decision period, the secured party 
+enforced the security interest in relation to all property 
+(including any PPSA retention of title property) of the 
+company subject to the security interest, whether or not the 
+security interest was enforced in the same way in relation to 
+all that property.
+(2) This section also applies if:
+(a) a company is under restructuring; and
+(b) the same person is the secured party in relation to each of 2 
+or more security interests in property (including PPSA 
+retention of title property) of the company; and
+(c) the property of the company (the secured property) subject to 
+the respective security interests together constitutes the 
+whole, or substantially the whole, of the company’s property; 
+and
+(d) before or during the decision period, the secured party 
+enforced the security interests in relation to all the secured 
+property:
+(i) whether or not the security interests were enforced in 
+the same way in relation to all the secured property; and
+(ii) whether or not any of the security interests was enforced 
+in the same way in relation to all the property of the 
+company subject to that security interest; and
+(iii) in so far as the security interests were enforced in 
+relation to property of the company by a receiver or 
+controller appointed for the purposes of Part 5.2 
+(whether under an instrument relating to the security 
+interest or a court order)—whether or not the same 
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Restructuring of a company  Part 5.3B
+Restructuring  Division 2
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 454D
+
+Corporations Act 2001 455
+Compilation No. 143 Compilation date: 09/07/2025person was appointed in respect of all of the 
+last-mentioned property.
+Power of enforcement by secured party, receiver or controller
+(3) Nothing in section 453K, 453R, 453T, 453U or 454N, or in an 
+order under subsection 454P(1), prevents any of the following from 
+enforcing the security interest, or any of the security interests:
+(a) the secured party;
+(b) a receiver or controller appointed for the purposes of Part 5.2 
+(whether under an instrument relating to the security interest 
+or a court order, and even if appointed after the decision 
+period).
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+454D  Where enforcement of security interest begins before
+
+restructuring
+(1) This section applies if, before the beginning of the restructuring of 
+a company, a secured party, receiver or other person:
+(a) entered into possession, or assumed control, of property of 
+the company; or
+(b) entered into an agreement to sell such property; or
+(c) made arrangements for such property to be offered for sale 
+by public auction; or
+(d) publicly invited tenders for the purchase of such property; or
+(e) exercised any other power in relation to such property;
+for the purpose of enforcing a security interest in that property.
+(2) Nothing in section 453K, 453R, 453T, 453U or 454N, or in an 
+order made under subsection 454P(1), prevents the secured party, 
+receiver or other person from enforcing the security interest in 
+relation to that property.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 454E
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+456 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025454E  Security interest in perishable property
+Scope
+(1) This section applies if perishable property of a company under 
+restructuring is subject to a security interest.
+Power of enforcement by secured party, receiver or controller
+(2) Nothing in section 453K, 453R or 454N, or in an order made under 
+subsection 454P(1), prevents any of the following from enforcing 
+the security interest, so far as it is a security interest in perishable 
+property:
+(a) the secured party;
+(b) a receiver or controller appointed for the purposes of Part 5.2 
+(whether under an instrument relating to the security interest 
+or a court order, and even if appointed after the decision 
+period).

@@ -1,0 +1,207 @@
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 125
+Compilation No. 143 Compilation date: 09/07/2025Note: See also general insurance product, insurance product and life risk 
+insurance product.
+RSA has the same meaning as in the Retirement Savings Accounts 
+Act 1997.
+Note: RSA is short for retirement savings account.
+RSA provider has the same meaning as in the Retirement Savings 
+Accounts Act 1997.
+Note: RSA is short for retirement savings account.
+RSE licensee has the same meaning as in the Superannuation 
+Industry (Supervision) Act 1993.
+Note: RSE is short for registrable superannuation entity.
+RSE licensee law has the same meaning as in the Superannuation 
+Industry (Supervision) Act 1993.
+RSE remuneration report means the section of the directors’ 
+report for a financial year for a registrable superannuation entity 
+that is included under subsection 300C(1).
+rules of court means:
+(a) rules of the Federal Court; or
+(b) rules of a State or Territory Supreme Court; or
+(c) rules of the Federal Circuit and Family Court of Australia 
+(Division 1);
+as the case requires.
+sale:
+(a) in relation to an annuity policy—has the meaning given by 
+section 761A; and
+(b) of a financial product, for the purposes of Part 7.8A (design 
+and distribution requirements) and Part 7.9 (financial product 
+disclosure)—has the meaning given by subsection 1010C(1).
+Note: Section 1010C applies for the purposes of Part 7.8A: see 
+subsection 994A(3).
+sale situation has the meaning given by paragraph 1012C(2)(a).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+126 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025sale Statement has the meaning given by subsection 1013A(2).
+scheme property of a registered scheme means:
+(a) contributions of money or money’s worth to the scheme; and
+(b) money that forms part of the scheme property under 
+provisions of this Act or the ASIC Act; and
+(c) money borrowed or raised by the responsible entity for the 
+purposes of the scheme; and
+(d) property acquired, directly or indirectly, with, or with the 
+proceeds of, contributions or money referred to in 
+paragraph (a), (b) or (c); and
+(e) income and property derived, directly or indirectly, from 
+contributions, money or property referred to in paragraph (a), 
+(b), (c) or (d).
+Note 1: Paragraph (a)—if what a member contributes to a scheme is rights 
+over property, the rights in the property that the member retains do 
+not form part of the scheme property.
+Note 2: For provisions that are relevant to paragraph (b), see 
+subsections 177(4), 1317HA(1A), 1317HB(3) and 1317HD(3) of 
+this Act and subsection 93A(5) of the ASIC Act.
+scope 1 greenhouse gas emissions has the meaning given by the 
+sustainability standards.
+scope 2 greenhouse gas emissions has the meaning given by the 
+sustainability standards.
+scope 3 greenhouse gas emissions has the meaning given by the 
+sustainability standards.
+scrip means documents that are, or are documents of title to, 
+securities.
+secrecy provision has the meaning given by subsection 1270M(2).
+section 486B warrant means a warrant issued under section 486B.
+section 513CA day has the meaning given by section 513CA.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 127
+Compilation No. 143 Compilation date: 09/07/2025section 513C day, in relation to the administration of a company, 
+has the meaning given by section 513C.
+section 1020B products has the meaning given by 
+subsection 1020B(1).
+secured creditor:
+(a) of a corporation—means a creditor of the corporation, if the 
+debt owing to the creditor is secured by a security interest; 
+and
+(b) of a sub-fund of a CCIV—means a secured creditor of the 
+CCIV, if the debt owing to the creditor is, to any extent, a 
+liability of the sub-fund.
+secured party, in relation to a security interest, means:
+(a) if the security interest is a PPSA security interest—a secured 
+party within the meaning of the Personal Property Securities 
+Act 2009; or
+(b) if the security interest is not a PPSA security interest, but 
+consists of a charge, lien or pledge in relation to the 
+property—a chargee (including a person in whose favour a 
+charge is to be given or executed, whether on demand or 
+otherwise, under an agreement), lienee or pledgee in relation 
+to the charge, lien or pledge.
+Note: Security interests are either PPSA security interests, or charges, liens 
+or pledges: see security interest.
+securities has the meaning given by section 92.
+securities lending arrangement (except for the purposes of 
+Chapter 8A) has the meaning given by section 1020AA.
+security interest means:
+(a) a PPSA security interest; or
+(b) a charge, lien or pledge.
+SEGC (short for Securities Exchanges Guarantee Corporation) has 
+the meaning given by section 880B.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+128 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025selective buy-back means a buy-back that is none of the following:
+(a) a buy-back under an equal access scheme within the meaning 
+of subsections 257B(2) and (3);
+(b) a minimum holding buy-back;
+(c) an on-market buy-back;
+(d) an employee share buy-back.
+selective reduction has the meaning given by subsection 256B(2).
+Note: For the purposes of applying this definition to an MCI mutual entity, 
+see subsection 258G(2).
+self managed superannuation fund has the same meaning as in 
+the Superannuation Industry (Supervision) Act 1993.
+senior manager:
+(a) in relation to a corporation—means a person (other than a 
+director or secretary of the corporation) who:
+(i) makes, or participates in making, decisions that affect 
+the whole, or a substantial part, of the business of the 
+corporation; or
+(ii) has the capacity to affect significantly the corporation’s 
+financial standing; and
+(b) in relation to a partnership—means a person (other than a 
+partner) who:
+(i) makes, or participates in making, decisions that affect 
+the whole, or a substantial part, of the business of the 
+partnership; or
+(ii) has the capacity to affect significantly the partnership’s 
+financial standing; and
+(c) in relation to a trust—means a person (other than a trustee) 
+who:
+(i) makes, or participates in making, decisions that affect 
+the whole, or a substantial part, of the business or affairs 
+of the trust; or
+(ii) has the capacity to affect significantly the financial 
+standing of the trust; and
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 129
+Compilation No. 143 Compilation date: 09/07/2025(d) in relation to a joint venture—means a person (other than a 
+director or secretary of a corporation participating in the joint 
+venture) who:
+(i) makes, or participates in making, decisions that affect 
+the whole, or a substantial part, of the business of the 
+joint venture; or
+(ii) has the capacity to affect significantly the financial 
+standing of the joint venture.
+sent, in relation to an electronic communication, has a meaning 
+(except in Chapters 6 and 6A) affected by section 105A.
+serious fraud means an offence involving fraud or dishonesty, 
+being an offence:
+(a) against an Australian law or any other law; and
+(b) punishable by imprisonment for life or for a period, or 
+maximum period, of at least 3 months.
+shareholder:
+(a) in Part 2J.1 (share capital reductions and share buy-backs)—
+has a meaning affected by section 258G (about MCI mutual 
+entities); and
+(b) in Part 2J.3 (transactions affecting share capital)—has a 
+meaning affected by section 260DA (about MCI mutual 
+entities).
+shares: see number of shares.
+sheriff includes a person charged with the execution of a writ or 
+other process.
+significant financial benchmark has the meaning given by 
+section 908AC.
+simple corporate bonds has the meaning given by section 713A.
+simple corporate bonds depository interest means a beneficial 
+interest in simple corporate bonds, where the interest is or was 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+130 Corporations Act 2001

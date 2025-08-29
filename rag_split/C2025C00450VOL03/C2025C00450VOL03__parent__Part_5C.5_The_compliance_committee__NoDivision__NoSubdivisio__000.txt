@@ -1,0 +1,187 @@
+Part 5C.5  The compliance committee
+
+Part 5C.5  The compliance committee
+Section 601JA
+
+Part 5C.5  The compliance committee
+90 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 5C.5—The compliance committee
+
+Part 5C.5  The compliance committee
+601JA  When is a compliance committee required?
+
+(1) The responsible entity of a registered scheme must establish a 
+compliance committee if less than half of the directors of the 
+responsible entity are external directors.
+(2) A director of the responsible entity is an external director if they:
+(a) are not, and have not been in the previous 2 years, an 
+employee of the responsible entity or a related body 
+corporate; and
+(b) are not, and have not been in the previous 2 years, a senior 
+manager of a related body corporate; and
+(c) are not, and have not been in the previous 2 years, 
+substantially involved in business dealings, or in a 
+professional capacity, with the responsible entity or a related 
+body corporate; and
+(d) are not a member of a partnership that is, or has been in the 
+previous 2 years, substantially involved in business dealings, 
+or in a professional capacity, with the responsible entity or a 
+related body corporate; and
+(e) do not have a material interest in the responsible entity or a 
+related body corporate; and
+(f) are not a relative of a person who has a material interest in 
+the responsible entity or a related body corporate.
+(3) The responsible entity must establish the compliance committee 
+within 14 days after it is required to do so by subsection (1) or 
+within any longer period that ASIC has agreed to in writing.
+(3A) A person must not intentionally or recklessly fail to comply with 
+subsection (3).
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+The compliance committee  Part 5C.5
+
+Part 5C.5  The compliance committee
+Section 601JB
+
+Corporations Act 2001 91
+Compilation No. 143 Compilation date: 09/07/2025(4) In agreeing to a longer period under subsection (3), ASIC may 
+impose conditions to be complied with and the responsible entity 
+must comply with them.
+(4A) An offence based on subsection (4) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 5C.5  The compliance committee
+601JB  Membership of compliance committee
+
+(1) A scheme’s compliance committee must have at least 3 members, 
+and a majority of them must be external members.
+(2) A member of the compliance committee is an external member if 
+they:
+(a) are not, and have not been in the previous 2 years, a 
+non-external director, a senior manager or an employee of the 
+responsible entity or a related body corporate; and
+(b) are not, and have not been in the previous 2 years, 
+substantially involved in business dealings, or in a 
+professional capacity, with the responsible entity or a related 
+body corporate; and
+(c) are not a member of a partnership that is, or has been in the 
+previous 2 years, substantially involved in business dealings, 
+or in a professional capacity, with the responsible entity or a 
+related body corporate; and
+(d) do not have a material interest in the responsible entity or a 
+related body corporate; and
+(e) are not a relative of a person who has a material interest in 
+the responsible entity or a related body corporate.
+(3) For the purposes of paragraph (2)(a), a person who is a director of 
+a related body corporate, but not of the responsible entity itself, is 
+an external director of the related body corporate if they would 
+have been an external director of the responsible entity under 
+subsection 601JA(2) had they been a director of the responsible 
+entity.
+(4) A person who is, or has been, either:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes
+
+Part 5C.5  The compliance committee
+
+Part 5C.5  The compliance committee
+Section 601JC
+
+Part 5C.5  The compliance committee
+92 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) an external director of the responsible entity; or
+(b) a member of a compliance committee for the scheme or 
+another registered scheme operated by the responsible entity;
+is not, merely because of that directorship or membership, taken to 
+be, or to have been, substantially involved in business dealings, or 
+in a professional capacity, with the responsible entity.
+(5) If the membership of the scheme’s compliance committee ceases to 
+satisfy subsection (1), the responsible entity must make 
+appointments to the committee to satisfy that subsection within 14 
+days or within any longer period that ASIC has agreed to in 
+writing.
+(6) In agreeing to a longer period under subsection (5), ASIC may 
+impose conditions to be complied with and the responsible entity 
+must comply with them.
+(7) An offence based on subsection (5) or (6) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 5C.5  The compliance committee
+601JC  Functions of compliance committee
+
+(1) The functions of a scheme’s compliance committee are:
+(a) to monitor to what extent the responsible entity complies 
+with the scheme’s compliance plan and to report on its 
+findings to the responsible entity; and
+(b) to report to the responsible entity:
+(i) any breach of this Act involving the scheme; or
+(ii) any breach of the provisions included in the scheme’s 
+constitution in accordance with section 601GA;
+of which the committee becomes aware or that it suspects; 
+and
+(c) to report to ASIC if the committee is of the view that the 
+responsible entity has not taken, or does not propose to take, 
+appropriate action to deal with a matter reported under 
+paragraph (b); and
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+The compliance committee  Part 5C.5
+
+Part 5C.5  The compliance committee
+Section 601JD
+
+Corporations Act 2001 93
+Compilation No. 143 Compilation date: 09/07/2025(d) to assess at regular intervals whether the compliance plan is 
+adequate, to report to the responsible entity on the assessment 
+and to make recommendations to the responsible entity about 
+any changes that it considers should be made to the plan.
+(2) In carrying out its functions, the compliance committee may 
+commission independent legal, accounting or other professional 
+advice or assistance, at the reasonable expense of the responsible 
+entity.
+
+Part 5C.5  The compliance committee
+601JD  Duties of members
+
+(1) A member of a scheme’s compliance committee must:
+(a) act honestly; and
+(b) exercise the degree of care and diligence that a reasonable 
+person would exercise if they were in the member’s position; 
+and
+(c) not make use of information acquired through being a 
+member of the committee in order to:
+(i) gain an improper advantage for the member or another 
+person; or
+(ii) cause detriment to the members of the scheme; and
+(d) not make improper use of their position as a member of the 
+committee to gain, directly or indirectly, an advantage for 
+themselves or for any other person or to cause detriment to 
+the members of the scheme.
+(2) A member of the compliance committee is to take all reasonable 
+steps to assist ASIC in carrying out a check under 
+subsection 601FF(1).
+(3) A person who contravenes, or is involved in a contravention of, 
+subsection (1) contravenes this subsection.
+Note 1: Section 79 defines involved.
+Note 2: Subsection (3) is a civil penalty provision (see section 1317E).
+(4) A person must not intentionally or recklessly contravene, or be 
+involved in a contravention of, subsection (1).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes
+
+Part 5C.5  The compliance committee
+
+Part 5C.5  The compliance committee
+Section 601JE
+
+Part 5C.5  The compliance committee
+94 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025601JE  Compliance committee members have qualified privilege in 
+certain cases
+A member of a scheme’s compliance committee has qualified 
+privilege in respect of a statement concerning the operation of the 
+scheme made by or on behalf of the committee, or a member of the 
+committee, to the responsible entity or to ASIC.
+
+Part 5C.5  The compliance committee
+601JF  When can responsible entity indemnify compliance

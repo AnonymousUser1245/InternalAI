@@ -1,0 +1,215 @@
+Part 2H.1  Issuing and converting shares
+
+Part 2H.1  Issuing and converting shares
+Section 254B
+
+Part 2H.1  Issuing and converting shares
+578 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) at a fixed time or on the happening of a particular event; or
+(b) at the company’s option; or
+(c) at the shareholder’s option.
+Note: Redeemable preference shares are dealt with in sections 254J-254L.
+
+Part 2H.1  Issuing and converting shares
+254B  Terms of issue
+
+(1) A company may determine:
+(a) the terms on which its shares are issued; and
+(b) the rights and restrictions attaching to the shares.
+Note 1: Details of any division of shares into classes or conversion of classes 
+of shares must be given to ASIC by a notice in the prescribed form 
+(see subsection 246F(1)).
+Note 2: For public companies, any document or resolution that attaches rights 
+to shares or varies or cancels rights attaching to shares must be lodged 
+with ASIC (see subsection 246F(3)).
+Note 3: Sections 246B-246G provide safeguards in cases where class rights 
+are cancelled or varied.
+Note 4: The company cannot issue par value shares (see section 254C) or 
+bearer shares (see section 254F).
+Note 5: A CCIV may issue a share only if the share is referable to a sub-fund 
+of the CCIV (see section 1230).
+No liability companies—special terms of issue
+(2) A share in a no liability company is issued on the following terms:
+(a) if a no liability company is wound up and a surplus remains, 
+it must be distributed among the parties entitled to it in 
+proportion to the number of shares held by them, irrespective 
+of the amounts paid up on the shares; and
+(b) a member who is in arrears in payment of a call on a share, 
+but whose share has not been forfeited, is not entitled to 
+participate in the distribution on the basis of holding that 
+share until the amount owing in respect of the call has been 
+fully paid and satisfied.
+Authorised Version C2025C00450 registered 21/07/2025Shares  Chapter 2H
+Issuing and converting shares  Part 2H.1
+
+Part 2H.1  Issuing and converting shares
+Section 254C
+
+Corporations Act 2001 579
+Compilation No. 143 Compilation date: 09/07/2025Companies incorporated as no liability companies—special terms 
+of issue
+(3) If a company:
+(a) either:
+(i) is a no liability company; or
+(ii) was initially registered as a no liability company and 
+has changed its status under section 162 to another type 
+of company; and
+(b) ceases to carry on business within 12 months after its 
+registration and is wound up;
+shares issued for cash rank (to the extent of the capital contributed 
+by subscribing shareholders) in the winding up in priority to shares 
+issued to vendors or promoters, or both, for consideration other 
+than cash.
+(4) The holders of shares issued to vendors or promoters are not 
+entitled to preference on the winding up of a company that:
+(a) is a no liability company; or
+(b) was initially registered as a no liability company and has 
+changed its status under section 162 to another type of 
+company.
+This is so despite anything in the company’s constitution or the 
+terms on which the shares are on issue.
+
+Part 2H.1  Issuing and converting shares
+254C  No par value shares
+
+Shares of a company have no par value.
+Note: The Part 10.1 transitional provisions contain provisions that deal with 
+the introduction of no par value shares. See also subsection 169(4).
+
+Part 2H.1  Issuing and converting shares
+254D  Pre-emption for existing shareholders on issue of shares in
+
+proprietary company (replaceable rule—see section 135)
+(1) Before issuing shares of a particular class, the directors of a 
+proprietary company must offer them to the existing holders of 
+shares of that class. As far as practicable, the number of shares 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2H  Shares
+
+Part 2H.1  Issuing and converting shares
+
+Part 2H.1  Issuing and converting shares
+Section 254E
+
+Part 2H.1  Issuing and converting shares
+580 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025offered to each shareholder must be in proportion to the number of 
+shares of that class that they already hold.
+(2) To make the offer, the directors must give the shareholders a 
+statement setting out the terms of the offer, including:
+(a) the number of shares offered; and
+(b) the period for which it will remain open.
+(3) The directors may issue any shares not taken up under the offer 
+under subsection (1) as they see fit.
+(4) The company may by resolution passed at a general meeting 
+authorise the directors to make a particular issue of shares without 
+complying with subsection (1).
+
+Part 2H.1  Issuing and converting shares
+254E  Court validation of issue
+
+(1) On application by a company, a shareholder, a creditor or any other 
+person whose interests have been or may be affected, the Court 
+may make an order validating, or confirming the terms of, a 
+purported issue of shares if:
+(a) the issue is or may be invalid for any reason; or
+(b) the terms of the issue are inconsistent with or not authorised 
+by:
+(i) this Act; or
+(ii) another law of a State or Territory; or
+(iii) the company’s constitution (if any).
+(2) On lodgment of a copy of the order with ASIC, the order has effect 
+from the time of the purported issue.
+
+Part 2H.1  Issuing and converting shares
+254F  Bearer shares and stock must not be issued
+
+A company does not have the power to:
+(a) issue bearer shares; or
+(b) issue stock or convert shares into stock.
+Note: The Part 10.1 transitionals contain provisions for the conversion of 
+existing stock into shares.
+Authorised Version C2025C00450 registered 21/07/2025Shares  Chapter 2H
+Issuing and converting shares  Part 2H.1
+
+Part 2H.1  Issuing and converting shares
+Section 254G
+
+Corporations Act 2001 581
+Compilation No. 143 Compilation date: 09/07/2025254G  Conversion of shares
+(1) A company may:
+(a) convert an ordinary share into a preference share; and
+(b) convert a preference share into an ordinary share.
+Note 1: The variation of class rights provisions (sections 246B-246G) will 
+apply to the conversion.
+Note 2: Section 1230C applies to a CCIV instead of this section.
+(2) A company can convert ordinary shares into preference shares only 
+if the holders’ rights with respect to the following matters are set 
+out in the company’s constitution (if any) or have been otherwise 
+approved by special resolution of the company:
+(a) repayment of capital;
+(b) participation in surplus assets and profits;
+(c) cumulative and non-cumulative dividends;
+(d) voting;
+(e) priority of payment of capital and dividends in relation to 
+other shares or classes of preference shares.
+(3) A share that is not a redeemable preference share when issued 
+cannot afterwards be converted into a redeemable preference share.
+
+Part 2H.1  Issuing and converting shares
+254H  Resolution to convert shares into larger or smaller number
+
+(1) A company may convert all or any of its shares into a larger or 
+smaller number of shares by resolution passed at a general 
+meeting.
+Note 1: The variation of class rights provisions (sections 246B-246G) may 
+apply to the conversion.
+Note 2: Section 1230C applies to a CCIV instead of this section.
+(2) The conversion takes effect on:
+(a) the day the resolution is passed; or
+(b) a later date specified in the resolution.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2H  Shares
+
+Part 2H.1  Issuing and converting shares
+
+Part 2H.1  Issuing and converting shares
+Section 254H
+
+Part 2H.1  Issuing and converting shares
+582 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) Any amount unpaid on shares being converted is to be divided 
+equally among the replacement shares.
+(4) The company must lodge a copy of the resolution with ASIC 
+within 1 month after it is passed.
+(5) An offence based on subsection (4) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Shares  Chapter 2H
+Redemption of redeemable preference shares  Part 2H.2
+
+Part 2H.1  Issuing and converting shares
+Section 254J
+
+Corporations Act 2001 583
+Compilation No. 143 Compilation date: 09/07/2025Part 2H.2—Redemption of redeemable preference 
+shares
+Note: This Part does not apply to a CCIV: see section 1230D.
+
+Part 2H.1  Issuing and converting shares
+254J  Redemption must be in accordance with terms of issue
+
+(1) A company may redeem redeemable preference shares only on the 
+terms on which they are on issue. On redemption, the shares are 
+cancelled.
+Note 1: For the power to issue redeemable preference shares see 
+paragraph 254A(1)(b) and subsections 254A(2) and (3).
+Note 2: For the criminal liability of a person dishonestly involved in a 
+contravention of this section, see subsection 254L(3). Section 79 
+defines involved.
+(2) This section does not affect the terms on which redeemable 
+preference shares may be cancelled under a reduction of capital or 
+a share buy-back under Part 2J.1.
+
+Part 2H.1  Issuing and converting shares
+254K  Other requirements about redemption

@@ -1,0 +1,176 @@
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+
+benchmarks
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+Section 908DB
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+458 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note 2: This subsection extends subsection (1) so that persons, who are not 
+otherwise covered, will be covered if a result of their acts or omissions 
+occurs wholly or partly in Australia etc.
+Offence
+(3) A person commits an offence if the person contravenes 
+subsection (1) or (2).
+Note: For the penalty for the offence, see section 908DC. For its 
+geographical scope, see section 908DD.
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+908DB  False or misleading statements or information that could
+
+affect financial benchmarks
+Civil penalty provisions
+(1) A person contravenes this subsection if:
+(a) the person makes one or more statements, or disseminates 
+information; and
+(b) the statements or information:
+(i) are false or misleading; or
+(ii) omit any matter or thing without which the statements 
+or information are misleading; and
+(c) the person knows the statements or information could be 
+used in the generation or administration of a financial 
+benchmark.
+Note 1: This is a civil penalty provision (see section 1317E). For relief from 
+liability, see section 1317S.
+Note 2: Section 908DD (about geographical scope) causes this subsection to 
+be read down so that it covers persons who are Australian entities, or 
+persons whose conduct occurs wholly or partly in Australia etc.
+(2) A person contravenes this subsection if:
+(a) paragraphs (1)(a) to (c) apply in relation to the person, one or 
+more statements or information, and a financial benchmark; 
+and
+(b) making the statements or disseminating the information 
+results, or is likely to result, in any of the following suffering 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Regulation of financial benchmarks  Part 7.5B
+Offences and civil penalties relating to manipulation of financial benchmarks
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+
+benchmarks
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+Section 908DD
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+460 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Contraventions of civil penalty provisions
+(2) A declaration of contravention by a person must not be made under 
+section 1317E relating to an alleged contravention by the person of 
+a civil penalty provision in this Division unless:
+(a) the person’s conduct that allegedly contravenes the provision 
+occurs:
+(i) wholly or partly in Australia; or
+(ii) wholly or partly on board an Australian aircraft or an 
+Australian ship; or
+(b) the person’s conduct that allegedly contravenes the provision 
+occurs wholly outside Australia and a result of the conduct 
+occurs:
+(i) wholly or partly in Australia; or
+(ii) wholly or partly on board an Australian aircraft or an 
+Australian ship; or
+(c) the person’s conduct that allegedly contravenes the provision 
+occurs wholly outside Australia and, at the time of the 
+alleged contravention, the person is:
+(i) an Australian citizen; or
+(ii) a resident of Australia (within the meaning of the 
+Criminal Code); or
+(iii) a body corporate incorporated by or under a law of the 
+Commonwealth or of a State or Territory.
+Defences relating to contraventions of civil penalty provisions
+(3) In proceedings under section 1317E for a declaration of 
+contravention by a person relating to an alleged contravention by 
+the person of a civil penalty provision in this Division, it is a 
+defence if:
+(a) the conduct constituting the alleged contravention occurs 
+wholly in a foreign country, but not on board an Australian 
+aircraft or an Australian ship; and
+(b) the person is neither:
+(i) an Australian citizen; nor
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Regulation of financial benchmarks  Part 7.5B
+Offences and civil penalties relating to manipulation of financial benchmarks
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+
+benchmarks
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+Section 908DD
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+462 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) from a point outside Australia to a point in Australia; or
+(b) from a point in Australia to a point outside Australia;
+that conduct is taken to have occurred partly in Australia.
+Definitions
+(8) In this section:
+Australian aircraft has the same meaning as in the Criminal Code.
+Australian ship has the same meaning as in the Criminal Code.
+conduct has the same meaning as in the Criminal Code.
+electronic communication has the same meaning as in the 
+Criminal Code.
+evidential burden has the same meaning as in the Criminal Code.
+foreign country has the same meaning as in the Criminal Code.
+point has the same meaning as in section 16.2 of the Criminal 
+Code.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Regulation of financial benchmarks  Part 7.5B
+Other provisions  Division 5
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+Section 908EA
+
+Corporations Act 2001 463
+Compilation No. 143 Compilation date: 09/07/2025Division 5—Other provisions
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+908EA  Making provision by referring to instruments as in force
+
+from time to time
+(1) This section applies to the following instruments:
+(a) regulations made for the purposes of a provision of this Part;
+(b) rules made under Division 3.
+(2) An instrument to which this section applies may make provision in 
+relation to a matter by applying, adopting or incorporating any 
+matter contained in an instrument or other writing:
+(a) as in force or existing at a particular time; or
+(b) as in force or existing from time to time.
+(3) Subsection (2) has effect despite subsection 14(2) of the 
+Legislation Act 2003.
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4  Offences and civil penalties relating to manipulation of financial
+908EB  Exemptions by the regulations or by ASIC
+
+(1) The provisions covered by this section are:
+(a) the following provisions:
+(i) the provisions of this Part;
+(ii) the provisions of regulations made for the purposes of 
+provisions of this Part;
+(iii) the provisions of rules made under Division 3; and
+(b) definitions in this Act, or in the regulations, as they apply to 
+references in provisions referred to in paragraph (a).
+(2) The regulations, or ASIC by written instrument, may:
+(a) exempt a person or class of persons from all or specified 
+provisions covered by this section; or
+(b) exempt a financial benchmark or class of financial 
+benchmarks from all or specified provisions covered by this 
+section.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

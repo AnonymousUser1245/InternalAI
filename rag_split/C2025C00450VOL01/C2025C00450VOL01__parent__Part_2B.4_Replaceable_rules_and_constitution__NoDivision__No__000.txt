@@ -1,0 +1,287 @@
+Part 2B.4  Replaceable rules and constitution
+
+Part 2B.4  Replaceable rules and constitution
+Section 134
+
+Part 2B.4  Replaceable rules and constitution
+294 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 2B.4—Replaceable rules and constitution
+
+Part 2B.4  Replaceable rules and constitution
+134  Internal management of companies
+
+A company’s internal management may be governed by provisions 
+of this Act that apply to the company as replaceable rules, by a 
+constitution or by a combination of both.
+Note: There are additional rules about internal management in ordinary 
+provisions of this Act and also in the common law.
+
+Part 2B.4  Replaceable rules and constitution
+135  Replaceable rules
+
+Companies to which replaceable rules apply
+(1) A section or subsection (except subsection 129(1), this section and 
+sections 140 and 141) whose heading contains the words:
+(a)replaceable rule—applies as a replaceable rule to:
+(i) each company that is or was registered after 1 July
+
+Part 2B.4  Replaceable rules and constitution
+1998; and
+
+(ii) any company registered before 1 July 1998 that repeals 
+or repealed its constitution after that day; and
+(b)replaceable rule for proprietary companies and mandatory 
+rule for public companies—applies:
+(i) as a replaceable rule to any proprietary company that is 
+or was registered after 1 July 1998; and
+(ii) as a replaceable rule to any company that is or was 
+registered after 1 July 1998 and that changes or changed 
+to a proprietary company (but only while it is a 
+proprietary company); and
+(iii) as a replaceable rule to any proprietary company that is 
+or was registered before 1 July 1998 that repeals or 
+repealed its constitution after that day; and
+(iv) as an ordinary provision of this Act to any public 
+company whenever registered.
+Authorised Version C2025C00450 registered 21/07/2025Basic features of a company  Chapter 2B
+Replaceable rules and constitution  Part 2B.4
+
+Part 2B.4  Replaceable rules and constitution
+Section 136
+
+Corporations Act 2001 295
+Compilation No. 143 Compilation date: 09/07/2025The section or subsection does not apply to a proprietary company 
+while the same person is both its sole director and sole shareholder.
+Note 1: See sections 198E, 201F and 202C for the special provisions that 
+apply to a proprietary company while the same person is both its sole 
+director and sole shareholder.
+Note 2: A company may include in its constitution (by reference or otherwise) 
+a replaceable rule that does not otherwise apply to it.
+Note 3: Paragraph (a) does not apply for CCIVs: see section 1223A.
+Company’s constitution can displace or modify replaceable rules
+(2) A provision of a section or subsection that applies to a company as 
+a replaceable rule can be displaced or modified by the company’s 
+constitution.
+Failure to comply with replaceable rules
+(3) A failure to comply with the replaceable rules as they apply to a 
+company is not of itself a contravention of this Act (so the 
+provisions about criminal liability, civil liability and injunctions do 
+not apply).
+Note: Replaceable rules that apply to a company have effect as a contract 
+(see section 140).
+
+Part 2B.4  Replaceable rules and constitution
+136  Constitution of a company
+
+(1) A company adopts a constitution:
+(a) on registration—if each person specified in the application 
+for the company’s registration as a person who consents to 
+become a member agrees in writing to the terms of a 
+constitution before the application is lodged; or
+(b) after registration—if the company passes a special resolution 
+adopting a constitution or a court order is made under 
+section 233 that requires the company to adopt the 
+constitution.
+Note 1: The Life Insurance Act 1995 has rules about how benefit fund rules 
+become part of a company’s constitution and about amending those 
+rules. They override this Act (see section 1348 of this Act). 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2B  Basic features of a company
+
+Part 2B.4  Replaceable rules and constitution
+
+Part 2B.4  Replaceable rules and constitution
+Section 136
+
+Part 2B.4  Replaceable rules and constitution
+296 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Consequential amendments to the rest of the company’s constitution 
+can be made under that Act or this Act (see Subdivision 2 of
+
+Part 2B.4  Replaceable rules and constitution
+
+Part 2B.4  Replaceable rules and constitution
+Section 141
+
+Part 2B.4  Replaceable rules and constitution
+298 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) between the company and each director and company 
+secretary; and
+(c) between a member and each other member;
+under which each person agrees to observe and perform the 
+constitution and rules so far as they apply to that person.
+(2) Unless a member of a company agrees in writing to be bound, they 
+are not bound by a modification of the constitution made after the 
+date on which they became a member so far as the modification:
+(a) requires the member to take up additional shares; or
+(b) increases the member’s liability to contribute to the share 
+capital of, or otherwise to pay money to, the company; or
+(c) imposes or increases restrictions on the right to transfer the 
+shares already held by the member, unless the modification is 
+made:
+(i) in connection with the company’s change from a public 
+company to a proprietary company under Part 2B.7; or
+(ii) to insert proportional takeover approval provisions into 
+the company’s constitution.
+
+Part 2B.4  Replaceable rules and constitution
+141  Table of replaceable rules
+
+The following table sets out the provisions of this Act that apply as 
+replaceable rules.
+Provisions that apply as replaceable rules
+Officers and Employees
+
+Part 2B.4  Replaceable rules and constitution
+1 Voting and completion of transactions—directors of
+
+proprietary companies194
+
+Part 2B.4  Replaceable rules and constitution
+2 Powers of directors 198A
+
+Part 2B.4  Replaceable rules and constitution
+3 Negotiable instruments 198B
+
+Part 2B.4  Replaceable rules and constitution
+4 Managing director 198C
+
+Part 2B.4  Replaceable rules and constitution
+5 Company may appoint a director 201G
+
+Part 2B.4  Replaceable rules and constitution
+6 Directors may appoint other directors 201H
+
+Part 2B.4  Replaceable rules and constitution
+7 Appointment of managing directors 201J
+
+Authorised Version C2025C00450 registered 21/07/2025Basic features of a company  Chapter 2B
+Replaceable rules and constitution  Part 2B.4
+
+Part 2B.4  Replaceable rules and constitution
+Section 141
+
+Corporations Act 2001 299
+Compilation No. 143 Compilation date: 09/07/2025Provisions that apply as replaceable rules
+
+Part 2B.4  Replaceable rules and constitution
+8 Alternate directors 201K
+
+Part 2B.4  Replaceable rules and constitution
+9 Remuneration of directors 202A
+
+Part 2B.4  Replaceable rules and constitution
+10 Director may resign by giving written notice to company 203A
+
+Part 2B.4  Replaceable rules and constitution
+11 Removal by members—proprietary company 203C
+
+Part 2B.4  Replaceable rules and constitution
+12 Termination of appointment of managing director 203F
+
+Part 2B.4  Replaceable rules and constitution
+13 Terms and conditions of office for secretaries 204F
+
+Inspection of books
+
+Part 2B.4  Replaceable rules and constitution
+14 Company or directors may allow member to inspect books 247D
+
+Director’s Meetings
+
+Part 2B.4  Replaceable rules and constitution
+15 Circulating resolutions of companies with more than 1 director 248A
+
+Part 2B.4  Replaceable rules and constitution
+16 Calling directors’ meetings 248C
+
+Part 2B.4  Replaceable rules and constitution
+17 Chairing directors’ meetings 248E
+
+Part 2B.4  Replaceable rules and constitution
+18 Quorum at directors’ meetings 248F
+
+Part 2B.4  Replaceable rules and constitution
+19 Passing of directors’ resolutions 248G
+
+Meetings of members
+
+Part 2B.4  Replaceable rules and constitution
+20 Calling of meetings of members by a director 249C
+
+Part 2B.4  Replaceable rules and constitution
+21 Notice to joint members 249J(2)
+
+Part 2B.4  Replaceable rules and constitution
+22 When notice is given 249J(4)
+
+Part 2B.4  Replaceable rules and constitution
+23 Notice of adjourned meetings 249M
+
+Part 2B.4  Replaceable rules and constitution
+24 Quorum 249T
+
+Part 2B.4  Replaceable rules and constitution
+25 Chairing meetings of members 249U
+
+Part 2B.4  Replaceable rules and constitution
+26 Business at adjourned meetings 249W(2)
+
+Part 2B.4  Replaceable rules and constitution
+27 Who can appoint a proxy
+
+[replaceable rule for proprietary companies only]249X
+
+Part 2B.4  Replaceable rules and constitution
+28 Proxy vote valid even if member dies, revokes appointment
+
+etc.250C(2)
+
+Part 2B.4  Replaceable rules and constitution
+29 How many votes a member has 250E
+
+Part 2B.4  Replaceable rules and constitution
+30 Jointly held shares 250F
+
+Part 2B.4  Replaceable rules and constitution
+31 Objections to right to vote 250G
+
+Part 2B.4  Replaceable rules and constitution
+32 How voting is carried out 250J
+
+Part 2B.4  Replaceable rules and constitution
+33 When and how polls must be taken 250M
+
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2B  Basic features of a company
+
+Part 2B.4  Replaceable rules and constitution
+
+Part 2B.4  Replaceable rules and constitution
+Section 141
+
+Part 2B.4  Replaceable rules and constitution
+300 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Provisions that apply as replaceable rules
+Shares
+
+Part 2B.4  Replaceable rules and constitution
+33A Pre-emption for existing shareholders on issue of shares
+
+in proprietary company254D
+
+Part 2B.4  Replaceable rules and constitution
+33B Other provisions about paying dividends 254U
+
+Part 2B.4  Replaceable rules and constitution
+34 Dividend rights for shares in proprietary companies 254W(2)
+
+Transfer of shares
+
+Part 2B.4  Replaceable rules and constitution
+35 Transmission of shares on death 1072A
+
+Part 2B.4  Replaceable rules and constitution
+36 Transmission of shares on bankruptcy 1072B

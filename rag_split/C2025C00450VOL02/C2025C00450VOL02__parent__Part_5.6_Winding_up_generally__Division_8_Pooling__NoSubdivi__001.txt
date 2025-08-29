@@ -1,0 +1,182 @@
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 579B
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+644 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(iii) the pooling determination would be contrary to the 
+interests of the members of the company as a whole; or
+(i) the pooling determination should be varied or terminated for 
+some other reason.
+Note: For eligible unsecured creditor, see section 579Q.
+(2) An order may only be made on the application of:
+(a) a creditor of a company in the group; or
+(b) in a case where a company in the group is being wound up 
+under a members’ voluntary winding up—a member of the 
+company, so long as the member is not a company in the 
+group; or
+(c) any other interested person.
+(3) If the Court makes an order under subsection (1), the applicant for 
+the order must:
+(a) lodge with ASIC a notice setting out the text of the order; and
+(b) do so within 2 business days after the making of the order.
+The notice must be in the prescribed form.
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+579B  Court may cancel or confirm variation
+
+(1) If:
+(a) a pooling determination is in force in relation to a group of 2 
+or more companies; and
+(b) the determination is varied; and
+(c) the variation has come into force;
+either of the following persons may apply to the Court for an order 
+cancelling the variation:
+(d) a creditor of a company in the group;
+(e) in a case where a company in the group is being wound up 
+under a members’ voluntary winding up—a member of the 
+company, so long as the member is not a company in the 
+group.
+(2) On an application, the Court:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Pooling  Division 8
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 579C
+
+Corporations Act 2001 645
+Compilation No. 143 Compilation date: 09/07/2025(a) may make an order cancelling the variation, or confirming it, 
+either wholly or in part, on such conditions (if any) as the 
+order specifies; and
+(b) may make such other orders as it thinks appropriate.
+(3) If the Court makes an order under subsection (2), the applicant for 
+the order must:
+(a) lodge with ASIC a notice setting out the text of the order; and
+(b) do so within 2 business days after the making of the order.
+The notice must be in the prescribed form.
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+579C  When Court may void or validate pooling determination
+
+(1) If there is doubt, on a specific ground, whether a pooling 
+determination that relates to a group of 2 or more companies:
+(a) was made, varied or approved in accordance with this 
+Division; or
+(b) complies with this Division;
+any of the following persons may apply to the Court for an order 
+under this section:
+(c) the liquidator of a company in the group;
+(d) a creditor of a company in the group;
+(e) in a case where a company in the group is being wound up 
+under a members’ voluntary winding up—a member of the 
+company, so long as the member is not a company in the 
+group;
+(f) ASIC.
+(2) On an application, the Court may make an order declaring the 
+pooling determination, or a provision of it, to be void or not to be 
+void, as the case requires, on the ground specified in the 
+application or some other ground.
+(3) On an application, the Court may declare the pooling 
+determination, or a provision of it, to be valid, despite a 
+contravention of a provision of this Division, if the Court is 
+satisfied that:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 579D
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+646 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the provision was substantially complied with; and
+(b) no injustice will result for anyone affected by the pooling 
+determination if the contravention is disregarded.
+(4) If the Court declares a provision of a pooling determination to be 
+void, the Court may, by order, vary the pooling determination.
+(5) If the Court makes an order under subsection (2), the applicant for 
+the order must:
+(a) lodge with ASIC a notice setting out the text of the order; and
+(b) do so within 2 business days after the making of the order.
+The notice must be in the prescribed form.
+(6) If the Court makes a declaration under subsection (3), the applicant 
+for the declaration must:
+(a) lodge with ASIC a notice setting out the text of the 
+declaration; and
+(b) do so within 2 business days after the making of the 
+declaration.
+The notice must be in the prescribed form.
+(7) If the Court makes an order under subsection (4) on the application 
+of a person, the applicant for the order must:
+(a) lodge with ASIC a notice setting out the text of the order; and
+(b) do so within 2 business days after the making of the order.
+The notice must be in the prescribed form.
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+579D  Effect of termination or avoidance
+
+The termination or avoidance, in whole or in part, of a pooling 
+determination does not affect the previous operation of:
+(a) the pooling determination; or
+(b) this Division in so far as it relates to the pooling 
+determination.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Pooling  Division 8
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 579E
+
+Corporations Act 2001 647
+Compilation No. 143 Compilation date: 09/07/2025Subdivision B—Pooling orders
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+579E  Pooling orders
+
+Making of pooling order
+(1) If it appears to the Court that the following conditions are satisfied 
+in relation to a group of 2 or more companies:
+(a) each company in the group is being wound up;
+(b) any of the following subparagraphs applies:
+(i) each company in the group is a related body corporate 
+of each other company in the group;
+(ii) apart from this section, the companies in the group are 
+jointly liable for one or more debts or claims;
+(iii) the companies in the group jointly own or operate 
+particular property that is or was used, or for use, in 
+connection with a business, a scheme, or an 
+undertaking, carried on jointly by the companies in the 
+group;
+(iv) one or more companies in the group own particular 
+property that is or was used, or for use, by any or all of 
+the companies in the group in connection with a 
+business, a scheme, or an undertaking, carried on jointly 
+by the companies in the group;
+the Court may, if the Court is satisfied that it is just and equitable 
+to do so, by order, determine that the group is a pooled group for 
+the purposes of this section.
+Note 1: Section 9 provides that pooling order means an order under 
+subsection (1) of this section.
+Note 2: See also subsection (12) (just and equitable criteria).
+Consequences of pooling order
+(2) If a pooling order comes into force in relation to a group of 2 or 
+more companies:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+Section 579E
+
+Part 5.6  Winding up generally
+Division 8  Pooling
+648 Corporations Act 2001

@@ -1,0 +1,199 @@
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761CA
+
+Corporations Act 2001 9
+Compilation No. 143 Compilation date: 09/07/2025(a) carries on a business of representing persons insured under 
+insurance products in pursuing claims under those products; 
+and
+(b) represents those persons insured for a benefit given as 
+consideration for that service, whether a monetary benefit or 
+otherwise and whether given to the person providing the 
+services or another person nominated by that person.
+(2) The regulations may prescribe circumstances in which a person is 
+not a claimant intermediary despite subsection (1).
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+761CA  Meaning of class and kind of financial products and financial
+
+services
+The regulations may include provisions identifying, or providing 
+for the identification of, what constitutes a class or kind of 
+financial products or financial services for the purposes of a 
+provision or provisions of this Act.
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+761D  Meaning of derivative
+
+(1) Subject to subsections (2), (3) and (4), a derivative is an 
+arrangement in relation to which the following conditions are 
+satisfied:
+(a) under the arrangement, a party to the arrangement must, or 
+may be required to, provide at some future time consideration 
+of a particular kind or kinds to someone; and
+(b) that future time is not less than the number of days, 
+prescribed by regulations made for the purposes of this 
+paragraph, after the day on which the arrangement is entered 
+into; and
+(c) the amount of the consideration, or the value of the 
+arrangement, is ultimately determined, derived from or varies 
+by reference to (wholly or in part) the value or amount of 
+something else (of any nature whatsoever and whether or not 
+deliverable), including, for example, one or more of the 
+following:
+(i) an asset;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761D
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+10 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) a rate (including an interest rate or exchange rate);
+(iii) an index;
+(iv) a commodity.
+(2) Without limiting subsection (1), anything declared by the 
+regulations to be a derivative is a derivative. A thing so declared is 
+a derivative despite anything in subsections (3) and (4).
+(3) Subject to subsection (2), none of the following is a derivative even 
+if covered by subsection (1):
+(a) an arrangement in relation to which subparagraphs (i), (ii) 
+and (iii) are satisfied:
+(i) a party has, or may have, an obligation to buy, and 
+another party has, or may have, an obligation to sell, 
+tangible property (other than Australian or foreign 
+currency) at a price and on a date in the future; and
+(ii) the arrangement does not permit the seller’s obligations 
+to be wholly settled by cash, or by set-off between the 
+parties, rather than by delivery of the property; and
+(iii) neither usual market practice, nor the rules of a licensed 
+market or a licensed CS facility, permits the seller’s 
+obligations to be closed out by the matching up of the 
+arrangement with another arrangement of the same kind 
+under which the seller has offsetting obligations to buy;
+but only to the extent that the arrangement deals with that 
+purchase and sale;
+(b) a contract for the future provision of services;
+(c) anything that is covered by a paragraph of 
+subsection 764A(1), other than paragraph (c) of that 
+subsection;
+(d) anything declared by the regulations not to be a derivative.
+(4) Subject to subsection (2), an arrangement under which one party 
+has an obligation to buy, and the other has an obligation to sell, 
+property is not a derivative merely because the arrangement 
+provides for the consideration to be varied by reference to a 
+general inflation index such as the Consumer Price Index.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of some terms relating to financial services and markets  Division 2
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761DA
+
+Corporations Act 2001 11
+Compilation No. 143 Compilation date: 09/07/2025761DA  Meaning of insurance claims manager
+(1) A person is an insurance claims manager if:
+(a) the person carries on a business of providing claims handling 
+and settling services on behalf of one or more insurers; and
+(b) where the person, as part of that business, also provides 
+goods or other services—providing claims handling and 
+settling services on behalf of one or more insurers is the 
+primary part of the business.
+(2) The regulations may prescribe:
+(a) circumstances in which, for the purposes of subsection (1), 
+providing claims handling and settling services on behalf of 
+one or more insurers is taken to be the primary part of a 
+business carried on by a person; and
+(b) circumstances in which, for the purposes of subsection (1), 
+providing claims handling and settling services on behalf of 
+one or more insurers is taken not to be the primary part of a 
+business carried on by a person.
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+761E  Meaning of acquire, issue and provide
+
+General
+(1) This section defines when a financial product is issued to a person. 
+It also defines who the issuer of a financial product is. If a 
+financial product is issued to a person:
+(a) the person acquires the product from the issuer; and
+(b) the issuer provides the product to the person.
+Note: Some financial products can also be acquired from, or provided by, 
+someone other than the issuer (e.g. on secondary trading in financial 
+products).
+Issuing a financial product
+(2) Subject to this section, a financial product is issued to a person 
+when it is first issued, granted or otherwise made available to a 
+person.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761E
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+12 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) Subject to this section, a financial product specified in the table is 
+issued to a person when the event specified for that product occurs:
+When particular financial products are issued
+Item Financial product Event
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+1 superannuation
+
+productthe person becomes a member of the 
+fund concerned
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+2 RSA the account concerned is opened in
+
+the person’s name
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+3 derivative the person enters into the legal
+
+relationship that constitutes the 
+financial product
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+4 margin lending
+
+facilitythe person enters into the legal 
+relationship that constitutes the 
+margin lending facility, as the client 
+under the facility
+(3A) For the avoidance of doubt, none of the following are taken to give 
+rise to the issue of a financial product to a person (the client):
+(a) the client making a further contribution to a superannuation 
+fund of which the client is already a member;
+(aa) an employer of the client making a further contribution, for 
+the benefit of the client, to a superannuation fund of which 
+the client is already a member;
+(b) the client making a further deposit into an RSA maintained in 
+the client’s name;
+(c) the client making a further payment under a life insurance 
+investment product;
+(d) the client making a further deposit into a deposit product;
+(e) the client engaging in conduct specified in regulations made 
+for the purposes of this paragraph in relation to a financial 
+product already held by the client.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of some terms relating to financial services and markets  Division 2
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761E

@@ -1,0 +1,164 @@
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+
+Amendment (2023 Measures No. 1) Act 2023
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+Section 1699B
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+610 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: See section 1699D for transitional arrangements in relation to a 
+registration of a relevant provider that is suspended immediately 
+before the commencement of the amending Part.
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+1699B  Transitional—relevant providers who are financial services
+
+licensees applying to be registered
+(1) This section applies to an application for the registration of a 
+relevant provider if:
+(a) the application was made in accordance with section 921ZA 
+as in force immediately before the commencement of the 
+amending Part; and
+(b) ASIC had not made a decision under section 921ZC before 
+the commencement of the amending Part in relation to the 
+application.
+(2) The application continues in force (and may be dealt with) on and 
+after the commencement of the amending Part, as if the application 
+had been made to register the relevant provider under 
+subsection 921ZC(1) as substituted by the amending Part.
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+1699C  Transitional—financial services licensees applying to register
+
+relevant providers
+(1) This section applies to an application for the registration of a 
+relevant provider if:
+(a) the application was made in accordance with section 921ZB 
+as in force immediately before the commencement of the 
+amending Part; and
+(b) ASIC had not made a decision under section 921ZC before 
+the commencement of the amending Part in relation to the 
+application.
+(2) The application continues in force (and may be dealt with) on and 
+after the commencement of the amending Part, as if the application 
+had been made to register the relevant provider under 
+subsection 921ZC(1A) as substituted by the amending Part.
+Authorised Version C2025C00450 registered 21/07/2025Transitional provisions  Chapter 10
+Transitional provisions relating to Schedule 1 to the Treasury Laws Amendment (2023 
+Measures No. 1) Act 2023  Part 10.69
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+Section 1699D
+
+Corporations Act 2001 611
+Compilation No. 143 Compilation date: 09/07/20251699D  Transitional—registration suspension orders
+(1) This section applies to a registration suspension order that:
+(a) was in force immediately before the commencement of the 
+amending Part in relation to a registration under 
+subsection 921ZC(1) of a relevant provider; and
+(b) specified a suspension period ending after that 
+commencement.
+(2) The registration suspension order continues in force (and may be 
+dealt with) on and after that commencement as if it were an 
+instrument of a kind that:
+(a) is specified in paragraph 921L(1)(b) as substituted by the 
+amending Part; and
+(b) suspends that registration for the remainder of the suspension 
+period.
+(3) After the suspension period, that registration continues in force 
+(and may be dealt with) as follows:
+(a) if the application to register the relevant provider was made 
+in accordance with section 921ZA—as if that registration had 
+been under subsection 921ZC(1) as substituted by the 
+amending Part;
+(b) if the application to register the relevant provider was made 
+by a financial services licensee in accordance with 
+section 921ZB—as if that registration had been under 
+subsection 921ZC(1A) as substituted by the amending Part in 
+relation to the financial services licensee.
+Note: The provider’s registration will not already have been continued under 
+section 1699A because that registration was suspended immediately 
+before the commencement of the amending Part and therefore was not 
+in force at that time (see subsection 921L(3)).
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+1699E  Transitional—registration prohibition orders
+
+(1) This section applies to a registration prohibition order that:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+
+Amendment (2023 Measures No. 1) Act 2023
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+Section 1699F
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+612 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) was in force immediately before the commencement of the 
+amending Part in relation to a registration under 
+subsection 921ZC(1) of a relevant provider; and
+(b) specified a cancellation time for that registration; and
+(c) specified a prohibition end day that is after the 
+commencement of the amending Part.
+(2) The registration prohibition order continues in force (and may be 
+dealt with) on and after that commencement as if it were an 
+instrument of a kind that:
+(a) is specified in paragraph 921L(1)(c) as substituted by the 
+amending Part; and
+(b) if the cancellation time is at or after the commencement of 
+the amending Part—cancels at the cancellation time the 
+relevant provider’s registration under subsection 921ZC(1) or 
+(1A) as substituted by the amending Part; and
+(c) provides that the person who is or was the relevant provider 
+is not to be registered under subsection 921ZC(1) or (1A), as 
+substituted by the amending Part, until after the prohibition 
+end day.
+Note 1: If the cancellation time was before the commencement of the 
+amending Part, then the cancellation of the provider’s registration will 
+have already taken effect before that commencement.
+Note 2: If the cancellation time is at or after that commencement, 
+section 1699A will continue the provider’s registration up until the 
+cancellation time. Paragraph (b) of this subsection confirms that the 
+provider’s registration will then be cancelled at the cancellation time.
+Note 3: Paragraph (c) confirms that the person is not to be registered again 
+until after the prohibition end day.
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+1699F  Transitional—action by Financial Services and Credit Panels
+
+against relevant providers
+A Financial Services and Credit Panel may under 
+subsection 921K(1) make an instrument of a kind specified in 
+paragraph 921L(1)(b) or (c), as substituted by the amending Part, 
+because of circumstances mentioned in subsection 921K(1) that 
+Authorised Version C2025C00450 registered 21/07/2025Transitional provisions  Chapter 10
+Transitional provisions relating to Schedule 1 to the Treasury Laws Amendment (2023 
+Measures No. 1) Act 2023  Part 10.69
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+Section 1699G
+
+Corporations Act 2001 613
+Compilation No. 143 Compilation date: 09/07/2025happen before, on or after the commencement of the amending 
+Part.
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+1699G  Application of amendment—requirement for relevant
+
+providers to be registered
+The repeal of section 1684L by the amending Part applies on and 
+after 1 January 2023.
+
+Part 10.69  Transitional provisions relating to Schedule 1 to the Treasury Laws
+1699H  Application of amendment—deemed registration of certain
+
+relevant providers
+The amendments of paragraphs 1684U(1)(b) and (c) and 
+paragraphs 1684U(3)(a) and (b) by the amending Part apply on and 
+after 1 January 2022.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions

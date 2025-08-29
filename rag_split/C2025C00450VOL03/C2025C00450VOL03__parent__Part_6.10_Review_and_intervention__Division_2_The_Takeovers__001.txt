@@ -1,0 +1,204 @@
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+Section 657D
+
+Corporations Act 2001 291
+Compilation No. 143 Compilation date: 09/07/2025657D  Orders that Takeovers Panel may make following declaration
+(1) The Takeovers Panel may make an order under subsection (2) if it 
+has declared circumstances to be unacceptable under section 657A. 
+It must not make an order if it is satisfied that the order would 
+unfairly prejudice any person. Before making the order, the 
+Takeovers Panel must give:
+(a) each person to whom the proposed order would be directed; 
+and
+(b) each party to the proceedings; and
+(c) ASIC;
+an opportunity to make submissions to the Takeovers Panel about 
+the matter
+(2) The Takeovers Panel may make any order (including a remedial 
+order but not including an order directing a person to comply with 
+a requirement of Chapter 6, 6A, 6B or 6C) that it thinks appropriate 
+to:
+(a) if the Takeovers Panel is satisfied that the rights or interests 
+of any person, or group of persons, have been or are being 
+affected, or will be or are likely to be affected, by the 
+circumstances—protect those rights or interests, or any other 
+rights or interests, of that person or group of persons; or
+(b) ensure that a takeover bid or proposed takeover bid in 
+relation to securities proceeds (as far as possible) in a way 
+that it would have proceeded if the circumstances had not 
+occurred; or
+(c) specify in greater detail the requirements of an order made 
+under this subsection; or
+(d) determine who is to bear the costs of the parties to the 
+proceedings before the Takeovers Panel;
+regardless of whether it has previously made an order under this 
+subsection or section 657E in relation to the declaration. The 
+Takeovers Panel may also make any ancillary or consequential 
+orders that it thinks appropriate.
+Note: Section 9 defines remedial order.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+Section 657E
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+292 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) The Takeovers Panel may vary, revoke or suspend an order made 
+under this section. Before doing so, it must give an opportunity to 
+make submissions in relation to the matter to:
+(a) each person to whom the order is directed; and
+(b) each party to the proceedings in which the order was made; 
+and
+(c) ASIC.
+(4) If the Takeovers Panel makes an order under this section, the 
+Takeovers Panel must give a copy of the order, and a written 
+statement of its reasons for making the order, to:
+(a) each party to the proceedings before the Takeovers Panel; 
+and
+(b) each person to whom the order is directed if they are not a 
+party to the proceedings; and
+(c) for an order relating to specified securities of a company—
+the company; and
+(d) ASIC.
+The Takeovers Panel must also publish the order in the Gazette. 
+The order takes effect as soon as it is made and not when all the 
+requirements of this subsection are met.
+(5) If the Takeovers Panel makes an order of the kind referred to in 
+paragraph (j) of the definition of remedial order, the exercise of 
+rights attached to shares is to be disregarded as provided in the 
+order.
+(6) If the Takeovers Panel makes an order of the kind referred to in 
+paragraph (k) of the definition of remedial order, then, by force of 
+this subsection, the agreement or offer specified in the order is 
+cancelled, or becomes voidable, as from the making of the order or 
+any later time that is specified in the order.
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+657E  Interim orders
+
+(1) The Takeovers Panel, or the President of the Takeovers Panel, may 
+make an interim order of a kind referred to in subsection 657D(2) 
+in relation to circumstances even if:
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Review and intervention  Part 6.10
+The Takeovers Panel  Division 2
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+Section 657EA
+
+Corporations Act 2001 293
+Compilation No. 143 Compilation date: 09/07/2025(a) there is no declaration under section 657A that the 
+circumstances are unacceptable; or
+(b) no application to the Takeovers Panel for a declaration of that 
+kind has been made.
+The order must specify the period (not exceeding 2 months) for 
+which it is to have effect.
+(2) The order ceases to have effect:
+(a) at the end of the period specified in the order; or
+(b) if, before the end of that period, proceedings for a declaration 
+under section 657A in relation to the circumstances (and all 
+related proceedings for an order under section 657D) are 
+determined—when those proceedings are determined.
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+657EA  Internal Takeovers Panel reviews
+
+(1) The following may apply under this section for review by the 
+Takeovers Panel of a decision of the Takeovers Panel made on an 
+application under section 657C:
+(a) a party to the proceedings in which the decision was made; or
+(b) ASIC.
+For these purposes, decision has the same meaning as in the 
+Administrative Review Tribunal Act 2024.
+(2) If the decision is not:
+(a) a decision to make a declaration under section 657A; or
+(b) a decision to make an order under section 657D or 657E;
+the person may apply for review only with the consent of the 
+President of the Takeovers Panel.
+(3) The regulations may provide for the time limits within which an 
+application may be made for review of a decision.
+Note: Regulations made under the ASIC Act deal with the constitution of 
+the Takeovers Panel for the purposes of conducting a review under 
+this section and the procedures to be followed in conducting the 
+review.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+Section 657EB
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+294 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) After conducting a review under this section, the Takeovers Panel 
+may:
+(a) vary the decision reviewed; or
+(b) set aside the decision reviewed; or
+(c) set aside the decision reviewed and substitute a new decision.
+In conducting the review, the Takeovers Panel has the same power 
+to make a declaration under section 657A, or an order under 
+section 657D or 657E, as it has when it is considering an 
+application under section 657C.
+(5) Despite section 657B, the Takeovers Panel can only make a 
+declaration under section 657A after conducting a review under 
+this section if the declaration is made within:
+(a) 3 months after the circumstances in relation to which the 
+declaration is made occur; or
+(b) 1 month after the application for review was made;
+whichever ends last. The Court may extend the period on 
+application by the Takeovers Panel.
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+657EB  References by Courts
+
+(1) A Court hearing proceedings in relation to a decision of the 
+Takeovers Panel made on an application under section 657C may 
+refer the decision to the Takeovers Panel for review.
+Note: Regulations made under the ASIC Act deal with the constitution of 
+the Takeovers Panel for the purposes of conducting a review under 
+this section and the procedures to be followed in conducting the 
+review.
+(2) After conducting a review under this section, the Takeovers Panel 
+may:
+(a) vary the decision reviewed; or
+(b) set aside the decision reviewed; or
+(c) set aside the decision reviewed and substitute a new decision.
+In conducting the review, the Takeovers Panel has the same 
+powers to make a declaration under section 657A, or an order 
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Review and intervention  Part 6.10
+The Takeovers Panel  Division 2
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+Section 657F
+
+Corporations Act 2001 295
+Compilation No. 143 Compilation date: 09/07/2025under section 657D or 657E, as it has when it is considering an 
+application under section 657C.
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+657F  Offence to contravene Takeovers Panel order
+
+(1) A person who contravenes an order made under section 657D or
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+657E commits an offence.
+
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 6.10  Review and intervention
+Division 2  The Takeovers Panel
+657G  Orders by the Court where contravention or proposed

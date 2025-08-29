@@ -1,0 +1,66 @@
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+Subdivision B—Simplified liquidation process for creditors’
+
+voluntary winding up of an insolvent company
+500AAA  Meaning of triggering event
+Each of the following is a triggering event in relation to a 
+company:
+(a) a special resolution under section 491 that the company be 
+wound up voluntarily is passed;
+(b) if section 446A applies in relation to the company because of 
+paragraph 446A(1)(a)—the resolution referred to in that 
+paragraph is passed;
+(c) if section 446A applies in relation to the company because of 
+paragraph 446A(1)(b)—the company first contravenes 
+subsection 444B(2);
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Voluntary winding up  Part 5.5
+Creditors’ voluntary winding up  Division 3
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+Subdivision B—Simplified liquidation process for creditors’
+
+Section 500A
+
+Corporations Act 2001 557
+Compilation No. 143 Compilation date: 09/07/2025(d) if section 446A applies in relation to the company because of 
+paragraph 446A(1)(c)—the resolution referred to in 
+subparagraph 446A(1)(c)(ii) is passed;
+(e) if section 446AA applies in relation to the company because 
+of paragraph 446AA(1)(a)—the Court makes an order under 
+section 445D terminating a deed of company arrangement in 
+relation to the company;
+(f) if section 446AA applies in relation to the company because 
+of paragraph 446AA(1)(b)—the circumstances specified in 
+the deed of company arrangement in which the deed is to 
+terminate and the company is to be wound up first exist;
+(g) if regulations made for the purposes of section 446B have the 
+effect that the company is taken to have passed a special 
+resolution under section 491 that the company be wound up 
+voluntarily—that special resolution is taken to have passed, 
+under the regulations;
+(h) any other event prescribed by the regulations.
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+Subdivision B—Simplified liquidation process for creditors’
+
+500A  Liquidator may adopt the simplified liquidation process
+
+(1) The liquidator may adopt the simplified liquidation process for the 
+purpose of winding up the affairs and distributing the property of a 
+company in a creditors’ voluntary winding up, if the liquidator 
+believes on reasonable grounds that the eligibility criteria are met 
+in relation to the company.
+(2) However, the liquidator must not adopt the simplified liquidation 
+process if:
+(aa) the company is, or is a related body corporate of, a body 
+regulated by APRA (within the meaning of the Australian 
+Prudential Regulation Authority Act 1998); or
+(a) more than 20 business days have passed since the day on 
+which the triggering event occurred; or
+(b) the liquidator has not given each member and creditor of the 
+company notice in accordance with subsection (3); or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

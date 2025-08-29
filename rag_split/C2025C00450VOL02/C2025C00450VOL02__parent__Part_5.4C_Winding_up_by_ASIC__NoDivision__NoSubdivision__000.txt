@@ -1,0 +1,69 @@
+Part 5.4C  Winding up by ASIC
+
+Part 5.4C  Winding up by ASIC
+Section 489EB
+
+Part 5.4C  Winding up by ASIC
+540 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(iv) informing the company or the director, as the case may 
+be, that the company or the director may, within 10 
+business days after the receipt of the notice, give ASIC 
+a written objection to the making of the order; and
+(c) neither the company, nor any of its directors, has given ASIC 
+such an objection within the time limit specified in the 
+notice.
+(5) Paragraphs (4)(b) and (c) do not apply to a person if ASIC does not 
+have the necessary information about the person’s identity or 
+address.
+(6) Before making an order under subsection (1), (2), (3) or (4), ASIC 
+must:
+(a) give notice of its intention to make the order on ASIC 
+database; and
+(b) both:
+(i) publish notice of its intention to make the order; and
+(ii) do so in the prescribed manner.
+(7) ASIC must not order the winding up of a company under 
+subsection (1), (2), (3) or (4) if an application is before the Court 
+for the winding up of the company.
+(8) Paragraph (b) of the definition of director in section 9 does not 
+apply to subsection (4) of this section.
+(9) To avoid doubt, subsections (1), (2), (3) and (4):
+(a) have effect independently of each other; and
+(b) do not limit each other.
+
+Part 5.4C  Winding up by ASIC
+489EB  Deemed resolution that company be wound up voluntarily
+
+If ASIC orders under section 489EA that a company be wound up:
+(a) the company is taken to have passed a special resolution 
+under section 491 that the company be wound up voluntarily; 
+and
+(b) the company is taken to have passed the special resolution:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up by ASIC  Part 5.4C
+
+Part 5.4C  Winding up by ASIC
+Section 489EC
+
+Corporations Act 2001 541
+Compilation No. 143 Compilation date: 09/07/2025(i) at the time when ASIC made the order under 
+section 489EA; and
+(ii) without a declaration having been made and lodged 
+under section 494; and
+(c) section 496 has effect as if:
+(i) a declaration had been made under section 494; and
+(ii) the reference in subsection 496(1) to the period stated in 
+the declaration were a reference to the 12-month period 
+beginning when ASIC made the order under 
+section 489EA; and
+(d) section 497 is taken to have been complied with in relation to 
+the winding up.
+
+Part 5.4C  Winding up by ASIC
+489EC  Appointment of liquidator
+
+(1) If ASIC orders under section 489EA that a company be wound up, 
+ASIC may appoint a liquidator for the purpose of winding up the 
+affairs and distributing the property of the company.
+Note: For the remuneration of liquidators appointed under this section, see

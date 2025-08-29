@@ -1,0 +1,204 @@
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+Section 250N
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+520 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 8—AGMs of public companies
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+250N  Public company must hold AGM
+
+(1) A public company must hold an annual general meeting (AGM) 
+within 18 months after its registration.
+(2) A public company must hold an AGM at least once in each 
+calendar year and within 5 months after the end of its financial 
+year.
+Note: An AGM held to satisfy this subsection may also satisfy 
+subsection (1).
+(2A) An offence based on subsection (1) or (2) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(3) An AGM is to be held in addition to any other meetings held by a 
+public company in the year.
+Note 1: The company’s annual financial report, sustainability report, directors’ 
+report and auditor’s reports must be laid before the AGM (see 
+section 317).
+Note 2: The rules in sections 249C-250M apply to an AGM.
+(4) A public company that has only 1 member is not required to hold 
+an AGM under this section.
+(5) A company need not comply with subsection (1) if it is covered 
+under section 738ZI at the end of the most recent financial year 
+ending earlier than 18 months after its registration.
+(6) A company need not comply with subsection (2) if it is covered 
+under section 738ZI at the end of the financial year mentioned in 
+subsection (2).
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+AGMs of public companies  Division 8
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+Section 250P
+
+Corporations Act 2001 521
+Compilation No. 143 Compilation date: 09/07/2025250P  Extension of time for holding AGM
+(1) A public company may lodge an application with ASIC to extend 
+the period within which section 250N requires the company to hold 
+an AGM.
+(2) If the company applies before the end of the period within which 
+the company would otherwise be required to hold an AGM, ASIC 
+may extend the period in writing. ASIC must specify the period of 
+the extension.
+(3) A company granted an extension under subsection (2) must hold its 
+AGM within the extended period.
+(4) ASIC may impose conditions on the extension and the company 
+must comply with those conditions.
+(5) An offence based on subsection (3) or (4) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+250PAA  Exemptions by ASIC—class orders relating to 
+externally-administered companies
+(1) ASIC may, by legislative instrument, make an order exempting any 
+of the following from section 250N:
+(a) a specified class of companies that are being wound up;
+(b) a specified class of companies under administration;
+(c) a specified class of companies subject to deeds of company 
+arrangement;
+(d) a specified class of companies under restructuring;
+(e) a specified class of companies subject to restructuring plans.
+(2) The order may be:
+(a) unconditional; or
+(b) subject to one or more specified conditions.
+(3) ASIC must cause a copy of the order to be published in the 
+Gazette.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+
+Section 250PAB
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+522 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025250PAB  Exemptions by ASIC—individual externally-administered 
+companies
+(1) The liquidator of a company that is being wound up may lodge an 
+application with ASIC to exempt the company from section 250N.
+(2) The administrator of a company under administration may lodge an 
+application with ASIC to exempt the company from section 250N.
+(3) The administrator of a deed of company arrangement may lodge an 
+application with ASIC to exempt the company from section 250N.
+(3A) The restructuring practitioner for a company under restructuring 
+may lodge an application with ASIC to exempt the company from 
+section 250N.
+(3B) The restructuring practitioner for a restructuring plan for a 
+company may lodge an application with ASIC to exempt the 
+company from section 250N.
+(4) If an application is lodged under subsection (1), (2) or (3), ASIC 
+may, by writing, exempt the company from section 250N.
+(5) The exemption may be:
+(a) unconditional; or
+(b) subject to one or more specified conditions.
+(6) ASIC must cause a copy of the exemption to be published in the 
+Gazette.
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+250PA  Written questions to auditor submitted by members of listed
+
+company before AGM
+Member may submit question
+(1) A member of a listed company who is entitled to cast a vote at the 
+AGM may submit a written question to the auditor under this 
+section if the question is relevant to:
+(a) the content of any auditor’s report to be considered at the 
+AGM; or
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+AGMs of public companies  Division 8
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+Section 250PA
+
+Corporations Act 2001 523
+Compilation No. 143 Compilation date: 09/07/2025(b) the conduct of the audit of the annual financial report or 
+annual sustainability report to be considered at the AGM.
+The member submits the question to the auditor under this 
+subsection by giving the question to the listed company no later 
+than the fifth business day before the day on which the AGM is 
+held.
+(2) Despite the question being one that is addressed to the auditor, the 
+listed company may:
+(a) examine the contents of the question; and
+(b) make a copy of the question.
+Company to pass question on to auditor
+(3) The listed company must, as soon as practicable after the question 
+is received by the company, pass the question on to the auditor. 
+The company must pass the question on to the auditor even if the 
+company believes the question is not relevant to the matters 
+specified in paragraph (1)(a) and (b).
+Contravention by individual auditor
+(4) If the auditor is an individual auditor, the auditor contravenes this 
+subsection if the auditor does not prepare, and give to the listed 
+company, a document (the question list) that sets out the questions 
+that:
+(a) the listed company has passed on to the auditor; and
+(b) the auditor considers to be relevant to the matters specified in 
+paragraphs (1)(a) and (b);
+as soon as practicable after the end of the time for submitting 
+questions under subsection (1) and a reasonable time before the 
+AGM.
+(5) An offence based on subsection (4) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+Section 250PA
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+524 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Contravention by lead auditor
+(6) A person contravenes this subsection if:
+(a) the auditor is an audit firm or audit company; and
+(b) the person is the lead auditor for the audit; and
+(c) the person does not prepare, and give to the listed company, a 
+document (the question list) that sets out the questions that:
+(i) the listed company has passed on to the auditor; and
+(ii) the person considers to be relevant to the matters 
+specified in paragraphs (1)(a) or (b);
+as soon as practicable after the end of the time for submitting 
+questions under subsection (1) and a reasonable time before 
+the AGM.
+(7) An offence based on subsection (6) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Certain questions do not need to be included in question list
+(8) A question need not be included in the question list under 
+subsection (4) or (6) if:
+(a) the question list includes a question that is the same in 
+substance as that question (even if it is differently expressed); 
+or
+(b) it is not practicable to include the question in the question 
+list, or to decide whether to include the question in the 
+question list, because of the time when the question is passed 
+on to the auditor.
+Listed company to make question list available at AGM
+(9) The listed company must, at or before the start of the AGM, make 
+copies of the question list reasonably available to the members 
+attending the AGM.
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+AGMs of public companies  Division 8
+
+Part 2G.2  Meetings of members of companies
+Division 8  AGMs of public companies
+Section 250R

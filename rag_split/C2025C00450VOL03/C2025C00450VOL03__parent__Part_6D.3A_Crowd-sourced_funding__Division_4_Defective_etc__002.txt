@@ -1,0 +1,54 @@
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+Section 738Z
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+480 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: In a prosecution for an offence, a defendant bears an evidential burden 
+in relation to the matter in this subsection (see subsection 13.3(3) of 
+the Criminal Code).
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Crowd-sourced funding  Part 6D.3A
+Other obligations of CSF intermediaries  Division 5
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+Section 738ZA
+
+Corporations Act 2001 481
+Compilation No. 143 Compilation date: 09/07/2025Division 5—Other obligations of CSF intermediaries
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+738ZA  General obligations of CSF intermediaries relating to their
+
+platforms etc.
+The general CSF risk warning
+(1) The responsible intermediary for a CSF offer must ensure that the 
+general CSF risk warning appears prominently on the offer 
+platform at all times while the offer is open or suspended.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(2) The general CSF risk warning is a statement in the terms 
+specified in the regulations.
+Providing a facility for the making of applications
+(3) The responsible intermediary for a CSF offer must ensure that:
+(a) at all times while the offer is open, a facility (the application 
+facility) is provided for the making of applications pursuant 
+to the CSF offer; and
+(b) a retail client cannot make an application pursuant to the CSF 
+offer by means of the application facility unless the person 
+completes an acknowledgement that complies with the 
+requirements of the regulations; and
+(c) a person cannot make an application pursuant to the CSF 
+offer by means of the application facility while the offer is 
+suspended or after it has closed.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(4) The responsible intermediary for a CSF offer must reject any 
+application for the issue of securities pursuant to the offer if the 
+application is made otherwise than by means of the application 
+facility.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising

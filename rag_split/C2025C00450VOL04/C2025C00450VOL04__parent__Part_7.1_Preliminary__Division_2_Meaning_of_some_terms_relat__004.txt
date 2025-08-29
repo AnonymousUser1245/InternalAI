@@ -1,0 +1,188 @@
+Corporations Act 2001 23
+Compilation No. 143 Compilation date: 09/07/2025(a) the price for the provision of the financial product, or the 
+value of the financial product to which the financial service 
+relates, equals or exceeds the amount specified in regulations 
+made for the purposes of this paragraph as being applicable 
+in the circumstances (but see also subsection (10)); or
+(b) the financial product, or the financial service, is provided for 
+use in connection with a business that is not a small business 
+(see subsection (12));
+(c) the financial product, or the financial service, is not provided 
+for use in connection with a business, and the person who 
+acquires the product or service gives the provider of the 
+product or service, before the provision of the product or 
+service, a copy of a certificate given within the preceding 6 
+months by a qualified accountant that states that the person:
+(i) has net assets of at least the amount specified in 
+regulations made for the purposes of this subparagraph; 
+or
+(ii) has a gross income for each of the last 2 financial years 
+of at least the amount specified in regulations made for 
+the purposes of this subparagraph a year;
+(d) the person is a professional investor.
+Offence proceedings—defendant bears evidential burden in 
+relation to matters referred to in paragraphs (7)(a) to (d)
+(8) In a prosecution for an offence based on a provision of this Chapter 
+or Part 6D.3A, a defendant bears an evidential burden in relation to 
+the matters in paragraphs (7)(a) to (d) as if those matters were 
+exceptions for the purposes of subsection 13.3(3) of the Criminal 
+Code.
+Other proceedings relating to subsection (7) products—
+presumption in non-criminal proceedings of retail client unless 
+contrary established
+(9) If:
+(a) it is alleged in a proceeding under this Chapter (not being a 
+prosecution for an offence), or in any other proceeding (not 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761G
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+24 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025being a prosecution for an offence) in respect of a matter 
+arising under this Chapter, that a particular financial product 
+or financial service was provided to a person as a retail client; 
+and
+(b) the product or the service is one to which subsection (7) 
+applies;
+it is presumed that the product or service was provided to the 
+person as a retail client unless the contrary is established.
+Note 1: There is no such presumption in relation to the provision of a product 
+or service that is or relates to a general insurance product, a 
+superannuation product or an RSA. Whether or not such a product, or 
+a service relating to such a product, was provided to a person as a 
+retail client is to be resolved as provided in subsection (5) or (6), as 
+the case requires.
+Note 2: In criminal proceedings, a defendant bears an evidential burden in 
+relation to the matters in paragraphs (7)(a) to (d) (see subsection (8)).
+Regulations and paragraph (7)(a)
+(10) In addition to specifying an amount or amounts for the purposes of 
+paragraph (7)(a), the regulations may do either or both of the 
+following:
+(a) deal with how a price or value referred to in that paragraph is 
+to be calculated, either generally or in relation to a specified 
+class of financial products;
+(b) modify the way in which that paragraph applies in particular 
+circumstances.
+Regulations and paragraph (7)(c)
+(10A) In addition to specifying amounts for the purposes of 
+subparagraphs (7)(c)(i) and (ii), the regulations may do either or 
+both of the following:
+(a) deal with how net assets referred to in subparagraph (7)(c)(i) 
+are to be determined and valued, either generally or in 
+specified circumstances;
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of some terms relating to financial services and markets  Division 2
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761GA
+
+Corporations Act 2001 25
+Compilation No. 143 Compilation date: 09/07/2025(b) deal with how gross income referred to in 
+subparagraph (7)(c)(ii) is to be calculated, either generally or 
+in specified circumstances.
+What happens if a package of general insurance products and 
+other kinds of financial products is provided?
+(11) If:
+(a) either:
+(i) in a single transaction, 2 or more financial products are 
+provided to a person; or
+(ii) a single financial service provided to a person relates to
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+2 or more financial products; and
+
+(b) one or more, but not all, of the financial products are general 
+insurance products;
+subsection (5) applies to the transaction or service so far as it 
+relates to the general insurance products, and subsection (6) or (7), 
+as the case requires, applies to the transaction or service so far as it 
+relates to other financial products.
+Definition
+(12) In this section:
+small business means a business employing less than:
+(a) if the business is or includes the manufacture of goods—100 
+people; or
+(b) otherwise—20 people.
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+761GA  Meaning of retail client—sophisticated investors
+
+A financial product, or a financial service (other than a traditional 
+trustee company service, a crowd-funding service or a 
+superannuation trustee service) in relation to a financial product, is 
+not provided by one person to another person as a retail client if:
+(a) the first person (the licensee) is a financial services licensee; 
+and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761H
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+26 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) the financial product is not a general insurance product, a 
+superannuation product or an RSA; and
+(c) the financial product or service is not provided for use in 
+connection with a business; and
+(d) the licensee is satisfied on reasonable grounds that the other 
+person (the client) has previous experience in using financial 
+services and investing in financial products that allows the 
+client to assess:
+(i) the merits of the product or service; and
+(ii) the value of the product or service; and
+(iii) the risks associated with holding the product; and
+(iv) the client’s own information needs; and
+(v) the adequacy of the information given by the licensee 
+and the product issuer; and
+(e) the licensee gives the client before, or at the time when, the 
+product or advice is provided a written statement of the 
+licensee’s reasons for being satisfied as to those matters; and
+(f) the client signs a written acknowledgment before, or at the 
+time when, the product or service is provided that:
+(i) the licensee has not given the client a Product 
+Disclosure Statement; and
+(ii) the licensee has not given the client any other document 
+that would be required to be given to the client under 
+this Chapter if the product or service were provided to 
+the client as a retail client; and
+(iii) the licensee does not have any other obligation to the 
+client under this Chapter that the licensee would have if 
+the product or service were provided to the client as a 
+retail client.
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+761H  References to this Chapter include references to regulations or
+
+other instruments made for the purposes of this Chapter
+(1) A reference in a provision of this Chapter to this Chapter, or to a 
+particular provision or group of provisions of this Chapter, includes 
+(unless a contrary intention appears) a reference to regulations, or 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of some terms relating to financial services and markets  Division 2
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761H
+
+Corporations Act 2001 27
+Compilation No. 143 Compilation date: 09/07/2025other instruments, made for the purposes of this Chapter, or for the 
+purposes of that provision or any of those provisions, as the case 
+requires.
+(2) Subsection (1) has effect as if provisions in Part 10.2 (transitional 
+provisions) that relate to matters dealt with in this Chapter were 
+part of this Chapter.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

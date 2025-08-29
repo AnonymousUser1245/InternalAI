@@ -1,0 +1,187 @@
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+Section 1233L
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+604 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: This conversion is intended to ensure that the assets of a sub-fund can 
+be kept separate and distinct from the assets of other sub-funds.
+(4) The conversion required by subsection (3) must be completed as 
+soon as practicable after the item of property is acquired.
+Fault-based offence
+(5) A person commits an offence if:
+(a) the person is subject to a requirement under this section; and
+(b) the person fails to comply with the requirement.
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+Section 1233M
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+606 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) must be fair and reasonable in the circumstances and having 
+regard to the matters referred to in paragraph 1233L(1)(b); 
+and
+(b) must result in the liability being wholly allocated; and
+(c) must be made as soon as practicable after the liability arises; 
+and
+(d) must be expressed to apply from the time the liability arises 
+(which may be earlier than the time at which the 
+determination is made).
+When the determination is operative
+(4) A determination under this section (including a determination as 
+varied under section 1233N) is operative at a time if:
+(a) the determination applies at that time; and
+(b) the determination is one that a reasonable person in the 
+corporate director’s position could make.
+(5) A determination under this section is irrevocable, however it may 
+be varied under section 1233N even if it has become inoperative.
+Fault-based offence
+(6) A person commits an offence if:
+(a) the person is subject to a requirement under this section; and
+(b) the person fails to comply with the requirement.
+Determinations during winding up and controllership
+(7) Subsection (1) does not apply if all of the CCIV’s sub-funds are 
+being wound up.
+(8) Despite subsection 13.3(3) of the Criminal Code, in a prosecution 
+for an offence based on subsection (6) of this section, a defendant 
+does not bear an evidential burden in relation to the matter in 
+subsection (7).
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Operating a CCIV  Part 8B.5
+Requirement for assets and liabilities to be allocated between sub-funds  Division 3
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+Section 1233N
+
+Corporations Act 2001 607
+Compilation No. 143 Compilation date: 09/07/2025(9) A liquidator of a sub-fund of a CCIV, or a receiver of property of a 
+sub-fund of a CCIV, may not make a determination under this 
+section.
+Note: A liquidator may apply to the Court for an order under section 1233Q.
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+1233N  Variations of proportional allocation of liabilities
+
+(1) The corporate director may vary a determination made under 
+section 1233M if it is necessary to do so to ensure that the 
+determination remains operative for the purposes of 
+subsection 1233M(4).
+(2) If, as a result of a change in circumstances, a determination has or 
+will become inoperative, the corporate director must vary the 
+determination as soon as is practicable.
+Note: The variation may take effect retrospectively to make operative a 
+determination that has become inoperative: see paragraph (3)(b).
+(3) The variation:
+(a) must be fair and reasonable in the circumstances and having 
+regard to:
+(i) the matters referred to in paragraph 1233L(1)(b); and
+(ii) the time at which it starts to apply; and
+(b) must specify the time at which it starts to apply, which may 
+be earlier or later than the time at which the variation is 
+made; and
+(c) must result in the liability being wholly allocated; and
+(d) must be made in writing.
+Effect of variation
+(4) The variation takes effect from the time at which it starts to apply.
+Fault-based offences
+(5) A person commits an offence if:
+(a) the person is subject to a requirement under subsection (2); 
+and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+Section 1233P
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+608 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) the person fails to comply with the requirement.
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+1233P  Creditor may require corporate director to provide
+
+information about allocation
+(1) A creditor of a CCIV may, by notice in writing given to the 
+corporate director of the CCIV, require the corporate director to 
+provide the creditor with the following information about the debt 
+owing to the creditor:
+(a) the sub-fund or sub-funds of the CCIV of which the debt is a 
+liability;
+(b) if the debt is a liability of 2 or more sub-funds of the CCIV—
+the proportion of the debt allocated to each sub-fund;
+within the period (which must be at least 14 days after the notice is 
+given), and in the manner, specified in the notice.
+(2) The notice must include sufficient information to enable the 
+corporate director to identify the debt.
+Strict liability offence
+(3) A person commits an offence of strict liability if the person fails to 
+comply with a notice given to the person in accordance with 
+subsection (1).
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+Section 1233Q
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+610 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the order states that the corporate director does have the 
+power to make an inconsistent determination; or
+(b) the corporate director first obtains the leave of the Court.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Operating a CCIV  Part 8B.5
+Purposes for which sub-fund assets may be applied  Division 4
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+Section 1234
+
+Corporations Act 2001 611
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Purposes for which sub-fund assets may be 
+applied
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+1234  Unallocated money and property may not be applied for any
+
+purpose
+Money or property of a CCIV that has not been clearly identified in 
+the CCIV’s allocation register as forming part of the assets of a 
+sub-fund or sub-funds of the CCIV may not be applied, or dealt 
+with, whether directly or indirectly, for any purpose.
+
+Part 8B.5  Operating a CCIV
+Division 3  Requirement for assets and liabilities to be allocated between sub-funds
+1234A  Requirement for segregated application of assets of sub-funds
+
+(1) The assets of a sub-fund of a CCIV must not be applied, or dealt 
+with, whether directly or indirectly:
+(a) subject to paragraph (b), for any purpose other than a purpose 
+covered by section 1234B; or
+(b) for a purpose prescribed by regulations made for the 
+purposes of this paragraph.
+Note: For the consequences of a contravention of this requirement, see 
+section 1234F.
+(2) Subsection (1) does not apply to:
+(a) money or property to which section 1234 applies; or
+(b) assets of a sub-fund of the CCIV, to the extent the assets 
+consist of property to which section 1233K (about property 
+that has to be converted into money etc.) applies.
+Note: For paragraph (b), see instead section 1234C.
+(3) The assets of 2 or more sub-funds of a CCIV must not be applied 
+jointly to acquire a single item of property of the CCIV.
+Note: A single item of property that forms part of the assets of 2 or more 
+sub-funds must be converted into money or other fungible property: 
+see section 1233K.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles

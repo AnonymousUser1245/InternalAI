@@ -1,0 +1,225 @@
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+Section 101
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+202 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) prohibiting the registration by a company of a transfer of 
+securities if any stamp duty applicable in respect of the 
+transfer has not been paid.
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+101  Amount of stock representing a number of shares
+
+In relation to a body corporate the whole or a portion of whose 
+share capital consists of stock, a reference to a number of shares 
+(including a number expressed as a percentage) is, in relation to an 
+amount of stock, a reference to the amount of stock that represents 
+that number of shares.
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+102  Applications to be in writing
+
+An application to ASIC for the issuing of a document or the doing 
+of any other act or thing by ASIC under this Act must be in 
+writing.
+Note: For electronic lodgment of documents with ASIC, see section 352.
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+102B  Meaning of in this jurisdiction or elsewhere and outside this
+
+jurisdiction
+(1) The expression ‘in Australia or elsewhere’, or a similar expression, 
+does not limit the generality of the expression in this jurisdiction 
+or elsewhere or a similar expression.
+(2) The expression outside this jurisdiction includes places outside 
+Australia.
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+102C  Meaning of in Australia
+
+In Australia means in Australia (whether in this jurisdiction or 
+not).
+Note: This definition is needed if there is a State that is not a referring State. 
+If all the States are referring States, every place in Australia will also 
+be in this jurisdiction.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Miscellaneous interpretation rules  Division 8
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+Section 103
+
+Corporations Act 2001 203
+Compilation No. 143 Compilation date: 09/07/2025103  Effect of certain contraventions of this Act
+(1) This section has effect except so far as this Act otherwise provides.
+(2) An act, transaction, agreement, instrument, matter or thing is not 
+invalid merely because of:
+(a) a contravention of section 115, 208, 209, 601CA or 601CD; 
+or
+(b) a failure to comply with a requirement of this Act that a 
+person cause a notice, or a copy of a document, to be 
+published.
+Note: Section 1101H provides that a failure to comply with requirements of 
+Chapter 7 generally does not affect the validity or enforceability of 
+any transaction, contract or other arrangement.
+(4) In this section:
+invalid includes void, voidable and unenforceable.
+(5) Nothing in this section limits the generality of anything else in it.
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+104  Effect of provisions empowering a person to require or prohibit
+
+conduct
+Where, in accordance with a provision of this Act other than the 
+replaceable rules, a person requires another person to do, or 
+prohibits another person from doing, a particular act, that provision 
+is taken to require the other person to comply with the requirement 
+or prohibition, as the case may be.
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+105  Calculation of time
+
+(1) A period of time referred to in the Corporations legislation, or an 
+instrument made under the Corporations legislation, dating from a 
+given day, act or event, is to be calculated exclusive of such day or 
+of the day of such act or event.
+(2) Without limiting subsection (1), in calculating how many days a 
+particular day, act or event is before or after another day, act or 
+event:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+Section 105A
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+204 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the first-mentioned day, or the day of the first-mentioned act 
+or event, is to be counted; and
+(b) the other day, or the day of the other act or event, is not to be 
+counted.
+(3) If:
+(a) the Corporations legislation, or an instrument made under the 
+Corporations legislation, requires or allows a thing to be done 
+within a specified period; and
+(b) the last day of the period is not a business day in the place 
+where the thing must or may be done;
+then the thing may instead be done on the next day that is a 
+business day in that place.
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+105A  When is an electronic communication sent and received
+
+(1) This section applies in relation to an electronic communication 
+unless otherwise agreed between the originator and the addressee 
+of the electronic communication.
+(2) An electronic communication is sent:
+(a) when the electronic communication leaves an information 
+system under the control of the originator or of the party who 
+sent it on behalf of the originator; or
+(b) if the electronic communication has not left an information 
+system under the control of the originator or of the party who 
+sent it on behalf of the originator—when the electronic 
+communication is received by the addressee.
+Note 1: Paragraph (b) would apply to a case where the parties exchange 
+electronic communications through the same information system.
+Note 2: The meaning of sent in Chapters 6 and 6A is not affected by this 
+section: see the definition of sent in section 9.
+(3) Subsection (2) applies even though the place where the information 
+system supporting an electronic address is located may be different 
+from the place where the electronic communication is taken to 
+have been sent under section 105B.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Miscellaneous interpretation rules  Division 8
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+Section 105B
+
+Corporations Act 2001 205
+Compilation No. 143 Compilation date: 09/07/2025(4) An electronic communication is received when the electronic 
+communication becomes capable of being retrieved by the 
+addressee at the addressee’s nominated electronic address.
+(5) It is to be assumed that an electronic communication is capable of 
+being retrieved by the addressee when it reaches the addressee’s 
+nominated electronic address.
+(6) Subsection (4) applies even though the place where the information 
+system supporting an electronic address is located may be different 
+from the place where the electronic communication is taken to 
+have been received under section 105B.
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+105B  Place where an electronic communication is sent or received
+
+(1) This section applies in relation to an electronic communication 
+unless otherwise agreed between the originator and the addressee 
+of the electronic communication.
+(2) An electronic communication is taken to have been sent:
+(a) if the addressee is a company or registered scheme and the 
+originator is a member of the company or registered 
+scheme—from the address of the originator as contained on 
+the register of members of the company or registered scheme 
+at the time the communication is sent; and
+(b) if the originator has a registered office and paragraph (a) does 
+not apply—from the registered office of the originator; and
+(ba) if the originator has a principal place of business in Australia 
+and neither paragraph (a) nor (b) applies—the address of the 
+originator’s principal place of business in Australia; and
+(c) otherwise:
+(i) from the most recent physical address nominated by the 
+originator to the addressee; or
+(ii) if the originator has not nominated a physical address as 
+mentioned in subparagraph (i)—from the originator’s 
+usual residential address in Australia.
+(3) An electronic communication is taken to have been received:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+Section 107
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+206 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) if the originator is a company or registered scheme and the 
+addressee is a member of the company or registered 
+scheme—at the address of the addressee as contained on the 
+register of members of the company or registered scheme at 
+the time the communication is received; and
+(b) if the addressee has a registered office and paragraph (a) does 
+not apply—at the registered office of the addressee; and
+(ba) if the addressee has a principal place of business in Australia 
+and neither paragraph (a) nor (b) applies—the address of the 
+addressee’s principal place of business in Australia; and
+(c) otherwise:
+(i) at the most recent physical address nominated by the 
+addressee to the originator; or
+(ii) if the addressee has not nominated a physical address as 
+mentioned in subparagraph (i)—at the addressee’s usual 
+residential address in Australia.
+
+Part 1.2  Interpretation
+Division 8  Miscellaneous interpretation rules
+107  Notice in relation to top 20 members of a class
+
+For the purposes of subsection 163(3B), section 178B and 
+paragraph 601BC(2)(lc), if 2 or more members in the top 20 
+members of a class of shares each hold the same number of shares, 
+details of each of those members must be included in any notice 
+given in relation to those provisions.

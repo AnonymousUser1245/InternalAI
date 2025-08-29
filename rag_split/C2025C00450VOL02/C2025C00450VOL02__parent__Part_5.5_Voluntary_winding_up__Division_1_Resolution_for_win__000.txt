@@ -1,0 +1,197 @@
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+Section 493
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+544 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025493  Effect of voluntary winding up
+The company must, from the passing of the resolution, cease to 
+carry on its business except so far as is in the opinion of the 
+liquidator required for the beneficial disposal or winding up of that 
+business, but the corporate state and corporate powers of the 
+company, notwithstanding anything to the contrary in its 
+constitution, continue until it is deregistered.
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+493A  Effect of voluntary winding up on company’s members
+
+Transfer of shares
+(1) A transfer of shares in a company that is made after the passing of 
+the resolution is void except if:
+(a) both:
+(i) the liquidator gives written consent to the transfer; and
+(ii) that consent is unconditional; or
+(b) all of the following subparagraphs apply:
+(i) the liquidator gives written consent to the transfer;
+(ii) that consent is subject to one or more specified 
+conditions;
+(iii) those conditions have been satisfied; or
+(c) the Court makes an order under subsection (4) authorising 
+the transfer.
+(2) The liquidator may only give consent under paragraph (1)(a) or (b) 
+if he or she is satisfied that the transfer is in the best interests of the 
+company’s creditors as a whole.
+(3) If the liquidator refuses to give consent under paragraph (1)(a) or 
+(b) to a transfer of shares in the company:
+(a) the prospective transferor; or
+(b) the prospective transferee; or
+(c) a creditor of the company;
+may apply to the Court for an order authorising the transfer.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Voluntary winding up  Part 5.5
+Resolution for winding up  Division 1
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+Section 493A
+
+Corporations Act 2001 545
+Compilation No. 143 Compilation date: 09/07/2025(4) If the Court is satisfied, on an application under subsection (3), that 
+the transfer is in the best interests of the company’s creditors as a 
+whole, the Court may, by order, authorise the transfer.
+(5) If the liquidator gives consent under paragraph (1)(b) to a transfer 
+of shares in the company:
+(a) the prospective transferor; or
+(b) the prospective transferee; or
+(c) a creditor of the company;
+may apply to the Court for an order setting aside any or all of the 
+conditions to which the consent is subject.
+(6) If the Court is satisfied, on an application under subsection (5), that 
+any or all of the conditions covered by the application are not in 
+the best interests of the company’s creditors as a whole, the Court 
+may, by order, set aside any or all of the conditions.
+(7) The liquidator is entitled to be heard in a proceeding before the 
+Court in relation to an application under subsection (3) or (5).
+Alteration in the status of members
+(8) An alteration in the status of members of a company that is made 
+after the passing of the resolution is void except if:
+(a) both:
+(i) the liquidator gives written consent to the alteration; and
+(ii) that consent is unconditional; or
+(b) all of the following subparagraphs apply:
+(i) the liquidator gives written consent to the alteration;
+(ii) that consent is subject to one or more specified 
+conditions;
+(iii) those conditions have been satisfied; or
+(c) the Court makes an order under subsection (12) authorising 
+the alteration.
+(9) The liquidator may only give consent under paragraph (8)(a) or (b) 
+if he or she is satisfied that the alteration is in the best interests of 
+the company’s creditors as a whole.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+Section 494
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+546 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(10) The liquidator must refuse to give consent under paragraph (8)(a) 
+or (b) if the alteration would contravene Part 2F.2.
+(11) If the liquidator refuses to give consent under paragraph (8)(a) or 
+(b) to an alteration in the status of members of a company:
+(a) a member of the company; or
+(b) a creditor of the company;
+may apply to the Court for an order authorising the alteration.
+(12) If the Court is satisfied, on an application under subsection (11), 
+that:
+(a) the alteration is in the best interests of the company’s 
+creditors as a whole; and
+(b) the alteration does not contravene Part 2F.2;
+the Court may, by order, authorise the alteration.
+(13) If the liquidator gives consent under paragraph (8)(b) to an 
+alteration in the status of members of a company:
+(a) a member of the company; or
+(b) a creditor of the company;
+may apply to the Court for an order setting aside any or all of the 
+conditions to which the consent is subject.
+(14) If the Court is satisfied, on an application under subsection (13), 
+that any or all of the conditions covered by the application are not 
+in the best interests of the company’s creditors as a whole, the 
+Court may, by order, set aside any or all of the conditions.
+(15) The liquidator is entitled to be heard in a proceeding before the 
+Court in relation to an application under subsection (11) or (13).
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+494  Declaration of solvency
+
+(1) Where it is proposed to wind up a company voluntarily, a majority 
+of the directors may, before the date on which the notices of the 
+meeting at which the resolution for the winding up of the company 
+is to be proposed are sent out, make a written declaration to the 
+effect that they have made an inquiry into the affairs of the 
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Voluntary winding up  Part 5.5
+Resolution for winding up  Division 1
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+Section 494
+
+Corporations Act 2001 547
+Compilation No. 143 Compilation date: 09/07/2025company and that, at a meeting of directors, they have formed the 
+opinion that the company will be able to pay its debts in full within 
+a period not exceeding 12 months after the commencement of the 
+winding up.
+(2) There must be attached to the declaration a statement of affairs of 
+the company showing, in the prescribed form:
+(a) the property of the company, and the total amount expected 
+to be realised from that property; and
+(b) the liabilities of the company; and
+(c) the estimated expenses of winding up;
+made up to the latest practicable date before the making of the 
+declaration.
+(3) A declaration so made has no effect for the purposes of this Act 
+unless:
+(a) the declaration is made at the meeting of directors referred to 
+in subsection (1); and
+(b) the declaration is lodged before the date on which the notices 
+of the meeting at which the resolution for the winding up of 
+the company is to be proposed are sent out or such later date 
+as ASIC, whether before, on or after the first-mentioned date, 
+allows; and
+(c) the resolution for voluntary winding up is passed within the 
+period of 5 weeks after the making of the declaration or 
+within such further period after the making of that 
+declaration as ASIC, whether before or after the end of that 
+period of 5 weeks, allows.
+(4) A director who makes a declaration under this section (including a 
+declaration that has no effect for the purposes of this Act by reason 
+of subsection (3)) without having reasonable grounds for his or her 
+opinion that the company will be able to pay its debts in full within 
+the period stated in the declaration is guilty of an offence.
+(5) If the company is wound up pursuant to a resolution for voluntary 
+winding up passed within the period of 5 weeks after the making of 
+the declaration or, if pursuant to paragraph (3)(c) ASIC has 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+Section 494
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+548 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025allowed a further period after the end of that period of 5 weeks, 
+within that further period, but its debts are not paid or provided for 
+in full within the period stated in the declaration, it is to be 
+presumed, unless the contrary is shown, that a director who made 
+the declaration did not have reasonable grounds for his or her 
+opinion.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Voluntary winding up  Part 5.5
+Members’ voluntary winding up  Division 2
+
+Part 5.5  Voluntary winding up
+Division 1  Resolution for winding up
+Section 495
+
+Corporations Act 2001 549
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Members’ voluntary winding up

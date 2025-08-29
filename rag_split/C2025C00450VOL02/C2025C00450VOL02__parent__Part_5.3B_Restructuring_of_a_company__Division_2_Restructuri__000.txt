@@ -1,0 +1,76 @@
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Subdivision G—Enforcement rights triggered by restructuring
+
+454N  Stay on enforcing rights merely because the company is under
+
+restructuring etc.
+Stay on enforcing rights
+(1) A right cannot be enforced against a company for:
+(a) the reason that the company has come or is under 
+restructuring; or
+(b) the company’s financial position, if the company is under 
+restructuring; or
+(c) a reason, prescribed by the regulations for the purposes of 
+this paragraph, that relates to:
+(i) the company coming, or possibly coming, under 
+restructuring; or
+(ii) the company’s financial position;
+if the company later comes under restructuring; or
+(d) a reason that, in substance, is contrary to this subsection;
+if the right arises for that reason by express provision (however 
+described) of a contract, agreement or arrangement.
+Note: This result is subject to subsections (5) and (7), and to any order under 
+section 454P.
+Example: A right to terminate a contract will not be enforceable to the extent 
+that those rights are triggered by the company coming under 
+restructuring.
+Period of the stay
+(2) The right cannot be enforced as described in subsection (1) during 
+the period (the stay period) starting when the restructuring of the 
+company begins and ending at the later of the following:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Restructuring of a company  Part 5.3B
+Restructuring  Division 2
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Subdivision G—Enforcement rights triggered by restructuring
+
+Section 454N
+
+Corporations Act 2001 461
+Compilation No. 143 Compilation date: 09/07/2025(a) when the restructuring ends;
+(b) if one or more orders are made under subsection (3) for the 
+company as the result of an application made before the 
+restructuring ends—when the last made of those orders 
+ceases to be in force;
+(c) if the company ceases to be under restructuring because of a 
+resolution or order for the company to be wound up—when 
+the company’s affairs have been fully wound up.
+(3) The Court:
+(a) may order an extension of the stay period for the company if 
+the Court is satisfied that the extension is appropriate having 
+regard to the interests of justice; and
+(b) before deciding an application for an order under 
+paragraph (a), may grant an interim order, but must not 
+require the applicant to give an undertaking as to damages as 
+a condition for doing so.
+Enforcing rights after the stay for reasons relating to earlier 
+circumstances
+(4) The right is unenforceable against the company indefinitely after 
+the end of the stay period to the extent that a reason for seeking to 
+enforce the right:
+(a) is the company’s financial position before the end of the stay 
+period; or
+(b) is the company having come or been under restructuring 
+before the end of the stay period; or
+(c) is a reason, prescribed by the regulations for the purposes of 
+this paragraph, relating to circumstances in existence during 
+the stay period; or
+(d) is a reason referred to in paragraph (1)(c) or (d).
+Rights not subject to the stay
+(5) Subsection (1) does not apply to the right if it is:
+(a) a right under a contract, agreement or arrangement entered 
+into after the company comes under restructuring; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

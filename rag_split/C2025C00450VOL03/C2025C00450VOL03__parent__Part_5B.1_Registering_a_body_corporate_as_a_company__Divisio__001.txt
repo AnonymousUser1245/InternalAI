@@ -1,0 +1,70 @@
+Part 5B.1  Registering a body corporate as a company
+Division 1  Registration
+22 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025601BH  Modifications of constitution
+(1) A company registered under this Part must modify its constitution 
+within 3 months after registration to give effect to this Part.
+(2) If the constitution specifies amounts of money expressed in foreign 
+currency, the company must:
+(a) fix a single rate of conversion by resolution; and
+(b) modify its constitution by special resolution to convert those 
+amounts into Australian currency using that rate.
+The modification must be made within 3 months after registration.
+(2A) An offence based on subsection (1) or (2) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(3) An amendment of a company’s constitution under this section does 
+not affect the number and class of shares held by each member.
+
+Part 5B.1  Registering a body corporate as a company
+Division 1  Registration
+601BJ  ASIC may direct company to apply for Court approval for
+
+modifications of constitution
+(1) ASIC may give the company a written direction to apply to the 
+Court within a specified period for an order approving the modified 
+constitution.
+(2) The Court may make an order:
+(a) declaring that the company has complied with 
+section 601BH; or
+(b) declaring that the company will comply with section 601BH 
+if it makes further modifications of its constitution as 
+specified in the order.
+(3) The company must lodge a copy of the order with ASIC within 14 
+days after the order is made.
+(4) An offence based on subsection (3) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Bodies corporate registered as companies, and registrable bodies  Chapter 5B
+Registering a body corporate as a company  Part 5B.1
+Registration  Division 1
+
+Part 5B.1  Registering a body corporate as a company
+Division 1  Registration
+Section 601BK
+
+Corporations Act 2001 23
+Compilation No. 143 Compilation date: 09/07/2025601BK  Establishing registers and minute books
+(1) A company registered under this Part must, within 14 days after 
+registration:
+(a) set up the register required by section 168; and
+(b) include in the register the information that is required to be 
+included in the register and that is available to the company 
+on registration; and
+(c) set up the minute books required by section 251A.
+(1A) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(2) During the 14 days the company need not comply with a person’s 
+request to inspect or obtain a copy of:
+(a) information in a register; or
+(b) a minute of a general meeting.
+However, the period within which the company must comply with 
+the request begins at the end of the 14 days.
+
+Part 5B.1  Registering a body corporate as a company
+Division 1  Registration
+601BL  Registration of registered bodies
+
+(1) If a registered body becomes registered as a company under this 
+Part, it ceases to be a registered body. ASIC must remove the 
+body’s name from the appropriate register kept for the purposes of

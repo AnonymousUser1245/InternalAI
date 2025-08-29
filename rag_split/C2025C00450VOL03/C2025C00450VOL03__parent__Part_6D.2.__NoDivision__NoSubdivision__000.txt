@@ -1,0 +1,63 @@
+Part 6D.2.
+738B  Meaning of CSF offer
+
+A CSF offer is an offer that is:
+(a) eligible to be made under this Part (see Division 2); and
+(b) expressed to be made under this Part.
+
+Part 6D.2.
+738C  Meaning of CSF intermediary
+
+A CSF intermediary is a financial services licensee whose licence 
+expressly authorises the licensee to provide a crowd funding 
+service.
+Note: Because a CSF intermediary is a financial services licensee, the 
+intermediary must (in addition to complying with this Part) comply 
+with the provisions of Chapter 7 that apply to financial services 
+licensees.
+
+Part 6D.2.
+738D  Meaning of retail client in relation to a CSF offer
+
+If a person (not being the company making the CSF offer) is a 
+retail client in relation to the provision of a crowd-funding service 
+that relates to a particular CSF offer, then, for the purposes of this 
+Part, the person is a retail client in relation to that CSF offer.
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Crowd-sourced funding  Part 6D.3A
+Introduction  Division 1
+
+Part 6D.2.
+Section 738E
+
+Corporations Act 2001 457
+Compilation No. 143 Compilation date: 09/07/2025738E  Offer of the securities may also be made in reliance on 
+section 708
+The fact that a company makes a CSF offer of securities does not 
+prevent the company from also making an offer, in reliance on a 
+provision of section 708, of securities that are of the same class as 
+those offered under the CSF offer.
+
+Part 6D.2.
+738F  Application of provisions of Chapter 7 relating to how
+
+obligations etc. apply to different kinds of persons
+(1) Subject to subsections (2) and (3), the following provisions of 
+Chapter 7 (the applied provisions) have effect for the purposes of 
+this Part as if references in the provisions to that Chapter were 
+instead references to this Part:
+(a) section 761F (meaning of person—generally includes a 
+partnership);
+(b) section 761FA (meaning of person—generally includes 
+multiple trustees);
+(c) section 769B (people are generally responsible for the 
+conduct of agents, employees etc.).
+(2) Subsection (1) does not apply to provisions of the sections 
+mentioned in subsection (1) that are expressed to relate only to 
+specific provisions of Chapter 7 or to specific Parts, Divisions or 
+Subdivisions of Chapter 7.
+(3) The regulations may provide that one or more of the applied 
+provisions have effect for specified purposes subject to 
+modifications specified in the regulations. The regulations have 
+effect accordingly.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising

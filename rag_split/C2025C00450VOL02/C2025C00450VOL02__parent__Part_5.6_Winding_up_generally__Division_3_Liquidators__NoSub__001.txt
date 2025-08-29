@@ -1,0 +1,125 @@
+Part 5.6  Winding up generally
+Division 3  Liquidators
+Section 533
+
+Corporations Act 2001 585
+Compilation No. 143 Compilation date: 09/07/2025(8) A person must not consent to be appointed, and must not act, as 
+liquidator of a company that is being wound up by order of the 
+Court if the person is not entitled to act as such a liquidator in 
+accordance with the current conditions (if any) imposed on the 
+person.
+(9) A person must not be appointed as liquidator of a company unless 
+the person has, before his or her appointment, consented in writing 
+to act as liquidator of the company.
+(10) An offence based on subsection (1), (2), (8) or (9) is an offence of 
+strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 5.6  Winding up generally
+Division 3  Liquidators
+533  Reports by liquidator
+
+(1) If it appears to the liquidator of a company, in the course of a 
+winding up of the company, that:
+(a) a past or present officer or employee, or a member or 
+contributory, of the company may have been guilty of an 
+offence under a law of the Commonwealth or a State or 
+Territory in relation to the company; or
+(b) a person who has taken part in the formation, promotion, 
+administration, restructuring, management or winding up of 
+the company:
+(i) may have misapplied or retained, or may have become 
+liable or accountable for, any money or property of the 
+company; or
+(ii) may have been guilty of any negligence, default, breach 
+of duty or breach of trust in relation to the company; or
+(c) the company may be unable to pay its unsecured creditors 
+more than 50 cents in the dollar;
+the liquidator must:
+(d) as soon as practicable, and in any event within 6 months, 
+after it so appears to him or her, lodge a report with respect to 
+the matter and state in the report whether he or she proposes 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 3  Liquidators
+Section 534
+
+Part 5.6  Winding up generally
+Division 3  Liquidators
+586 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025to make an application for an examination or order under 
+section 597; and
+(e) give ASIC such information, and give to it such access to and 
+facilities for inspecting and taking copies of any documents, 
+as ASIC requires.
+(2) The liquidator may also, if he or she thinks fit, lodge further reports 
+specifying any other matter that, in his or her opinion, it is 
+desirable to bring to the notice of ASIC.
+(3) If it appears to the Court, in the course of winding up a company:
+(a) that a past or present officer or employee, or a contributory or 
+member, of the company has been guilty of an offence under 
+a law referred to in paragraph (1)(a) in relation to the 
+company; or
+(b) that a person who has taken part in the formation, promotion, 
+administration, restructuring, management or winding up of 
+the company has engaged in conduct referred to in 
+paragraph (1)(b) in relation to the company;
+and that the liquidator has not lodged with ASIC a report with 
+respect to the matter, the Court may, on the application of a person 
+interested in the winding up, direct the liquidator so to lodge such a 
+report.
+
+Part 5.6  Winding up generally
+Division 3  Liquidators
+534  Prosecution by liquidator of delinquent officers and members
+
+(1) Where:
+(a) a report has been lodged under section 533; and
+(b) it appears to ASIC that the matter is not one in respect of 
+which a prosecution ought to be begun;
+it must inform the liquidator accordingly, and the liquidator may 
+begin a prosecution for any offence referred to in the report.
+(2) ASIC may direct that the whole or a specified part of the costs and 
+expenses properly incurred by a liquidator in proceedings under 
+this section must be paid out of money of ASIC.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Liquidators  Division 3
+
+Part 5.6  Winding up generally
+Division 3  Liquidators
+Section 535
+
+Corporations Act 2001 587
+Compilation No. 143 Compilation date: 09/07/2025(3) Subject to a direction under subsection (2), to any security interests 
+in the property of the company and to any debts to which this Act 
+gives priority, all such costs and expenses are payable out of that 
+property as part of the costs of the winding up.
+
+Part 5.6  Winding up generally
+Division 3  Liquidators
+535  When liquidator has qualified privilege
+
+(1) A liquidator has qualified privilege in respect of a statement that he 
+or she makes, whether orally or in writing, in the course of his or 
+her duties as liquidator.
+(2) In this section:
+liquidator includes a provisional liquidator.
+
+Part 5.6  Winding up generally
+Division 3  Liquidators
+537  Notice of appointment and address of liquidator
+
+(1A) In this section:
+liquidator includes a provisional liquidator.
+(1) A liquidator must, within 14 days after his or her appointment, 
+lodge notice in the prescribed form of his or her appointment and 
+of the address of his or her office and, in the event of any change in 
+the situation of his or her office, must, within 14 days after the 
+change, lodge notice in the prescribed form of the change.
+(2) A liquidator must, within 14 days after his or her resignation or 
+removal from office, lodge notice of the resignation or removal in 
+the prescribed form.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

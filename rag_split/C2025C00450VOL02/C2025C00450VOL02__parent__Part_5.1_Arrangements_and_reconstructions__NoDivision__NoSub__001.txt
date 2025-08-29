@@ -1,0 +1,173 @@
+Part 5.1  Arrangements and reconstructions
+
+Part 5.1  Arrangements and reconstructions
+Section 413
+
+Part 5.1  Arrangements and reconstructions
+280 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(5) Each person who is a director or trustee for debenture holders must 
+give notice to the body of such matters relating to the person as are 
+required to be included in the explanatory statement.
+(6) In the case of a compromise or arrangement that is not, or does not 
+include, a compromise or arrangement between a Part 5.1 body and 
+its creditors or any class of them, the body must not send out an 
+explanatory statement pursuant to subsection (1) unless a copy of 
+that statement has been registered by ASIC.
+(7) Where an explanatory statement sent out under subsection (1) is 
+not required by subsection (6) to be registered by ASIC, the Court 
+must not make an order approving the compromise or arrangement 
+unless it is satisfied that ASIC has had a reasonable opportunity to 
+examine the explanatory statement and to make submissions to the 
+Court in relation to that statement.
+(8) Where a copy of an explanatory statement is lodged with ASIC for 
+registration under subsection (6), ASIC must not register the copy 
+of the statement unless the statement appears to comply with this 
+Act and ASIC is of the opinion that the statement does not contain 
+any matter that is false in a material particular or materially 
+misleading in the form or context in which it appears.
+(9) Where a body contravenes this section, a person involved in the 
+contravention contravenes this subsection.
+(10) It is a defence to a prosecution for a contravention of this section if 
+it is proved that the contravention was due to the failure of a person 
+(other than the defendant), being a director of the body or a trustee 
+for debenture holders of the body, to supply for the purposes of the 
+explanatory statement particulars of the person’s interests.
+
+Part 5.1  Arrangements and reconstructions
+413  Provisions for facilitating reconstruction and amalgamation of
+
+Part 5.1  Arrangements and reconstructions
+
+Part 5.1  Arrangements and reconstructions
+Section 414
+
+Part 5.1  Arrangements and reconstructions
+282 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) Where an order is made under this section, each body to which the 
+order relates must, within 14 days after the making of the order, 
+lodge with ASIC an office copy of the order.
+(4) In this section:
+liabilities includes duties of any description, including duties that 
+are of a personal character or are incapable under the general law 
+of being assigned or performed vicariously.
+property includes rights and powers of any description, including 
+rights and powers that are of a personal character and are incapable 
+under the general law of being assigned or performed vicariously.
+
+Part 5.1  Arrangements and reconstructions
+414  Acquisition of shares of shareholders dissenting from scheme or
+
+contract approved by majority
+(1) In this section:
+dissenting shareholder, in relation to a scheme or contract, means 
+a shareholder who has not assented to the scheme or contract or 
+who has failed to transfer his, her or its shares in accordance with 
+the scheme or contract.
+excluded shares, in relation to a scheme or contract involving a 
+transfer to a person of shares in a class of shares in a company, 
+means shares in that class that, when the offer relating to the 
+scheme or contract is made, are held by:
+(a) in any case—the person or a nominee of the person; or
+(b) if the person is a body corporate—a subsidiary of the body.
+(2) Where a scheme or contract (not being a scheme or contract arising 
+out of the making of offers under a takeover bid) involving a 
+transfer of shares in a class of shares in a company (in this section 
+called the transferor company) to a person (in this section called 
+the transferee) has, within 4 months after the making of the offer 
+relating to the scheme or contract by the transferee, been approved 
+by members holding shares in that class carrying at least 90% of 
+the votes attached to shares in that class (other than excluded 
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Arrangements and reconstructions  Part 5.1
+
+Part 5.1  Arrangements and reconstructions
+Section 414
+
+Corporations Act 2001 283
+Compilation No. 143 Compilation date: 09/07/2025shares), the transferee may, within 2 months after the offer has 
+been so approved, give notice, in accordance with the requirements 
+mentioned in subsection (10B) (if applicable), to a dissenting 
+shareholder that the transferee wishes to acquire the shares held by 
+that shareholder.
+(3) Where such a notice is given, then, unless the Court orders 
+otherwise on an application by a dissenting shareholder made 
+within one month after the day on which the notice was given or 
+within 14 days after a statement is supplied under subsection (7) to 
+a dissenting shareholder, whichever is the later, the transferee is 
+entitled and bound, subject to this section, to acquire those shares 
+on the terms on which, under the scheme or contract, the shares of 
+the approving shareholders are to be transferred to the transferee.
+(4) Where alternative terms were offered to the approving 
+shareholders, the dissenting shareholder is entitled to elect not later 
+than the end of one month after the date on which the notice is 
+given under subsection (2) or 14 days after a statement is supplied 
+under subsection (7), whichever is the later, which of those terms 
+he, she or it prefers and, if he, she or it fails to make the election 
+within the time allowed by this subsection, the transferee may, 
+unless the Court otherwise orders, determine which of those terms 
+is to apply to the acquisition of the shares of the dissenting 
+shareholder.
+(5) Despite subsections (3) and (4), if the number of votes attached to 
+the excluded shares is more than 10% of the votes attached to the 
+excluded shares and the shares (other than excluded shares) to be 
+transferred under the scheme or contract, those subsections do not 
+apply unless:
+(a) the transferee offers the same terms to all holders of the 
+shares (other than excluded shares) to be transferred under 
+the scheme or contract; and
+(b) the holders who approve the scheme or contract hold shares 
+to which are attached at least 90% of the votes attached to the 
+shares (other than excluded shares) to be transferred under 
+the scheme or contract and are also at least 75% in number of 
+the holders of those shares.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.1  Arrangements and reconstructions
+
+Part 5.1  Arrangements and reconstructions
+Section 414
+
+Part 5.1  Arrangements and reconstructions
+284 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(6) For the purposes of paragraph (5)(b), 2 or more persons registered 
+as holding shares jointly are to be counted as one person.
+(7) When a notice is given under subsection (2), the dissenting 
+shareholder may, by written notice given to the transferee within 
+one month after the day on which the notice was given under 
+subsection (2), ask for a statement in writing of the names and 
+addresses of all other dissenting shareholders as shown in the 
+register of members.
+(8) Where a notice is given under subsection (7), the transferee must 
+comply with it.
+(9) Where, under a scheme or contract referred to in subsection (2), the 
+transferee becomes beneficially entitled to shares in the transferor 
+company which, together with any other shares in the transferor 
+company to which the transferee or, where the transferee is a body 
+corporate, a body corporate related to the transferee is beneficially 
+entitled, have attached to them at least 90% of the votes attached to 
+the shares included in the class of shares concerned, then:
+(a) the transferee must, within one month after the date on which 
+he, she or it becomes beneficially entitled to those shares 
+(unless in relation to the scheme or contract he, she or it has 
+already complied with this requirement), give notice of the 
+fact, in accordance with the requirements mentioned in 
+subsection (10B) (if applicable), to the holders of the 
+remaining shares included in that class who, when the notice 
+was given, had not assented to the scheme or contract or been 
+given notice by the transferee under subsection (2); and
+(b) such a holder may, within 3 months after the giving of the 
+notice to him, her or it by notice to the transferee, require the 
+transferee to acquire his, her or its share and, where 
+alternative terms were offered to the approving shareholders, 
+elect which of those terms he, she or it will accept.
+(10) Where a shareholder gives notice under paragraph (9)(b) with 
+respect to his, her or its shares, the transferee is entitled and bound 
+to acquire those shares:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Arrangements and reconstructions  Part 5.1
+
+Part 5.1  Arrangements and reconstructions
+Section 414

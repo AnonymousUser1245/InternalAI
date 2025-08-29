@@ -1,0 +1,177 @@
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 296E
+
+Corporations Act 2001 59
+Compilation No. 143 Compilation date: 09/07/2025(b) the increase in the global average temperature is limited to 
+the increase mentioned in subparagraph 3(a)(ii) of that Act.
+(3) This section does not apply if subsection 296B(1) applies for the 
+financial year.
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+296E  ASIC directions
+
+Giving directions
+(1) If ASIC considers that a statement made by an entity in a 
+sustainability report is:
+(a) incorrect; or
+(b) incomplete; or
+(c) misleading in any way;
+ASIC may, by written notice given to the entity, direct the entity to 
+do any of the following:
+(d) confirm to ASIC that the statement is correct or complete;
+(e) explain to ASIC the statement;
+(f) give to ASIC information or documents that could 
+substantiate or support the statement;
+(g) correct, complete or amend the statement in accordance with 
+the direction;
+(h) if ASIC directs the entity to correct, complete or amend the 
+statement:
+(i) publish the corrected, completed or amended statement 
+in accordance with the direction; or
+(ii) give the corrected, completed or amended statement to 
+specified persons in accordance with the direction.
+(2) The entity must comply with the direction.
+(a) within the time specified in the direction, which must be a 
+reasonable time; or
+(b) if the direction does not specify a reasonable time—within a 
+reasonable time.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 297
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+60 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) ASIC may extend the time within which the entity must comply 
+with the direction by written notice given to the entity.
+(4) Before giving to an entity a notice that includes a direction under 
+paragraph (1)(g), or both a direction under paragraph (1)(g) and a 
+direction under paragraph (1)(h), ASIC must give the entity an 
+opportunity:
+(a) to appear, or be represented, at a hearing before ASIC that 
+takes place in private; or
+(b) to make submissions to ASIC on the matter.
+Varying and revoking directions
+(5) ASIC may vary a direction given under subsection (1) in like 
+manner and subject to like conditions.
+(6) ASIC may revoke a direction given under subsection (1) by written 
+notice given to the entity.
+Publication of directions
+(7) As soon as practicable after giving, varying or revoking a direction 
+mentioned in paragraph (1)(g), ASIC must publish a notice of its 
+action on its website.
+Offences
+(8) An offence based on subsection (2) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+297  True and fair view
+
+The financial statements and notes for a financial year must give a 
+true and fair view of:
+(a) the financial position and performance of the company, 
+registered scheme, registrable superannuation entity or 
+disclosing entity; and
+(b) if consolidated financial statements are required—the 
+financial position and performance of the consolidated entity.
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Annual financial reports, sustainability reports and directors’ reports  Division 1
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 298
+
+Corporations Act 2001 61
+Compilation No. 143 Compilation date: 09/07/2025This section does not affect the obligation under section 296 for a 
+financial report to comply with accounting standards.
+Note: If the financial statements and notes prepared in compliance with the 
+accounting standards would not give a true and fair view, additional 
+information must be included in the notes to the financial statements 
+under paragraph 295(3)(c).
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+298  Annual directors’ report
+
+(1) The company, registered scheme, registrable superannuation entity 
+or disclosing entity must prepare a directors’ report for each 
+financial year.
+(1AA) Except in the case of a company limited by guarantee or a 
+company covered under subsection (1AC), the report must include:
+(a) the general information required by sections 299 (all entities) 
+and 299A (additional requirements for listed entities); and
+(b) the specific information required by sections 300, 300A and
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+300C; and
+
+(c) a copy of the auditor’s declaration under section 307C in 
+relation to the audit for the financial year.
+(1AB) In the case of a company limited by guarantee, the report must 
+include:
+(a) the general information required by section 300B; and
+(b) a copy of the auditor’s declaration under section 307C in 
+relation to the audit or review for the financial year.
+(1AC) This subsection covers a company if the company has not had its 
+financial report for the relevant financial year audited because 
+subsection 301(2) or (5) exempts it from the requirement to do so 
+under subsection 301(1).
+(1AD) In the case of a company covered under subsection (1AC), the 
+report must include:
+(a) the general information required by section 299; and
+(b) the specific information required by section 300.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 298
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+62 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(1A) If the financial report for a financial year includes additional 
+information under paragraph 295(3)(c) (information included to 
+give true and fair view of financial position and performance), the 
+directors’ report for the financial year must also:
+(a) set out the directors’ reasons for forming the opinion that the 
+inclusion of that additional information was necessary to give 
+the true and fair view required by section 297; and
+(b) specify where that additional information can be found in the 
+financial report.
+(2) The report must:
+(a) be made in accordance with a resolution of the directors; and
+(b) specify the date on which the report is made; and
+(c) be signed by a director.
+Note: Section 1228 deals with directors’ resolutions for CCIVs.
+Small proprietary companies
+(3) A small proprietary company does not have to comply with 
+subsection (1) for a financial year if:
+(a) it is preparing financial statements for that year in response to 
+a shareholder direction under section 293; and
+(b) the direction specified that a directors’ report need not be 
+prepared; and
+(c) paragraph 292(2)(c) (about having CSF shareholders) does 
+not apply to the company for the financial year.
+Small companies limited by guarantee
+(4) A small company limited by guarantee does not have to comply 
+with subsection (1) for a financial year if:
+(a) it is preparing the financial statements for that year in 
+response to a member direction under section 294A; and
+(b) the direction specified that a directors’ report need not be 
+prepared.
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Annual financial reports, sustainability reports and directors’ reports  Division 1
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 299

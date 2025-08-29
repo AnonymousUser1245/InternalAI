@@ -1,0 +1,171 @@
+Part 2B.7  Changing company type
+164  ASIC changes type of company
+
+(1) ASIC must give notice under subsection (3) that it intends to alter 
+the details of the company’s registration if:
+(a) ASIC is satisfied that:
+(i) the application complies with section 163; and
+(ii) for an application by a company limited by guarantee to 
+change to a company limited by shares—the company’s 
+creditors are not likely to be materially prejudiced by 
+the change; and
+(b) for an application by a company limited by guarantee to 
+change to a company limited by shares that is accompanied 
+by a copy of a special resolution dealing with an issue of 
+shares according to section 167—ASIC is not of the opinion 
+that the obligations that would attach to the shares are 
+unreasonable compared with the obligations that attach to 
+membership of the company limited by guarantee.
+(2) To make a decision under subparagraph (1)(a)(ii), ASIC may direct 
+the company in writing to:
+(a) notify some or all of its creditors of the proposed change in 
+the way ASIC specifies; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2B  Basic features of a company
+
+Part 2B.7  Changing company type
+
+Part 2B.7  Changing company type
+Section 164
+
+Part 2B.7  Changing company type
+326 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) invite those creditors to make submissions to ASIC.
+(3) The notice that ASIC intends to alter the details of the company’s 
+registration must be:
+(a) included on ASIC database; and
+(b) published in the Gazette.
+The notice must also state that ASIC will alter the details of the 
+company’s registration 1 month after the notice has been published 
+in the Gazette unless an order by a court or the Administrative 
+Review Tribunal prevents it from doing so.
+(4) Subject to an order made by a court or the Administrative Review 
+Tribunal within that month, after that month has passed ASIC must 
+alter the details of the company’s registration to reflect the 
+company’s new type.
+(5) A change of type under this section takes effect when ASIC alters 
+the details of the company’s registration. Despite 
+subsection 246D(3) and section 246E, a special resolution passed 
+in connection with the change of type also takes effect when ASIC 
+alters the details of the company’s registration.
+(6) ASIC must give the company a new certificate of registration after 
+it alters the details of the company’s registration. The company’s 
+name is the name specified in the certificate of registration issued 
+under this section.
+Note: For the evidentiary value of a certificate of registration, see 
+subsection 1274(7A).
+(7) If ASIC alters the details of a company’s registration under 
+subsection (4), a court is not to make an order reversing the 
+alteration of the details of the company’s registration.
+Note: The Administrative Review Tribunal cannot review the change of the 
+company’s type once ASIC has issued a new certificate of registration 
+to the company (see subsection 1274(7A) and paragraph 1317C(b)).
+Authorised Version C2025C00450 registered 21/07/2025Basic features of a company  Chapter 2B
+Changing company type  Part 2B.7
+
+Part 2B.7  Changing company type
+Section 165
+
+Corporations Act 2001 327
+Compilation No. 143 Compilation date: 09/07/2025165  ASIC may direct a proprietary company to change to a public 
+company in certain circumstances
+(1) ASIC may direct a proprietary company in writing to change to a 
+public company within 2 months if it is satisfied that the company 
+has contravened section 113 (requirements for proprietary 
+companies).
+(2) The company must comply with the direction within 2 months after 
+being given it by doing everything necessary to change to a public 
+company under section 164.
+(2A) An offence based on subsection (2) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(3) If a proprietary company does not comply with subsection (2), 
+ASIC may change the company from a proprietary to a public 
+company by altering the details of the company’s registration to 
+reflect the company’s new type.
+(4) A change of type under this section takes effect when ASIC alters 
+the details of the company’s registration.
+(5) ASIC must give the company a new certificate of registration after 
+it alters the details of the company’s registration under 
+subsection (3). The company’s name is the name specified in the 
+certificate of registration issued under this section.
+Note: For the evidentiary value of a certificate of registration, see 
+subsection 1274(7A).
+
+Part 2B.7  Changing company type
+166  Effect of change of type
+
+(1) A change of type does not:
+(a) create a new legal entity; or
+(b) affect the company’s existing property, rights or obligations 
+(except as against the members of the company in their 
+capacity as members); or
+(c) render defective any legal proceedings by or against the 
+company or its members.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2B  Basic features of a company
+
+Part 2B.7  Changing company type
+
+Part 2B.7  Changing company type
+Section 167
+
+Part 2B.7  Changing company type
+328 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) On the change of type of a company from a company limited by 
+guarantee to a company limited by shares:
+(a) the liability of each member and past member as a guarantor 
+on the winding up of the company is extinguished; and
+(b) the members cease to be members of the company; and
+(c) if shares are to be issued to a person as specified in the list 
+referred to in subsection 163(3):
+(i) the shares are taken to be issued to that person; and
+(ii) the person is taken to have consented to be a member of 
+the company; and
+(iii) the person becomes a member of the company.
+Note: The company must maintain a register of members that complies with 
+subsection 169(3).
+
+Part 2B.7  Changing company type
+167  Issue of shares by company or holding company—company
+
+limited by guarantee changing to company limited by 
+shares
+(1) If:
+(a) a company limited by guarantee changes type under this Part 
+to a company limited by shares; and
+(b) that company, or another company that beneficially owns all 
+the shares in that company, issues shares to a person who was 
+a member of that company immediately before the change of 
+type took effect;
+the person becomes a member of the company issuing the shares if:
+(c) the issue of the shares is in accordance with the special 
+resolution that accompanied the application to change type 
+under subparagraph 163(2)(a)(ii); and
+(d) the shares are fully paid up; and
+(e) the business, assets and liabilities of the issuing company 
+(together with its subsidiaries) when the shares are issued are 
+substantially the same as the business, assets and liabilities of 
+the company changing type (together with its subsidiaries) 
+immediately before the change of type took effect.
+Authorised Version C2025C00450 registered 21/07/2025Basic features of a company  Chapter 2B
+Changing company type  Part 2B.7
+
+Part 2B.7  Changing company type
+Section 167AA
+
+Corporations Act 2001 329
+Compilation No. 143 Compilation date: 09/07/2025(2) If shares are issued according to this section, a court is not to make 
+an order reversing the issue of the shares.
+
+Part 2B.7  Changing company type
+167AA  Application of Part to company limited both by shares and
+
+by guarantee
+(1) A company limited both by shares and by guarantee may change to 
+one of the following types of companies under this Part:
+(a) a proprietary company limited by shares;
+(b) a public company limited by shares;
+(c) a company limited by guarantee.
+(2) This Part applies to the change with any modifications that are 
+necessary.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2B  Basic features of a company

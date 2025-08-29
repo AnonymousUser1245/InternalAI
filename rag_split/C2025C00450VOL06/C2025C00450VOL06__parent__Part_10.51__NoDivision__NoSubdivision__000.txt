@@ -1,0 +1,155 @@
+Part 10.51
+
+Part 10.51
+Section 1678
+
+Corporations Act 2001 543
+Compilation No. 143 Compilation date: 09/07/2025Part 10.51—Transitional provisions relating to the 
+Territories Legislation Amendment Act
+
+Part 10.51
+2020
+
+Part 10.51
+1678  Definitions
+
+In this Part:
+amending Act means the Territories Legislation Amendment Act
+
+Part 10.51
+2020.
+
+commencement means the commencement of Division 1 of Part 1 
+of Schedule 2 to the amending Act.
+commencement day means the day on which commencement 
+occurs.
+eligible: a corporation is eligible for registration as a company 
+under Part 5B.1 of this Act if:
+(a) it is a registered company under the Norfolk Island 
+Companies Act, other than a foreign company registered 
+under Part 25 of that Act; and
+(b) the corporation is not a Chapter 5 body corporate; and
+(c) no application to wind up the corporation has been made to 
+the Supreme Court of Norfolk Island that has not been dealt 
+with; and
+(d) no application to approve a compromise or arrangement 
+between the corporation and another person has been made to 
+the Supreme Court of Norfolk Island that has not been dealt 
+with.
+Norfolk Island Companies Act means the Companies Act 1985 of 
+Norfolk Island.
+personal information has the same meaning as in the Privacy Act
+
+Part 10.51
+1988.
+
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.51
+
+Part 10.51
+Section 1678B
+
+Corporations Act 2001 545
+Compilation No. 143 Compilation date: 09/07/2025Note: This list includes some types of company not covered by 
+subsection 601BA(1).
+(5) However, the corporation must not be registered if, immediately 
+before commencement, it is no longer eligible for registration as a 
+company under Part 5B.1.
+Note: The corporation is no longer eligible for registration if it has ceased to 
+be registered under the Norfolk Island Companies Act, if it has started 
+to be a Chapter 5B body corporate or if an application for winding up 
+or to approve a compromise or arrangement had been made to the 
+Supreme Court of Norfolk Island.
+References to companies in this and other laws
+(6) On and after commencement, in this and any other Act, and any 
+instrument under an Act, a reference to a company registered under 
+a Territory law, or under a law of Norfolk Island, is taken not to 
+include a reference to a corporation registered as a company under
+
+Part 10.51
+
+Part 10.51
+Section 1678C
+
+Corporations Act 2001 547
+Compilation No. 143 Compilation date: 09/07/2025Company constitution
+(7) The company’s constitution on registration is the memorandum 
+and articles of association of the corporation as in force 
+immediately before commencement.
+Note: Section 601BG (which deals with the constitutions of companies 
+registered under Part 5B.1) does not apply to the company. But within
+
+Part 10.51
+3 months after the date of registration, the company must modify its
+
+constitution to give effect to Part 5B.1 (see section 601BH).
+Company directors
+(8) If, immediately before commencement, a person who is a director 
+of the corporation does not meet the requirements of section 201B, 
+that person does not become a director of the company on its 
+registration.
+
+Part 10.51
+1678C  Registration of Norfolk Island companies—provision of
+
+information
+(1) For the purposes of ASIC performing functions or duties, or 
+exercising powers, under this Part, or any rules made under 
+section 1678D:
+(a) the Registrar of Companies under the Norfolk Island 
+Companies Act (the Norfolk Island Registrar) may disclose 
+to ASIC information (including personal information) 
+obtained for the purposes of that Act; and
+(b) ASIC may record or use information disclosed under 
+paragraph (a); and
+(c) ASIC may disclose to the Norfolk Island Registrar 
+information (including personal information) obtained for the 
+purposes of this Act; and
+(d) the Norfolk Island Registrar may record or use information 
+disclosed under paragraph (c).
+(2) In addition, for the purposes mentioned in subsection (1):
+(a) ASIC may, by written notice given to an eligible corporation, 
+request the corporation to provide specified information 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.51
+
+Part 10.51
+Section 1678F
+
+Corporations Act 2001 549
+Compilation No. 143 Compilation date: 09/07/2025(b) becomes an eligible officer because of the registration of a 
+company under Part 5B.1 for the purposes of section 1678A 
+(which deals with the registration of former Norfolk Island 
+companies).
+Note: When such a company is registered, the former directors of the 
+Norfolk Island company generally become directors of the registered 
+company (see subsection 1678A(3)). Such a director is an eligible 
+officer (see section 1272B).
+Transitional application period for Norfolk Island company 
+directors to apply for director identification numbers
+(3) If a period (the transitional application period) is specified under 
+subsection (5) of this section, section 1272C applies to the person 
+as if:
+(a) the reference in subparagraph 1272C(2)(a)(ii) to an 
+application period specified by regulations were instead a 
+reference to the transitional application period; and
+(b) the reference in subparagraph 1272C(2)(a)(ii) to the start of 
+the application period specified by regulations were instead a 
+reference to when the transitional application period came 
+into effect; and
+(c) the reference in subparagraph 1272C(2)(a)(iii) to the start of 
+a longer period (if any) allowed by the Registrar under 
+section 1272E were instead a reference to when the 
+transitional application period came into effect.
+Note: Section 1272C requires an eligible officer to have a director 
+identification number, but allows a certain time (an application period) 
+within which an application can be made for a director identification 
+number.
+(4) Until a transitional application period comes into effect, 
+section 1272C does not apply to the person.
+(5) The Minister may, by legislative instrument, specify a transitional 
+application period for the purposes of subsection (3).
+(6) Subsection 1653(4) does not apply to the person.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions

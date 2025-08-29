@@ -1,0 +1,104 @@
+Part 7.1  Preliminary
+Division 3  Meaning of financial product and related terms
+Section 765A
+
+Part 7.1  Preliminary
+Division 3  Meaning of financial product and related terms
+36 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(1B) If a contract of insurance provides a kind of cover in relation to 2 
+or more kinds of asset, subsection (1A) applies to the contract, in 
+relation to each of those kinds of asset, as if the cover provided by 
+the contract in relation to that kind of asset constituted a separate 
+kind of cover.
+(2) For the purpose of paragraphs (1)(d), (e) and (f) and 
+subsections (1A) and (1B), contract of insurance includes:
+(a) a contract that would ordinarily be regarded as a contract of 
+insurance even if some of its provisions are not by way of 
+insurance; and
+(b) a contract that includes provisions of insurance in so far as 
+those provisions are concerned, even if the contract would 
+not ordinarily be regarded as a contract of insurance.
+Declaring additional things to be financial products for specified 
+provisions of this Chapter
+(3) Subject to Subdivision D, a thing declared by regulations to be a 
+financial product for a specified provision of this Act is a financial 
+product for that provision.
+
+Part 7.1  Preliminary
+Division 3  Meaning of financial product and related terms
+Section 765A
+
+Part 7.1  Preliminary
+Division 3  Meaning of financial product and related terms
+38 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(m) a contract to exchange one currency (whether Australian or 
+not) for another that is to be settled immediately;
+(n) so much of an arrangement as is not a derivative because of 
+paragraph 761D(3)(a);
+(p) an arrangement that is not a derivative because of 
+subsection 761D(4);
+(q) an interest in a superannuation fund of a kind prescribed by 
+regulations made for the purposes of this paragraph;
+(r) any of the following:
+(i) an interest in something that is not a managed 
+investment scheme because of paragraph (c), (e), (f), 
+(k), (l) or (m) of the definition of managed investment 
+scheme in section 9;
+(ii) a legal or equitable right or interest in an interest 
+covered by subparagraph (i);
+(iii) an option to acquire, by way of issue, an interest or right 
+covered by subparagraph (i) or (ii);
+(s) any of the following in relation to a managed investment 
+scheme (whether or not operated in this jurisdiction) in 
+relation to which none of paragraphs 601ED(1)(a), (b) and 
+(c) are satisfied and that is not a registered scheme or a 
+notified foreign passport fund:
+(i) an interest in the scheme;
+(ii) a legal or equitable right or interest in an interest 
+covered by subparagraph (i);
+(iii) an option to acquire, by way of issue, an interest or right 
+covered by subparagraph (i) or (ii);
+(t) a deposit-taking facility that is, or is used for, State banking;
+(u) a benefit provided by an association of employees that is 
+registered as an organisation, or recognised, under the Fair 
+Work (Registered Organisations) Act 2009 for a member of 
+the association or a dependant of a member;
+(v) either of the following:
+(i) a contract of insurance; or
+(ii) a life policy or a sinking fund policy, that is not a 
+contract of insurance;
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of financial product and related terms  Division 3
+
+Part 7.1  Preliminary
+Division 3  Meaning of financial product and related terms
+Section 765A
+
+Corporations Act 2001 39
+Compilation No. 143 Compilation date: 09/07/2025issued by an employer to an employee of the employer;
+(w) a funeral benefit;
+(x) physical equipment or physical infrastructure by which 
+something else that is a financial product is provided;
+(y) a facility, interest or other thing declared by regulations made 
+for the purposes of this subsection not to be a financial 
+product;
+(z) a facility, interest or other thing declared by ASIC under 
+subsection (2) not to be a financial product.
+ASIC declarations
+(2) ASIC may declare that a specified facility, interest or other thing is 
+not a financial product. The declaration must be in writing and 
+ASIC must publish notice of it in the Gazette.
+Regulations
+(3) Despite anything in Subdivision B or C, the regulations may 
+declare that a specified facility, interest or other thing is not a 
+financial product for the purposes of specified provisions of this 
+Chapter.
+(4) A declaration under subsection (2) that is inconsistent with 
+regulations made for the purposes of subsection (3) has no effect to 
+the extent of the inconsistency, but a declaration is taken to be 
+consistent with the regulations to the extent that the declaration is 
+capable of operating concurrently with the regulations.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

@@ -1,0 +1,82 @@
+Part 2J.1  Share capital reductions and share buy-backs
+Division 4  Application of this Part to MCI mutual entities
+Section 258G
+
+Part 2J.1  Share capital reductions and share buy-backs
+Division 4  Application of this Part to MCI mutual entities
+614 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Application of this Part to MCI mutual entities
+
+Part 2J.1  Share capital reductions and share buy-backs
+Division 4  Application of this Part to MCI mutual entities
+258G  Application of this Part to MCI mutual entities
+
+(1) For the purposes of applying this Part to an MCI mutual entity, a 
+reference (other than in section 258B) to a shareholder of the entity 
+is taken to include a non-shareholder mutual member of the entity.
+(2) For the purposes of applying Division 1 to an MCI mutual entity:
+(a) any reduction of the entity’s share capital that relates to MCIs 
+is taken to be a selective reduction; and
+(b) the reference to all ordinary shareholders in 
+paragraph 256C(2)(b) is taken to be a reference to all 
+members of the entity.
+(3) For the purposes of applying Division 2 to an MCI mutual entity:
+(a) any scheme to buy back MCIs is taken not to be an equal 
+access scheme; and
+(b) subsections 257B(4) and (5) (the 10/12 limit) have effect in 
+relation to MCIs issued by a mutual entity as if each MCI 
+were a voting share with one vote attached to it; and
+(c) the reference to all ordinary shareholders in 
+paragraph 257D(1)(b) is taken to be a reference to all 
+members of the entity.
+(4) To avoid doubt, this section does not have the effect of treating a 
+non-shareholder mutual member’s membership of an MCI mutual 
+entity as a share.
+Authorised Version C2025C00450 registered 21/07/2025Transactions affecting share capital  Chapter 2J
+Self-acquisition and control of shares  Part 2J.2
+
+Part 2J.1  Share capital reductions and share buy-backs
+Division 4  Application of this Part to MCI mutual entities
+Section 259A
+
+Corporations Act 2001 615
+Compilation No. 143 Compilation date: 09/07/2025Part 2J.2—Self-acquisition and control of shares
+Note: This Part applies to a CCIV with modifications: see sections 1231J and 1231K.
+
+Part 2J.1  Share capital reductions and share buy-backs
+Division 4  Application of this Part to MCI mutual entities
+259A  Directly acquiring own shares
+
+A company must not acquire shares (or units of shares) in itself 
+except:
+(a) in buying back shares under section 257A; or
+(b) in acquiring an interest (other than a legal interest) in 
+fully-paid shares in the company if no consideration is given 
+for the acquisition by the company or an entity it controls; or
+(c) under a court order; or
+(d) in circumstances covered by subsection 259B(2) or (3).
+Note: For the criminal liability of a person dishonestly involved in a 
+contravention of this section, see subsection 259F(3). Section 79 
+defines involved.
+
+Part 2J.1  Share capital reductions and share buy-backs
+Division 4  Application of this Part to MCI mutual entities
+259B  Taking security over own shares or shares in holding company
+
+(1) A company must not take security over shares (or units of shares) 
+in itself or in a company that controls it, except as permitted by 
+subsection (2) or (3).
+Note 1: For the criminal liability of a person dishonestly involved in a 
+contravention of this subsection, see subsection 259F(3). Section 79 
+defines involved.
+Note 2: Subsection (3) does not apply to a CCIV: see section 1231K.
+(2) A company may take security over shares in itself under an 
+employee share scheme that has been approved by:
+(a) a resolution passed at a general meeting of the company; and
+(b) if the company is a subsidiary of a listed domestic 
+corporation—a resolution passed at a general meeting of the 
+listed domestic corporation; and
+(c) if paragraph (b) does not apply but the company has a 
+holding company that is a domestic corporation and that is 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2J  Transactions affecting share capital

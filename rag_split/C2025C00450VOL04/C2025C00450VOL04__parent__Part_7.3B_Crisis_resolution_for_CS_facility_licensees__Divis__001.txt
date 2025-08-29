@@ -1,0 +1,219 @@
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+Section 848H
+
+Corporations Act 2001 277
+Compilation No. 143 Compilation date: 09/07/2025relation to information that is protected information only 
+because of paragraph (a) of this subsection, as if the reference 
+in paragraph (e) of that definition to employment or 
+engagement were a reference to employment or engagement:
+(i) with the Reserve Bank; or
+(ii) for the purposes of assisting the Reserve Bank in the 
+performance or exercise of its functions or powers; and
+(c) treat a reference in subsection 79A(2) of the Reserve Bank 
+Act 1959 to a person who is or has been an officer as 
+including a reference to a person to whom 
+subparagraph (1)(a)(ii) of this section applies.
+(3) Disclosure of information is not an offence under 
+subsection 79A(2) of the Reserve Bank Act 1959 if the disclosure is 
+authorised by section 848D, 848E, 848F, 848H, 848J or 848K of 
+this Act.
+Note: A defendant bears an evidential burden in relation to the matters in 
+this subsection: see subsection 13.3(3) of the Criminal Code.
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+848H  Disclosure under the ASIC Act
+
+A person covered by subsection 848C(2) in relation to information 
+may disclose the information if:
+(a) the person is:
+(i) a member of ASIC; or
+(ii) an ASIC staff member; or
+(iii) a Commonwealth officer (within the meaning of the 
+Crimes Act 1914) who acquired the information because 
+of, or in the course of, the Commonwealth officer’s 
+employment as a Commonwealth officer (other than 
+employment with the body corporate to which the 
+relevant determination made under subsection 848A(1) 
+of this Act relates); and
+(b) the information is protected information (within the meaning 
+of subsection 127(9) of the ASIC Act); and
+(c) the disclosure is authorised use and disclosure of the 
+information for the purposes of subsection 127(1) of that Act.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+Section 848J
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+278 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: A disclosure of information permitted by section 848D, 848E, 848F,
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+848G, 848J or 848K of this Act is authorised use and disclosure
+
+because of subsection 127(2) of the ASIC Act.
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+848J  Disclosure in circumstances determined by the Minister
+
+(1) A person covered by subsection 848C(2) in relation to information 
+may disclose the information if the disclosure is made in 
+circumstances (if any) determined under subsection (2) of this 
+section.
+(2) The Minister may, by legislative instrument, determine 
+circumstances for the purpose of subsection (1).
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+848K  Disclosure for same purpose
+
+A person covered by subsection 848C(2) (the relevant person) in 
+relation to information may disclose the information if:
+(a) another person covered by subsection 848C(2) in relation to 
+the information disclosed the information to the relevant 
+person for a particular purpose in accordance with 
+section 848E, 848F, 848G, 848H or 848J, or in accordance 
+with a previous operation of this section; and
+(b) the disclosure by the relevant person is for the same purpose.
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+848L  Exceptions operate independently
+
+Sections 848D, 848E, 848F, 848G, 848H, 848J and 848K do not 
+limit each other.
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+Section 849BA
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+280 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the body corporate:
+(i) is a CS facility licensee; or
+(ii) is a related body corporate of a CS facility licensee and 
+is incorporated in Australia; and
+(b) a declaration under subsection (2) is in force in relation to the 
+licensee.
+(2) For the purposes of paragraph (1)(b), the Reserve Bank may, by 
+notifiable instrument, declare that this Subdivision applies in 
+relation to a CS facility licensee if the Reserve Bank intends:
+(a) to take either or both of the actions in subsection 832A(2) in 
+relation to the CS facility licensee; or
+(b) to make a determination under section 837A that there is to 
+be a transfer of shares in the CS facility licensee; or
+(c) to make a determination under section 837B that there is to 
+be a transfer of business of the CS facility licensee; or
+(d) to give a direction to the CS facility licensee under 
+subsection 840A(1).
+(3) The Reserve Bank must revoke a declaration made under 
+subsection (2) in relation to a CS facility licensee if:
+(a) the licensee begins to be under statutory management; or
+(b) the Reserve Bank makes the determination mentioned in 
+paragraph (2)(b) or (c); or
+(c) the Reserve Bank gives the direction mentioned in 
+paragraph (2)(d); or
+(d) the Reserve Bank ceases intending to do the things 
+mentioned paragraphs (2)(a) to (d).
+Note: If paragraph (a), (b) or (c) of this subsection applies, Division 6 
+(moratorium on action during statutory management or compulsory 
+transfer) will apply in relation to the CS facility licensee.
+(4) Subsection (3) does not limit the application of subsection 33(3) of 
+the Acts Interpretation Act 1901 in relation to a declaration in force 
+under subsection (2) of this section.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Crisis resolution for CS facility licensees  Part 7.3B
+Other matters  Division 9
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+Section 849BB
+
+Corporations Act 2001 281
+Compilation No. 143 Compilation date: 09/07/2025849BB  Stay on exercising termination rights
+Stay on exercising termination rights
+(1) Subject to subsections (2) and (4), a right to terminate:
+(a) an arrangement; or
+(b) an obligation under an arrangement;
+that arises:
+(c) by express provision (however described) of an arrangement; 
+or
+(d) because of anything done in accordance with a direction 
+given under section 823F;
+cannot be exercised if a body corporate to which this Subdivision 
+applies is a party to the arrangement.
+Rights not subject to the stay
+(2) Subsection (1) does not apply to the right if it is:
+(a) a right that is exercisable only in particular circumstances 
+(other than circumstances relating to the manner in which the 
+right is exercised, such as a requirement relating to giving 
+notice about exercising the right); or
+(b) a right:
+(i) under an arrangement entered into after this Subdivision 
+begins to apply to the body corporate; or
+(ii) that arises because of anything done in accordance with 
+a direction given, after this Subdivision begins to apply 
+to the body corporate, under section 823F; or
+(c) a right contained in a kind of arrangement:
+(i) prescribed by the regulations for the purposes of this 
+subparagraph; or
+(ii) declared under paragraph (3)(a) of this section; or
+(d) a right of a kind:
+(i) prescribed by the regulations for the purposes of this 
+subparagraph; or
+(ii) declared under paragraph (3)(b); or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+Section 849BC
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+282 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(e) a right of a kind declared under paragraph (3)(c), and the 
+circumstances specified in that declaration exist.
+(3) For the purposes of subsection (2), the Minister may, by legislative 
+instrument:
+(a) declare kinds of arrangements referred to in a specified law 
+of the Commonwealth; or
+(b) declare kinds of rights to which subsection (1) does not 
+apply; or
+(c) declare kinds of rights to which subsection (1) does not apply 
+in specified circumstances.
+(4) Subsection (1) does not apply to the exercise of a right if, before 
+the exercise of the right:
+(a) the Reserve Bank; or
+(b) if a liquidator of the body corporate is appointed after this
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+Section 849BE
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+284 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025849BE  Circumstances where a transaction by statutory manager not 
+voidable under section 588FE
+A transaction of a body corporate is not voidable under 
+section 588FE merely because:
+(a) the transaction was entered into at a time when this
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+Section 849CB
+
+Part 7.3B  Crisis resolution for CS facility licensees
+Division 9  Other matters
+286 Corporations Act 2001

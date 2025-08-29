@@ -1,0 +1,200 @@
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+Section 568
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+624 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 7A—Disclaimer of onerous property
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+568  Disclaimer by liquidator; application to Court by party to
+
+contract
+(1) Subject to this section, a liquidator of a company may at any time, 
+on the company’s behalf, by signed writing disclaim property of 
+the company that consists of:
+(a) land burdened with onerous covenants; or
+(b) shares; or
+(c) property that is unsaleable or is not readily saleable; or
+(d) property that may give rise to a liability to pay money or 
+some other onerous obligation; or
+(e) property where it is reasonable to expect that the costs, 
+charges and expenses that would be incurred in realising the 
+property would exceed the proceeds of realising the property; 
+or
+(f) a contract;
+whether or not:
+(g) except in the case of a contract—the liquidator has tried to 
+sell the property, has taken possession of it or exercised an 
+act of ownership in relation to it; or
+(h) in the case of a contract—the company or the liquidator has 
+tried to assign, or has exercised rights in relation to, the 
+contract or any property to which it relates.
+(1AA) This section does not apply to:
+(a) an agreement by the company to buy back its own shares; or
+(b) PPSA retention of title property that is taken to form part of 
+the property of the company because of the definition of 
+property in section 513AA.
+Note: The definition of property in section 513AA includes PPSA retention 
+of title property of the company, if the security interest in the property 
+has vested in the company in certain situations.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Disclaimer of onerous property  Division 7A
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+Section 568
+
+Corporations Act 2001 625
+Compilation No. 143 Compilation date: 09/07/2025(1A) A liquidator cannot disclaim a contract (other than an unprofitable 
+contract or a lease of land) except with the leave of the Court.
+(1B) On an application for leave under subsection (1A), the Court may:
+(a) grant leave subject to such conditions; and
+(b) make such orders in connection with matters arising under, or 
+relating to, the contract;
+as the Court considers just and equitable.
+(8) Where:
+(a) an application in writing has been made to the liquidator by a 
+person interested in property requiring the liquidator to 
+decide whether he or she will disclaim the property; and
+(b) the liquidator has, for the period of 28 days after the receipt 
+of the application, or for such extended period as is allowed 
+by the Court, declined or neglected to disclaim the property;
+the liquidator is not entitled to disclaim the property under this 
+section and, in the case of a contract, he or she is taken to have 
+adopted it.
+(9) The Court may, on the application of a person who is, as against 
+the company, entitled to the benefit or subject to the burden of a 
+contract made with the company, make an order:
+(a) discharging the contract on such terms as to payment by or to 
+either party of damages for the non-performance of the 
+contract, or otherwise, as the Court thinks proper; or
+(b) rescinding the contract on such terms as to restitution by or to 
+either party, or otherwise, as the Court thinks proper.
+(10) Amounts payable pursuant to an order under subsection (9) may be 
+proved as a debt in the winding up.
+(13) For the purpose of determining whether property of a company is 
+of a kind to which subsection (1) applies, the liquidator may, by 
+notice served on a person claiming to have an interest in the 
+property, require the person to give to the liquidator within such 
+period, not being less than 14 days, as is specified in the notice, a 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+Section 568A
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+626 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025statement of the interest claimed by the person and the person must 
+comply with the requirement.
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+568A  Liquidator must give notice of disclaimer
+
+(1) As soon as practicable after disclaiming property, a liquidator 
+must:
+(a) lodge a written notice of the disclaimer; and
+(b) give written notice of the disclaimer to each person who 
+appears to the liquidator to have, or to claim to have, an 
+interest in the property; and
+(c) if the liquidator has reason to suspect that some person or 
+persons may have, or may claim to have, an interest or 
+interests in the property, but either does not know who, or 
+does not know where, the person is or the persons are—
+comply with subsection (2); and
+(d) if a law of the Commonwealth or of a State or Territory 
+requires the transfer or transmission of the property to be 
+registered—give written notice of the disclaimer to the 
+registrar or other person who has the function under that law 
+of registering the transfer or transmission of the property.
+(2) If paragraph (1)(c) applies, the liquidator must cause a notice 
+setting out the prescribed information about the disclaimer to be 
+published in the prescribed manner.
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+568B  Application to set aside disclaimer before it takes effect
+
+(1) A person who has, or claims to have, an interest in disclaimed 
+property may apply to the Court for an order setting aside the 
+disclaimer before it takes effect, but may only do so within 14 days 
+after:
+(a) if the liquidator gives to the person notice of the disclaimer, 
+because of paragraph 568A(1)(b), before the end of 14 days 
+after the liquidator lodges such notice—the liquidator gives 
+such notice to the person; or
+(b) if paragraph (a) does not apply but notice of the disclaimer is 
+published under subsection 568A(2) before the end of the 14 
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Disclaimer of onerous property  Division 7A
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+Section 568C
+
+Corporations Act 2001 627
+Compilation No. 143 Compilation date: 09/07/2025days referred to in that paragraph—the last such notice to be 
+so published is so published; or
+(c) otherwise—the liquidator lodges notice of the disclaimer.
+(2) On an application under subsection (1), the Court:
+(a) may by order set aside the disclaimer; and
+(b) if it does so—may make such further orders as it thinks 
+appropriate.
+(3) However, the Court may set aside a disclaimer under this section 
+only if satisfied that the disclaimer would cause, to persons who 
+have, or claim to have, interests in the property, prejudice that is 
+grossly out of proportion to the prejudice that setting aside the 
+disclaimer would cause to the company’s creditors.
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+568C  When disclaimer takes effect
+
+(1) A disclaimer takes effect if, and only if:
+(a) in a case where only one application under section 568B for 
+an order setting aside the disclaimer, or each of 2 or more 
+such applications, is made within the period that that section 
+prescribes for making the application—the application, or 
+each of the applications, is unsuccessful; or
+(b) no such application is so made.
+(2) For the purposes of subsection (1), an application under 
+section 568B is successful if, and only if, the result of the 
+application, and all appeals (if any) arising out of the application, 
+being finally determined or otherwise disposed of is an order 
+setting aside the disclaimer (whether or not further orders are also 
+made).
+(3) A disclaimer that takes effect because of subsection (1) is taken to 
+have taken effect on the day after:
+(a) if:
+(i) the liquidator gave to a person notice of the disclaimer 
+because of paragraph 568A(1)(b); or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+Section 568D
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+628 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) notice of the disclaimer was published under 
+subsection 568A(2);
+before the end of 14 days after the liquidator lodged notice of 
+the disclaimer—the last day when the liquidator so gave such 
+notice or such notice was so published; or
+(b) otherwise—the day when the liquidator lodged notice of the 
+disclaimer.
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+568D  Effect of disclaimer

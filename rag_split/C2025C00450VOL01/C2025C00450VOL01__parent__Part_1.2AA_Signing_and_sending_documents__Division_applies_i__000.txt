@@ -1,0 +1,52 @@
+Part 1.2AA  Signing and sending documents
+Division applies is met if the document is sent in accordance with this
+
+section and in accordance with any timing requirements under this 
+Act.
+(2) This subsection is satisfied if, at the time the document is sent, it is 
+reasonable to expect that the document would be readily accessible 
+so as to be useable for subsequent reference.
+Documents that may be sent by publication on a website
+(3) This subsection covers a document that:
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Signing and sending documents  Part 1.2AA
+Technology neutral sending of documents, and related matters  Division 2
+
+Part 1.2AA  Signing and sending documents
+Division applies is met if the document is sent in accordance with this
+Section 110D
+
+Corporations Act 2001 215
+Compilation No. 143 Compilation date: 09/07/2025(a) is a report mentioned in section 314 or 314A (which deal 
+with annual financial reporting to members); or
+(b) is in a class of documents specified in regulations made for 
+the purpose of this paragraph.
+Other ways of sending documents not limited
+(4) Subsection (1) does not limit the ways in which a person may send 
+a document.
+Note: For example, a company’s constitution may set out other ways in 
+which a document may be sent.
+Address for sending document
+(5) Paragraphs (1)(a) and (b) apply only if:
+(a) where the recipient is covered by subsection (7)—the sending 
+of the document mentioned in paragraph (1)(a), or the 
+sending of the information mentioned in paragraph (1)(b), is 
+to an address known to the sender because the recipient is a 
+member or holder of securities mentioned in whichever of 
+paragraphs (7)(a) to (f) applies; or
+(b) the recipient is not covered by subsection (7).
+(6) Paragraphs (1)(c) and (d) apply only if:
+(a) where the recipient is covered by subsection (7):
+(i) the sending of the document mentioned in 
+paragraph (1)(c), or the sending of the information 
+mentioned in paragraph (1)(d), is to an address known 
+to the sender because the recipient is a member or 
+holder of securities mentioned in whichever of 
+paragraphs (7)(a) to (f) applies; and
+(ii) that address is a nominated electronic address of the 
+recipient; or
+(b) where the recipient is not covered by subsection (7)—the 
+sending of the document mentioned in paragraph (1)(c), or 
+the sending of the information mentioned in paragraph (1)(d), 
+is to a nominated electronic address of the recipient.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory

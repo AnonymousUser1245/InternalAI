@@ -1,0 +1,211 @@
+Part 7.9A  Product intervention orders
+1023Q  Civil liability
+
+(1) If:
+(a) a person (the first person) contravenes a product intervention 
+order; and
+(b) a retail client suffers loss or damage because of the 
+contravention;
+the retail client may recover the amount of the loss or damage by 
+action against the first person, whether or not:
+(c) the first person (or anyone else) has been convicted of an 
+offence in relation to the contravention; or
+(d) a Court has made a declaration of contravention under 
+subsection 1317E(1) in relation to the contravention; or
+(e) a Court has ordered the first person (or anyone else) to pay 
+the Commonwealth a pecuniary penalty under section 1317G 
+in relation to the contravention.
+(2) An action under subsection (1) may be begun at any time within 6 
+years after the day on which the cause of action arose.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Product intervention orders  Part 7.9A
+
+Part 7.9A  Product intervention orders
+Section 1023R
+
+Corporations Act 2001 199
+Compilation No. 143 Compilation date: 09/07/2025(3) This section does not affect any liability that a person has under 
+any other law.
+
+Part 7.9A  Product intervention orders
+1023R  Additional powers of court to make orders
+
+(1) The Court dealing with an action under subsection 1023Q(1) may, 
+in addition to awarding loss or damage under that subsection and if 
+it thinks it necessary in order to do justice between the parties:
+(a) make an order declaring void a contract relating to the 
+financial product that was entered into by the retail client 
+who suffered the loss or damage; and
+(b) if it makes an order under paragraph (a)—make such other 
+order or orders as it thinks are necessary or desirable because 
+of that order.
+(2) Without limiting paragraph (1)(b), an order under that paragraph 
+may include either or both of the following:
+(a) an order for the return of money paid by a person;
+(b) an order for payment of an amount of interest specified in, or 
+calculated in accordance with, the order.
+
+Part 7.9A  Product intervention orders
+1023S  Avoidance schemes—prohibition
+
+General prohibition
+(1) A person must not, either alone or with others, engage in any of the 
+following conduct:
+(a) enter into a scheme;
+(b) begin to carry out a scheme;
+(c) carry out a scheme;
+if, having regard to any matters as required under subsection (8), it 
+would be reasonable to conclude that the purpose, or one of the 
+purposes, of the person engaging in that conduct was to avoid the 
+application of a credit product intervention order.
+Note: This subsection is a civil penalty provision (see section 1317E). For 
+relief from liability to a civil penalty relating to this subsection, see 
+section 1317S.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9A  Product intervention orders
+
+Part 7.9A  Product intervention orders
+Section 1023S
+
+Part 7.9A  Product intervention orders
+200 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Constitutional corporations
+(2) A constitutional corporation must not, either alone or with others, 
+engage in any of the following conduct:
+(a) enter into a scheme;
+(b) begin to carry out a scheme;
+(c) carry out a scheme;
+if, having regard to any matters as required under subsection (8), it 
+would be reasonable to conclude that the purpose, or one of the 
+purposes, of the constitutional corporation engaging in that conduct 
+was to avoid the application of a credit product intervention order.
+Note: This subsection is a civil penalty provision (see section 1317E). For 
+relief from liability to a civil penalty relating to this subsection, see 
+section 1317S.
+Constitutional trade and commerce
+(3) A person must not in the course of constitutional trade and 
+commerce, either alone or with others, engage in any of the 
+following conduct:
+(a) enter into a scheme;
+(b) begin to carry out a scheme;
+(c) carry out a scheme;
+if, having regard to any matters as required under subsection (8), it 
+would be reasonable to conclude that the purpose, or one of the 
+purposes, of the person engaging in that conduct was to avoid the 
+application of a credit product intervention order.
+Note: This subsection is a civil penalty provision (see section 1317E). For 
+relief from liability to a civil penalty relating to this subsection, see 
+section 1317S.
+Use of communications service
+(4) A person must not use postal, telegraphic, telephonic or other like 
+services (within the meaning of paragraph 51(v) of the 
+Constitution), either alone or with others, in order to engage in any 
+of the following conduct:
+(a) enter into a scheme;
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Product intervention orders  Part 7.9A
+
+Part 7.9A  Product intervention orders
+Section 1023S
+
+Corporations Act 2001 201
+Compilation No. 143 Compilation date: 09/07/2025(b) begin to carry out a scheme;
+(c) carry out a scheme;
+if, having regard to any matters as required under subsection (8), it 
+would be reasonable to conclude that the purpose, or one of the 
+purposes, of the person engaging in that conduct was to avoid the 
+application of a credit product intervention order.
+Note: This subsection is a civil penalty provision (see section 1317E). For 
+relief from liability to a civil penalty relating to this subsection, see 
+section 1317S.
+Prohibitions independent of each other
+(5) To avoid doubt, subsections (1), (2), (3) and (4) are independent 
+from and do not limit each other.
+(6) If conduct constitutes a contravention of 2 or more subsections of 
+this section, proceedings may be started against a person in relation 
+to the contravention of any one or more of those subsections.
+(7) However, the person is not liable to more than one pecuniary 
+penalty in relation to the same conduct.
+Matters to which regard must be had
+(8) In determining, for the purposes of subsection (1), (2), (3) or (4), 
+whether it would be reasonable to conclude that a purpose of a 
+person entering into or carrying out (to any extent) a scheme was to 
+avoid the application of a credit product intervention order, regard 
+must be had to any matters prescribed by the regulations.
+(9) Subsection (8) does not limit the matters to which regard may be 
+had in making a determination described in that subsection.
+Offence
+(10) A person commits an offence if:
+(a) the person is subject to a requirement under subsection (1), 
+(2), (3) or (4); and
+(b) the person engages in conduct; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9A  Product intervention orders
+
+Part 7.9A  Product intervention orders
+Section 1023T
+
+Part 7.9A  Product intervention orders
+202 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(c) the conduct contravenes the requirement.
+Definitions
+(11) In this section:
+constitutional corporation means a corporation to which 
+paragraph 51(xx) of the Constitution applies.
+constitutional trade and commerce means trade and commerce:
+(a) between Australia and places outside Australia; or
+(b) between the States; or
+(c) between a State and a Territory; or
+(d) between 2 Territories; or
+(e) within a Territory.
+credit product intervention order means a product intervention 
+order made in relation to a financial product of the kind covered by 
+paragraph 12BAA(7)(k) of the Australian Securities and 
+Investments Commission Act 2001 (which is about credit facilities).
+scheme means:
+(a) any agreement, arrangement, understanding, promise or 
+undertaking, whether express or implied; or
+(b) any scheme, plan, proposal, action, course of action or course 
+of conduct, whether unilateral or otherwise; or
+(c) any combination of 2 or more things that are schemes 
+because of paragraph (a) or (b).
+
+Part 7.9A  Product intervention orders
+1023T  Avoidance schemes—presumption of avoidance for certain
+
+schemes in civil cases
+(1) For the purposes of subsection 1023S(1), (2), (3) or (4), it is 
+reasonable to conclude, unless the contrary is proved, that a person 
+entered into or carried out a scheme for the purpose of avoiding a 
+credit product intervention order (within the meaning of 
+subsection 1023S(11)) if:
+(a) the scheme is of a kind prescribed by the regulations; or
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Product intervention orders  Part 7.9A
+
+Part 7.9A  Product intervention orders
+Section 1023U
+
+Corporations Act 2001 203
+Compilation No. 143 Compilation date: 09/07/2025(b) the scheme is of a kind determined by ASIC under 
+subsection (3).
+(2) In proving the contrary for the purposes of subsection (1), regard 
+must be had to any matters as required under subsection 1023S(8).
+(3) ASIC may, by legislative instrument, determine a scheme, or a 
+class of schemes, for the purposes of paragraph (1)(b).
+(4) This section does not have effect for the purposes of determining 
+whether a person has committed an offence against 
+subsection 1023S(10).
+
+Part 7.9A  Product intervention orders
+1023U  Avoidance schemes—exemption by ASIC
+
+(1) ASIC may, by legislative instrument, exempt a scheme, or class of 
+schemes, from all or specified provisions of section 1023S.
+(2) The exemption may apply subject to any specific conditions 
+imposed by ASIC.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

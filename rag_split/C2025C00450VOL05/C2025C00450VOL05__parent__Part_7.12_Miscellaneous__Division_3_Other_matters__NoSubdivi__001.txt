@@ -1,0 +1,209 @@
+Part 7.12  Miscellaneous
+Division 3  Other matters
+Section 1101C
+
+Corporations Act 2001 395
+Compilation No. 143 Compilation date: 09/07/2025Power to rescind or vary order
+(11) The Court may rescind or vary an order made by it under this 
+section or suspend the operation of such an order.
+(12) In this section:
+property, in relation to a financial services licensee, includes:
+(a) money; or
+(b) financial products; or
+(c) documents of title to financial products; or
+(d) other property;
+entrusted to, or received on behalf of, any other person by the 
+financial services licensee or another person in the course of, or in 
+connection with, a financial services business carried on by the 
+financial services licensee.
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+1101C  Preservation and disposal of records etc.
+
+Registers
+(1) A person who is required by a provision of this Chapter to keep a 
+register in relation to a business carried on by the person must 
+preserve it for 5 years after the day on which the last entry was 
+made in the register.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Financial records
+(2) A person who is required by a provision of this Chapter to keep 
+any financial record in relation to a business carried on by the 
+person must preserve it for 7 years after the transactions covered 
+by the record are completed.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+Section 1101D
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+396 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Other records
+(3) A person who is required by a provision of this Chapter or the 
+regulations to keep any other record must preserve it for 5 years 
+after the day on which the last entry was made in the record.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Exceptions
+(4) Registers and records must be preserved in accordance with this 
+section (even if the person stops carrying on the business to which 
+they relate during the period for which they must be preserved), 
+unless:
+(a) the regulations provide that those documents, or a class to 
+which they belong, need not be preserved; and
+(b) any conditions specified in or under those regulations have 
+been complied with.
+Note: A defendant bears an evidential burden in relation to the matters in 
+this subsection. See subsection 13.3(3) of the Criminal Code.
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+1101D  Destruction of records by ASIC
+
+ASIC may destroy or otherwise dispose of any document that is 
+lodged under, or for the purposes of, a provision of this Chapter if:
+(a) ASIC is of the opinion that it is no longer necessary or 
+desirable to retain it; and
+(b) it has been in the possession of ASIC for such period as is 
+specified in the regulations, either generally or in relation to a 
+particular document or class of documents.
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+1101E  Concealing etc. of books
+
+(1) A person must not:
+(a) conceal, destroy, mutilate or alter a book:
+(i) relating to the business carried on by a financial services 
+licensee or an authorised representative of such a 
+licensee; or
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Other matters  Division 3
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+Section 1101F
+
+Corporations Act 2001 397
+Compilation No. 143 Compilation date: 09/07/2025(ii) required under a provision of this Chapter to be kept by 
+a market licensee, a CS facility licensee, a financial 
+services licensee or an authorised representative of a 
+financial services licensee; or
+(b) send such a book out of this jurisdiction.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(2) In any proceedings against a person for an offence based on 
+subsection (1), it is a defence if the person did not act with intent 
+to:
+(a) defraud; or
+(b) defeat the objects of this Chapter; or
+(c) prevent, delay or obstruct the carrying out of an examination, 
+investigation or audit, or the exercise of a power, under this 
+Chapter.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (2). See subsection 13.3(3) of the Criminal Code.
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+1101F  Falsification of records
+
+(1A) A person must not engage in conduct that results in the falsification 
+of:
+(a) a book required to be kept by a provision of this Chapter; or
+(b) a register or any accounting or other record referred to in 
+section 1101C.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(1) If matter that is used, or intended to be used, in connection with:
+(a) the keeping of a book required to be kept by a provision of 
+this Chapter; or
+(b) a register or any accounting or other record referred to in 
+section 1101C;
+is recorded or stored in an illegible form by means of a mechanical 
+device, an electronic device or any other device, a person must not:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+Section 1101G
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+398 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(c) record or store by means of that device matter that the person 
+knows to be false in a material particular or materially 
+misleading; or
+(d) destroy, remove or falsify matter that is recorded or stored by 
+means of that device, or has been prepared for the purpose of 
+being recorded or stored, or for use in compiling other matter 
+to be recorded or stored, by means of that device; or
+(e) fail to record or store matter by means of that device, with 
+intent to falsify any entry made or intended to be compiled, 
+wholly or in part, from that matter.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(2) In any proceedings against a person for an offence based on 
+subsection (1A) or (1), it is a defence if it is proved that the person 
+acted honestly and that in all the circumstances the act or omission 
+constituting the offence should be excused.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (2). See subsection 13.3(3) of the Criminal Code.
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+1101G  Precautions against falsification of records
+
+A person required by a provision of this Chapter to keep a book or 
+record must take reasonable precautions for guarding against 
+falsification of the book or record and for facilitating discovery of 
+any falsification.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+1101GA  How Part 9.3 applies to books required to be kept by this
+
+Chapter etc.
+(1) In this section:
+Chapter 7 book means:
+(a) a book (by whatever name it is known) that a provision of 
+this Chapter requires to be kept; or
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Other matters  Division 3
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+Section 1101H
+
+Corporations Act 2001 399
+Compilation No. 143 Compilation date: 09/07/2025(b) a document lodged under, or for the purposes of, a provision 
+of this Chapter; or
+(c) a book relating to the business carried on by a financial 
+services licensee or an authorised representative of a 
+financial services licensee; or
+(d) a register or accounting record referred to in section 1101C.
+(2) Part 9.3 does not apply in relation to a Chapter 7 book except as 
+provided in the following paragraphs:
+(a) section 1303 applies to a Chapter 7 book;
+(b) section 1305, and subsections 1306(5) and (6), apply to a 
+Chapter 7 book as if references in section 1305 to a body 
+corporate were instead references to a person;
+(c) regulations made for the purposes of this paragraph may 
+provide that other provisions of Part 9.3 apply in relation to a 
+Chapter 7 book, or a class of Chapter 7 books, with such 
+modifications (if any) as are specified in the regulations.
+
+Part 7.12  Miscellaneous
+Division 3  Other matters
+1101H  Contravention of Chapter does not generally affect validity

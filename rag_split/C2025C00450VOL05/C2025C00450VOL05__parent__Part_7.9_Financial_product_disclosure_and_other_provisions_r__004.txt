@@ -1,0 +1,177 @@
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021NB
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+174 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251021NB  Offences relating to obligation to make superannuation 
+investment information publicly available
+Failure to comply with obligation to make information publicly 
+available
+(1) A person commits an offence if:
+(a) the person is a trustee of a registrable superannuation entity; 
+and
+(b) as trustee, the person is required, under section 1017BB, to 
+make information publicly available on the entity’s website; 
+and
+(c) the information is not made publicly available as required by 
+that section.
+Offence where information known to be defective
+(2) A person commits an offence if:
+(a) the person is a trustee of a registrable superannuation entity; 
+and
+(b) as trustee, the person is required, under section 1017BB, to 
+make information publicly available; and
+(c) information is made publicly available in purported 
+compliance with that requirement; and
+(d) the trustee knows that:
+(i) the information is misleading or deceptive; or
+(ii) there is an omission from the information.
+Offence whether or not information known to be defective
+(3) A person commits an offence if:
+(a) the person is a trustee of a registrable superannuation entity; 
+and
+(b) as trustee, the person is required, under section 1017BB, to 
+make information publicly available; and
+(c) information is made publicly available in purported 
+compliance with that requirement; and
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Enforcement  Division 7
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021NB
+
+Corporations Act 2001 175
+Compilation No. 143 Compilation date: 09/07/2025(d) either:
+(i) the information is misleading or deceptive; or
+(ii) there is an omission from the information.
+(4) For the purposes of an offence based on subsection (3), strict 
+liability applies to the physical element of the offence specified in 
+subparagraph (3)(d)(i) or (ii).
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Defences
+(5) In any proceedings against a trustee of a registrable superannuation 
+entity for an offence based on subsection (1), it is a defence if the 
+information would have been made publicly available but for the 
+fact that the trustee or another trustee of the entity was unable to 
+obtain the information after taking reasonable steps to do so.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (5). See subsection 13.3(3) of the Criminal Code.
+(6) In any proceedings against a trustee of a registrable superannuation 
+entity for an offence based on subparagraph (2)(d)(ii) or (3)(d)(ii), 
+it is a defence if:
+(a) there was an omission from the information made publicly 
+available because the trustee or another trustee of the entity 
+was unable to obtain the information after taking reasonable 
+steps to do so; or
+(b) both of the following apply:
+(i) the information was omitted because it would have been 
+misleading or deceptive;
+(ii) the trustee or another trustee of the entity took 
+reasonable steps to obtain information that would not 
+have been misleading or deceptive.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (6). See subsection 13.3(3) of the Criminal Code.
+(7) In any proceedings against a trustee of a registrable superannuation 
+entity for an offence based on subparagraph (3)(d)(i), it is a 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021O
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+176 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025defence if the trustee or another trustee of the entity took 
+reasonable steps to ensure that the information made publicly 
+available would not be misleading or deceptive.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (7). See subsection 13.3(3) of the Criminal Code.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+1021O  Offences of issuer or seller of financial product failing to pay
+
+money into an account as required
+Strict liability offence
+(1) An issuer or seller of financial products commits an offence if:
+(a) the issuer or seller is required by subsection 1017E(2) to pay 
+particular money into an account in accordance with that 
+subsection; and
+(b) the issuer or seller does not pay the money into an account in 
+accordance with that subsection.
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Ordinary offence
+(3) An issuer or seller of financial products commits an offence if:
+(a) the issuer or seller is required by subsection 1017E(2) to pay 
+particular money into an account in accordance with that 
+subsection; and
+(b) the issuer or seller does not pay the money into an account in 
+accordance with that subsection.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+1021P  Offences relating to offers to which Division 5A applies
+
+Failure to comply with requirements of section 1019E relating to 
+how offers are made
+(1) A person commits an offence if:
+(a) the person makes an offer; and
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Enforcement  Division 7
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021P
+
+Corporations Act 2001 177
+Compilation No. 143 Compilation date: 09/07/2025(b) the offer is an offer to which Division 5A applies (see 
+section 1019D); and
+(c) in making the offer, the person fails to comply with a 
+requirement of section 1019E.
+Contravening section 1019F by inviting offers to sell
+(2) A person commits an offence if:
+(a) the person invites another person to make an offer to sell a 
+financial product; and
+(b) in making the invitation, the person contravenes 
+section 1019F.
+Failure to comply with requirements of section 1019G relating to 
+duration and withdrawal of offers
+(3) A person commits an offence if:
+(a) the person makes an offer; and
+(b) the offer is an offer to which Division 5A applies (see 
+section 1019D); and
+(c) any of the following apply:
+(i) the offer does not remain open for the period required 
+by paragraph 1019G(1)(a);
+(ii) the offer remains open for longer than is permitted by 
+paragraph 1019G(1)(b);
+(iii) in purporting to withdraw the offer, the person fails to 
+comply with a requirement of subsection 1019G(2) or 
+(3).
+Failure to comply with requirements of section 1019I relating to 
+price or value
+(4) A person commits an offence if:
+(a) the person makes an offer; and
+(b) the offer is an offer to which Division 5A applies (see 
+section 1019D); and
+(c) the person gives the offeree an offer document; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021P
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+178 Corporations Act 2001

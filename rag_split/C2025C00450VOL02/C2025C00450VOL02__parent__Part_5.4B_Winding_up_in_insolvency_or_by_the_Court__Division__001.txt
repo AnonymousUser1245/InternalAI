@@ -1,0 +1,200 @@
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+Section 486A
+
+Corporations Act 2001 533
+Compilation No. 143 Compilation date: 09/07/2025(d) an order prohibiting an officer or employee of a company, or 
+a related entity of a company that is a natural person, from 
+leaving this jurisdiction, or Australia, without the Court’s 
+consent.
+(2) The Court may only make an order under subsection (1) if:
+(a) the company is being wound up in insolvency or by the 
+Court, or an application has been made for the company to be 
+so wound up; and
+(b) the Court is satisfied that there is at least a prima facie case 
+that the officer, employee or related entity is or will become 
+liable:
+(i) to pay money to the company, whether in respect of a 
+debt, by way of damages or compensation or otherwise; 
+or
+(ii) to account for property of the company; and
+(c) the Court is also satisfied that there is substantial evidence 
+that the officer, employee or related entity:
+(i) has concealed or removed money or other property, has 
+tried to do so, or intends to do so; or
+(ii) has tried to leave this jurisdiction or Australia, or 
+intends to do so;
+in order to avoid that liability or its consequences; and
+(d) the Court thinks it necessary or desirable to make the order in 
+order to protect the company’s rights against the officer, 
+employee or related entity.
+(2A) An order under subsection (1) may only be made on the application 
+of:
+(a) a liquidator or provisional liquidator of the company; or
+(b) ASIC.
+(3) On hearing an application for an order under subsection (1), the 
+Court must have regard to any relevant application under 
+section 1323.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+Section 486B
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+534 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) Before considering an application for an order under 
+subsection (1), the Court may, if in the Court’s opinion it is 
+desirable to do so, grant an interim order of the kind applied for 
+that is expressed to have effect until the application is determined.
+(5) The Court must not require an applicant for an order under 
+subsection (1) or any other person, as a condition of granting an 
+interim order under subsection (4), to give an undertaking as to 
+damages.
+(6) On the application of a person who applied for, or is affected by, 
+an order under this section, the Court may make a further order 
+discharging or varying the first-mentioned order.
+(7) An order under subsection (1) may be expressed to operate for a 
+specified period or until it is discharged by a further order.
+(8) A person must not intentionally or recklessly contravene an order 
+under this section that is applicable to the person.
+(9) This section has effect subject to the Bankruptcy Act 1966.
+(10) Nothing in this section affects any other powers of the Court.
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+486B  Warrant to arrest person who is absconding, or who has dealt
+
+with property or books, in order to avoid obligations in 
+connection with winding up
+(1) The Court may issue a warrant for a person to be arrested and 
+brought before the Court if:
+(a) a company is being wound up in insolvency or by the Court, 
+or an application has been made for a company to be so 
+wound up; and
+(b) the Court is satisfied that the person:
+(i) is about to leave this jurisdiction, or Australia, in order 
+to avoid:
+(A) paying money payable to the company; or
+(B) being examined about the company’s affairs; or
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up in insolvency or by the Court  Part 5.4B
+General powers of Court  Division 3
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+Section 487
+
+Corporations Act 2001 535
+Compilation No. 143 Compilation date: 09/07/2025(C) complying with an order of the Court, or some 
+other obligation, under this Chapter in 
+connection with the winding up; or
+(ii) has concealed or removed property of the company in 
+order to prevent or delay the taking of the property into 
+the liquidator’s custody or control; or
+(iii) has destroyed, concealed or removed books of the 
+company or is about to do so.
+Note: For procedures relating to such a warrant, see Subdivision B.
+(2) A warrant under subsection (1) may also provide for property or 
+books of the company in the person’s possession to be seized and 
+delivered into the custody of a specified person.
+(3) A warrant under subsection (1) may only be issued on the 
+application of:
+(a) a liquidator or provisional liquidator of the company; or
+(b) ASIC.
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+487  Power to arrest absconding contributory
+
+The Court, at any time before or after making a winding up order, 
+on proof of probable cause for believing that a contributory is 
+about to leave this jurisdiction, or Australia, or otherwise to 
+abscond or to remove or conceal any of his or her property for the 
+purpose of evading payment of calls or of avoiding examination 
+respecting affairs of the company, may cause the contributory to be 
+arrested and held in custody and the books and movable personal 
+property of the contributory to be seized and safely kept until such 
+time as the Court orders.
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+488  Delegation to liquidator of certain powers of Court
+
+(1) Provision may be made by rules of court or regulations for 
+enabling or requiring all or any of the powers and duties conferred 
+and imposed on the Court by this Part or Schedule 2 in respect of:
+(a) the holding and conducting of meetings to ascertain the 
+wishes of creditors and contributories; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+Section 489
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+536 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) the paying, delivery, conveyance, surrender or transfer of 
+money, property or books to the liquidator; and
+(c) the adjusting of the rights of contributories among 
+themselves and the distribution of any surplus among the 
+persons entitled to it; and
+(d) the fixing of a time within which debts and claims must be 
+proved;
+to be exercised or performed by the liquidator as an officer of the 
+Court and subject to the control of the Court.
+(2) Despite anything in rules of court or regulations made for the 
+purposes of subsection (1), a liquidator may distribute a surplus 
+only with the Court’s special leave.
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+489  Powers of Court cumulative
+
+Any powers conferred on the Court by this Act are in addition to, 
+and not in derogation of, any existing powers of instituting 
+proceedings against any contributory or debtor of the company or 
+the property of any contributory or debtor for the recovery of any 
+call or other sums.
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+Section 489D
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+538 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025489D  Court’s power to make orders under other provisions
+(1) To avoid doubt, the Court may make an order under section 486A,
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+598 or 1323, or section 45-1 or 90-15 of Schedule 2 in relation to a
+
+person appearing before the Court under:
+(a) a section 486B warrant; or
+(b) section 489B.
+(2) Subsection (1) does not limit section 486A, 598 or 1323, or 
+section 45-1 or 90-15 of Schedule 2.
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+489E  Jurisdiction under this Subdivision
+
+To avoid doubt, a matter arising under this Subdivision is a civil 
+matter for the purposes of Part 9.6A.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up by ASIC  Part 5.4C
+
+Part 5.4B  Winding up in insolvency or by the Court
+Division 3  General powers of Court
+Section 489EA
+
+Corporations Act 2001 539
+Compilation No. 143 Compilation date: 09/07/2025Part 5.4C—Winding up by ASIC
+Note: This Part does not apply to a CCIV or a sub-fund of a CCIV: see Division 5 of

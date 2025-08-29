@@ -1,0 +1,172 @@
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+Section 90-25
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+132 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(i) the remuneration, costs or expenses which the liquidator 
+is appointed to review; and
+(ii) the way in which the cost of carrying out the review is 
+to be determined.
+Appointments by creditors etc.—limit
+(7) Despite subsection (1), a registered liquidator appointed under this 
+section has no power to review the remuneration to which the 
+external administrator of a company is entitled under 
+subsection 60-5(2) (remuneration if no remuneration 
+determinations made).
+Restructuring and restructuring plans
+(8) This section does not apply to:
+(a) a company under restructuring; or
+(b) a company that has made a restructuring plan that has not yet 
+terminated.
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+90-25  Reviewing liquidator must consent to appointment
+
+A registered liquidator cannot be appointed under this Subdivision 
+as a reviewing liquidator in relation to a matter unless:
+(a) the liquidator has consented in writing to the appointment; 
+and
+(b) as at the time of the appointment, the liquidator has not 
+withdrawn the consent.
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+90-26  Review
+
+Review—general
+(1) If a reviewing liquidator is appointed under this Subdivision in 
+relation to a matter, the reviewing liquidator must carry out a 
+review into that matter.
+Authorised Version C2025C00450 registered 21/07/2025Insolvency Practice Schedule (Corporations)  Schedule 2
+General rules relating to external administrations  Part 3
+Review of the external administration of a company  Division 90
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+Section 90-27
+
+Corporations Act 2001 133
+Compilation No. 143 Compilation date: 09/07/2025Reviews relating to remuneration, costs or expenses
+(2) If the matter is, or includes, remuneration of the external 
+administrator of the company, the review may (but need not) 
+include an assessment of whether the remuneration is reasonable.
+(3) If the matter is, or includes, a cost or expense incurred by the 
+external administrator of the company, the review must include an 
+assessment of whether the cost or expense was properly incurred 
+by the external administrator.
+Note: Insolvency Practice Rules made under section 90-29 may provide for 
+the meaning of properly incurred.
+(4) A reviewing liquidator must not review:
+(a) remuneration of an external administrator of the company 
+that relates to a period; or
+(b) a cost or expense incurred by the external administrator of 
+the company incurred during a period;
+unless the period is:
+(c) for a reviewing liquidator appointed by the Court under 
+subsection 90-23(6) or paragraph 90-28(2)(c) or (3)(b)—the 
+period determined by the Court; or
+(d) otherwise—the prescribed period.
+Report of review
+(5) A reviewing liquidator must prepare a report on the review.
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+90-27  Who pays for a review?
+
+(1) The cost of carrying out a review under this Subdivision:
+(a) in the case of a reviewing liquidator appointed with the 
+agreement of the external administrator of the company 
+under subsection 90-24(5)—is to be borne by the creditors or 
+members referred to in that subsection; or
+(b) in any other case—forms part of the expenses of the external 
+administration of the company.
+Authorised Version C2025C00450 registered 21/07/2025Schedule 2  Insolvency Practice Schedule (Corporations)
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+Section 90-28
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+134 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) Subsection (1) has effect subject to an order of the Court under 
+section 90-28.
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+90-28  Court orders in relation to review
+
+Application of this section
+(1) This section applies if:
+(a) a reviewing liquidator has been appointed under this
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+Section 90-30
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+136 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision D—Removal by creditors
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+90-30  Application of this Subdivision
+
+This Subdivision applies in relation to a company that is under 
+external administration, other than a company in relation to which 
+a provisional liquidator has been appointed.
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+90-35  Removal by creditors
+
+Creditors may remove external administrator and appoint another
+(1) The creditors may:
+(a) by resolution at a meeting, remove the external administrator 
+of a company; and
+(b) by resolution at the same or a subsequent meeting, appoint 
+another person as the external administrator of the company.
+Note: For the general rules relating to meetings, see Division 75.
+(2) However, the creditors may not do so unless at least 5 business 
+days’ notice of the meeting is given to all persons who are entitled 
+to receive notice of creditors’ meetings.
+(3) The removal of an external administrator does not take effect until 
+another person is appointed as external administrator of the 
+company.
+Former administrator may apply to Court to be reappointed
+(4) A person (the former administrator) who has been removed as 
+external administrator of the company by resolution of the 
+creditors may apply to the Court to be reappointed as external 
+administrator of the company.
+(5) However, if the former administrator makes such an application, 
+the former administrator must:
+(a) record all costs incurred by the former administrator and the 
+company in relation to the application; and
+Authorised Version C2025C00450 registered 21/07/2025Insolvency Practice Schedule (Corporations)  Schedule 2
+General rules relating to external administrations  Part 3
+Review of the external administration of a company  Division 90
+
+Part 3  General rules relating to external administrations
+Division 90  Review of the external administration of a company
+Section 90-35
+
+Corporations Act 2001 137
+Compilation No. 143 Compilation date: 09/07/2025(b) do so in a way that separates those costs from the costs 
+incurred by the former administrator and the company in 
+relation to other matters.
+(6) The Court may order that the former administrator be reappointed 
+as external administrator of the company if the Court is satisfied 
+that the removal of the former administrator was an improper use 
+of the powers of one or more creditors.
+(7) The Court may make such other orders in relation to the 
+application as it thinks fit including orders in relation to:
+(a) the costs of the application; and
+(b) the remuneration of the former administrator.
+Authorised Version C2025C00450 registered 21/07/2025Schedule 2  Insolvency Practice Schedule (Corporations)

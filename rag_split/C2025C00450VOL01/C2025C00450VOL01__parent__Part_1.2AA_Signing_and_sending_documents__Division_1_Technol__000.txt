@@ -1,0 +1,166 @@
+Part 1.2AA  Signing and sending documents
+Division 1  Technology neutral signing
+Section 110A
+
+Part 1.2AA  Signing and sending documents
+Division 1  Technology neutral signing
+210 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) by signing a physical form of the document by hand; or
+(b) by signing an electronic form of the document using 
+electronic means;
+if the method of signing satisfies subsection (2).
+Note: A document (including a deed) may be executed by or on behalf of a 
+company without the use of paper, parchment or vellum: see 
+subsections 126(6) and 127(3A).
+(2) A method of signing satisfies this subsection if:
+(a) the method identifies the person and indicates the person’s 
+intention in respect of the information recorded in the 
+document; and
+(b) the method was either:
+(i) as reliable as appropriate for the purpose for which the 
+information was recorded, in light of all the 
+circumstances, including any relevant agreement; or
+(ii) proven in fact to have fulfilled the functions described 
+in paragraph (a), by itself or together with further 
+evidence.
+What information the intention must cover
+(3) For the purposes of paragraph (2)(a), the person is not required to 
+indicate an intention in relation to:
+(a) any material identifying another person signing the document 
+or indicating another person’s intention in respect of the 
+information recorded; or
+(b) the signature of another person signing the document; or
+(c) if a common seal is fixed to the document—the seal; or
+(d) any immaterial information in a form of the document 
+generated for the purposes of signing and which arises in the 
+normal course of communication, storage or display.
+Note: This subsection allows minor differences that arise from the way a 
+document is signed to be disregarded. For example, a person can sign 
+to witness the fixing of a common seal to a document, and it is not 
+necessary for the signed document to include the common seal (as 
+long as a method is used to indicate that the person observed the 
+fixing of the seal, as required by paragraph 127(2A)(c)).
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Signing and sending documents  Part 1.2AA
+Technology neutral signing  Division 1
+
+Part 1.2AA  Signing and sending documents
+Division 1  Technology neutral signing
+Section 110A
+
+Corporations Act 2001 211
+Compilation No. 143 Compilation date: 09/07/2025Avoidance of doubt
+(4) To avoid doubt, this section does not require:
+(a) a person to sign the same form of the document as another 
+person; or
+(b) a person to sign the same page of the document as another 
+person; or
+(c) a person to use the same method to sign the document as 
+another person; or
+(d) all the information recorded in the document to be included 
+in the form of the document signed by a person as mentioned 
+in paragraph (1)(a) or (b).
+Note: For example, a company may execute a document by one director 
+signing a physical form of the document by hand, and another director 
+signing an electronic form of the document by electronic means.
+Persons signing in different capacities
+(5) For the purposes of this section, a person who is to sign a 
+document in more than one capacity:
+(a) is treated as a different person in each such capacity they sign 
+the document; and
+(b) may sign the document in some or all of those capacities by 
+signing the document once, if the document:
+(i) requires or permits the person to do so; and
+(ii) states the capacities in which the person is signing the 
+document.
+Example 1: If a signature block in a document requires or permits a person to sign 
+once as the sole director and sole company secretary of a company, 
+the person may sign the document as the sole director and sole 
+company secretary by signing that signature block.
+Example 2: If a signature block in a document requires or permits a person to sign 
+once on behalf of 2 companies as an agent for both those companies, 
+the person may sign the document as an agent for both those 
+companies by signing that signature block.
+Example 3: A person who is to sign a document in their capacity as the director of 
+one company and their capacity as the company secretary of another 
+company must sign the document twice if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2AA  Signing and sending documents
+Division 1  Technology neutral signing
+Section 110B
+
+Part 1.2AA  Signing and sending documents
+Division 1  Technology neutral signing
+212 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) one signature block in the document requires or permits the 
+person to sign as the director of the first company; and
+(b) another signature block in the document requires or permits the 
+person to sign as the company secretary of the second company.
+
+Part 1.2AA  Signing and sending documents
+Division 1  Technology neutral signing
+110B  Lodgement of documents
+
+If:
+(a) under this Act, the signature of a person is required or 
+permitted on a document; and
+(b) the person signs the document in accordance with 
+section 110A; and
+(c) the person or another person submits the document for 
+lodgement; and
+(d) the signature complies with any requirements relating to that 
+lodgement under this Act or an instrument made under this 
+Act;
+ASIC or the Registrar (as the case requires) must not refuse to 
+receive or register the document on the basis that the document has 
+not been signed.
+Note: This section does not prevent ASIC or the Registrar from refusing to 
+receive or register the document on any other basis. For example, if 
+the lodgement requirements mentioned in paragraph (d) (such as those 
+under Chapter 2P) are not met, ASIC or the Registrar may refuse to 
+receive or register the document.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Signing and sending documents  Part 1.2AA
+Technology neutral sending of documents, and related matters  Division 2
+
+Part 1.2AA  Signing and sending documents
+Division 1  Technology neutral signing
+Section 110C
+
+Corporations Act 2001 213
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Technology neutral sending of documents, and 
+related matters
+
+Part 1.2AA  Signing and sending documents
+Division 1  Technology neutral signing
+110C  Documents to which this Division applies
+
+Sending documents
+(1) This Division applies to any document covered by subsection (3) 
+or (4) that is required or permitted under this Act to be sent by a 
+person or entity (the sender) to another person or entity (the 
+recipient).
+(2) A reference in subsection (1) to an entity includes a reference to a 
+disclosing entity.
+Covered documents
+(3) This subsection covers a document that is required or permitted be 
+sent by the sender to the recipient under:
+(a) this Chapter; or
+(b) Chapters 2A to 2M; or
+(c) Chapters 5 to 5D; or
+(d) Chapter 6, 6A, 6B or 6C; or
+(da) Division 3 of Part 7.7A; or
+(e) Chapter 8A or 8B; or
+(f) Chapter 9; or
+(g) Schedule 2; or
+(h) any other provision of this Act, to the extent that it relates to 
+the provisions mentioned in paragraphs (a) to (g).
+(4) This subsection covers a document that is in a class of documents 
+specified in regulations made for the purposes of this subsection.
+(5) However, this Division does not apply to a document that is 
+required or permitted under this Act to be sent by or to ASIC, the 
+Registrar or the Takeovers Panel.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory

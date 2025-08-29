@@ -1,0 +1,138 @@
+Part 5A.1  Deregistration
+Section 601AF
+
+Corporations Act 2001 9
+Compilation No. 143 Compilation date: 09/07/2025Accounts
+(5) The Commonwealth or ASIC (as the case requires) must keep:
+(a) a record of property that it knows is vested in it under this 
+Chapter; and
+(b) a record of its dealings with that property; and
+(c) accounts of all money received from those dealings; and
+(d) all accounts, vouchers, receipts and papers relating to the 
+property and that money.
+
+Part 5A.1  Deregistration
+601AF  The Commonwealth’s and ASIC’s power to fulfil
+
+outstanding obligations of deregistered company
+The Commonwealth or ASIC may do an act on behalf of the 
+company or its liquidator if the Commonwealth or ASIC is 
+satisfied that the company or liquidator would be bound to do the 
+act if the company still existed.
+Note: This power is a general one and is not limited to acts in relation to 
+property vested in the Commonwealth under subsection 601AD(1A), 
+or ASIC under subsection 601AD(2). The Commonwealth or ASIC 
+has all the powers that automatically flow from the vesting of property 
+under that subsection (see subsections 601AD(3A) and (4)) and may 
+exercise those powers whether or not the company was bound to do 
+so.
+
+Part 5A.1  Deregistration
+601AG  Claims against insurers of deregistered company
+
+A person may recover from the insurer of a company that is 
+deregistered an amount that was payable to the company under the 
+insurance contract if:
+(a) the company had a liability to the person; and
+(b) the insurance contract covered that liability immediately 
+before deregistration.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5A  Deregistration, and transfer of registration, of companies
+
+Part 5A.1  Deregistration
+
+Part 5A.1  Deregistration
+Section 601AH
+
+Part 5A.1  Deregistration
+10 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025601AH  Reinstatement
+Reinstatement by ASIC
+(1) ASIC may reinstate the registration of a company if ASIC is 
+satisfied that the company should not have been deregistered.
+(1A) ASIC may reinstate the registration of a company deregistered 
+under subsection 601AB(1B) if:
+(a) ASIC receives an application in relation to the reinstatement 
+of the company’s registration; and
+(b) the levy imposed on the company by the ASIC Supervisory 
+Cost Recovery Levy Act 2017 is paid in full; and
+(c) the amount of any late payment penalty payable in relation to 
+the levy is paid in full; and
+(d) the amount of any shortfall penalty payable in relation to the 
+levy is paid in full.
+(1B) ASIC may reinstate the registration of a company deregistered 
+under subsection 601AB(1C) if:
+(a) ASIC receives an application in relation to the reinstatement 
+of the company’s registration; and
+(b) the instalments of levy (within the meaning of the Financial 
+Services Compensation Scheme of Last Resort Levy 
+(Collection) Act 2023) imposed on the company are paid in 
+full; and
+(c) the amount of any late payment penalty payable in relation to 
+the instalments of levy is paid in full; and
+(d) the amount of any shortfall penalty payable in relation to the 
+instalments of levy is paid in full.
+Reinstatement by Court
+(2) The Court may make an order that ASIC reinstate the registration 
+of a company if:
+(a) an application for reinstatement is made to the Court by:
+(i) a person aggrieved by the deregistration; or
+Authorised Version C2025C00450 registered 21/07/2025Deregistration, and transfer of registration, of companies  Chapter 5A
+Deregistration  Part 5A.1
+
+Part 5A.1  Deregistration
+Section 601AH
+
+Corporations Act 2001 11
+Compilation No. 143 Compilation date: 09/07/2025(ii) a former liquidator of the company; and
+(b) the Court is satisfied that it is just that the company’s 
+registration be reinstated.
+(3) If:
+(a) ASIC reinstates the registration of a company under 
+subsection (1) or (1A); or
+(b) the Court makes an order under subsection (2);
+the Court may:
+(c) validate anything done during the period:
+(i) beginning when the company was deregistered; and
+(ii) ending when the company’s registration was reinstated; 
+and
+(d) make any other order it considers appropriate.
+Note: For example, the Court may direct ASIC to transfer to another person 
+property vested in ASIC under subsection 601AD(2).
+ASIC to give notice of reinstatement
+(4) ASIC must give notice of a reinstatement in the Gazette.
+(4A) If an application was made to ASIC for the reinstatement of a 
+company’s registration, ASIC must give notice of the reinstatement 
+to the applicant.
+Effect of reinstatement
+(5) If a company is reinstated, the company is taken to have continued 
+in existence as if it had not been deregistered. A person who was a 
+director of the company immediately before deregistration 
+becomes a director again as from the time when ASIC or the Court 
+reinstates the company. Any property of the company that is still 
+vested in the Commonwealth or ASIC revests in the company. If 
+the company held particular property subject to a security or other 
+interest or claim, the company takes the property subject to that 
+interest or claim.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5A  Deregistration, and transfer of registration, of companies
+
+Part 5A.1  Deregistration
+
+Part 5A.1  Deregistration
+Section 601AH
+
+Part 5A.1  Deregistration
+12 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(6) Subsection 601AH(5) does not affect the cancellation of an 
+Australian financial services licence held by the company if the 
+cancellation occurs because the company was deregistered.
+Authorised Version C2025C00450 registered 21/07/2025Deregistration, and transfer of registration, of companies  Chapter 5A
+Transfer of registration  Part 5A.2
+
+Part 5A.1  Deregistration
+Section 601AI
+
+Corporations Act 2001 13
+Compilation No. 143 Compilation date: 09/07/2025Part 5A.2—Transfer of registration
+Note: This Part does not apply to a CCIV or a sub-fund of a CCIV: see Subdivision B of

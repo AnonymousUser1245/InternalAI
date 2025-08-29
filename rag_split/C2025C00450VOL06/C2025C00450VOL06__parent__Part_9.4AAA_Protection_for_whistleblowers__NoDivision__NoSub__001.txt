@@ -1,0 +1,219 @@
+Part 9.4AAA  Protection for whistleblowers
+1992); and
+
+(ii) is similar to a newspaper, magazine or radio or 
+television broadcast.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AAA  Protection for whistleblowers
+
+Section 1317AADA
+
+Part 9.4AAA  Protection for whistleblowers
+94 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251317AADA  Personal work-related grievances
+(1) Subsections 1317AA(1) and (2) do not apply to a disclosure of 
+information by an individual (the discloser) to the extent that the 
+information disclosed:
+(a) concerns a personal work-related grievance of the discloser; 
+and
+(b) does not concern a contravention, or an alleged 
+contravention, of section 1317AC that involves detriment 
+caused to the discloser or a threat made to the discloser.
+Note: A disclosure concerning a personal work-related grievance that is 
+made to a legal practitioner may qualify for protection under this Part 
+under subsection 1317AA(3).
+(2) For the purposes of subsection (1), the information disclosed 
+concerns a personal work-related grievance of the discloser if:
+(a) the information concerns a grievance about any matter in 
+relation to the discloser’s employment, or former 
+employment, having (or tending to have) implications for the 
+discloser personally; and
+(b) the information:
+(i) does not have significant implications for the regulated 
+entity to which it relates, or another regulated entity, 
+that do not relate to the discloser; and
+(ii) does not concern conduct, or alleged conduct, referred 
+to in paragraph 1317AA(5)(c), (d), (e) or (f).
+Examples of grievances that may be personal work-related grievances under 
+paragraph (a) (but subject to paragraph (b)) are as follows:
+(a) an interpersonal conflict between the discloser and another 
+employee;
+(b) a decision relating to the engagement, transfer or promotion of 
+the discloser;
+(c) a decision relating to the terms and conditions of engagement of 
+the discloser;
+(d) a decision to suspend or terminate the engagement of the 
+discloser, or otherwise to discipline the discloser.
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Protection for whistleblowers  Part 9.4AAA
+  
+Section 1317AAE
+Corporations Act 2001 95
+Compilation No. 143 Compilation date: 09/07/20251317AAE  Confidentiality of whistleblower’s identity
+(1) A person (the first person) contravenes this subsection if:
+(a) another person (the discloser) makes a disclosure of 
+information (the qualifying disclosure) that qualifies for 
+protection under this Part; and
+(b) the first person discloses any of the following (the 
+confidential information):
+(i) the identity of the discloser;
+(ii) information that is likely to lead to the identification of 
+the discloser; and
+(c) the confidential information is information that the first 
+person obtained directly or indirectly because of the 
+qualifying disclosure; and
+(d) the disclosure referred to in paragraph (b) is not authorised 
+under subsection (2) or (3).
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+(2) A disclosure referred to in paragraph (1)(b) is authorised under this 
+subsection if it:
+(a) is made to ASIC; or
+(b) is made to APRA; or
+(c) is made to a member of the Australian Federal Police (within 
+the meaning of the Australian Federal Police Act 1979); or
+(d) is made to a legal practitioner for the purpose of obtaining 
+legal advice or legal representation in relation to the 
+operation of this Part; or
+(e) is made to a person or body prescribed by the regulations for 
+the purposes of this paragraph; or
+(f) is made with the consent of the discloser.
+(3) Without limiting subsection (2), a disclosure referred to in 
+paragraph (1)(b) is authorised under this subsection if it:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AAA  Protection for whistleblowers
+
+Part 9.4AAA  Protection for whistleblowers
+Section 1317AB
+
+Part 9.4AAA  Protection for whistleblowers
+96 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) is made by ASIC, APRA or a member of the Australian 
+Federal Police (within the meaning of the Australian Federal 
+Police Act 1979); and
+(b) is made to any of the following for the purpose of assisting it 
+in the performance of its functions or duties:
+(i) a Commonwealth authority;
+(ii) an authority of a State or Territory;
+(iii) another body (whether incorporated or not) that is 
+established or continued in existence by or under a law 
+of a State or Territory.
+(4) Subsection (1) does not apply if:
+(a) the disclosure referred to in paragraph (1)(b):
+(i) is not of the identity of the discloser; and
+(ii) is reasonably necessary for the purposes of investigating 
+a matter referred to in subsection 1317AA(4) or (5) to 
+which the qualifying disclosure relates; and
+(b) the first person takes all reasonable steps to reduce the risk 
+that the discloser will be identified as a result of the 
+disclosure referred to in paragraph (1)(b).
+Note: In a prosecution for an offence, a defendant bears an evidential burden 
+in relation to the matter in subsection (4): see subsection 13.3(3) of the 
+Criminal Code.
+
+Part 9.4AAA  Protection for whistleblowers
+1317AB  Disclosure that qualifies for protection not actionable etc.
+
+(1) If a person makes a disclosure that qualifies for protection under 
+this Part:
+(a) the person is not subject to any civil, criminal or 
+administrative liability (including disciplinary action) for 
+making the disclosure; and
+(b) no contractual or other remedy may be enforced, and no 
+contractual or other right may be exercised, against the 
+person on the basis of the disclosure; and
+(c) if the disclosure qualifies for protection under this Part under 
+subsection 1317AA(1) or section 1317AAD—the 
+information is not admissible in evidence against the person 
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Protection for whistleblowers  Part 9.4AAA
+
+Part 9.4AAA  Protection for whistleblowers
+Section 1317AC
+
+Corporations Act 2001 97
+Compilation No. 143 Compilation date: 09/07/2025in criminal proceedings or in proceedings for the imposition 
+of a penalty, other than proceedings in respect of the falsity 
+of the information.
+Note: Except as provided for by paragraph (c), this subsection does not 
+prevent the person being subject to any civil, criminal or 
+administrative liability for conduct of the person that is revealed by 
+the disclosure.
+(2) Without limiting subsection (1):
+(a) the person has qualified privilege in respect of the disclosure; 
+and
+(b) a contract to which the person is a party may not be 
+terminated on the basis that the disclosure constitutes a 
+breach of the contract.
+
+Part 9.4AAA  Protection for whistleblowers
+1317AC  Victimisation prohibited
+
+Actually causing detriment to another person
+(1) A person (the first person) contravenes this subsection if:
+(a) the first person engages in conduct; and
+(b) the first person’s conduct causes any detriment to another 
+person (the second person); and
+(c) when the first person engages in the conduct, the first person 
+believes or suspects that the second person or any other 
+person made, may have made, proposes to make or could 
+make a disclosure that qualifies for protection under this Part; 
+and
+(d) the belief or suspicion referred to in paragraph (c) is the 
+reason, or part of the reason, for the conduct.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4AAA  Protection for whistleblowers
+
+Part 9.4AAA  Protection for whistleblowers
+Section 1317AC
+
+Part 9.4AAA  Protection for whistleblowers
+98 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Threatening to cause detriment to another person
+(2) A person (the first person) contravenes this subsection if:
+(a) the first person makes to another person (the second person) 
+a threat to cause any detriment to the second person or to a 
+third person; and
+(b) the first person:
+(i) intends the second person to fear that the threat will be 
+carried out; or
+(ii) is reckless as to causing the second person to fear that 
+the threat will be carried out; and
+(c) the first person makes the threat because a person:
+(i) makes a disclosure that qualifies for protection under 
+this Part; or
+(ii) may make a disclosure that would qualify for protection 
+under this Part.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+Officers and employees involved in contravention
+(3) If a company contravenes subsection (1) or (2), any officer or 
+employee of the company who is involved in that contravention 
+contravenes this subsection.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+Threats
+(4) For the purposes of subsection (2), a threat may be:
+(a) express or implied; or
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Protection for whistleblowers  Part 9.4AAA

@@ -1,0 +1,220 @@
+Part 5.1  Arrangements and reconstructions
+
+Part 5.1  Arrangements and reconstructions
+Section 415D
+
+Part 5.1  Arrangements and reconstructions
+292 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) a right contained in a kind of contract, agreement or 
+arrangement:
+(i) prescribed by the regulations for the purposes of this 
+subparagraph; or
+(ii) declared under paragraph (7)(a); or
+(c) a right of a kind:
+(i) prescribed by the regulations for the purposes of this 
+subparagraph; or
+(ii) declared under paragraph (7)(b); or
+(d) a right of a kind declared under paragraph (7)(c), and the 
+circumstances specified in that declaration exist.
+Note: For paragraph (a), subsection 411(10) sets out when the order takes 
+effect.
+(7) For the purposes of subsection (6), the Minister may, by legislative 
+instrument:
+(a) declare kinds of contracts, agreements or arrangements 
+referred to in a specified law of the Commonwealth; or
+(b) declare kinds of rights to which subsection (1) does not 
+apply; or
+(c) declare kinds of rights to which subsection (1) does not apply 
+in specified circumstances.
+(8) If the application under section 411 results in the approval under 
+this Part of a compromise or arrangement, subsection (1) does not 
+apply to the right to the extent that:
+(a) the person appointed to administer the compromise or 
+arrangement; or
+(b) if a liquidator of the body is appointed after the start of the 
+stay period—the liquidator;
+has consented in writing to the enforcement of the right.
+Stay on body’s right to new advance of money or credit
+(9) If:
+(a) one or more rights of an entity cannot be enforced against a 
+body for a period because of subsection (1); and
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Arrangements and reconstructions  Part 5.1
+
+Part 5.1  Arrangements and reconstructions
+Section 415E
+
+Corporations Act 2001 293
+Compilation No. 143 Compilation date: 09/07/2025(b) the body has a right under a contract, agreement or 
+arrangement against the entity for a new advance of money 
+or credit;
+that right of the body cannot be enforced during the same period.
+
+Part 5.1  Arrangements and reconstructions
+415E  Lifting the stay
+
+(1) The Court may order that subsection 415D(1) does not apply for 
+one or more rights against a body if the Court is satisfied:
+(a) that the relevant compromise or arrangement:
+(i) to be applied for; or
+(ii) applied for; or
+(iii) approved;
+under this Part is not for the purpose of the body avoiding 
+being wound up in insolvency; or
+(b) that this is appropriate in the interests of justice.
+(2) The order may also provide that the holder of those rights may 
+choose to enforce those rights from the earlier of:
+(a) the day any announcement referred to in 
+paragraph 415D(1)(a) was made by the body; and
+(b) the day any application under section 411 was made for the 
+compromise or arrangement.
+(3) An application for the order may be made by the holder of those 
+rights.
+
+Part 5.1  Arrangements and reconstructions
+415F  Order for rights to be enforceable only with leave of the Court
+
+Orders
+(1) The Court may order that one or more rights under a contract, 
+agreement or arrangement are enforceable against a body only:
+(a) with the leave of the Court; and
+(b) in accordance with such terms (if any) as the Court imposes.
+Example: The order could be sought for a right to terminate for convenience.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.1  Arrangements and reconstructions
+
+Part 5.1  Arrangements and reconstructions
+Section 415F
+
+Part 5.1  Arrangements and reconstructions
+294 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) The Court may make the order (the stay order) if:
+(a) the body is the subject of any of the following:
+(i) an announcement referred to in paragraph 415D(1)(a);
+(ii) an application under section 411 (the section 411 
+application);
+(iii) a compromise or arrangement approved under this Part 
+as a result of a section 411 application; and
+(b) the Court is satisfied that:
+(i) the rights are being exercised; or
+(ii) the rights are likely to be exercised; or
+(iii) there is a threat to exercise the rights;
+because of one or more reasons referred to in paragraphs
+
+Part 5.1  Arrangements and reconstructions
+415D(1)(a) to (f); and
+
+(c) an application for the stay order is:
+(i) if the body has made an announcement referred to in 
+paragraph 415D(1)(a), but not yet a section 411 
+application—made by the body; or
+(ii) if the body has made a section 411 application, but a 
+resulting compromise or arrangement is yet to be 
+approved under this Part—included in the section 411 
+application; or
+(iii) if a compromise or arrangement has been approved 
+under this Part as a result of the section 411 
+application—made by the person appointed to 
+administer the compromise or arrangement; and
+(d) in a case where the body has made a section 411 
+application—the section 411 application states it is being 
+made for the purpose of the body avoiding being wound up 
+in insolvency.
+(3) A stay order must specify the period for which it applies. In 
+working out the period, the Court must have regard to:
+(a) subsections 415D(2), (3) and (4); and
+(b) the interests of justice.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Arrangements and reconstructions  Part 5.1
+
+Part 5.1  Arrangements and reconstructions
+Section 415FA
+
+Corporations Act 2001 295
+Compilation No. 143 Compilation date: 09/07/2025(4) Subsection (1) does not apply to a right referred to in 
+subsection 415D(6) or (8).
+Interim orders
+(5) Before deciding an application for a stay order, the Court may 
+grant an interim order for one or more rights under a contract, 
+agreement or arrangement not to be enforced against a body.
+(6) The Court must not require an applicant for a stay order to give an 
+undertaking as to damages as a condition of granting an interim 
+order.
+
+Part 5.1  Arrangements and reconstructions
+415FA  Self-executing provisions
+
+(1) The object of subsection (2) is to ensure that a self-executing 
+provision:
+(a) cannot start to apply against a body for certain reasons; and
+(b) can be the subject of a Court order providing that the 
+provision can only start to apply against a body with the 
+leave of the Court, and in accordance with such terms (if any) 
+as the Court imposes.
+(2) Sections 415D to 415F also apply in relation to a self-executing 
+provision in a corresponding way to the way they apply in relation 
+to a right. For this purpose, assume those sections apply with such 
+modifications as are necessary, including any prescribed by the 
+regulations for the purposes of this subsection.
+Note 1: This subsection achieves the object in subsection (1) by extending the 
+application of all of the outcomes, exceptions and powers in 
+sections 415D to 415F.
+Note 2: These modifications include, for example, treating:
+(a) a reference that a right cannot be enforced (however described) 
+as including a reference that a self-executing provision cannot 
+start to apply; and
+(b) the words “if the right arises for that reason by express provision 
+(however described) of a contract, agreement or arrangement” as 
+being omitted from subsection 415D(1); and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.1  Arrangements and reconstructions
+
+Part 5.1  Arrangements and reconstructions
+Section 415G
+
+Part 5.1  Arrangements and reconstructions
+296 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(c) a reference that one or more rights are enforceable as including a 
+reference that one or more self-executing provisions can start to 
+apply; and
+(d) paragraph 415F(2)(b) as alternatively providing that the Court is 
+satisfied that one or more reasons referred to in paragraphs
+
+Part 5.1  Arrangements and reconstructions
+415D(1)(a) to (f) can cause the self-executing provisions to start
+
+to apply.
+(3) In this section:
+self-executing provision means a provision of a contract, 
+agreement or arrangement that can start to apply automatically:
+(a) for one or more reasons; and
+(b) without any party to the contract, agreement or arrangement 
+making a decision that the provision should start to apply.
+
+Part 5.1  Arrangements and reconstructions
+415G  When other laws prevail—certain other Commonwealth Acts
+
+If there is any inconsistency between sections 415D to 415FA and 
+one of the following Acts, that Act prevails to the extent of the 
+inconsistency:
+(a) the Payment Systems and Netting Act 1998;
+(b) the International Interests in Mobile Equipment (Cape Town 
+Convention) Act 2013.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.1  Arrangements and reconstructions
+Section 416
+
+Corporations Act 2001 297
+Compilation No. 143 Compilation date: 09/07/2025Part 5.2—Receivers, and other controllers, of 
+property of corporations
+Note: This Part applies to CCIVs with modifications: see Division 3 of Part 8B.6.
+
+Part 5.1  Arrangements and reconstructions
+416  Meaning of property and receiver

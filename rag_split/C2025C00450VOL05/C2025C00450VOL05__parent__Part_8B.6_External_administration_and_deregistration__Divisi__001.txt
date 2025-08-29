@@ -1,0 +1,188 @@
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239E
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+664 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251239E  The Commonwealth’s and ASIC’s power to fulfil outstanding 
+obligations in relation to deregistered sub-fund
+The Commonwealth or ASIC may do an act on behalf of the CCIV 
+of a deregistered sub-fund or the liquidator of the sub-fund if the 
+Commonwealth or ASIC is satisfied that the CCIV or liquidator 
+would be bound to do the act if the sub-fund had not been 
+deregistered.
+Note: This power is a general one and is not limited to acts in relation to 
+property vested in the Commonwealth under subsection 601AD(1A), 
+or ASIC under subsection 601AD(2). The Commonwealth or ASIC 
+has all the powers that automatically flow from the vesting of property 
+under that subsection (see subsections 601AD(3A) and (4)) and may 
+exercise those powers whether or not the CCIV was bound to do so.
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239F  Claims against insurers in relation to deregistered sub-fund
+
+A person may recover from the insurer of a CCIV an amount that 
+was payable to the CCIV under the insurance contract if:
+(a) a sub-fund of the CCIV is deregistered; and
+(b) the CCIV has a liability to the person that was a liability of 
+the sub-fund; and
+(c) the insurance contract covered that liability immediately 
+before the sub-fund was deregistered.
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239G  Reinstatement of a sub-fund
+
+(1) The registration of a sub-fund of a CCIV may be reinstated under 
+section 601AH as if the sub-fund were a company.
+Note: Notice of the reinstatement must be given: see section 1239J.
+(2) If the registration of a sub-fund of a CCIV is reinstated under 
+section 601AH, the sub-fund is taken to have been registered 
+throughout the period it was deregistered.
+(3) The Court’s power to make an order under subsection 601AH(3) 
+includes the power to make an order in relation to the following:
+(a) the assets or liabilities of a sub-fund of a CCIV whose 
+registration is reinstated;
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+External administration and deregistration  Part 8B.6
+Deregistration and transfer of registration  Division 9
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239H
+
+Corporations Act 2001 665
+Compilation No. 143 Compilation date: 09/07/2025(b) the assets or liabilities of any other sub-fund of the CCIV 
+which is affected by the reinstatement.
+(4) If the registration of a sub-fund of a CCIV is reinstated under 
+section 601AH, any property of the CCIV that was property of the 
+sub-fund that is still vested in the Commonwealth or ASIC revests 
+in the CCIV. If the CCIV held particular property subject to a 
+security or other interest or claim, the CCIV takes the property 
+subject to that interest or claim.
+Note: The CCIV must allocate the property to the sub-fund in accordance 
+with Subdivision B of Division 3 of Part 8B.5.
+(5) Subsections 601AH(1A), (4), (4A) and (5) do not apply in relation 
+to the reinstatement of the registration of a sub-fund of a CCIV.
+Registration as an Australian passport fund not reinstated
+(6) The reinstatement of the registration of a sub-fund of a CCIV does 
+not result in the sub-fund’s registration as a passport fund under
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239J
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+666 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: Any property of the CCIV that comprised assets of the sub-fund that is 
+still vested in the Commonwealth or ASIC revests in the CCIV: see 
+subsection 1239G(4).
+(3) To avoid doubt, the reinstatement of the registration of the CCIV 
+also has the effect of reinstating, at the time the registration is 
+reinstated, ASIC’s record, kept as part of the registration, of the 
+company that is the corporate director or temporary corporate 
+director of the CCIV.
+Note: The company named in the record as the corporate director or 
+temporary corporate director of the CCIV is the corporate director of 
+the CCIV (see subsection 1224(3)). See section 1224S for what 
+happens if the corporate director does not meet the requirements of 
+section 1224F.
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239J  Notices relating to reinstatement of a sub-fund
+
+If the registration of a sub-fund of a CCIV is reinstated under 
+section 601AH, ASIC must publish notice in the Gazette and give 
+notice to the corporate director of the CCIV of the following:
+(a) the reinstatement of the registration of the sub-fund;
+(b) if as a result of reinstating the sub-fund the registration of the 
+CCIV is also reinstated under section 1239H—the 
+reinstatement of the registration of the CCIV.
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239K  Deregistration of a CCIV
+
+CCIV must be deregistered if it has no registered sub-funds
+(1) If, as the result of ASIC deregistering a sub-fund of a CCIV, the 
+CCIV has no registered sub-funds, ASIC must deregister the 
+CCIV.
+Note: Subject to this Subdivision, sections 601AD to 601AG apply in 
+relation to the deregistration of the CCIV.
+(2) ASIC must give the corporate director of the CCIV written notice 
+that the CCIV has been deregistered and the date on which it has 
+been deregistered.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+External administration and deregistration  Part 8B.6
+Deregistration and transfer of registration  Division 9
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239L
+
+Corporations Act 2001 667
+Compilation No. 143 Compilation date: 09/07/2025(3) The notice must be given within 5 business days after the date the 
+CCIV has been deregistered.
+CCIV may not be deregistered under section 601AA, 601AB or
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+601AC
+
+(4) ASIC may not deregister a CCIV under section 601AA, 601AB or
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+601AC.
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239L  Books of the CCIV to be kept by former corporate director
+
+(1) If a CCIV is deregistered, the corporate director of the CCIV 
+immediately before the deregistration must keep the CCIV’s books 
+(other than books that a liquidator has to keep under 
+subsection 70-35(1) of Schedule 2) for 3 years after the 
+deregistration.
+(2) An offence based on subsection (1) is an offence of strict liability.
+(3) Books that the corporate director of the CCIV is required to keep 
+under subsection (1) are taken to be books of the corporate director 
+for the purposes of subsections 601AD(5) to (7) as those sections 
+apply in relation to deregistration of the corporate director.
+Note: If the corporate director is deregistered, the directors of the corporate 
+director immediately before deregistration must keep the corporate 
+director’s books for 3 years after the deregistration: see 
+subsection 601AD(5).
+(4) Subsections 601AD(5) to (7) do not apply in relation to the 
+deregistration of a CCIV.
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239M  A CCIV may not be reinstated under section 601AH
+
+The registration of a CCIV may not be reinstated under 
+section 601AH.
+Note: If a CCIV has been deregistered and the registration of a sub-fund is 
+reinstated under section 601AH, ASIC must reinstate the registration 
+of the CCIV: see section 1239H.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239N
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+668 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision B—Transfer of registration
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239N  Registration of CCIV cannot be transferred

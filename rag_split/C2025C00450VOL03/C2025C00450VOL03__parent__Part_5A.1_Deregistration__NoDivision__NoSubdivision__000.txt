@@ -1,0 +1,195 @@
+Part 5A.1  Deregistration
+
+Part 5A.1  Deregistration
+Section 601AA
+
+Part 5A.1  Deregistration
+2 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Circumstances in which application can be made
+(2) A person may apply only if:
+(a) all the members of the company agree to the deregistration; 
+and
+(b) the company is not carrying on business; and
+(c) the company’s assets are worth less than $1,000; and
+(d) the company has paid all fees and penalties payable under 
+this Act; and
+(e) the company has no outstanding liabilities; and
+(f) the company is not a party to any legal proceedings.
+ASIC may ask for information about officers
+(3) The applicant must give ASIC any information that ASIC requests 
+about the current and former officers of the company.
+Deregistration procedure
+(4) If:
+(a) ASIC decides to deregister the company under this section; 
+and
+(b) ASIC is not aware of any failure to comply with 
+subsections (1) to (3);
+ASIC must:
+(c) give notice of the proposed deregistration on ASIC database; 
+and
+(d) publish notice of the proposed deregistration in the 
+prescribed manner.
+(4A) When 2 months have passed since the publication of the notice 
+under paragraph (4)(d), ASIC may deregister the company.
+(5) ASIC must give notice of the deregistration to:
+(a) the applicant; or
+(b) the person nominated in the application to be given the 
+notice.
+Authorised Version C2025C00450 registered 21/07/2025Deregistration, and transfer of registration, of companies  Chapter 5A
+Deregistration  Part 5A.1
+
+Part 5A.1  Deregistration
+Section 601AB
+
+Corporations Act 2001 3
+Compilation No. 143 Compilation date: 09/07/2025(6) ASIC may refuse to deregister a company under this section if 
+ASIC decides to order under section 489EA that the company be 
+wound up.
+(7) Subsection (6) does not limit ASIC’s power to refuse to deregister 
+the company.
+
+Part 5A.1  Deregistration
+601AB  Deregistration—ASIC initiated
+
+Circumstances in which ASIC may deregister
+(1) ASIC may decide to deregister a company if:
+(a) the response to a return of particulars given to the company is 
+at least 6 months late; and
+(b) the company has not lodged any other documents under this 
+Act in the last 18 months; and
+(c) ASIC has no reason to believe that the company is carrying 
+on business.
+(1A) ASIC may also decide to deregister a company if the company’s 
+review fee in respect of a review date has not been paid in full at 
+least 12 months after the due date for payment.
+(1B) ASIC may also decide to deregister a company if:
+(a) the company is liable to pay levy imposed by the ASIC 
+Supervisory Cost Recovery Levy Act 2017; and
+(b) the company has not paid in full at least 12 months after the 
+due date for payment:
+(i) the amount of the levy; and
+(ii) the amount of any late payment penalty payable in 
+relation to the levy; and
+(iii) the amount of any shortfall penalty payable in relation 
+to the levy.
+(1C) ASIC may also decide to deregister a company if the company is 
+liable to pay an instalment of levy (within the meaning of the 
+Financial Services Compensation Scheme of Last Resort Levy 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5A  Deregistration, and transfer of registration, of companies
+
+Part 5A.1  Deregistration
+
+Part 5A.1  Deregistration
+Section 601AB
+
+Part 5A.1  Deregistration
+4 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(Collection) Act 2023) and the company has not paid in full at least
+
+Part 5A.1  Deregistration
+12 months after the due date for payment:
+
+(a) the amount of the instalment of levy; and
+(b) the amount of any late payment penalty payable in relation to 
+the instalment of levy; and
+(c) the amount of any shortfall penalty payable in relation to the 
+instalment of levy.
+(2) ASIC may also decide to deregister a company if the company is 
+being wound up and ASIC has reason to believe that:
+(a) the liquidator is no longer acting; or
+(b) the company’s affairs have been fully wound up and a return 
+that the liquidator should have lodged is at least 6 months 
+late; or
+(c) the company’s affairs have been fully wound up under
+
+Part 5A.1  Deregistration
+
+Part 5A.1  Deregistration
+Section 601AD
+
+Part 5A.1  Deregistration
+6 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Other company property vests in ASIC
+(2) On deregistration, all the company’s property (other than any 
+property held by the company on trust) vests in ASIC. If company 
+property is vested in a liquidator (other than any company property 
+vested in a liquidator on trust) immediately before deregistration, 
+that property vests in ASIC. This subsection extends to property 
+situated outside this jurisdiction.
+Rights and powers in respect of property
+(3) Under subsection (1A) or (2), the Commonwealth or ASIC takes 
+only the same property rights that the company itself held. If the 
+company held particular property subject to a security or other 
+interest or claim, the Commonwealth or ASIC takes the property 
+subject to that interest or claim.
+Note: See also subsection 601AE(3)—which deals with liabilities that a law 
+imposes on the property (particularly liabilities such as rates, taxes 
+and other charges).
+(3A) The Commonwealth has, subject to its obligations as trustee of the 
+trust, all the powers of an owner over property vested in it under 
+subsection (1A).
+Note: Section 601AF confers additional powers on the Commonwealth to 
+fulfil outstanding obligations of the deregistered company.
+(4) ASIC has all the powers of an owner over property vested in it 
+under subsection (2).
+Note: Section 601AF confers additional powers on ASIC to fulfil 
+outstanding obligations of the deregistered company.
+Company books to be kept by former directors
+(5) The directors of the company immediately before deregistration 
+must keep the company’s books for 3 years after the deregistration. 
+(6) Subsection (5) does not apply to books that a liquidator has to keep 
+under subsection 542(2), or subsection 70-35(1) of Schedule 2 
+(retention and return or destruction of books).
+Authorised Version C2025C00450 registered 21/07/2025Deregistration, and transfer of registration, of companies  Chapter 5A
+Deregistration  Part 5A.1
+
+Part 5A.1  Deregistration
+Section 601AE
+
+Corporations Act 2001 7
+Compilation No. 143 Compilation date: 09/07/2025Note: A defendant bears an evidential burden in relation to the matter in 
+subsection (6), see subsection 13.3(3) of the Criminal Code.
+Strict liability offences
+(7) An offence based on subsection (5) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 5A.1  Deregistration
+601AE  What the Commonwealth or ASIC does with the property
+
+Trust property vested in the Commonwealth
+(1) If property vests in the Commonwealth under 
+subsection 601AD(1A), the Commonwealth may:
+(a) continue to act as trustee; or
+(b) apply to a court for the appointment of a new trustee.
+Note: Under paragraph (1)(a), the Commonwealth may be able to transfer 
+the property to a new trustee chosen in accordance with the trust 
+instrument.
+(1A) If the Commonwealth continues to act as trustee in respect of the 
+property, subject to its obligations as trustee, the Commonwealth:
+(a) in the case of money—must credit the amount of the money 
+to a special account (within the meaning of the Public 
+Governance, Performance and Accountability Act 2013); or
+(b) otherwise:
+(i) may sell or dispose of the property as it thinks fit; and
+(ii) if the Commonwealth does so—must credit the amount 
+of the proceeds to a special account (within the meaning 
+of the Public Governance, Performance and 
+Accountability Act 2013).
+Note: ASIC may, for and on behalf of the Commonwealth, perform all the 
+duties and exercise all the powers of the Commonwealth as trustee in 
+relation to property held on trust by the Commonwealth (see 
+subsection 8(6) of the ASIC Act).
+Property vested in ASIC
+(2) If property vests in ASIC under subsection 601AD(2), ASIC may:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5A  Deregistration, and transfer of registration, of companies
+
+Part 5A.1  Deregistration
+
+Part 5A.1  Deregistration
+Section 601AE
+
+Part 5A.1  Deregistration
+8 Corporations Act 2001

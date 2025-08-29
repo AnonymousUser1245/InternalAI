@@ -1,0 +1,194 @@
+Corporations Act 2001 513
+Compilation No. 143 Compilation date: 09/07/2025does not bear an evidential burden in relation to the matter in 
+paragraph (2)(b).
+Fault-based offence
+(4) A person commits an offence if the person contravenes 
+subsection (1).
+Strict liability offence
+(5) A person commits an offence of strict liability if the person 
+contravenes subsection (1).
+Functions and powers of liquidator prevail in case of conflict
+(6) If subsection (2) applies and there is a conflict between a function 
+or power of the liquidator of the sub-fund and a function or power 
+of the corporate director in relation to the CCIV, the liquidator’s 
+function or power prevails.
+Effect of section
+(7) This section does not remove the corporate director of a CCIV 
+from office.
+(8) Nothing in this section affects a secured creditor’s right to realise 
+or otherwise deal with the security interest.
+(9) Section 198G does not apply to a CCIV.
+(10) A provision of this Act that applies despite section 198G also 
+applies despite this section.
+Definitions
+(11) In this section:
+liquidator includes a provisional liquidator.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+Section 1224R
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+514 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision C—Replacing the corporate director
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224R  Changes only take effect when ASIC alters record of
+
+registration
+Despite anything in this Subdivision, the company named in 
+ASIC’s record of registration as the corporate director or 
+temporary corporate director of a CCIV remains the CCIV’s 
+corporate director until the record is altered to name another 
+company as the CCIV’s corporate director or temporary corporate 
+director.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224S  CCIV does not have an eligible corporate director
+
+If a CCIV does not have a corporate director that meets the 
+requirements of section 1224F, an application to the Court for the 
+appointment of a temporary corporate director of the CCIV under 
+section 1224V may be made by any of the following:
+(a) ASIC;
+(b) a member, or group of members, of the CCIV.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224T  Retirement of corporate director
+
+(1) If the corporate director of a CCIV wants to retire as corporate 
+director, it must call a members’ meeting to explain its reason for 
+wanting to retire and to enable the members to vote on a resolution 
+to choose a company to be the new corporate director. The 
+resolution must be a special resolution.
+(2) The notice of meeting of the CCIV’s members must:
+(a) set out the corporate director’s reason for wanting to retire; 
+and
+(b) nominate as the new corporate director a company (the 
+nominated company) that:
+(i) meets the requirements of section 1224F; and
+(ii) has consented in writing to being chosen as the new 
+corporate director of the CCIV.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Corporate governance of CCIVs  Part 8B.3
+Officers and employees of the CCIV  Division 2
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+Section 1224U
+
+Corporations Act 2001 515
+Compilation No. 143 Compilation date: 09/07/2025(3) If the members choose the nominated company to be the new 
+corporate director, as soon as practicable and in any event within 2 
+business days after the day of the meeting, the current corporate 
+director must lodge a notice with ASIC asking it to alter the record 
+of the CCIV’s registration to name the nominated company as the 
+corporate director of the CCIV.
+(4) If:
+(a) the members choose the nominated company to be the new 
+corporate director; and
+(b) the current corporate director does not lodge the notice 
+required by subsection (3);
+the nominated company may lodge that notice.
+(5) An offence based on subsection (3) is an offence of strict liability.
+(6) If the members do not choose the nominated company to be the 
+new corporate director, an application to the Court for appointment 
+of a temporary corporate director under section 1224V may be 
+made by the current corporate director of the CCIV.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224U  Replacement of corporate director by members
+
+(1) If members of a CCIV want to replace the corporate director, the 
+members may take action under Part 2G.4 (as that Part applies to 
+the CCIV under section 1228A) for the calling of a meeting of the 
+CCIV’s members to consider and vote on:
+(a) a special resolution that the current corporate director should 
+be removed; and
+(b) a special resolution choosing a company to be the new 
+corporate director.
+(2) The notice of meeting of the CCIV’s members must:
+(a) set out the intention to remove the current corporate director; 
+and
+(b) nominate, as the new corporate director of the CCIV, a 
+company that:
+(i) meets the requirements of section 1224F; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+Section 1224V
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+516 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) has consented in writing to being appointed as the new 
+corporate director of the CCIV.
+(3) If both resolutions are passed, the CCIV is taken, on the day of the 
+meeting, to have appointed the company nominated in the notice as 
+the new corporate director of the CCIV.
+Note: See also section 1224R (when changes take effect).
+(4) The current corporate director must, as soon as practicable and in 
+any event within 2 business days after the appointment, lodge a 
+notice with ASIC asking it to alter the record of the CCIV’s 
+registration to name the company as the corporate director of the 
+CCIV.
+(5) If the current corporate director does not lodge the notice required 
+by subsection (4), the company chosen by the members to be the 
+new corporate director may lodge that notice.
+(6) An offence based on subsection (4) is an offence of strict liability.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224V  Appointment of temporary corporate director by Court
+
+(1) On application under section 1224S or subsection 1224T(6) or
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224X(2), the Court may:
+
+(a) if the CCIV has a current corporate director—order the 
+removal of the current corporate director; and
+(b) order the appointment of a company as the temporary 
+corporate director of the CCIV; and
+(c) make any further orders that the Court considers appropriate.
+Note: See also section 1224R (when changes take effect).
+(2) The Court must not make an order under paragraph (1)(a) or (b) 
+unless:
+(a) the Court is satisfied that:
+(i) the appointment is in the interests of the members of the 
+CCIV; and
+(ii) the company meets the requirements of section 1224F; 
+and
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Corporate governance of CCIVs  Part 8B.3
+Officers and employees of the CCIV  Division 2
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+Section 1224W
+
+Corporations Act 2001 517
+Compilation No. 143 Compilation date: 09/07/2025(b) the company consents in writing to becoming the CCIV’s 
+temporary corporate director.
+(3) The person who made the application for the order must, as soon as 
+practicable and in any event within 2 days after the Court’s order 
+appointing the temporary corporate director, lodge a notice with 
+ASIC informing ASIC of the appointment made by the Court.
+(4) If the person referred to in subsection (3) does not lodge the notice 
+required by that subsection, the company appointed by the Court as 
+the temporary corporate director may lodge that notice.
+(5) An offence based on subsection (3) is an offence of strict liability.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224W  Temporary corporate director to initiate appointment of

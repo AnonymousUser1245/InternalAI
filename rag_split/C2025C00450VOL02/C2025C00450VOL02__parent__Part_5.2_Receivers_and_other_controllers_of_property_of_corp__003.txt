@@ -1,0 +1,197 @@
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 422C
+
+Corporations Act 2001 313
+Compilation No. 143 Compilation date: 09/07/2025(2A) The transfer must be made:
+(a) if the new controller is appointed instead of the former 
+controller—within 5 business days after the new controller is 
+appointed; or
+(b) otherwise—within 5 business days after the former controller 
+ceases to act.
+(3) The former controller may take a copy of any part of the books 
+before transferring possession or control of them to the new 
+controller.
+New controller must allow inspection etc.
+(4) After possession or control of the books is transferred, the new 
+controller must allow the former controller to inspect them at any 
+reasonable time and take a copy of any part of the books.
+Offence
+(5) A person commits an offence if:
+(a) the person is subject to a requirement under subsection (2) or 
+(4); and
+(b) the person intentionally or recklessly fails to comply with the 
+requirement.
+Penalty: 50 penalty units.
+Lien against books not prejudiced
+(6) If the new controller is entitled to take possession or control of the 
+books under this section:
+(a) a person is not entitled, as against the new controller, to 
+claim a lien on the books; and
+(b) such a lien is not otherwise prejudiced.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 422D
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+314 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025422D  Transfer of books to ASIC etc.
+Transfer of books to ASIC
+(1) If a person ceases to act as a controller of property of a corporation, 
+ASIC may, by written notice given to the person, require the 
+person to:
+(a) if the person has possession or control of books relating to 
+the control of that property of the corporation in his or her 
+possession or control—transfer possession or control of those 
+books to ASIC within the period specified in the notice; or
+(b) otherwise—notify ASIC, within the period and in the manner 
+specified in the notice, that the person does not have books 
+relating to the control of that property of the corporation in 
+the person’s possession or control.
+Offence
+(2) A person commits an offence if:
+(a) the person is subject to a requirement under subsection (1); 
+and
+(b) the person intentionally or recklessly fails to comply with the 
+requirement.
+Penalty: 50 penalty units.
+ASIC must transfer books to new controller
+(3) If:
+(a) possession or control of books relating to the control of 
+property of a corporation is transferred to ASIC under this 
+section; and
+(b) the books are in ASIC’s possession or control; and
+(c) a person (the new controller) is or becomes:
+(i) the controller of that property of the corporation; or
+(ii) if the corporation is a company under external 
+administration—the external administrator of the 
+company;
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 422D
+
+Corporations Act 2001 315
+Compilation No. 143 Compilation date: 09/07/2025ASIC must, as soon as practicable, transfer possession or control of 
+those books to the new controller.
+ASIC must transfer books to company
+(4) If:
+(a) possession or control of books relating to the control of 
+property of a corporation is transferred to ASIC under this 
+section; and
+(b) the books are in ASIC’s possession or control; and
+(c) it is unlikely that another person will be appointed as:
+(i) the controller of that property of the corporation; or
+(ii) if the corporation is a company under external 
+administration—the external administrator of the 
+company;
+ASIC must, as soon as practicable, transfer possession or control of 
+those books to the relevant corporation.
+Lien against books not prejudiced
+(5) If ASIC is entitled to take possession or control of the books under 
+this section:
+(a) a person is not entitled, as against ASIC, to claim a lien on 
+the books; and
+(b) such a lien is not otherwise prejudiced.
+(6) If ASIC is required to give possession or control of the books to 
+the new controller under this section:
+(a) a person is not entitled, as against the new controller, to 
+claim a lien on the books; and
+(b) such a lien is not otherwise prejudiced.
+Notice is not a legislative instrument
+(7) A notice under subsection (1) is not a legislative instrument.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 423
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+316 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Retention period for books
+(8) ASIC must retain all books:
+(a) that are relevant to the control of property of the corporation; 
+and
+(b) possession or control of which is transferred to ASIC under 
+this section; and
+(c) possession or control of which is not transferred to another 
+entity under this section, or under any other law;
+for a period (the retention period) of 2 years after the day on which 
+ASIC takes possession or control of the books.
+Destruction of books at end of retention period
+(9) ASIC may destroy the books at the end of the retention period.
+Relationship with other laws
+(10) Subsections (8) and (9) do not apply to the extent that ASIC is 
+under an obligation to retain the books, or a part of the books, 
+under another provision of this Act or under any other law.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+423  Supervision of controller
+
+(1) If:
+(a) it appears to the Court or to ASIC that a controller of 
+property of a corporation has not faithfully performed, or is 
+not faithfully performing, the controller’s functions or has 
+not observed, or is not observing, a requirement of:
+(i) in the case of a receiver—the order by which, or the 
+instrument under which, the receiver was appointed; or
+(ii) otherwise—an instrument under which the controller 
+entered into possession, or took control, of that 
+property; or
+(iii) in any case—the Court; or
+(iv) in any case—this Act, the regulations or the rules of 
+court; or
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 424
+
+Corporations Act 2001 317
+Compilation No. 143 Compilation date: 09/07/2025(b) a person complains to the Court or to ASIC about an act or 
+omission of a controller of property of a corporation in 
+connection with performing or exercising any of the 
+controller’s functions and powers;
+the Court or ASIC, as the case may be, may inquire into the matter 
+and, where the Court or ASIC so inquires, the Court may take such 
+action as it thinks fit.
+(2) ASIC may report to the Court any matter that in its opinion is a 
+misfeasance, neglect or omission on the part of a controller of 
+property of a corporation and the Court may order the controller to 
+make good any loss that the estate of the corporation has sustained 
+thereby and may make such other order or orders as it thinks fit.
+(3) The Court may at any time:
+(a) require a controller of property of a corporation to answer 
+questions about the performance or exercise of any of the 
+controller’s functions and powers as controller; or
+(b) examine a person about the performance or exercise by such 
+a controller of any of the controller’s functions and powers as 
+controller; or
+(c) direct an investigation to be made of such a controller’s 
+books.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+424  Controller may apply to Court
+
+(1) A controller of property of a corporation may apply to the Court 
+for directions in relation to any matter arising in connection with 
+the performance or exercise of any of the controller’s functions and 
+powers as controller.
+(2) In the case of a receiver of property of a corporation, subsection (1) 
+applies only if the receiver was appointed under a power contained 
+in an instrument.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 425
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+318 Corporations Act 2001

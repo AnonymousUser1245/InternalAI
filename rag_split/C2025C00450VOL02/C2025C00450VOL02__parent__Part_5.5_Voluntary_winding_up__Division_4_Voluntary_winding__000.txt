@@ -1,0 +1,200 @@
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+Section 506A
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+564 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(1B) The company must lodge a copy of a special resolution referred to 
+in paragraph (1A)(b) with ASIC within 14 days after the resolution 
+is passed.
+(2) A list of contributories settled in accordance with paragraph (1)(c) 
+is prima facie evidence of the liability of the persons named in the 
+list to be contributories.
+(3) The liquidator must pay the debts of the company and adjust the 
+rights of the contributories among themselves.
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+506A  Declarations by liquidator—relevant relationships and
+
+indemnities
+Scope
+(1) This section applies to a liquidator appointed in relation to a 
+creditors’ voluntary winding up.
+Declaration and notification of relevant relationships and 
+indemnities
+(2) Within 10 business days after the day of the meeting of the 
+company at which the resolution for voluntary winding up is 
+passed, the liquidator must:
+(a) make:
+(i) a declaration of relevant relationships; and
+(ii) a declaration of indemnities; and
+(b) give a copy of each declaration to as many of the company’s 
+creditors as reasonably practicable.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(3) As soon as practicable after making a declaration under 
+subsection (2), the liquidator must lodge a copy of the declaration 
+with ASIC.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Voluntary winding up  Part 5.5
+Voluntary winding up generally  Division 4
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+Section 506A
+
+Corporations Act 2001 565
+Compilation No. 143 Compilation date: 09/07/2025Replacement declarations
+(4) If:
+(a) at a particular time, the liquidator makes:
+(i) a declaration of relevant relationships; or
+(ii) a declaration of indemnities;
+under subsection (2) of this section; and
+(b) at a later time:
+(i) the declaration has become out-of-date; or
+(ii) the liquidator becomes aware of an error in the 
+declaration;
+the liquidator must, as soon as practicable, make:
+(c) if subparagraph (a)(i) applies—a replacement declaration of 
+relevant relationships; or
+(d) if subparagraph (a)(ii) applies—a replacement declaration of 
+indemnities.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(5) The liquidator must table a copy of a replacement declaration 
+under subsection (4):
+(a) if:
+(i) there is a committee of inspection; and
+(ii) the next meeting of the committee of inspection occurs 
+before the next meeting of the company’s creditors;
+at the next meeting of the committee of inspection; or
+(b) in any other case—at the next meeting of the company’s 
+creditors.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(6) As soon as practicable after making a replacement declaration 
+under subsection (4), the liquidator must lodge a copy of the 
+replacement declaration with ASIC.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+Section 507
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+566 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(7) In a prosecution for an offence constituted by a failure to include a 
+matter in a declaration under this section, it is a defence if the 
+defendant proves that:
+(a) the defendant made reasonable enquiries; and
+(b) after making these enquiries, the defendant had no reasonable 
+grounds for believing that the matter should have been 
+included in the declaration.
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+507  Power of liquidator to accept shares etc. as consideration for
+
+sale of property of company
+(1) This section applies where it is proposed to transfer or sell to a 
+body corporate the whole or a part of the business or property of a 
+company.
+(2) The liquidator of the company may, with the sanction of a special 
+resolution of the company conferring on the liquidator either a 
+general authority or an authority in respect of a particular 
+arrangement, enter into an arrangement under which, in 
+compensation or part compensation for the transfer or sale:
+(a) the liquidator is to receive shares, debentures, policies or 
+other like interests in the body corporate for distribution 
+among the members of the company; or
+(b) the members of the company may, instead of, or as well as, 
+receiving cash, shares, debentures, policies or other like 
+interests in the body corporate, participate in the profits of, or 
+receive any other benefit from, the body corporate.
+(3) A transfer, sale or arrangement under this section is binding on the 
+members of the company.
+(4) If a member of the company who did not vote in favour of a special 
+resolution expresses dissent from the resolution in writing 
+addressed to the liquidator and left at the office of the liquidator 
+within 7 days after the passing of the resolution, the member may 
+require the liquidator either to abstain from carrying the resolution 
+into effect or to purchase the member’s interest at a price to be 
+determined by agreement or by arbitration under this section.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Voluntary winding up  Part 5.5
+Voluntary winding up generally  Division 4
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+Section 507
+
+Corporations Act 2001 567
+Compilation No. 143 Compilation date: 09/07/2025(5) If the liquidator elects to purchase the member’s interest, the 
+purchase money must be paid before the company is deregistered 
+and be raised by the liquidator in such manner as is determined by 
+special resolution.
+(6) A special resolution is not invalid for the purposes of this section 
+because it is passed before, or concurrently with, a resolution for 
+voluntary winding up or for appointing liquidators but, if an order 
+for winding up the company by the Court is made within 1 year 
+after the passing of the resolution, the resolution is not valid unless 
+sanctioned by the Court.
+(7) For the purposes of an arbitration under this section, the agreed 
+arbitration law applies as if there were a submission for reference 
+to 2 arbitrators, one to be appointed by each party.
+(7A) Parties to the arbitration may agree on the State or Territory in this 
+jurisdiction whose law is to govern the arbitration. The agreed 
+arbitration law is the law of that State or Territory relating to 
+commercial arbitration.
+(8) The appointment of an arbitrator may be made in writing signed 
+by:
+(a) if there is only one liquidator—the liquidator; or
+(b) if there is more than one liquidator—any 2 or more of the 
+liquidators.
+(9) The Court may give any directions necessary for the initiation and 
+conduct of the arbitration and any such direction is binding on the 
+parties.
+(10) In the case of a creditors’ voluntary winding up, the powers of the 
+liquidator under this section must not be exercised except with the 
+approval of the Court or the committee of inspection.
+(11) The company must lodge a copy of a special resolution referred to 
+in subsection (2) or (5) with ASIC within 14 days after the 
+resolution is passed.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+Section 509
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+568 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025509  Deregistration
+ASIC must deregister at the end of 3 month period
+(1) If an end of administration return for a company is lodged with 
+ASIC on the basis that the affairs of the company are fully wound 
+up, ASIC must deregister the company at the end of the period of 3 
+months beginning on the day after the return is lodged (the 
+deregistration period).
+ASIC must deregister on a day specified by the Court
+(2) On application by the liquidator or any other interested party, the 
+Court may make an order that ASIC deregister the company on a 
+specified day. The Court must make the order before the end of the 
+deregistration period.
+(3) The person on whose application an order under subsection (2) is 
+made must, within 10 business days after the making of the order, 
+lodge a copy of the order.
+
+Part 5.5  Voluntary winding up
+Division 4  Voluntary winding up generally
+510  Arrangement: when binding on creditors

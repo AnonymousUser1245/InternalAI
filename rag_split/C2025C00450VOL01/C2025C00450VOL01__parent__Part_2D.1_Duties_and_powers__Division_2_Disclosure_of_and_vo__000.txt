@@ -1,0 +1,190 @@
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+Section 191
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+360 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Disclosure of, and voting on matters involving, 
+material personal interests
+Note: This Division applies in relation to CCIVs in a modified form: see sections 1225C and
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+1224K.
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+191  Material personal interest—director’s duty to disclose
+
+Director’s duty to notify other directors of material personal 
+interest when conflict arises
+(1) A director of a company who has a material personal interest in a 
+matter that relates to the affairs of the company must give the other 
+directors notice of the interest unless subsection (2) says otherwise.
+(1A) For an offence based on subsection (1), strict liability applies to the 
+circumstance, that the director of a company has a material 
+personal interest in a matter that relates to the affairs of the 
+company.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(2) The director does not need to give notice of an interest under 
+subsection (1) if:
+(a) the interest:
+(i) arises because the director is a member of the company 
+and is held in common with the other members of the 
+company; or
+(ii) arises in relation to the director’s remuneration as a 
+director of the company; or
+(iii) relates to a contract the company is proposing to enter 
+into that is subject to approval by the members and will 
+not impose any obligation on the company if it is not 
+approved by the members; or
+(iv) arises merely because the director is a guarantor or has 
+given an indemnity or security for all or part of a loan 
+(or proposed loan) to the company; or
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Duties and powers  Part 2D.1
+Disclosure of, and voting on matters involving, material personal interests  Division 2
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+Section 191
+
+Corporations Act 2001 361
+Compilation No. 143 Compilation date: 09/07/2025(v) arises merely because the director has a right of 
+subrogation in relation to a guarantee or indemnity 
+referred to in subparagraph (iv); or
+(vi) relates to a contract that insures, or would insure, the 
+director against liabilities the director incurs as an 
+officer of the company (but only if the contract does not 
+make the company or a related body corporate the 
+insurer); or
+(vii) relates to any payment by the company or a related body 
+corporate in respect of an indemnity permitted under 
+section 199A or any contract relating to such an 
+indemnity; or
+(viii) is in a contract, or proposed contract, with, or for the 
+benefit of, or on behalf of, a related body corporate and 
+arises merely because the director is a director of the 
+related body corporate; or
+(b) the company is a proprietary company and the other directors 
+are aware of the nature and extent of the interest and its 
+relation to the affairs of the company; or
+(c) all the following conditions are satisfied:
+(i) the director has already given notice of the nature and 
+extent of the interest and its relation to the affairs of the 
+company under subsection (1);
+(ii) if a person who was not a director of the company at the 
+time when the notice under subsection (1) was given is 
+appointed as a director of the company—the notice is 
+given to that person;
+(iii) the nature or extent of the interest has not materially 
+increased above that disclosed in the notice; or
+(d) the director has given a standing notice of the nature and 
+extent of the interest under section 192 and the notice is still 
+effective in relation to the interest.
+Note: Subparagraph (c)(ii)—the notice may be given to the person referred 
+to in this subparagraph by someone other than the director to whose 
+interests it relates (for example, by the secretary).
+(3) The notice required by subsection (1) must:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2D  Officers and employees
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+Section 192
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+362 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) give details of:
+(i) the nature and extent of the interest; and
+(ii) the relation of the interest to the affairs of the company; 
+and
+(b) be given at a directors’ meeting as soon as practicable after 
+the director becomes aware of their interest in the matter.
+The details must be recorded in the minutes of the meeting.
+Effect of contravention by director
+(4) A contravention of this section by a director does not affect the 
+validity of any act, transaction, agreement, instrument, resolution 
+or other thing.
+Section does not apply to single director proprietary company
+(5) This section does not apply to a proprietary company that has only
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+1 director.
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+192  Director may give other directors standing notice about an
+
+interest
+Power to give notice
+(1) A director of a company who has an interest in a matter may give 
+the other directors standing notice of the nature and extent of the 
+interest in the matter in accordance with subsection (2). The notice 
+may be given at any time and whether or not the matter relates to 
+the affairs of the company at the time the notice is given.
+Note: The standing notice may be given to the other directors before the 
+interest becomes a material personal interest.
+(2) The notice under subsection (1) must:
+(a) give details of the nature and extent of the interest; and
+(b) be given:
+(i) at a directors’ meeting (either orally or in writing); or
+(ii) to the other directors individually in writing.
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Duties and powers  Part 2D.1
+Disclosure of, and voting on matters involving, material personal interests  Division 2
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+Section 192
+
+Corporations Act 2001 363
+Compilation No. 143 Compilation date: 09/07/2025The standing notice is given under subparagraph (b)(ii) when it has 
+been given to every director.
+Standing notice must be tabled at meeting if given to directors 
+individually
+(3) If the standing notice is given to the other directors individually in 
+writing, it must be tabled at the next directors’ meeting after it is 
+given.
+Nature and extent of interest must be recorded in minutes
+(4) The director must ensure that the nature and extent of the interest 
+disclosed in the standing notice is recorded in the minutes of the 
+meeting at which the standing notice is given or tabled.
+Dates of effect and expiry of standing notice
+(5) The standing notice:
+(a) takes effect as soon as it is given; and
+(b) ceases to have effect if a person who was not a director of the 
+company at the time when the notice was given is appointed 
+as a director of the company.
+A standing notice that ceases to have effect under paragraph (b) 
+commences to have effect again if it is given to the person referred 
+to in that paragraph.
+Note: The notice may be given to the person referred to in paragraph (b) by 
+someone other than the director to whose interests it relates (for 
+example, by the secretary).
+Effect of material increase in nature or extent of interest
+(6) The standing notice ceases to have effect in relation to a particular 
+interest if the nature or extent of the interest materially increases 
+above that disclosed in the notice.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2D  Officers and employees
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+Section 193
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+364 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Effect of contravention by director
+(7) A contravention of this section by a director does not affect the 
+validity of any act, transaction, agreement, instrument, resolution 
+or other thing.
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+193  Interaction of sections 191 and 192 with other laws etc.

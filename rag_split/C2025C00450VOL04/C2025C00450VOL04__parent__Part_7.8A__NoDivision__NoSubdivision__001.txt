@@ -1,0 +1,210 @@
+Part 7.8A
+
+Distribution of financial products  Division 3
+
+Part 7.8A
+Section 994E
+
+Corporations Act 2001 831
+Compilation No. 143 Compilation date: 09/07/2025Division 3—Distribution of financial products
+
+Part 7.8A
+994E  Reasonable steps to ensure consistency with target market
+
+determinations
+Persons who make target market determinations
+(1) A person who makes a target market determination for a financial 
+product must take reasonable steps that will, or are reasonably 
+likely to, result in retail product distribution conduct in relation to 
+the product (other than excluded conduct) being consistent with the 
+determination.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: In a prosecution for an offence, the defendant bears an evidential 
+burden in relation to conduct being excluded conduct (see 
+subsection 13.3(3) of the Criminal Code).
+Note 3: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+(2) A person is not taken to have failed to take reasonable steps for the 
+purpose of subsection (1) merely because:
+(a) retail product distribution conduct of a regulated person 
+(other than the person) in relation to the product is 
+inconsistent with the target market determination; or
+(b) a retail client who is not in the target market for the product 
+acquires the product.
+Regulated persons
+(3) If:
+(a) a target market determination for a financial product has been 
+made; and
+(b) the product is on offer for acquisition by issue, or for 
+regulated sale, to retail clients; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.8A
+
+Distribution of financial products  Division 3
+
+Part 7.8A
+Section 994F
+
+Corporations Act 2001 833
+Compilation No. 143 Compilation date: 09/07/2025(c) what the person knows, or ought reasonably to know, about:
+(i) the matters referred to in paragraphs (a) and (b); and
+(ii) ways of eliminating or minimising the likelihood and 
+the harm; and
+(d) the availability and suitability of ways to eliminate or 
+minimise the likelihood and the harm.
+(6) A regulated person is not taken to have failed to take reasonable 
+steps for the purpose of paragraph (3)(d) if the person engages in 
+retail product distribution conduct that:
+(a) relates to a particular retail client; and
+(b) relates to a particular financial product; and
+(c) is necessary to implement personal advice given to the client 
+in relation to the product.
+
+Part 7.8A
+994F  Record keeping and notification obligations
+
+Record keeping by persons who make, or are required to make, 
+target market determinations
+(1) A person who makes, or who is required by this Part to make, a 
+target market determination for a financial product must collect 
+and keep complete and accurate records of:
+(a) the person’s decisions in relation to the following:
+(i) all target market determinations for the product;
+(ii) review triggers for those target market determinations;
+(iii) review periods for those target market determinations;
+(iv) the requirements of subsections 994B(5) and (8) for 
+those target market determinations; and
+(b) the reasons for those decisions.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.8A
+
+Distribution of financial products  Division 3
+
+Part 7.8A
+Section 994F
+
+Corporations Act 2001 835
+Compilation No. 143 Compilation date: 09/07/2025Reporting complaint information to persons who make target 
+market determinations
+(4) If the regulated person engages in the retail product distribution 
+conduct during a reporting period specified under 
+paragraph 994B(5)(g) (which relates to complaints), the regulated 
+person must, as soon as practicable, but in any case within 10 
+business days, after the end of the reporting period, report in 
+writing to the person who made the target market determination:
+(a) whether the regulated person received complaints in relation 
+to the product during the reporting period; and
+(b) if the regulated person received such complaints—the 
+number of complaints the regulated person received.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+Reporting other information to persons who make target market 
+determinations
+(5) If:
+(a) under the target market determination for the financial 
+product, the regulated person is required to report 
+information of a specified kind to the person that made the 
+determination (see subparagraph 994B(5)(h)(i)); and
+(b) the regulated person engages in the retail product distribution 
+conduct in relation to the product during a reporting period 
+for that kind of information;
+the regulated person must, as soon as practicable, but in any case 
+within 10 business days, after the end of the reporting period for 
+information of that kind, report in writing to the person that made 
+the determination:
+(c) all the information of that kind that the regulated person 
+acquired during the reporting period; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.8A
+
+Distribution of financial products  Division 3
+
+Part 7.8A
+Section 994G
+
+Corporations Act 2001 837
+Compilation No. 143 Compilation date: 09/07/2025(a) a person makes a target market determination for a financial 
+product; and
+(b) the person becomes aware of a significant dealing in the 
+product in relation to a retail client (except a dealing of a 
+kind referred to in paragraph (a) of the definition of excluded 
+conduct in subsection 994A(1)); and
+(c) the person becomes aware that the dealing is not consistent 
+with the determination;
+the person must give written notice to ASIC as soon as practicable, 
+and in any case within 10 business days, after becoming so aware.
+Note 1: Failure to comply with this section is an offence (see 
+subsection 1311(1)).
+Note 2: This section is also a civil penalty provision (see section 1317E). For 
+relief from liability to a civil penalty relating to this section, see 
+section 1317S.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.8A
+
+ASIC powers  Division 4
+
+Part 7.8A
+Section 994J
+
+Corporations Act 2001 839
+Compilation No. 143 Compilation date: 09/07/2025(2) ASIC may order, in writing, that specified conduct in relation to 
+retail clients in respect of the financial product (except excluded 
+conduct) must not be engaged in while the order is in force. The 
+order is not a legislative instrument.
+(3) Before making an order under subsection (2), ASIC must:
+(a) hold a hearing; and
+(b) give a reasonable opportunity to any interested person to 
+make oral or written submissions to ASIC on whether an 
+order should be made.
+(4) If ASIC considers that any delay in making an order under 
+subsection (2) pending the holding of a hearing would be 
+prejudicial to the public interest, ASIC may make an interim order 
+under that subsection. The interim order may be made without 
+holding a hearing and lasts for 21 days after the day on which it is 
+made unless revoked before then.
+(5) At any time during the hearing, ASIC may make an interim order 
+under subsection (2). The interim order lasts until:
+(a) ASIC makes an order under subsection (2) after the 
+conclusion of the hearing; or
+(b) the interim order is revoked;
+whichever happens first.
+(6) If ASIC makes an order under subsection (2) in relation to a 
+financial product, ASIC must serve a copy of the order on the 
+person who made or was required to make the target market 
+determination.
+(7) The person on whom the order is served must take all reasonable 
+steps to ensure that other people who engage in conduct to which 
+the order applies are aware of the order.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.8A
+
+Exemptions and modifications  Division 5
+
+Part 7.8A
+Section 994L
+
+Corporations Act 2001 841
+Compilation No. 143 Compilation date: 09/07/2025Division 5—Exemptions and modifications
+
+Part 7.8A
+994L  Exemptions and modifications by ASIC

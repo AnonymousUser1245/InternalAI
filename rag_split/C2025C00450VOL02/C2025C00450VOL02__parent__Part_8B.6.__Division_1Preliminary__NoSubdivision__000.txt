@@ -1,0 +1,134 @@
+Part 8B.6.
+Division 1—Preliminary
+435A  Object of Part
+
+The object of this Part, and Schedule 2 to the extent that it relates 
+to this Part, is to provide for the business, property and affairs of an 
+insolvent company to be administered in a way that:
+(a) maximises the chances of the company, or as much as 
+possible of its business, continuing in existence; or
+(b) if it is not possible for the company or its business to 
+continue in existence—results in a better return for the 
+company’s creditors and members than would result from an 
+immediate winding up of the company.
+Note: Schedule 2 contains additional rules about companies under external 
+administration.
+
+Part 8B.6.
+Division 1—Preliminary
+435B  Meaning of property and receiver
+
+In this Part:
+property of a company includes any PPSA retention of title 
+property of the company.
+Note: See sections 9 (definition of property) and 51F (PPSA retention of 
+title property). An extended definition of property applies in 
+subsection 444E(3): see subsection 444E(4).
+receiver includes a receiver and manager.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 8B.6.
+Division 1—Preliminary
+452A  Object of this Part
+
+The object of this Part, and Schedule 2 to the extent that it relates 
+to this Part, is to provide for a restructuring process for eligible 
+companies that allows the companies:
+(a) to retain control of the business, property and affairs while 
+developing a plan to restructure with the assistance of a small 
+business restructuring practitioner; and
+(b) to enter into a restructuring plan with creditors.
+Note: Schedule 2 contains additional rules about the restructuring process.
+
+Part 8B.6.
+Division 1—Preliminary
+452B  Meaning of property
+
+In this Part:
+property of a company includes any PPSA retention of title 
+property of the company.
+Note: See sections 9 (definition of property) and 51F (PPSA retention of 
+title property).
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Restructuring of a company  Part 5.3B
+Restructuring  Division 2
+
+Part 8B.6.
+Division 1—Preliminary
+Section 453A
+
+Corporations Act 2001 435
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Restructuring
+
+Part 8B.6.
+Division 1—Preliminary
+513  Application of Part
+
+Except so far as the contrary intention appears, the provisions of 
+this Act about winding up apply in relation to the winding up of a 
+company whether in insolvency, by the Court or voluntarily.
+
+Part 8B.6.
+Division 1—Preliminary
+513AA  Meaning of property
+
+In this Part:
+property of a company includes PPSA retention of title property, if 
+the security interest in the property is vested in the company 
+because of the operation of any of the following provisions:
+(a) section 267 or 267A of the Personal Property Securities Act
+
+Part 8B.6.
+Division 1—Preliminary
+2009 (property subject to unperfected security interests);
+
+(b) section 588FL of this Act (collateral not registered within 
+time).
+Note: See sections 9 (definition of property) and 51F (PPSA retention of 
+title property).
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+When winding up taken to begin  Division 1A
+
+Part 8B.6.
+Division 1—Preliminary
+Section 513A
+
+Corporations Act 2001 571
+Compilation No. 143 Compilation date: 09/07/2025Division 1A—When winding up taken to begin
+
+Part 8B.6.
+Division 1—Preliminary
+513A  Winding up ordered by the Court
+
+If the Court orders under section 233, 459A, 459B or 461 that a 
+company be wound up, the winding up is taken to have begun or 
+commenced:
+(a) if, when the order was made, a winding up of the company 
+was already in progress—when the last-mentioned winding 
+up is taken because of this Division to have begun or 
+commenced; or
+(b) if, immediately before the order was made, the company was 
+under administration—on the section 513C day in relation to 
+the administration; or
+(c) if:
+(i) when the order was made, a provisional liquidator of the 
+company was acting; and
+(ii) immediately before the provisional liquidator was 
+appointed, the company was under administration;
+on the section 513C day in relation to the administration; or
+(d) if, immediately before the order was made, a deed of 
+company arrangement had been executed by the company 
+and had not yet terminated—on the section 513C day in 
+relation to the administration that ended when the deed was 
+executed; or
+(da) if, immediately before the order was made, the company was 
+under restructuring—on the section 513CA day in relation to 
+the restructuring; or
+(db) if:
+(i) when the order was made, a provisional liquidator of the 
+company was acting; and
+(ii) immediately before the provisional liquidator was 
+appointed, the company was under restructuring;
+on the section 513CA day in relation to the restructuring; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

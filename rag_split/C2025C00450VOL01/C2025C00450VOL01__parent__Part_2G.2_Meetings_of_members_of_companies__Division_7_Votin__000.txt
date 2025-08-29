@@ -1,0 +1,172 @@
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+Section 250E
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+516 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 7—Voting at meetings of members
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+250E  How many votes a member has (replaceable rule—see
+
+section 135)
+Company with share capital
+(1) Subject to any rights or restrictions attached to any class of shares, 
+at a meeting of members of a company with a share capital:
+(a) on a show of hands, each member has 1 vote; and
+(b) on a poll, each member has 1 vote for each share they hold.
+Note: Unless otherwise specified in the appointment, a body corporate 
+representative has all the powers that a body corporate has as a 
+member (including the power to vote on a show of hands).
+Company without share capital
+(2) Each member of a company that does not have a share capital has 1 
+vote, both on a show of hands and a poll.
+Chair’s casting vote
+(3) The chair has a casting vote, and also, if they are a member, any 
+vote they have in their capacity as a member.
+Note 1: The chair may be precluded from voting, for example, by a conflict of 
+interest.
+Note 2: For rights to appoint proxies, see section 249X.
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+250F  Jointly held shares (replaceable rule—see section 135)
+
+If a share is held jointly and more than 1 member votes in respect 
+of that share, only the vote of the member whose name appears 
+first in the register of members counts.
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+Voting at meetings of members  Division 7
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+Section 250G
+
+Corporations Act 2001 517
+Compilation No. 143 Compilation date: 09/07/2025250G  Objections to right to vote (replaceable rule—see section 135)
+A challenge to a right to vote at a meeting of a company’s 
+members:
+(a) may only be made at the meeting; and
+(b) must be determined by the chair, whose decision is final.
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+250H  Votes need not all be cast in the same way
+
+On a poll a person voting who is entitled to 2 or more votes:
+(a) need not cast all their votes; and
+(b) may cast their votes in different ways.
+Note: For proxy appointments that specify the way the proxy is to vote on a 
+particular resolution, see subsection 250BB(1).
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+250J  How voting is carried out (replaceable rule—see section 135)
+
+(1) A resolution put to the vote at a meeting of a company’s members 
+may be decided on a show of hands unless a poll is demanded.
+Note: For listed companies, certain resolutions must be decided on a poll 
+despite this subsection (see section 250JA).
+(1A) Before a vote is taken the chair must inform the meeting whether 
+any proxy votes have been received and how the proxy votes are to 
+be cast.
+(2) On a show of hands, a declaration by the chair is conclusive 
+evidence of the result, provided that the declaration reflects the 
+show of hands and the votes of the proxies received. Neither the 
+chair nor the minutes need to state the number or proportion of the 
+votes recorded in favour or against.
+Note: Even though the chair’s declaration is conclusive of the voting results, 
+the members present may demand a poll (see paragraph 250L(3)(c)).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+Section 250JA
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+518 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025250JA  Certain resolutions must be decided on a poll—listed 
+companies
+(1) A resolution put to the vote at a meeting of members of a listed 
+company must be decided on a poll (and not a show of hands) if:
+(a) the notice of the meeting set out an intention to propose the 
+resolution and stated the resolution; or
+(b) the company has given notice of the resolution in accordance 
+with section 249O (members’ resolutions); or
+(c) a poll is demanded.
+(2) This section applies despite subsection 250J(1) and anything in the 
+company’s constitution.
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+250K  Matters on which a poll may be demanded
+
+(1) A poll may be demanded on any resolution.
+(2) If a company has a constitution, the constitution may provide that a 
+poll cannot be demanded on any resolution concerning:
+(a) the election of the chair of a meeting; or
+(b) the adjournment of a meeting.
+(3) A demand for a poll may be withdrawn.
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+250L  When a poll is effectively demanded
+
+(1) At a meeting of a company’s members, a poll may be demanded 
+by:
+(a) at least 5 members entitled to vote on the resolution; or
+(b) members with at least 5% of the votes that may be cast on the 
+resolution on a poll; or
+(c) the chair.
+Note: A proxy may join in the demand for a poll (see 
+paragraph 249Y(1)(c)).
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+Voting at meetings of members  Division 7
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+Section 250M
+
+Corporations Act 2001 519
+Compilation No. 143 Compilation date: 09/07/2025(2) If a company has a constitution, the constitution may provide that 
+fewer members or members with a lesser percentage of votes may 
+demand a poll.
+(3) The poll may be demanded:
+(a) before a vote is taken; or
+(b) before the voting results on a show of hands are declared; or
+(c) immediately after the voting results on a show of hands are 
+declared.
+(4) The percentage of votes that members have is to be worked out as 
+at the midnight before the poll is demanded.
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+250M  When and how polls must be taken (replaceable rule—see
+
+section 135)
+(1) A poll, other than a poll demanded on the election of a chair or the 
+question of an adjournment, must be taken when and in the manner 
+the chair directs.
+(2) A poll demanded on the election of a chair or on the question of an 
+adjournment must be taken immediately.
+
+Part 2G.2  Meetings of members of companies
+Division 7  Voting at meetings of members
+250MA  Requirements for a special resolution
+
+For a resolution of a company to have effect as a special resolution:
+(a) notice given under section 249J of the meeting at which the 
+resolution is proposed must include the information required 
+by paragraph 249L(1)(c) in relation to the resolution; and
+(b) the resolution must be passed by at least 75% of the votes 
+cast by members who are entitled to vote on the resolution; 
+and
+(c) the resolution must be otherwise valid.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings

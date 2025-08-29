@@ -1,0 +1,155 @@
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+200G  Genuine payments of pension and lump sum
+
+(1) Subsection 200B(1) does not apply to a benefit if:
+(a) the benefit is a payment in connection with a person’s 
+retirement from an office or position in a company or a 
+related body corporate; and
+(b) the payment is for past services the person rendered to:
+(i) the company; or
+(ii) a related body corporate; or
+(iii) a body that was a related body corporate of the company 
+when the past services were rendered; and
+(c) the value of the benefit, when added to the value of all other 
+benefits (if any) already given in connection with the 
+person’s retirement from offices or positions in the company 
+and related bodies corporate does not exceed the amount 
+worked out under whichever of subsections (2) and (3) is 
+applicable.
+In applying paragraph (c), disregard any pensions or lump sums 
+that section 200F applies to.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2D  Officers and employees
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+Section 200G
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+390 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) This subsection applies if the relevant period for the person is less 
+than 1 year. The amount worked out under this subsection is:
+where:
+estimated annual base salary is a reasonable estimate of the base 
+salary that the person would have received from the company and 
+related bodies corporate during the relevant period if the relevant 
+period had been 1 year.
+Note: The relevant period for the person is defined in subsection (6).
+(3) This subsection applies in every other case. The amount worked 
+out under this subsection is:
+(a) if the relevant period is 1 year—the base salary that the 
+person received from the company and related bodies 
+corporate during the relevant period; or
+(b) if the relevant period is more than 1 year but less than 2 
+years—the average annual base salary that the person 
+received from the company and related bodies corporate 
+during the relevant period, worked out as if:
+(i) the relevant period were 2 years; and
+(ii) the person’s annual base salary for the second year were 
+a reasonable estimate of what the person would have 
+received as base salary after the first year of the relevant 
+period had the relevant period been 2 years; or
+(c) if the relevant period is 2 years—the average annual base 
+salary that the person received from the company and related 
+bodies corporate during the relevant period; or
+(d) if the relevant period is more than 2 years but less than 3 
+years—the average annual base salary that the person 
+received from the company and related bodies corporate 
+during the relevant period, worked out as if:
+(i) the relevant period were 3 years; andEstimated Number of days in
+annual base salary relevant period
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+365´
+
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Restrictions on indemnities, insurance and termination payments  Part 2D.2
+Termination payments  Division 2
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+Section 200G
+
+Corporations Act 2001 391
+Compilation No. 143 Compilation date: 09/07/2025(ii) the person’s annual base salary for the third year were a 
+reasonable estimate of what the person would have 
+received as base salary after the second year of the 
+relevant period had the relevant period been 3 years; or
+(e) if the relevant period is 3 years or more—the average annual 
+base salary that the person received from the company and 
+related bodies corporate during the last 3 years of the relevant 
+period.
+(4) In determining for the purposes of paragraph (1)(c) the value of a 
+pension or lump sum payment, disregard any part of the pension or 
+lump sum payment that is attributable to:
+(a) a contribution made by the person; or
+(b) a contribution made by a person other than:
+(i) the company; or
+(ii) a body corporate (a relevant body corporate) that is a 
+related body corporate of the company, or that was, 
+when the contribution was made, such a related body 
+corporate; or
+(iii) an associate of the company, or of a relevant body 
+corporate, in respect of:
+(A) the payment of the pension, or the making of 
+the lump sum payment, as the case may be; or
+(B) the making of the contribution.
+(6) In this section:
+payment means a payment by way of pension or lump sum and 
+includes a superannuation, retiring allowance, superannuation 
+gratuity or similar payment.
+relevant period: if a person has held a managerial or executive 
+office in the company or a related body corporate:
+(a) throughout a period; or
+(b) throughout a number of periods;
+the relevant period for that person is that period or the period 
+consisting of those periods.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2D  Officers and employees
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+Section 200H
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+392 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025200H  Benefits required by law
+Subsection 200B(1) does not apply to a benefit given by a person if 
+failure to give the benefit would constitute a contravention of a law 
+in force in Australia or elsewhere (otherwise than because of 
+breach of contract or breach of trust).
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+200J  Benefits to be held on trust and repaid
+
+(1) If an entity (the giver) contravenes section 200B by giving a 
+benefit to a person (the recipient), then the amount of the benefit, 
+or the money value of the benefit if it is not a payment:
+(a) is taken to be received by the recipient on trust for the giver; 
+and
+(b) must be immediately repaid by the recipient to the giver.
+(1A) An amount repayable under subsection (1) to the giver:
+(a) is a debt due to the giver; and
+(b) may be recovered by the giver in a court of competent 
+jurisdiction.
+(2) Subsection (1) applies to the whole of the amount of a payment or 
+of the money value of the benefit even though giving the benefit 
+would not have contravened section 200B if that amount or value 
+of the benefit had been less.
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Appointment, remuneration and cessation of appointment of directors  Part 2D.3
+Appointment of directors  Division 1
+
+Part 2D.2  Restrictions on indemnities, insurance and termination payments
+Division 2  Termination payments
+Section 201A
+
+Corporations Act 2001 393
+Compilation No. 143 Compilation date: 09/07/2025Part 2D.3—Appointment, remuneration and 
+cessation of appointment of directors
+Note: This Part does not apply to a CCIV: see section 1224E.

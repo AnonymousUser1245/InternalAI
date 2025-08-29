@@ -1,0 +1,212 @@
+Part 10.75
+
+Granting of Australian CS facility licences  Division 2
+
+Part 10.75
+Section 1705A
+
+Corporations Act 2001 619
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Granting of Australian CS facility licences
+
+Part 10.75
+1705A  Application of amendments—applications for Australian CS
+
+facility licences
+The amendments of section 824B made by Part 1 of the amending
+
+Part 10.75
+Schedule apply in relation to applications made under
+
+section 824A at or after the commencement time.
+
+Part 10.75
+1705B  Transitional—Australian CS facility licences in force before
+
+the commencement time
+(1) This section applies to an Australian CS facility licence:
+(a) granted under subsection 824B(1) as in force before the 
+commencement time; and
+(b) in force immediately before the commencement time.
+(2) The licence continues in force (and may be dealt with) at and after 
+the commencement time as if the licence had been granted under 
+subsection 824B(1) as amended by Part 1 of the amending
+
+Part 10.75
+Schedule.
+
+Part 10.75
+1705C  Transitional—Australian CS facility licences in force before
+
+the commencement time for operating overseas clearing 
+and settlement facilities
+(1) This section applies to an Australian CS facility licence:
+(a) granted under subsection 824B(2) as in force before the 
+commencement time; and
+(b) in force immediately before the commencement time.
+(2) The licence continues in force (and may be dealt with) at and after 
+the commencement time as if the licence had been granted under 
+subsection 824B(2) as amended by Part 1 of the amending
+
+Part 10.75
+Schedule.
+
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.75
+
+Dealing with licences that are not being used etc.  Division 3
+
+Part 10.75
+Section 1705E
+
+Corporations Act 2001 621
+Compilation No. 143 Compilation date: 09/07/2025Division 3—Dealing with licences that are not being used 
+etc.
+
+Part 10.75
+1705E  Application of amendments—suspension or cancellation of
+
+licences
+For the purposes of section 797B, 826B, 905H, or 908BI as 
+amended by Part 2 of the amending Schedule, it does not matter 
+whether:
+(a) a related act, omission or change happens; or
+(b) a period starts;
+before, at or after the commencement time.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.75
+
+Declared financial markets and widely held market bodies  Division 4
+
+Part 10.75
+Section 1705H
+
+Corporations Act 2001 623
+Compilation No. 143 Compilation date: 09/07/2025(c) the reference to the expression remains in the affected 
+instrument at the commencement time;
+then, at and after the commencement time, the affected instrument 
+applies as if the reference to the expression were instead a 
+reference to the expression in column 2 of that item.
+Translating references in instruments made under this Act
+Item Column 1 Column 2
+
+Part 10.75
+1 prescribed financial market declared financial market
+
+Part 10.75
+2 prescribed financial markets declared financial markets
+
+Part 10.75
+
+Approval for control of certain Australian licensees  Division 5
+
+Part 10.75
+Section 1705L
+
+Corporations Act 2001 625
+Compilation No. 143 Compilation date: 09/07/2025Division 5—Approval for control of certain Australian 
+licensees
+
+Part 10.75
+1705L  Transitional—preservation of voting power in controlled
+
+Australian financial bodies
+(1) This section applies to a person if:
+(a) at the commencement time, the person holds a particular 
+percentage of voting power in a controlled Australian 
+financial body; and
+(b) that percentage is more than 20%.
+(2) The person is taken to be granted, at the commencement time, an 
+approval under subsection 852DH(1) to have that percentage of 
+voting power in the body.
+Note: ASIC can impose conditions on the approval: see section 852DL.
+(3) The approval:
+(a) comes into force at the commencement time; and
+(b) remains in force indefinitely (unless varied under 
+section 852DM or revoked under section 852DN).
+(4) ASIC is taken to have complied with its obligations under
+
+Part 10.75
+
+Limits on certain market licences and CS facility licences  Division 6
+
+Part 10.75
+Section 1705P
+
+Corporations Act 2001 627
+Compilation No. 143 Compilation date: 09/07/2025(7) To avoid doubt, a condition specified in the exemption is taken to 
+be specified for the purposes of paragraph 791C(8)(a) as amended 
+by that Part.
+(8) For the purposes of paragraph 791C(8)(b), the exemption is taken 
+to be expressed to apply indefinitely.
+
+Part 10.75
+1705P  Transitional—exemptions (Part 7.3)
+
+Exemption of particular clearing and settlement facility
+(1) Subsections (2) to (4) apply to an exemption of a particular 
+clearing and settlement facility:
+(a) given under subsection 820C(1); and
+(b) in force immediately before the commencement time.
+(2) The exemption continues in force (and may be dealt with) at and 
+after the commencement time as if the exemption had been given 
+under subsection 820C(1) as amended by Part 6 of the amending
+
+Part 10.75
+Schedule.
+
+(3) To avoid doubt, a condition specified in the exemption is taken to 
+be specified for the purposes of paragraph 820C(2)(a) as inserted 
+by that Part.
+(4) For the purposes of paragraph 820C(2)(b), the exemption is taken 
+to be expressed to apply indefinitely.
+Exemption of classes of clearing and settlement facilities
+(5) Subsections (6) to (8) apply to an exemption of a class of clearing 
+and settlement facilities:
+(a) given under subsection 820C(1); and
+(b) in force immediately before the commencement time.
+(6) The exemption continues in force (and may be dealt with) at and 
+after the commencement time as if the exemption had been given 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.75
+
+Rule-making  Division 7
+
+Part 10.75
+Section 1705Q
+
+Corporations Act 2001 629
+Compilation No. 143 Compilation date: 09/07/2025Division 7—Rule-making
+
+Part 10.75
+1705Q  Application of amendments
+
+(1) To avoid doubt, paragraphs 793B(2)(aa) and 822B(2)(aa) apply in 
+relation to operating rules that are in force at or after the 
+commencement time, whether the operating rules were made 
+before, at or after the commencement time.
+(2) To avoid doubt, the amendment of subsection 827D(2A) made by
+
+Part 10.75
+
+Enhancing regulator powers for CS facility licensees  Division 9
+
+Part 10.75
+Section 1705S
+
+Corporations Act 2001 631
+Compilation No. 143 Compilation date: 09/07/2025Division 9—Enhancing regulator powers for CS facility 
+licensees
+
+Part 10.75
+1705S  Transitional—directions power to reduce systemic risk
+
+(1) The amendments made by Division 1 of Part 9 of the amending
+
+Part 10.75
+Schedule do not apply in relation to a direction given under
+
+section 823E before the commencement time.
+(2) The amendment of subparagraph 1101B(1)(a)(iii) made by

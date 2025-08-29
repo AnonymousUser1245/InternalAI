@@ -1,0 +1,268 @@
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+Section 634
+
+Corporations Act 2001 233
+Compilation No. 143 Compilation date: 09/07/2025Information to be sent with bidder’s statement
+(5) A bidder’s statement required to be sent under item 5 or 6 in the 
+table in subsection (1) must be sent together with any other 
+information sent by the bidder to the target with the statement.
+Information to be sent with notices that offers have been sent
+(6) If the bidder sends the people to whom the bidder’s statement is 
+sent under item 6 of the table in subsection (1) additional 
+information together with the bidder’s statement and the offer, the 
+bidder must also include that information in any notice under 
+item 7, 8 or 9 of the table.
+Information to be sent with target’s statement
+(7) If the target sends the people to whom the target’s statement is sent 
+under item 12 of the table in subsection (1) additional information 
+together with the target’s statement, the target must also include 
+that information in any notice under item 13 or 14 of the table.
+Strict liability offences
+(8) An offence based on this section is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+634  Overview of steps in a market bid
+
+The following diagram gives an overview of the steps involved in a 
+market bid.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+Section 635
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+234 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Overview of steps in a market bid
+Bidder
+Step 1announcement of bid to the market
+Step 2
+bidder’s statement——* market
+* target
+* ASIC
+Step 3 bidder’s statement and any other 
+documents sent with it to the market——* holders of bid 
+class securities
+Step 4copy of documents sent to holders ——* market
+* ASIC
+Target
+Step 5
+target’s statement ——* market
+* bidder
+* ASIC
+* holders of bid 
+class securities
+Bidder
+Step 6make offers on the market
+The holders then consider the terms of the offer, and the statements provided by the 
+bidder and the target, and decide whether to accept the offer on-market before the 
+end of the bid period.
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+635  Detailed steps in a market bid
+
+(1) The following table provides for the steps that a bidder must take 
+to make an effective market bid and the steps that a target must 
+take when a market bid is made.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+The takeover procedure  Part 6.5
+The overall procedure  Division 1
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+Section 635
+
+Corporations Act 2001 235
+Compilation No. 143 Compilation date: 09/07/2025Steps in market bid [operative]
+Steps Timing and relevant provisions
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+1 The bidder must prepare a bidder’s
+
+statement.See section 636 for content of 
+statement
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+2 The bidder must have the bid
+
+announced to the relevant financial 
+market.
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+3 The bidder must send a copy of the
+
+bidder’s statement to the relevant 
+market operatorTo be done on the day the 
+announcement is made
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+4 The bidder must send to the target:
+
+•a copy of the bidder’s statement; 
+and
+•a copy of any other document that 
+was sent with the bidder’s 
+statement to the relevant market 
+operator.To be done on the day the 
+announcement is made
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+5 The bidder must lodge with ASIC:
+
+•a copy of the bidder’s statement; 
+and
+•a copy of any other document that 
+was sent with the bidder’s 
+statement to the relevant market 
+operator.To be done on the day the 
+announcement is made
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+6 The bidder must send to each holder
+
+of bid class securities (other than the 
+bidder):
+•a copy of the bidder’s statement; 
+and
+•a copy of any other document that 
+was sent with the bidder’s 
+statement to the relevant market 
+operator.Within 14 days after the 
+announcement is made.
+Sections 648B and 648C provide for 
+the manner in which documents may 
+be sent to holders.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+Section 635
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+236 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Steps in market bid [operative]
+Steps Timing and relevant provisions
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+7 The bidder must lodge with ASIC a
+
+copy of every other document sent to 
+holders of bid class securities with 
+the bidder’s statement.To be done no later than the day 
+copies of the bidder’s statement have 
+been sent to all holders of bid class 
+securities
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+8 The bidder must give the relevant
+
+market operator a copy of every other 
+document sent to holders of bid class 
+securities with the bidder’s statement.To be done no later than the day 
+copies of the bidder’s statement have 
+been sent to all holders of bid class 
+securities
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+9 The target must prepare a target’s
+
+statement.See section 638 for content of 
+statement
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+10 The target must send a copy of the
+
+target’s statement to the relevant 
+market operator.Within 14 days after the 
+announcement is made
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+11 The target must send to the bidder:
+
+•a copy of the target’s statement; 
+and
+•a copy of any other document that 
+was sent with the target’s 
+statement to the relevant market 
+operator.To be done on the day the target 
+sends a copy of the target’s statement 
+to the relevant market operator
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+12 The target must lodge with ASIC:
+
+•a copy of the target’s statement; 
+and
+•a copy of any other document that 
+was sent with the target’s 
+statement to the relevant market 
+operator.To be done on the day the target 
+sends a copy of the target’s statement 
+to the relevant market operator
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+13 The target must send each holder of
+
+bid class securities:
+•a copy of the target’s statement; 
+and
+•a copy of any other document that 
+was sent with the target’s 
+statement to the relevant market 
+operator.Within 14 days after the 
+announcement is made.
+Sections 648B and 648C provide for 
+the manner in which documents may 
+be sent to holders.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+The takeover procedure  Part 6.5
+The overall procedure  Division 1
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+Section 635
+
+Corporations Act 2001 237
+Compilation No. 143 Compilation date: 09/07/2025Steps in market bid [operative]
+Steps Timing and relevant provisions
+
+Part 6.5  The takeover procedure
+Division 1  The overall procedure
+14 The bidder must make offers for the
+
+securities under the bid through the 
+relevant financial market.To be done on the next day after the 
+end of the 14 day period referred to in 
+item 13.
+If the bidder does not make the offers 
+at that time, the bidder contravenes 
+this section.
+Item 2 of the table in section 611 
+covers offers made by the bidder on 
+market during the 14 day period 
+between the announcement and the 
+making of the offers under the bid
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers

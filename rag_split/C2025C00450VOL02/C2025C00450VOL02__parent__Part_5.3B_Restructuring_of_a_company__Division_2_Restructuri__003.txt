@@ -1,0 +1,230 @@
+secured property
+(1) This section applies if:
+(a) for the purpose of enforcing a security interest in property of 
+a company, the secured party, or a receiver or other person, 
+does or proposes to do an act of a kind referred to in a 
+paragraph of subsection 454D(1); and
+(b) the company is under restructuring when the secured party, 
+receiver or other person does or proposes to do the act, or the 
+company later begins to be under restructuring;
+but does not apply in a case where section 454C applies.
+(2) On application by the restructuring practitioner, the Court may 
+order the secured party, receiver or other person not to perform 
+specified functions, or exercise specified powers, except as 
+permitted by the order.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Restructuring of a company  Part 5.3B
+Restructuring  Division 2
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 454G
+
+Corporations Act 2001 457
+Compilation No. 143 Compilation date: 09/07/2025(3) The Court may only make an order if satisfied that the secured 
+party’s interests will be adequately protected during the 
+restructuring of the company.
+(4) An order may only be made, and only has effect, during the 
+restructuring.
+(5) An order has effect despite sections 454D and 454E.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+454G  Giving a notice under a security agreement etc.
+
+Nothing in section 453K, 453R or 454N, or in an order made under 
+subsection 454P(1), prevents a person from giving a notice under 
+the provisions of an agreement or instrument under which a 
+security interest is created or arises.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+454H  Sale of property subject to a possessory security interest
+
+Scope
+(1) This section applies if:
+(a) a company is under restructuring; and
+(b) property of the company is subject to a possessory security 
+interest; and
+(c) the property is in the possession of the secured party; and
+(d) either:
+(i) there is no other security interest in the property; or
+(ii) there are one or more other security interests in the 
+property, but none of the debts secured by those other 
+security interests has a priority that is equal to or higher 
+than the priority of the debt secured by the possessory 
+security interest; and
+(e) the secured party sells the property.
+Distribution of proceeds of sale
+(2) The secured party is entitled to retain proceeds of the sale as 
+follows:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 454J
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+458 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) if the net proceeds of sale equals the debt secured by the 
+possessory security interest—the secured party is entitled to 
+retain the net proceeds;
+(b) if the net proceeds of sale exceeds the debt secured by the 
+possessory security interest—the secured party is entitled to 
+retain so much of the net proceeds as equals the amount of 
+the debt secured by the security interest, but must pay the 
+excess to the restructuring practitioner on behalf of the 
+company;
+(c) if the net proceeds of sale fall short of the debt secured by the 
+possessory security interest—the secured party is entitled to 
+retain the net proceeds.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+454J  Scope of sections 454K to 454M
+
+Sections 454K to 454M do not apply in relation to the enforcement 
+of a right, or the performance or exercise of a function or power, if 
+the enforcement, performance or exercise is authorised by (or 
+because of) a transaction or dealing that gives rise to a security 
+interest in the property concerned.
+Example: An example of a transaction or dealing in relation to which 
+sections 454K to 454M do not apply because of this section is a 
+commercial consignment of personal property. Such a transaction 
+gives rise to a PPSA security interest because of section 12 of the 
+Personal Property Securities Act 2009. The consigned property is 
+PPSA retention of title property of the company (see sections 51F and
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+452B).
+
+Note: Sections 454C to 454H (property subject to security interests) may 
+apply in relation to transactions or dealings to which this Subdivision 
+does not apply because of this section. For example, sections 454C to
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+454H would apply in relation to a commercial consignment of
+
+personal property, because such a transaction gives rise to a PPSA 
+security interest.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+454K  Where recovery of property begins before restructuring
+
+(1) This section applies if, before the beginning of the restructuring of 
+a company, a receiver or other person:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Restructuring of a company  Part 5.3B
+Restructuring  Division 2
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 454L
+
+Corporations Act 2001 459
+Compilation No. 143 Compilation date: 09/07/2025(a) entered into possession, or assumed control, of property used 
+or occupied by, or in the possession of, the company; or
+(b) exercised any other power in relation to such property;
+for the purpose of enforcing a right of the owner or lessor of the 
+property to take possession of the property or otherwise recover it.
+(2) Nothing in section 453K or 453R prevents the receiver or other 
+person from performing a function, or exercising a power, in 
+relation to the property.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+454L  Recovering perishable property
+
+Nothing in section 453K or 453R prevents a person from taking 
+possession of, or otherwise recovering, perishable property.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+454M  Court may limit powers of receiver etc. in relation to property
+
+used by company
+(1) This section applies if:
+(a) for the purpose of enforcing a right of the owner or lessor of 
+property used or occupied by, or in the possession of, a 
+company to take possession of the property or otherwise 
+recover it, a person:
+(i) enters into possession, or assumes control, of the 
+property; or
+(ii) exercises any other power in relation to the property; 
+and
+(b) the company is under restructuring when the person does so, 
+or the company later begins to be under restructuring.
+(2) On application by the restructuring practitioner, the Court may 
+order the person not to perform specified functions, or exercise 
+specified powers, in relation to the property, except as permitted by 
+the order.
+(3) The Court may only make an order if satisfied that the interests of 
+the owner or lessor will be adequately protected during the 
+restructuring of the company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 454N
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+460 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) An order may only be made, and only has effect, during the 
+restructuring.
+(5) An order has effect despite sections 454K and 454L.
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 454N
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+462 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) a right under a contract, agreement or arrangement entered 
+into before 1 July 2018; or
+(c) a right contained in a kind of contract, agreement or 
+arrangement:
+(i) prescribed by the regulations for the purposes of this 
+subparagraph; or
+(ii) declared under paragraph (6)(a); or
+(d) a right of a kind:
+(i) prescribed by the regulations for the purposes of this 
+subparagraph; or
+(ii) declared under paragraph (6)(b); or
+(e) a right of a kind declared under paragraph (6)(c), and the 
+circumstances specified in that declaration exist.
+(6) For the purposes of subsection (5), the Minister may, by legislative 
+instrument:
+(a) declare kinds of contracts, agreements or arrangements 
+referred to in a specified law of the Commonwealth; or
+(b) declare kinds of rights to which subsection (1) does not 
+apply; or
+(c) declare kinds of rights to which subsection (1) does not apply 
+in specified circumstances.
+(7) Subsection (1) does not apply to the right to the extent that:
+(a) the restructuring practitioner for the company; or
+(b) if an administrator of the company, or an administrator of a 
+deed of company arrangement executed by the company, is 
+appointed after the restructuring ends—the administrator; or
+(c) if a liquidator of the company is appointed after the 
+restructuring ends—the liquidator;
+has consented in writing to the enforcement of the right.
+Stay on company’s right to new advance of money or credit
+(8) If:
+(a) one or more rights of an entity cannot be enforced against a 
+company for a period because of subsection (1); and
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Restructuring of a company  Part 5.3B
+Restructuring  Division 2
+
+Part 5.3B  Restructuring of a company
+Division 2  Restructuring
+Section 454P

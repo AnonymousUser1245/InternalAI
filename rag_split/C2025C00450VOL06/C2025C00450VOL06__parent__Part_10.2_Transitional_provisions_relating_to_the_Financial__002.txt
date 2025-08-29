@@ -1,0 +1,200 @@
+Corporations Act 2001 325
+Compilation No. 143 Compilation date: 09/07/2025(ii) as if subsection 1425(3) provided for a licence so 
+granted under subsection 1425(2) in relation to the 
+facility, and the conditions subject to which it is 
+granted, to be taken to have had effect from the day (the 
+start day) specified in the subsection (3) notice as the 
+day on which the facility started to operate; and
+(iii) as if subsection 1425(6) were omitted; and
+(iv) as if the references in subsection 1425(8) to the FSR 
+commencement were instead references to the start day;
+(c) if:
+(i) taking account of the effect of paragraph (a), 
+section 1429 applies to the proposed facility; and
+(ii) the facility operator does not lodge with ASIC a notice 
+in relation to the facility under subsection (3) of this 
+section by the end of 6 months after the FSR 
+commencement;
+that section ceases to apply in relation to the proposed facility 
+at the end of that period;
+(d) if a provision of this Subdivision provides for a provision of 
+the old Corporations Act to continue to apply in relation to 
+the proposed facility, then (without limiting the generality of 
+subsection 1410(3)), while the proposed facility remains 
+non-operational, the provision of the old Corporations Act 
+only applies in relation to the proposed facility to the extent 
+(if any) to which it would, disregarding the effect of 
+paragraph (a), apply in relation to the proposed facility.
+(3) If a proposed clearing and settlement facility to which this section 
+applies starts to operate on a day during the period of 6 months 
+starting on the FSR commencement, the operator must, as soon as 
+practicable, and in any event within 7 days, lodge with ASIC 
+written notice of the fact that the facility started to operate on that 
+day.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1425
+
+Corporations Act 2001 327
+Compilation No. 143 Compilation date: 09/07/2025those regulated services as if the facility did not already 
+provide the unregulated services.
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+1425  Obligation of Minister to grant licences covering main existing
+
+facilities
+(1) This section applies to each clearing and settlement facility being 
+operated immediately before the FSR commencement in relation to 
+which either of the following paragraphs applies:
+(a) the facility was being operated by the body corporate that 
+was, for the purposes of the old Corporations Act, the 
+securities clearing house;
+(b) the facility was being operated by a body corporate in 
+relation to which an approval (the section 1131 approval) 
+under section 1131 of the old Corporations Act was in force 
+at that time.
+(2) Subject to subsections (3) and (4), the Minister must, in relation to 
+each clearing and settlement facility to which this section applies, 
+grant the operator of the facility a licence, and impose conditions 
+on that licence, in accordance with the following requirements:
+(a) the licence must be described as an Australian CS facility 
+licence;
+(b) the licence must be granted subject to the following 
+conditions:
+(i) a condition specifying the facility as the facility that the 
+licence authorises the licensee to operate;
+(ii) a condition specifying, as the classes of financial 
+products in respect of which the facility can provide 
+services, the classes that are appropriate for the facility 
+under subsection (5);
+(iii) in the case of a facility to which paragraph (1)(b) 
+applies—a condition to the effect that the licence only 
+covers the facility providing services for the market or 
+markets that were covered by the section 1131 approval.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1426
+
+Corporations Act 2001 329
+Compilation No. 143 Compilation date: 09/07/2025section and ending on the FSR commencement on the basis that 
+matters known to the Minister in relation to the clearing and 
+settlement facility concerned will continue to be the case up to the 
+FSR commencement. If the Minister does so:
+(a) the licence and conditions come into effect on the FSR 
+commencement, and not before; and
+(b) the Minister may vary or revoke the licence, or any of the 
+conditions, before the FSR commencement if the Minister 
+considers it appropriate to do so having regard to the 
+provisions of this section concerning the granting of licences 
+and the imposition of conditions; and
+(c) the licence and conditions do not come into effect on the FSR 
+commencement if, immediately before the FSR 
+commencement, the facility is not a clearing and settlement 
+facility to which this section applies.
+(7) If the Minister grants a licence under this section, the Minister 
+must give the operator of the clearing and settlement facility 
+written notice of:
+(a) the grant of the licence, and the conditions imposed on the 
+licence; and
+(b) any subsequent revocation or variation under subsection (6) 
+of the licence or conditions.
+(8) A notice advising of the grant of a licence under this section must 
+contain a statement to the effect that the licence and conditions will 
+not take effect until the FSR commencement, or will be taken to 
+have had effect from the FSR commencement, as the case requires.
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+1426  Section 1425 facilities—effect of licences and conditions
+
+(1) Subject to subsections (2) to (4):
+(a) a licence granted under section 1425 that authorises the 
+operation of a facility is, for the purposes of the amended 
+Corporations Act (other than this section), taken to have been 
+granted (and to have been properly granted) under 
+section 824B of the amended Corporations Act; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1427
+
+Corporations Act 2001 331
+Compilation No. 143 Compilation date: 09/07/20251427  Section 1425 facilities—powers for regulations to change how 
+the old and new Corporations Act apply during the 
+transition period
+(1) The regulations may do either or both of the following in relation 
+to a clearing and settlement facility the operation of which is 
+authorised by a licence granted under section 1425:
+(a) provide that section 822A of the amended Corporations Act, 
+and any associated provisions, apply in relation to the facility 
+during some or all the transition period for the facility;
+(b) provide that specified provisions of the amended 
+Corporations Act (including section 822A), and any 
+associated provisions, apply in relation to the facility during 
+some or all of the transition period for the facility with 
+specified modifications.
+(2) Regulations made for the purposes of subsection (1) have effect 
+despite anything in section 1426.
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+1428  Section 1425 facilities—additional provisions relating to
+
+previously unregulated services
+(1) This section applies to a clearing and settlement facility in relation 
+to which the following paragraphs are satisfied:
+(a) a licence is granted under section 1425 to the operator of the 
+facility; and
+(b) the conditions on the licence specify, as the classes of 
+financial products in respect of which the facility can provide 
+services, the classes of financial products specified in 
+whichever of paragraphs 1425(5)(a) and (b) is applicable; 
+and
+(c) the facility also, immediately before the commencement, 
+provided services in respect of one or more other classes of 
+financial products (the additional products) and the fact that 
+it did so did not constitute a contravention of a provision of 
+the old Corporations Act.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1430
+
+Corporations Act 2001 333
+Compilation No. 143 Compilation date: 09/07/2025(a) the end of the period of 2 years starting on the FSR 
+commencement;
+(b) the operator of the facility is granted a licence under 
+section 824B of the amended Corporations Act covering the 
+facility;
+(c) the Minister makes an exemption under section 820C of the 
+amended Corporations Act covering the facility;
+(d) the facility starts to provide services in respect of a class or 
+classes of financial products in respect of which it did not 
+provide services immediately before the FSR 
+commencement.
+(3) The regulations may provide that specified provisions of the 
+amended Corporations Act (including section 820A), and any 
+associated provisions, apply in relation to a clearing and settlement 
+facility to which this section applies during some or all of the 
+transition period for the facility with specified modifications.
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1430
+
+Corporations Act 2001 335
+Compilation No. 143 Compilation date: 09/07/2025Regulated principals and regulated activities
+Item These persons are 
+regulated principalsThese are the 
+regulated principal’s 
+regulated activitiesThis is the relevant old 
+legislation (if any)

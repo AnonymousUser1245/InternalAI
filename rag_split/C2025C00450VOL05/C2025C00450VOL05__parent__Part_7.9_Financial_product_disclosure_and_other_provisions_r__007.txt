@@ -1,0 +1,187 @@
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1012IA
+
+Corporations Act 2001 41
+Compilation No. 143 Compilation date: 09/07/2025financial product of the same kind as a result of an 
+instruction given by the client under a custodial arrangement;
+(d) sections 1012E and 1012F are to be disregarded;
+(e) section 1012G has effect in accordance with subsection (4).
+Modification of section 1012G
+(4) The following provisions apply in relation to section 1012G:
+(a) in determining for the purposes of subsection (2) whether the 
+regulated person would be required by subsection 1012B(3) 
+or 1012C(3) to give the client a Product Disclosure Statement 
+for the financial product, subsection 1012G(2) applies as if 
+the reference to the client instructing the regulated person (in 
+an issue situation) that they require the financial product to 
+be provided or issued immediately, or by a specified time, 
+were instead a reference to the client instructing the provider 
+that they require the financial product to be acquired 
+immediately, or by a specified time;
+(b) if, because of subsection 1012G(2) as it applies because of 
+paragraph (a) of this subsection, the provider does not have 
+to give the client a Product Disclosure Statement for a 
+financial product before a regulated acquisition of the 
+financial product occurs pursuant to an instruction given by 
+the client under a custodial arrangement:
+(i) subsection 1012G(2) applies in relation to the provider, 
+the client and the regulated acquisition as if the 
+obligation it imposes to comply with 
+subsection 1012G(3) were imposed on the provider; and
+(ii) subsection 1012G(3) applies in relation to the provider, 
+the client and the regulated acquisition as if the 
+reference to the regulated person were instead a 
+reference to the provider, as if 
+subparagraph 1012G(3)(b)(i) were omitted and as if the 
+reference in subparagraph 1012G(3)(b)(ii) to the day on 
+which the financial product was issued or sold to the 
+client were instead a reference to the day on which the 
+regulated acquisition occurs.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1012J
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+42 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Modification of section 1013A
+(5) Section 1013A applies in relation to a regulated acquisition as if:
+(a) paragraph 1013A(1)(b) also covered a Product Disclosure 
+Statement that is required to be given by subsection (2) of 
+this section in relation to an acquisition covered by 
+paragraph (a) of the definition of regulated acquisition in 
+subsection (1) of this section; and
+(b) paragraph 1013A(2)(b) also covered a Product Disclosure 
+Statement that is required to be given by subsection (2) of 
+this section in relation to an acquisition covered by 
+paragraph (b) of the definition of regulated acquisition in 
+subsection (1) of this section.
+Provider is not an agent for the purposes of section 1015C
+(6) For the purposes of the application of section 1015C in relation to a 
+regulated acquisition, the provider in relation to the relevant 
+custodial arrangement is taken not to be an agent of the client.
+Provider is covered by sections 1015E, 1021F and 1021I
+(7) Sections 1015E, 1021F and 1021I apply in relation to a regulated 
+acquisition as if the references to a regulated person were instead 
+references to the provider in relation to the relevant custodial 
+arrangement.
+Regulations may provide for other modifications
+(8) The regulations may provide for other modifications of provisions 
+of this Part that are to have effect in relation to regulated 
+acquisitions.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+1012J  Information must be up to date
+
+The information in a Product Disclosure Statement must be up to 
+date as at the time when it is given.
+Note: A Supplementary Product Disclosure Statement containing updated 
+information may be given with a Product Disclosure Statement that 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Product Disclosure Statements  Division 2
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1012K
+
+Corporations Act 2001 43
+Compilation No. 143 Compilation date: 09/07/2025has become out of date. The updated information is taken to be 
+included in the Product Disclosure Statement (see section 1014D).
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+1012K  Anti-avoidance determinations
+
+(1) ASIC may determine in writing that a number of different bodies 
+are closely related and that their transactions should be aggregated 
+for the purposes of this Subdivision. If ASIC does so:
+(a) an issue, sale or transfer of financial products of any other 
+bodies is taken to also be an issue, sale or transfer of the 
+financial products of each of the other bodies by those 
+bodies; and
+(b) any money received from an issue, sale or transfer of 
+financial products of any of the bodies is taken to also be 
+received by each of the other bodies from an issue, sale or 
+transfer of its own financial products.
+ASIC must give written notice of the determination to each of the 
+bodies.
+(2) ASIC may determine in writing that the transactions of a body and 
+of a person who controls the body should be aggregated for the 
+purposes of this Subdivision. If ASIC does so:
+(a) an issue of financial products of the body is taken to also be 
+the transfer of the financial products by the controller; and
+(b) any money received from an issue of financial products of 
+the body is taken to also be received by the controller from a 
+transfer of the financial products; and
+(c) a sale or transfer of financial products of the body by the 
+controller is taken to also be the issue of the financial 
+products by the body; and
+(d) any money received from a sale or transfer of financial 
+products of the body by the controller is taken to also be 
+received by the body from an issue of the financial products.
+ASIC must give written notice of the determination to the body and 
+the controller.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1013A
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+44 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision C—Preparation and content of Product Disclosure 
+Statements
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+1013A  Who must prepare Product Disclosure Statement
+
+(1) A Product Disclosure Statement that:
+(a) is required to be given by section 1012A (otherwise than in a 
+situation in which the recommendation concerned relates to 
+an offer described in subsection 1012C(3) or (4)); or
+(b) is required to be given by section 1012B; or
+(c) section 1012H requires an issuer to take reasonable steps to 
+ensure is given to a new group member; or
+(d) is required to be given by section 1012I;
+must be a document that has been prepared by the issuer of the 
+financial product. A Product Disclosure Statement of this kind is 
+an issue Statement.
+(2) A Product Disclosure Statement that:
+(a) is required to be given by section 1012A in a situation in 
+which the recommendation concerned relates to an offer 
+described in subsection 1012C(3) or (4)); or
+(b) is required to be given by section 1012C;
+must be a document that has been prepared by the person making 
+the offer to sell the financial product. A Product Disclosure 
+Statement of this kind is a sale Statement.
+(3) The person by whom, or on whose behalf, a Product Disclosure 
+Statement for a financial product is required to be prepared is the 
+responsible person for the financial product.
+(4) For the purposes of this Part, a Product Disclosure Statement 
+prepared on behalf of a person is taken to be prepared by the 
+person.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Product Disclosure Statements  Division 2
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1013B
+
+Corporations Act 2001 45
+Compilation No. 143 Compilation date: 09/07/20251013B  Title of Product Disclosure Statement
+(1) The title “Product Disclosure Statement” must be used on the cover 
+of, or at or near the front of, a Product Disclosure Statement.
+(2) In any other part of a Product Disclosure Statement, “Product 
+Disclosure Statement” may be abbreviated to “PDS”.

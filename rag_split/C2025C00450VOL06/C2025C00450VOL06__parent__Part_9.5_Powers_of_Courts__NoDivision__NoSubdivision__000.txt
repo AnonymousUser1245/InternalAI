@@ -1,0 +1,183 @@
+Part 9.5  Powers of Courts
+
+Part 9.5  Powers of Courts
+Section 1319
+
+Part 9.5  Powers of Courts
+190 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) an auditor of a corporation, whether or not the person is an 
+officer or employee of the corporation; or
+(c) an expert in relation to a matter:
+(i) relating to a corporation; and
+(ii) in relation to which the civil proceeding has been taken 
+or the claim will or might arise; or
+(d) a receiver, receiver and manager, liquidator or other person 
+appointed or directed by the Court to carry out any duty 
+under this Act in relation to a corporation.
+(5) This section does not apply to a corporation that is an Aboriginal 
+and Torres Strait Islander corporation.
+Note: Similar provision is made in relation to Aboriginal and Torres Strait 
+Islander corporations under section 576-1 of the Corporations 
+(Aboriginal and Torres Strait Islander) Act 2006.
+
+Part 9.5  Powers of Courts
+1319  Power of Court to give directions with respect to meetings
+
+ordered by the Court
+Where, under this Act, the Court orders a meeting to be convened, 
+the Court may, subject to this Act, give such directions with 
+respect to the convening, holding or conduct of the meeting, and 
+such ancillary or consequential directions in relation to the 
+meeting, as it thinks fit.
+
+Part 9.5  Powers of Courts
+1322  Irregularities
+
+(1) In this section, unless the contrary intention appears:
+(a) a reference to a proceeding under this Act is a reference to 
+any proceeding whether a legal proceeding or not; and
+(b) a reference to a procedural irregularity includes a reference 
+to:
+(i) the absence of a quorum at a meeting of a corporation, 
+at a meeting of directors or creditors of a corporation, at 
+a joint meeting of creditors and members of a 
+corporation or at a meeting of members of a registered 
+scheme; and
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Powers of Courts  Part 9.5
+
+Part 9.5  Powers of Courts
+Section 1322
+
+Corporations Act 2001 191
+Compilation No. 143 Compilation date: 09/07/2025(ii) a defect, irregularity or deficiency of notice or time.
+Note: This section applies in relation to CCIVs with modifications: see 
+section 1242F.
+(2) A proceeding under this Act is not invalidated because of any 
+procedural irregularity unless the Court is of the opinion that the 
+irregularity has caused or may cause substantial injustice that 
+cannot be remedied by any order of the Court and by order declares 
+the proceeding to be invalid.
+(3) A meeting held for the purposes of this Act, or a meeting notice of 
+which is required to be given in accordance with the provisions of 
+this Act, or any proceeding at such a meeting, is not invalidated 
+only because of the accidental omission to give notice of the 
+meeting or the non-receipt by any person of notice of the meeting, 
+unless the Court, on the application of the person concerned, a 
+person entitled to attend the meeting or ASIC, declares proceedings 
+at the meeting to be void.
+(3AA) A meeting held for the purposes of this Act, or a meeting notice of 
+which is required to be given in accordance with the provisions of 
+this Act, or any proceeding at such a meeting, is not invalidated 
+only because of the inability of a person to access the notice of 
+meeting, unless the Court, on the application of the person 
+concerned, a person entitled to attend the meeting or ASIC, 
+declares proceedings at the meeting to be void.
+Note: Under paragraph 249J(3)(c), a company may, in certain 
+circumstances, give a member notice of a meeting by means of an 
+electronic communication, or by giving the member sufficient 
+information to allow the member to access the notice electronically.
+(3A) If members who are entitled to attend a meeting of members do not 
+have, as a whole, a reasonable opportunity to participate in the 
+meeting or in a proceeding at the meeting, the meeting or 
+proceeding will only be invalid on that ground if:
+(a) the Court is of the opinion that:
+(i) a substantial injustice has been caused or may be 
+caused; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.5  Powers of Courts
+
+Part 9.5  Powers of Courts
+Section 1322
+
+Part 9.5  Powers of Courts
+192 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) the injustice cannot be remedied by any order of the 
+Court; and
+(b) the Court declares the meeting or proceeding invalid.
+(3B) If voting rights are exercised in contravention of 
+subsection 259D(3) (company controlling entity that holds shares 
+in it), the meeting or the resolution on which the voting rights were 
+exercised will only be invalid on that ground if:
+(a) the court is of the opinion that:
+(i) a substantial injustice has been caused or may be 
+caused; and
+(ii) the injustice cannot be remedied by any order of the 
+court; and
+(b) the court declares the meeting or resolution invalid.
+(4) Subject to the following provisions of this section but without 
+limiting the generality of any other provision of this Act, the Court 
+may, on application by any interested person, make all or any of 
+the following orders, either unconditionally or subject to such 
+conditions as the Court imposes:
+(a) an order declaring that any act, matter or thing purporting to 
+have been done, or any proceeding purporting to have been 
+instituted or taken, under this Act or in relation to a 
+corporation is not invalid by reason of any contravention of a 
+provision of this Act or a provision of the constitution of a 
+corporation;
+(b) an order directing the rectification of any register kept by 
+ASIC under this Act;
+(c) an order relieving a person in whole or in part from any civil 
+liability in respect of a contravention or failure of a kind 
+referred to in paragraph (a);
+(d) an order extending the period for doing any act, matter or 
+thing or instituting or taking any proceeding under this Act or 
+in relation to a corporation (including an order extending a 
+period where the period concerned ended before the 
+application for the order was made) or abridging the period 
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Powers of Courts  Part 9.5
+
+Part 9.5  Powers of Courts
+Section 1323
+
+Corporations Act 2001 193
+Compilation No. 143 Compilation date: 09/07/2025for doing such an act, matter or thing or instituting or taking 
+such a proceeding;
+and may make such consequential or ancillary orders as the Court 
+thinks fit.
+(5) An order may be made under paragraph (4)(a) or (c) 
+notwithstanding that the contravention or failure referred to in the 
+paragraph concerned resulted in the commission of an offence.
+(6) The Court must not make an order under this section unless it is 
+satisfied:
+(a) in the case of an order referred to in paragraph (4)(a):
+(i) that the act, matter or thing, or the proceeding, referred 
+to in that paragraph is essentially of a procedural nature;
+(ii) that the person or persons concerned in or party to the 
+contravention or failure acted honestly; or
+(iii) that it is just and equitable that the order be made; and
+(b) in the case of an order referred to in paragraph (4)(c)—that 
+the person subject to the civil liability concerned acted 
+honestly; and
+(c) in every case—that no substantial injustice has been or is 
+likely to be caused to any person.
+
+Part 9.5  Powers of Courts
+1323  Power of Court to prohibit payment or transfer of money,
+
+financial products or other property
+(1) Where:
+(a) an investigation is being carried out under the ASIC Act or 
+this Act in relation to an act or omission by a person, being 
+an act or omission that constitutes or may constitute a 
+contravention of this Act; or
+(b) a prosecution has been begun against a person for a 
+contravention of this Act; or
+(c) a civil proceeding has been begun against a person under this 
+Act;
+and the Court considers it necessary or desirable to do so for the 
+purpose of protecting the interests of a person (in this section 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.5  Powers of Courts
+
+Part 9.5  Powers of Courts
+Section 1323
+
+Part 9.5  Powers of Courts
+194 Corporations Act 2001

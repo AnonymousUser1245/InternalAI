@@ -1,0 +1,184 @@
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 418
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+298 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note 2: Section 516-1 of the Corporations (Aboriginal and Torres Strait 
+Islander) Act 2006 applies this Part to a corporation that is an 
+Aboriginal and Torres Strait Islander corporation with the 
+modifications provided for in that section.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+418  Persons not to act as receivers
+
+(1) A person is not qualified to be appointed, and must not act, as 
+receiver of property of a corporation if the person:
+(a) is a secured party in relation to any property (including PPSA 
+retention of title property) of the corporation; or
+(b) is an auditor or a director, secretary, senior manager or 
+employee of the corporation; or
+(c) is a director, secretary, senior manager or employee of a body 
+corporate that is a secured party in relation to any property 
+(including PPSA retention of title property) of the 
+corporation; or
+(d) is not a registered liquidator; or
+(e) is a director, secretary, senior manager or employee of a body 
+corporate related to the corporation; or
+(f) unless ASIC directs in writing that this paragraph does not 
+apply in relation to the person in relation to the corporation—
+has at any time within the last 12 months been a director, 
+secretary, senior manager, employee or promoter of the 
+corporation or of a related body corporate.
+(3) Paragraph (1)(d) does not apply in relation to a body corporate 
+authorised by or under a law of the Commonwealth, of a State or of 
+a Territory to act as receiver of property of the corporation 
+concerned.
+(4) In this section:
+senior manager does not include a receiver and manager.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+418A  Court may declare whether controller is validly acting
+
+(1) Where there is doubt, on a specific ground, about:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 419
+
+Corporations Act 2001 299
+Compilation No. 143 Compilation date: 09/07/2025(a) whether a purported appointment of a person, after 23 June
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+1993, as receiver of property of a corporation is valid; or
+
+(b) whether a person who has entered into possession, or 
+assumed control, of property of a corporation after 23 June
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+1993 did so validly under the terms of a security interest in
+
+that property;
+the person, the corporation or any of the corporation’s creditors 
+may apply to the Court for an order under subsection (2).
+(2) On an application, the Court may make an order declaring whether 
+or not:
+(a) the purported appointment was valid; or
+(b) the person entered into possession, or assumed control, 
+validly under the terms of the security interest;
+as the case may be, on the ground specified in the application or on 
+some other ground.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+419  Liability of controller
+
+(1) A receiver, or any other authorised person, who, whether as agent 
+for the corporation concerned or not, enters into possession or 
+assumes control of any property of a corporation for the purpose of 
+enforcing any security interest is, notwithstanding any agreement 
+to the contrary, but without prejudice to the person’s rights against 
+the corporation or any other person, liable for debts incurred by the 
+person in the course of the receivership, possession or control for 
+services rendered, goods purchased or property hired, leased 
+(including a lease of goods that gives rise to a PPSA security 
+interest in the goods), used or occupied.
+(2) Subsection (1) does not constitute the person entitled to the 
+security interest a mortgagee in possession.
+(3) Where:
+(a) a person (in this subsection called the controller) enters into 
+possession or assumes control of property of a corporation; 
+and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 419A
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+300 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) the controller purports to have been properly appointed as a 
+receiver in respect of that property under a power contained 
+in an instrument, but has not been properly so appointed; and
+(c) civil proceedings in an Australian court arise out of an act 
+alleged to have been done by the controller;
+the court may, if it is satisfied that the controller believed on 
+reasonable grounds that the controller had been properly so 
+appointed, order that:
+(d) the controller be relieved in whole or in part of a liability that 
+the controller has incurred but would not have incurred if the 
+controller had been properly so appointed; and
+(e) a person who purported to appoint the controller as receiver 
+be liable in respect of an act, matter or thing in so far as the 
+controller has been relieved under paragraph (d) of liability in 
+respect of that act, matter or thing.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+419A  Liability of controller under pre-existing agreement about
+
+property used by corporation
+(1) This section applies if:
+(a) under an agreement made before the control day in relation to 
+a controller of property of a corporation, the corporation 
+continues after that day to use or occupy, or to be in 
+possession of, property (the third party property) of which 
+someone else is the owner or lessor; and
+(b) the controller is controller of the third party property.
+(2) Subject to subsections (4) and (7), the controller is liable for so 
+much of the rent or other amounts payable by the corporation 
+under the agreement as is attributable to a period:
+(a) that begins more than 7 days after the control day; and
+(b) throughout which:
+(i) the corporation continues to use or occupy, or to be in 
+possession of, the third party property; and
+(ii) the controller is controller of the third party property.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 419A
+
+Corporations Act 2001 301
+Compilation No. 143 Compilation date: 09/07/2025(3) Within 7 days after the control day, the controller may give to the 
+owner or lessor a notice that specifies the third party property and 
+states that the controller does not propose to exercise rights in 
+relation to that property as controller of the property, whether on 
+behalf of the corporation or anyone else.
+(4) Despite subsection (2), the controller is not liable for so much of 
+the rent or other amounts payable by the corporation under the 
+agreement as is attributable to a period during which a notice under 
+subsection (3) is in force, but such a notice does not affect a 
+liability of the corporation.
+(5) A notice under subsection (3) ceases to have effect if:
+(a) the controller revokes it by writing given to the owner or 
+lessor; or
+(b) the controller exercises, or purports to exercise, a right in 
+relation to the third party property as controller of the 
+property, whether on behalf of the corporation or anyone 
+else.
+(6) For the purposes of subsection (5), the controller does not exercise, 
+or purport to exercise, a right as mentioned in paragraph (5)(b) 
+merely because the controller continues to be in possession, or to 
+have control, of the third party property, unless the controller:
+(a) also uses the property; or
+(b) asserts a right, as against the owner or lessor, so to continue.
+(7) Subsection (2) does not apply in so far as a court, by order, excuses 
+the controller from liability, but an order does not affect a liability 
+of the corporation.
+(8) The controller is not taken because of subsection (2):
+(a) to have adopted the agreement; or
+(b) to be liable under the agreement otherwise than as mentioned 
+in subsection (2).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 420
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+302 Corporations Act 2001

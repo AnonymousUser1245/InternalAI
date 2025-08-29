@@ -1,0 +1,161 @@
+Part 2L.1  Requirement for trust deed and trustee
+
+Part 2L.1  Requirement for trust deed and trustee
+Section 283AB
+
+Part 2L.1  Requirement for trust deed and trustee
+2 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: Sections 168 and 601CZB require a register of debenture holders to be 
+set up and kept.
+(4) The regulations may exempt a specified offer of debentures, or a 
+specified class of offers of debentures, from subsection (1).
+
+Part 2L.1  Requirement for trust deed and trustee
+283AB  Trust deed
+
+(1) The trust deed must provide that the following are held in trust by 
+the trustee for the benefit of the debenture holders:
+(a) the right to enforce the borrower’s duty to repay;
+(b) any charge or security for repayment;
+(c) the right to enforce any other duties that the borrower and 
+any guarantor have under:
+(i) the terms of the debentures; or
+(ii) the provisions of the trust deed or this Chapter.
+Note: For information about the duties that the borrower and any guarantor 
+body have under this Chapter, see sections 283BB to 283CE.
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2L.1  Requirement for trust deed and trustee
+283AC  Who can be a trustee
+
+Who can be trustee
+(1) The trustee must be:
+(a) the Public Trustee of any State or Territory; or
+(aa) a licensed trustee company; or
+(b) a body corporate authorised by a law of any State or 
+Territory to take in its own name a grant of probate of the 
+will, or letters of administration of the estate, of a deceased 
+person; or
+(c) a body corporate registered under section 21 of the Life 
+Insurance Act 1995; or
+(d) an Australian ADI; or
+Authorised Version C2025C00450 registered 21/07/2025Debentures  Chapter 2L
+Requirement for trust deed and trustee  Part 2L.1
+
+Part 2L.1  Requirement for trust deed and trustee
+Section 283AD
+
+Corporations Act 2001 3
+Compilation No. 143 Compilation date: 09/07/2025(e) a body corporate, all of whose shares are held beneficially by 
+a body corporate or bodies corporate of the kind referred to in 
+paragraph (b), (c) or (d) if that body or those bodies:
+(i) are liable for all of the liabilities incurred, or to be 
+incurred, by the trustee as trustee; or
+(ii) have subscribed for and beneficially hold shares in the 
+trustee and there is an uncalled liability of at least 
+$500,000 in respect of those shares that can only be 
+called up if the trustee becomes a Chapter 5 body 
+corporate (see section 254N); or
+(f) a body corporate approved by ASIC (see section 283GB).
+Note: Section 283BD provides that if the borrower becomes aware that the 
+trustee cannot be a trustee, the trustee must be replaced.
+Circumstances in which a person cannot be trustee
+(2) A person may only be appointed or act as trustee (except to the 
+extent provided for by section 283AD) if the appointment or acting 
+will not result in a conflict of interest or duty. This subsection is 
+not intended to affect any rule of law or equity.
+(3) An offence based on subsection (1) or (2) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2L.1  Requirement for trust deed and trustee
+283AD  Existing trustee continues to act until new trustee takes office
+
+An existing trustee continues to act as the trustee until a new 
+trustee is appointed and has taken office as trustee, despite any rule 
+of law or equity to the contrary.
+Note: This section applies even if the existing trustee resigns.
+
+Part 2L.1  Requirement for trust deed and trustee
+283AE  Replacement of trustee
+
+Related party of existing trustee may be appointed as a new trustee
+(1) In addition to any other powers of appointment under the terms of 
+the debentures or provisions of the trust deed, the borrower may 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2L  Debentures
+
+Part 2L.1  Requirement for trust deed and trustee
+
+Part 2L.1  Requirement for trust deed and trustee
+Section 283AE
+
+Part 2L.1  Requirement for trust deed and trustee
+4 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025appoint a body corporate that is related to the existing trustee as 
+trustee in place of the existing trustee if:
+(a) the body corporate can be a trustee under section 283AC; and
+(b) the existing trustee consents in writing to the appointment.
+The appointment has effect despite any terms of the debentures or 
+provisions of the trust deed.
+Appointment by Court
+(2) The Court may:
+(a) appoint a person who may be a trustee under section 283AC 
+as trustee on the application of the borrower, a debenture 
+holder or ASIC if:
+(i) a trustee has not been validly appointed; or
+(ii) the trustee has ceased to exist; or
+(b) terminate the existing trustee’s appointment and appoint a 
+person who may be a trustee under section 283AC as trustee 
+in the existing trustee’s place on the application of the 
+borrower, the existing trustee, a debenture holder or ASIC if:
+(i) the existing trustee cannot be trustee under 
+section 283AC; or
+(ii) the existing trustee fails, or refuses, to act.
+Authorised Version C2025C00450 registered 21/07/2025Debentures  Chapter 2L
+Duties of borrower  Part 2L.2
+
+Part 2L.1  Requirement for trust deed and trustee
+Section 283BA
+
+Corporations Act 2001 5
+Compilation No. 143 Compilation date: 09/07/2025Part 2L.2—Duties of borrower
+
+Part 2L.1  Requirement for trust deed and trustee
+283BA  Duties of borrower
+
+A borrower that is required to enter into a trust deed under 
+section 283AA has the duties imposed by this Part.
+
+Part 2L.1  Requirement for trust deed and trustee
+283BB  General duties
+
+The borrower must:
+(a) carry on and conduct its business in a proper and efficient 
+manner; and
+(b) provide a copy of the trust deed to:
+(i) a debenture holder; or
+(ii) the trustee;
+if they request a copy; and
+(c) make all of its financial and other records available for 
+inspection by:
+(i) the trustee; or
+(ii) an officer or employee of the trustee authorised by the 
+trustee to carry out the inspection; or
+(iii) a registered company auditor appointed by the trustee to 
+carry out the inspection;
+and give them any information, explanations or other 
+assistance that they require about matters relating to those 
+records.
+Note: The borrower also has a duty to call a meeting of debenture holders in 
+certain circumstances (see section 283EA).
+
+Part 2L.1  Requirement for trust deed and trustee
+283BC  Duty to notify ASIC of information related to trustee
+
+(1) Within 14 days after the trustee is appointed, the borrower must 
+lodge with ASIC a notice containing the following information:
+(a) the name of the trustee;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2L  Debentures

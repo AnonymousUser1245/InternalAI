@@ -1,0 +1,212 @@
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 81
+Compilation No. 143 Compilation date: 09/07/2025(c) an option to acquire (whether by way of issue or transfer) an 
+investment in the scheme covered by paragraph (a) or (b); or
+(d) an option to dispose of an investment in the scheme covered 
+by paragraph (a) or (b); or
+(e) an interest a person holds under an arrangement that is a 
+derivative if:
+(i) the consideration to be provided under the arrangement; 
+or
+(ii) the value of the arrangement;
+is ultimately determined, derived from or varies by reference 
+to an investment in the scheme covered by paragraph (a), (b), 
+(c) or (d); or
+(f) an investment in the responsible entity of the scheme.
+To avoid doubt, the consideration to be provided under, or the 
+value of, an arrangement in relation to an index is taken not to be 
+ultimately determined, derived from or vary by reference to an 
+investment in the scheme merely because the investment is taken 
+into account in determining the value of the index.
+investment contract means any contract, scheme or arrangement 
+that, in substance and irrespective of its form, involves the 
+investment of money in or under such circumstances that the 
+investor acquires or may acquire an interest in, or right in respect 
+of, property, whether in this jurisdiction or elsewhere, that, under, 
+or in accordance with, the terms of investment will, or may at the 
+option of the investor, be used or employed in common with any 
+other interest in, or right in respect of, property, whether in this 
+jurisdiction or elsewhere, acquired in or under like circumstances.
+investment life insurance product means a financial product 
+described in paragraph 764A(1)(f).
+Note: See also insurance product.
+involved:
+(a) in a contravention—has the meaning given by section 79; 
+and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+82 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) in a market licensee, CS facility licensee, derivative trade 
+repository licensee or a benchmark administrator licensee, or 
+in an applicant for such a licence—has the meaning given by 
+section 853B.
+issue:
+(a)issue includes:
+(i) in relation to interests in a managed investment 
+scheme—make available; and
+(ii) otherwise—circulate, distribute and disseminate; and
+(b) in relation to a financial product—issue has the meaning 
+given by section 761E.
+issue situation has the meaning given by paragraph 1012B(2)(a).
+issue Statement has the meaning given by subsection 1013A(1).
+judgment means a judgment, decree or order, whether final or 
+interlocutory.
+key management personnel for an entity has the same meaning as 
+in the accounting standards.
+kind, in relation to financial products or financial services, has a 
+meaning affected by regulations made for the purposes of 
+section 761CA.
+large proprietary company has the meaning given by 
+subsection 45A(3).
+law:
+(a)law of a State or Territory means a law of, or in force in, the 
+State or Territory; and
+(b) in Chapter 5D (licensed trustee companies)—law has the 
+meaning given by section 601RAA.
+Note: The definition in paragraph (a) does not affect the meaning of law 
+when used otherwise than in a phrase such as “law of a State or 
+Territory”. Examples of such a use are in the phrase “any provision of 
+any law” in section 100A and the phrase “law of the Commonwealth” 
+in section 156.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 83
+Compilation No. 143 Compilation date: 09/07/2025law of a recognised jurisdiction has the meaning given by 
+subsection 1200A(1).
+lawyer means a duly qualified legal practitioner and, in relation to 
+a person, means such a practitioner acting for the person.
+lead auditor has the meaning given by section 324AF.
+lease does not include a lease of goods that gives rise to a PPSA 
+security interest in the goods.
+Note: An interest that arises under a lease of goods that in substance secures 
+the payment or performance of an obligation, or that arises under a 
+PPS lease within the meaning of the Personal Property Securities Act
+
+Part 1.2  Interpretation
+Division 1  General
+2009, may be a PPSA security interest (see sections 12 and 13 of that
+
+Act and the definition of PPSA security interest in this section).
+leave of absence means long service leave, extended leave, 
+recreation leave, annual leave, sick leave or any other form of 
+leave of absence from employment.
+levy period has the same meaning as in the Financial Services 
+Compensation Scheme of Last Resort Levy Act 2023.
+liability:
+(a)liability (except in relation to a sub-fund of a CCIV):
+(i) includes a duty or obligation of any kind (whether 
+arising under an instrument or otherwise, and whether 
+actual, contingent or prospective); and
+(ii) in relation to a CCIV—has a meaning affected by 
+section 1233A; and
+(b)liabilities, in relation to a sub-fund of a CCIV, has the 
+meaning given by section 1233L.
+licensed CS facility means a clearing and settlement facility the 
+operation of which is authorised by an Australian CS facility 
+licence.
+licensed derivative trade repository has the meaning given by 
+section 761A.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+84 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025licensed market means a financial market the operation of which is 
+authorised by an Australian market licence.
+licensed trustee company means a trustee company that holds an 
+Australian financial services licence covering the provision of one 
+or more traditional trustee company services.
+Note: Traditional trustee company services are financial services: see 
+subsection 766A(1A).
+life policy has the same meaning as in the Life Insurance Act 1995.
+life policy fund has the meaning given by section 761A.
+life risk insurance product means a financial product described in 
+paragraph 764A(1)(e).
+Note: See also insurance product and risk insurance product.
+limit of a margin lending facility has the meaning given by 
+subsection 761EA(11).
+limited company means:
+(a) a company limited by shares; or
+(b) a company limited by guarantee; or
+(c) a company limited both by shares and guarantee;
+but does not include a no liability company.
+limited-service time-sharing adviser has the meaning given by 
+section 910A.
+linked:
+(a) the incurring of a debt and a contravention of 
+subsection 596AC(1), (2), (3) or (4) are linked if they are 
+linked under subsection 596AC(10); and
+(b) the disposition of a company’s property and a contravention 
+of subsection 596AC(1), (2), (3) or (4) are linked if they are 
+linked under subsection 596AC(10A).
+linked to a refusal or failure to give effect to a determination 
+made by AFCA has the meaning given by section 910C.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 85
+Compilation No. 143 Compilation date: 09/07/2025liquid:
+(a) for a registered scheme—has the meaning given by 
+subsection 601KA(4); and
+(b) for a sub-fund—has the meaning given by 
+subsection 1230H(1).
+liquidator:
+(a) has a meaning affected by paragraph 530(b) (which deals 
+with 2 or more persons appointed as liquidators); and
+(b) in Chapter 7, includes a provisional liquidator.
+liquidity period, for an ESS interest: see subsection 1100ZB(7).
+listed:
+(a) a company, managed investment scheme or other body is 
+listed if it is included in the official list of a declared financial 
+market operated in this jurisdiction; and
+(b) a retail CCIV that is not listed because of paragraph (a) is 
+listed if:
+(i) the retail CCIV has only one sub-fund; and
+(ii) that sub-fund is included in the official list of a declared 
+financial market operated in this jurisdiction; and
+(c) a sub-fund of a retail CCIV is listed if:
+(i) the sub-fund is included in the official list of a declared 
+financial market operated in this jurisdiction; or
+(ii) the retail CCIV is listed because of paragraph (a).
+listed corporation means a body corporate that is included in an 
+official list of a declared financial market.
+listed disclosing entity has the meaning given by section 111AL.
+listing market, in relation to a listed disclosing entity, has the 
+meaning given by subsection 111AE(1), (1A), (1B) or (1C).
+listing rules of a financial market, or proposed financial market, 
+means any rules (however described) that are made by the operator 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+86 Corporations Act 2001

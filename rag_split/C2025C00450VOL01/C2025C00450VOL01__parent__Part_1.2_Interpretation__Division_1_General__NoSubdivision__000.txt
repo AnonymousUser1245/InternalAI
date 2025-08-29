@@ -1,0 +1,229 @@
+Part 1.2  Interpretation
+Division 1  General
+Section 7
+
+Part 1.2  Interpretation
+Division 1  General
+24 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) Where, because of Part 11.2, provisions of this Act, as in force at a 
+particular time, continue to apply:
+(a) in relation to someone or something; or
+(b) for particular purposes;
+then, for the purposes of those provisions as so applying:
+(c) this Part as in force at that time continues to have effect; and
+(d) this Part as in force at a later time does not have effect.
+
+Part 1.2  Interpretation
+Division 1  General
+7  Identifying defined terms
+
+(1) The Dictionary in section 9 includes a definition for each term that 
+is defined in this Act, except:
+(a) a term that is defined for the purposes of a single section or 
+part of a single section; and
+(b) a term that is defined for the purposes of Chapter 10 
+(transitional provisions) or Schedule 4 (transfer of financial 
+institutions and friendly societies); and
+(c) a term that is defined for the purposes of Schedule 2 (the 
+Insolvency Practice Schedule).
+In some cases, the definition is a signpost to another provision or 
+Act which defines the term.
+Note 1: An example for paragraph (a) is a definition that is expressed as being 
+for the purposes of a section or subsection.
+Note 2: Schedule 2 also has its own Dictionary: see section 5-5 of Schedule 2. 
+Subject to Schedule 2, the Dictionary in section 9 also has effect for 
+the purposes of Schedule 2.
+Note 3: This Part, including the Dictionary in section 9, also has effect for the 
+purposes of the ASIC Act: see subsection 5(2) of that Act.
+(2) Within a definition, the defined term is identified by bold italics.
+Note: This Act also uses bold italics to “tag” a concept with a label for use 
+as a narrative device.
+(3) To the extent that a term used in a provision is not defined in this 
+Act, it has its ordinary meaning.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 25
+Compilation No. 143 Compilation date: 09/07/2025Example 1: The definition of complaint in section 9 defines the term only in
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+26 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025ACN (short for “Australian Company Number”) is the number 
+given by ASIC to a company on registration (see sections 118 and
+
+Part 1.2  Interpretation
+Division 1  General
+601BD).
+
+acquire, in relation to a financial product, has the meaning given 
+by section 761E.
+act includes thing.
+Note: See also doing an act or thing.
+add-on insurance product has the same meaning as in 
+section 12DO of the Australian Securities and Investments 
+Commission Act 2001.
+adequate, in relation to compensation arrangements or proposed 
+compensation arrangements, has the meaning given by 
+section 885B.
+administration, in relation to a company, has the meaning given by 
+section 435C.
+administrator:
+(a) in relation to a body corporate but not in relation to a deed of 
+company arrangement:
+(i) means an administrator of the body or entity appointed 
+under Part 5.3A; and
+(iii) if 2 or more persons are appointed under that Part as 
+administrators of the body or entity—has a meaning 
+affected by paragraph 451A(2)(b); or
+(b) in relation to a deed of company arrangement:
+(i) means an administrator of the deed appointed under
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+28 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) supplies made from any of those bodies corporate to any 
+other of those bodies corporate; or
+(b) supplies that are input taxed; or
+(c) supplies that are not for consideration (and are not taxable 
+supplies under section 72-5 of the A New Tax System (Goods 
+and Services Tax) Act 1999); or
+(d) supplies that are not made in connection with an enterprise 
+that the body corporate carries on; or
+(e) supplies that are not connected with Australia.
+Expressions used in this definition that are also used in the A New 
+Tax System (Goods and Services Tax) Act 1999 have the same 
+meaning as in that Act.
+annuity policy has the meaning given by section 761A.
+APFRN: see Australian Passport Fund Registration Number.
+application facility, in relation to a CSF offer, has the meaning 
+given by subsection 738ZA(3).
+apportionable claim, in Division 2A (proportionate liability for 
+misleading and deceptive conduct) of Part 7.10, has the meaning 
+given by subsection 1041L(1).
+appropriate, in relation to a target market determination, has the 
+meaning given by subsection 994B(8A).
+appropriate officer, in Part 5.8 (offences), has the meaning given 
+by subsection 589(5).
+approved code of conduct means a code of conduct approved by 
+ASIC by legislative instrument under section 1101A, and includes 
+a replacement code of conduct approved under that section.
+approved deposit fund has the same meaning as in the 
+Superannuation Industry (Supervision) Act 1993.
+approved stock exchange has the same meaning as in the Income 
+Tax Assessment Act 1997.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 29
+Compilation No. 143 Compilation date: 09/07/2025APRA means the Australian Prudential Regulation Authority.
+ARBN (short for “Australian Registered Body Number”) is the 
+number given by ASIC to a registrable body on registration under
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+30 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025asset has the meaning given by section 9AB.
+asset-based fee has the meaning given by section 964F.
+associate has the meaning given by sections 10 to 17.
+associated entity has the meaning given by section 50AAA.
+AUASB means the Auditing and Assurance Standards Board.
+audit means an audit conducted for the purposes of this Act and 
+includes a review of a financial report for a financial year or a 
+half-year conducted for the purposes of this Act.
+audit activity: see the definition of engage in audit activity.
+audit company means a company that consents to be appointed, or 
+is appointed, as auditor of a company, registered scheme or 
+registrable superannuation entity.
+audit-critical employee, in relation to a company, or the 
+responsible entity for a registered scheme, or a registrable 
+superannuation entity, that is the audited body for an audit, means 
+a person who:
+(a) is an employee of the company, of the responsible entity for 
+the registered scheme or of the RSE licensee for the 
+registrable superannuation entity; and
+(b) is able, because of the position in which the person is 
+employed, to exercise significant influence over:
+(i) a material aspect of the contents of the financial report 
+being audited; or
+(ii) the conduct or efficacy of the audit.
+audited body, in relation to an audit of a company, registered 
+scheme or registrable superannuation entity, means the company, 
+registered scheme or registrable superannuation entity in relation to 
+which the audit is, or is to be, conducted.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 31
+Compilation No. 143 Compilation date: 09/07/2025audit firm means a firm that consents to be appointed, or is 
+appointed, as auditor of a company, registered scheme or 
+registrable superannuation entity.
+auditing standard means:
+(a) a standard in force under section 336; or
+(b) a provision of such a standard as it so has effect.
+auditor for the purposes of the RSE licensee law means an auditor 
+appointed in fulfilment of a requirement imposed by a provision of 
+the RSE licensee law.
+auditor independence requirements of this Act means the 
+requirements of Divisions 3, 4 and 5 of Part 2M.4.
+auditor’s report means:
+(a) an auditor’s report on an annual financial report required by 
+section 308; or
+(b) an auditor’s report on a half-year financial report required by 
+section 309; or
+(c) an auditor’s report on an annual sustainability report required 
+by section 301A.
+Australia means the Commonwealth of Australia and, when used 
+in a geographical sense, includes each Territory.
+Note: The Australian Capital Territory, the Jervis Bay Territory, the 
+Northern Territory, Norfolk Island and the Territories of Christmas 
+Island and of Cocos (Keeling) Islands are covered by the definition of 
+Territory in this section.
+Australian ADI means:
+(a) an ADI (authorised deposit-taking institution) within the 
+meaning of the Banking Act 1959; and
+(b) a person who carries on State banking within the meaning of 
+paragraph 51(xiii) of the Constitution.
+Australian business law means a law of the Commonwealth, or of 
+a State or Territory, that is a law that regulates, or relates to the 
+regulation of, business or persons engaged in business.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+32 Corporations Act 2001

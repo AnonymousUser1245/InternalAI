@@ -1,0 +1,181 @@
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+Section 601DC
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+54 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Acceptable abbreviations [operative table]
+Word Abbreviation
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+5 Number No
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+6 and &
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+7 Australian Registered Body
+
+NumberARBN
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+8 Registered Regd
+
+(2) If a registrable Australian body’s or foreign company’s name 
+includes any of these abbreviations, the word corresponding to the 
+abbreviation may be used instead.
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+601DC  When a name is available
+
+Name is available unless identical or unacceptable
+(1) A name is available to a registrable Australian body or a foreign 
+company unless the name is:
+(a) identical (under rules set out in the regulations) to a name 
+that is reserved or registered under this Act for another body; 
+or
+(b) identical (under rules set out in the regulations) to a name 
+that is held or registered on the Business Names Register in 
+respect of another individual or body who is not the person 
+applying to have the name; or
+(c) unacceptable for registration under the regulations.
+Minister may consent to a name being available
+(2) The Minister may consent in writing to a name being available to a 
+registrable Australian body or foreign company even if the name 
+is:
+(a) identical to a name that is reserved or registered under this 
+Act for another body; or
+(b) unacceptable for registration under the regulations.
+(3) The Minister’s consent may be given subject to conditions.
+Authorised Version C2025C00450 registered 21/07/2025Bodies corporate registered as companies, and registrable bodies  Chapter 5B
+Names of registrable Australian bodies and foreign companies  Part 5B.3
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+Section 601DD
+
+Corporations Act 2001 55
+Compilation No. 143 Compilation date: 09/07/2025Note: If the body or company breaches a condition, ASIC may direct it to 
+change its name under section 601DJ.
+(4) The regulations may specify that a particular unacceptable name is 
+available to a registrable Australian body or foreign company if:
+(a) a specified public authority, or an instrumentality or agency 
+of the Crown in right of the Commonwealth, a State or an 
+internal Territory has consented to the body or company 
+using or assuming the name; or
+(b) the body or company is otherwise permitted to use or assume 
+the name by or under a specified provision of an Act of the 
+Commonwealth, a State or an internal Territory.
+The consent of the authority, instrumentality or agency may be 
+given subject to conditions.
+Note: If the consent is withdrawn, the body or company ceases to be 
+permitted or it breaches a condition, ASIC may direct it to change its 
+name under section 601DJ.
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+601DD  Registered Australian bodies and registered foreign
+
+companies can carry on business with some names only
+(1) A registered Australian body or registered foreign company must 
+not carry on business under a name in this jurisdiction unless 
+subsection (2) or (3) authorises the body or company to use the 
+name.
+(1A) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(2) The body or company may use the name if the company or body is 
+registered under that name under Part 5B.2.
+(3) A registered Australian body may use a name in the State or 
+Territory that is its place of origin if the name is registered to the 
+body on the Business Names Register.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5B  Bodies corporate registered as companies, and registrable bodies
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+Section 601DE
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+56 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025601DE  Using a name and ARBN
+Requirements for bodies that are not Australian ADIs
+(1) Subject to sections 601DF and 601DG, a registered Australian 
+body or registered foreign company must set out the following on 
+all its public documents and negotiable instruments published or 
+signed in this jurisdiction:
+(a) its name;
+(b) either:
+(i) the expression “Australian Registered Body Number” 
+followed by the body’s ARBN; or
+(ii) if the last 9 digits of the body’s ABN are the same, and 
+in the same order, as the last 9 digits of its ARBN—the 
+words “Australian Business Number” followed by the 
+body’s ABN;
+(c) its place of origin;
+(d) if the liability of its members is limited and this is not 
+apparent from its name—notice of the limited liability of its 
+members.
+Paragraphs (c) and (d) do not apply to an Australian ADI.
+Note: In any case where the body’s ARBN would be used, the body’s ABN 
+may be used instead if section 1344 is satisfied.
+(1A) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Where information to be set out
+(2) Subject to sections 601DF and 601DG, the information required by 
+paragraph (1)(b) must be set out with the company’s or body’s 
+name, or 1 of the references to its name in the document or 
+instrument. If the name appears on 2 or more pages of the 
+document or instrument, this must be done on the first of those 
+pages.
+Authorised Version C2025C00450 registered 21/07/2025Bodies corporate registered as companies, and registrable bodies  Chapter 5B
+Names of registrable Australian bodies and foreign companies  Part 5B.3
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+Section 601DF
+
+Corporations Act 2001 57
+Compilation No. 143 Compilation date: 09/07/2025601DF  Exception to requirement to have ARBN on receipts
+A registered Australian body or a registered foreign company does 
+not have to set out the expression “Australian Registered Body 
+Number” followed by its ARBN on a receipt (for example, a cash 
+register receipt) that sets out information recorded in the machine 
+that produced the receipt.
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+601DG  Regulations may exempt from requirement to set out
+
+information on documents
+The regulations may exempt a specified registered Australian body 
+or registered foreign company, or a class of those bodies or 
+companies, from the requirement in paragraphs 601DE(1)(b), (c) 
+and (d) to set out information on its public documents and 
+negotiable instruments. The exemption may relate to specified 
+documents or instruments, or a class of documents or instruments.
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+601DH  Notice of name change must be given to ASIC
+
+(1) A registered Australian body or a registered foreign company must 
+give ASIC written notice of a change to its name within 14 days 
+after the date the change occurred.
+(1A) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(2) If the proposed name is available, ASIC must alter the details of 
+the body’s or foreign company’s registration to reflect the change. 
+For the purposes of this Act (other than subsection (1)), the change 
+of name takes effect when ASIC alters the details of the body’s or 
+foreign company’s registration.
+Note 1: For the reservation of names, see section 601DA.
+Note 2: For available names, see section 601DC.
+Note 3: ASIC must issue a new certificate reflecting the name change (see 
+section 601CU).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5B  Bodies corporate registered as companies, and registrable bodies
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+Section 601DJ
+
+Part 5B.3  Names of registrable Australian bodies and foreign companies
+58 Corporations Act 2001

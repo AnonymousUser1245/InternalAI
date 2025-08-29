@@ -1,0 +1,46 @@
+Part 5.1 bodies); or
+
+(b) paragraph 481(5)(b) (release of liquidator); or
+(c) subsection 509(2) (deregistration after end of administration 
+return is lodged).
+Note: These provisions apply to a sub-fund of a CCIV with modifications: 
+see Divisions 1 to 8 of this Part.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+External administration and deregistration  Part 8B.6
+Deregistration and transfer of registration  Division 9
+
+Part 5.1 bodies); or
+Section 1239D
+
+Corporations Act 2001 663
+Compilation No. 143 Compilation date: 09/07/20251239D  Effect of deregistration of a sub-fund
+Effect on assets of the CCIV
+(1) Subsections 601AD(1A) to (4) and section 601AE apply in relation 
+to the deregistration of a sub-fund of a CCIV.
+Note: Subsection 601AD(1) does not apply in relation to the deregistration 
+of a sub-fund of a CCIV. The CCIV will continue to exist until the 
+CCIV itself is deregistered.
+(2) Those provisions apply as if a reference to property were instead a 
+reference to property of the sub-fund.
+Note: For references to property of a sub-fund, see subsection 51F(3).
+Books
+(3) If a sub-fund of a CCIV is deregistered, the CCIV must keep the 
+CCIV’s books that relate to the sub-fund (other than books that a 
+liquidator has to keep under subsection 70-35(1) of Schedule 2) for
+
+Part 5.1 bodies); or
+3 years after the deregistration.
+
+Note: If the CCIV itself is deregistered, the corporate director of the CCIV 
+immediately before it is deregistered is required to retain all books of 
+the CCIV including these books: see section 1239L.
+(4) An offence based on subsection (3) is an offence of strict liability.
+Consequences of deregistration on status as an Australian passport 
+fund
+(5) If:
+(a) a sub-fund of a CCIV is deregistered; and
+(b) the sub-fund was an Australian passport fund;
+ASIC must annotate the Register of Passport Funds to indicate that 
+the sub-fund is no longer an Australian passport fund, or cause that 
+annotation to be made on the Register.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles

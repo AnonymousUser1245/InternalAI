@@ -1,0 +1,82 @@
+Part 9.4  Offences
+Division 2  Offences generally
+1317  Certain persons to assist in prosecutions
+
+(1) Where a prosecution in respect of an offence against this Act has 
+been instituted, or ASIC is of the opinion that a prosecution in 
+respect of an offence against this Act ought to be instituted, against 
+a person (in this section referred to as the defendant), ASIC may:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4  Offences
+Division 2  Offences generally
+Section 1317
+
+Part 9.4  Offences
+Division 2  Offences generally
+86 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) if the defendant is a natural person—require any person who 
+is or was a partner, employee or agent of the defendant; or
+(b) if the defendant is a body corporate—require any person who 
+is or was an officer, employee or agent of the defendant;
+to assist in the prosecution, and the person who is so required must 
+give all assistance in connection with the prosecution that that 
+person is reasonably able to give.
+Note: This section applies in relation to a defendant who is a CCIV with 
+modifications: see section 1242D.
+(2) ASIC must not make such a requirement as is mentioned in 
+subsection (1) of a person who, in the opinion of ASIC, is or is 
+likely to be a defendant in the proceedings or is or has been such a 
+person’s lawyer.
+(3) If a person to whom paragraph (1)(a) or (b) relates fails to give 
+assistance as required by subsection (1), the person contravenes 
+this section and, without affecting any penalty to which the person 
+may be liable for the contravention, the Court may, on the 
+application of ASIC, order the person to comply with the 
+requirement within such time, and in such manner, as the Court 
+orders.
+(4) In this section, agent, in relation to the defendant, includes a 
+banker of the defendant and a person engaged as an auditor by the 
+defendant, whether that person is an employee or an officer of the 
+defendant or not.
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Protection for whistleblowers  Part 9.4AAA
+
+Part 9.4  Offences
+Division 2  Offences generally
+Section 1317AA
+
+Corporations Act 2001 87
+Compilation No. 143 Compilation date: 09/07/2025Part 9.4AAA—Protection for whistleblowers
+Note: This Part applies in relation to CCIVs with modifications: see 1242E.
+
+Part 9.4  Offences
+Division 2  Offences generally
+1317AA  Disclosures qualifying for protection under this Part
+
+Disclosure to ASIC, APRA or prescribed body
+(1) A disclosure of information by an individual (the discloser) 
+qualifies for protection under this Part if:
+(a) the discloser is an eligible whistleblower in relation to a 
+regulated entity; and
+(b) the disclosure is made to any of the following:
+(i) ASIC;
+(ii) APRA;
+(iii) a Commonwealth authority prescribed for the purposes 
+of this subparagraph in relation to the regulated entity; 
+and
+(c) subsection (4) or (5) applies to the disclosure.
+Note: Section 1317AAD (public interest disclosure and emergency 
+disclosure) and paragraph 1317AB(1)(c) (protection from 
+self-incrimination etc.) may apply to a disclosure covered by this 
+subsection.
+Disclosure to eligible recipients
+(2) A disclosure of information by an individual (the discloser) 
+qualifies for protection under this Part if:
+(a) the discloser is an eligible whistleblower in relation to a 
+regulated entity; and
+(b) the disclosure is made to an eligible recipient in relation to 
+the regulated entity; and
+(c) subsection (4) or (5) applies to the disclosure.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous

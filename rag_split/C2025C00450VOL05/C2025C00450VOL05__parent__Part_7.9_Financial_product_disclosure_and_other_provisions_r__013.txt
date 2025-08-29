@@ -1,0 +1,193 @@
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1016A
+
+Corporations Act 2001 71
+Compilation No. 143 Compilation date: 09/07/2025(f) the issue or sale occurs in a situation covered by regulations 
+made for the purposes of this paragraph.
+Note 1: This subsection does not apply to an issue or sale pursuant to 
+paragraph 1016E(2)(c) (see subsection 1016E(2C)).
+Note 2: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(3) The trustee of a relevant superannuation entity must only permit a 
+person to become a standard employer-sponsor of the entity if:
+(a) the person applied to become a standard employer-sponsor of 
+the entity using an application form; and
+(b) the application form used to apply to become a standard 
+employer-sponsor:
+(i) was included in, or accompanied, a Product Disclosure 
+Statement (relating to an interest in the entity) that was 
+given to the person and that was not defective as at the 
+time when the application was made; or
+(ii) was copied, or directly derived, by the person from a 
+form referred to in subparagraph (i).
+Note 1: Information in a Supplementary Product Disclosure Statement is taken 
+to be contained in the Product Disclosure Statement it supplements 
+(see section 1014D).
+Note 2: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(4) The regulations may:
+(a) provide for defences to offences based on subsection (2) or 
+(3); and
+(b) provide for additional offences relating to the receipt or 
+non-receipt of applications or application forms.
+Note 1: A defendant bears an evidential burden in relation to a defence. See 
+subsection 13.3(3) of the Criminal Code.
+Note 2: For the limit on penalties for offences against the regulations, see 
+paragraph 1364(2)(w).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1016B
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+72 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251016B  If Statement lodged with ASIC, financial product is not to be 
+issued or sold before specified period
+(1) If:
+(a) a copy of a Product Disclosure Statement has been lodged 
+with ASIC; and
+(b) the financial product to which the Statement relates is not 
+able to be traded on any financial market (whether in 
+Australia or elsewhere);
+the responsible person must not issue or sell a financial product, 
+pursuant to an application made in response to the Statement, until 
+the period of 7 days (or that period as extended under 
+subsection (2)) after lodgment of the Statement has ended.
+Note 1: This subsection does not apply to an issue or sale pursuant to 
+paragraph 1016E(2)(c) (see subsection 1016E(2C)).
+Note 2: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(2) ASIC may extend the period by notice in writing to the responsible 
+person. The period as extended must end no more than 14 days 
+after lodgment.
+(3) This section does not apply if the financial product to which the 
+Product Disclosure Statement relates is:
+(a) a managed investment product of an Australian passport 
+fund; or
+(b) a foreign passport fund product.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+1016C  Minimum subscription condition must be fulfilled before
+
+issue or sale
+If a Product Disclosure Statement for a financial product states that 
+a financial product to which the Statement relates will not be 
+issued or sold unless:
+(a) applications for a minimum number of financial products of 
+that kind are received; or
+(b) a minimum amount is raised;
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Product Disclosure Statements  Division 2
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1016D
+
+Corporations Act 2001 73
+Compilation No. 143 Compilation date: 09/07/2025the responsible person must not issue or sell a financial product of 
+that kind, pursuant to an application made in response to the 
+Statement, if that condition has not been satisfied. For the purpose 
+of working out whether the condition has been satisfied, a person 
+who has agreed to take a financial product as underwriter is taken 
+to have applied for that product.
+Note 1: Statements in a Supplementary Product Disclosure Statement are 
+taken to be contained in the Product Disclosure Statement it 
+supplements (see section 1014D).
+Note 1A: This subsection does not apply to an issue or sale pursuant to 
+paragraph 1016E(2)(c) (see subsection 1016E(2C)).
+Note 2: Failure to comply with this section is an offence (see 
+subsection 1311(1)).
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+1016D  Condition about ability to trade on a market must be fulfilled
+
+before issue or sale
+(1) If a Product Disclosure Statement for a financial product states or 
+implies that a financial product to which the Statement relates will 
+be able to be traded on a financial market (whether in Australia or 
+elsewhere), the responsible person must only issue or sell a 
+financial product of that kind, pursuant to an application made in 
+response to the Statement, if:
+(a) the product is able to be traded on that market; or
+(b) an application has, within 7 days after the relevant date (see 
+subsection (3)), been made to the operator of that market for 
+the taking of such action as is necessary to enable financial 
+products of that kind to be traded on that market.
+Paragraph (b) ceases to apply to the financial product at the end of 
+the period of 3 months starting on the relevant date.
+Note 1: Statements in a Supplementary Product Disclosure Statement are 
+taken to be contained in the Product Disclosure Statement it 
+supplements (see section 1014D).
+Note 1A: This subsection does not apply to an issue or sale pursuant to 
+paragraph 1016E(2)(c) (see subsection 1016E(2C)).
+Note 2: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1016D
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+74 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Issue or transfer void if quotation condition not fulfilled
+(2) If a Product Disclosure Statement for a financial product states or 
+implies that the financial product is to be quoted on a financial 
+market (whether in Australia or elsewhere) and:
+(a) an application has not, within 7 days after the relevant date 
+(see subsection (3)), been made to the operator of that market 
+for the taking of such action as is necessary to enable 
+financial products of that kind to be traded on that market; or
+(b) the product is not able to be traded on that market at the end 
+of 3 months after the relevant date;
+then:
+(c) an issue or transfer to a person of a financial product of that 
+kind is void if:
+(i) the issue or transfer is pursuant to an application made 
+in response to the Statement; or
+(ii) the person should have been given the Statement; and
+(d) if:
+(i) an issue or transfer of a financial product to a person is 
+void because of paragraph (c); and
+(ii) the responsible person received money from that person 
+on account of the issue or transfer—the responsible 
+person must, as soon as practicable, return the money to 
+that person.
+Note 1: Paragraphs (c) and (d) do not apply to an issue or sale pursuant to 
+paragraph 1016E(2)(c) (see subsection 1016E(2C)).
+Note 2: Failure to comply with paragraph (d) is an offence (see 
+subsection 1311(1)).
+The relevant date
+(3) For the purposes of this section, the relevant date in relation to an 
+express or implied statement is:
+(a) if the statement is express or implied in a Product Disclosure 
+Statement, disregarding the effect of section 1014D—the 
+date of the Product Disclosure Statement; or
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Product Disclosure Statements  Division 2
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1016E
+
+Corporations Act 2001 75
+Compilation No. 143 Compilation date: 09/07/2025(b) if the statement is express or implied in a Supplementary 
+Product Disclosure Statement—the date of the 
+Supplementary Product Disclosure Statement; or
+(c) if the statement is express or implied in a Replacement 
+Product Disclosure Statement (whether or not it is express or 
+implied in the earlier Product Disclosure Statement it 
+replaces)—the date of the Replacement Product Disclosure 
+Statement.

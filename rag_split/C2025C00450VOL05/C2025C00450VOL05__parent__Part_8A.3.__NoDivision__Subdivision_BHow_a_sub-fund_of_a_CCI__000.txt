@@ -1,0 +1,19 @@
+Part 8A.3.
+Subdivision B—How a sub-fund of a CCIV is registered
+1222R  Initial sub-funds to be registered when the CCIV is registered
+
+If ASIC registers a CCIV, ASIC must also register one or more 
+sub-funds of the CCIV.
+Note: If ASIC deregisters a sub-fund, and as a result the CCIV has no 
+sub-funds, ASIC must deregister the CCIV: see section 1239K.
+
+Part 8A.3.
+Subdivision B—How a sub-fund of a CCIV is registered
+1222S  Registration of a sub-fund
+
+Registration of initial sub-funds
+(1) ASIC may register a sub-fund of a CCIV if:
+(a) ASIC registers the CCIV; and
+(b) the proposed name of the sub-fund is specified in the 
+application to register the CCIV.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles

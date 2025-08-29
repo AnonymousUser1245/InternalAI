@@ -1,0 +1,162 @@
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+1054(1)(b) to (f)) may be joined as a party to the complaint under
+
+section 1054 only if:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+External dispute resolution  Part 7.10A
+Additional provisions relating to superannuation complaints  Division 3
+
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+Section 1057
+
+Corporations Act 2001 267
+Compilation No. 143 Compilation date: 09/07/2025(a) the person applies in accordance with paragraph (2)(c) of this 
+section; or
+(b) AFCA is satisfied that, in all the circumstances, the person 
+should be joined as a party despite not so applying.
+
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+Section 1057A
+
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+268 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251057A  Operation and implementation of determination that is 
+subject to appeal
+(1) Subject to this section, the institution of an appeal to the Federal 
+Court from AFCA’s determination of a superannuation complaint 
+does not affect the operation of the determination or prevent the 
+taking of action to implement the determination.
+(2) If an appeal is brought to the Federal Court from the determination, 
+the Court or a judge of the Court may make such order or orders 
+staying or otherwise affecting the operation or implementation of 
+either or both of the following:
+(a) the determination or a part of the determination;
+(b) if the complaint relates to a decision of another person—the 
+whole or part of the decision that is complained of, or of a 
+decision of an insurer or other person who is a party to the 
+complaint;
+as the Court thinks appropriate to secure the effectiveness of the 
+hearing and determination of the appeal.
+(3) If an order is in force under subsection (2) (including an order that 
+has previously been varied on one or more occasions under this 
+subsection), the Court or a judge of the Court may make an order 
+varying or revoking the first-mentioned order.
+(4) An order in force under subsection (2) (including an order that has 
+previously been varied on one or more occasions under 
+subsection (3)):
+(a) is subject to such conditions as are specified in the order; and
+(b) has effect until:
+(i) if a period for the operation of the order is specified in 
+the order—the end of that period or, if a decision is 
+given on the appeal before the end of that period, the 
+giving of the decision; or
+(ii) if no period is so specified—the giving of a decision on 
+the appeal.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+External dispute resolution  Part 7.10A
+Additional provisions relating to superannuation complaints  Division 3
+
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+Section 1057B
+
+Corporations Act 2001 269
+Compilation No. 143 Compilation date: 09/07/20251057B  Sending of documents to, and disclosure of documents by, the 
+Federal Court
+If an appeal is instituted in the Federal Court from AFCA’s 
+determination of a superannuation complaint:
+(a) AFCA must send to the Court all documents that were before 
+AFCA in connection with the consideration of the matter to 
+which the appeal relates; and
+(b) at the conclusion of the proceeding before the Court in 
+relation to the appeal, the Court must return the documents to 
+AFCA.
+
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+Section 1058
+
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+270 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025information, produces the document or permits access to the 
+document for the purposes of this Part.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (3), see subsection 13.3(3) of the Criminal Code.
+(4) Subsection (1) does not apply to the AFCA staff member 
+disclosing information, producing a document or permitting access 
+to a document:
+(a) to ASIC; or
+(b) to APRA; or
+(c) to the Information Commissioner; or
+(d) to the Commissioner of Taxation; or
+(e) to a particular party to the complaint if the person who 
+provided the information or document to the staff member 
+consents in writing to the disclosure, production or access.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (4), see subsection 13.3(3) of the Criminal Code.
+(5) Subsection (1) does not apply to the AFCA staff member 
+disclosing information if:
+(a) the disclosure is made in a way that does not enable the 
+identification of the parties to a complaint; or
+(b) the disclosure is made to a police officer (within the meaning 
+of the Evidence Act 1995) because:
+(i) a threat has been made against an AFCA staff member 
+or another person; or
+(ii) the AFCA staff member believes that a party to a 
+complaint may commit an act of self-harm.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (5), see subsection 13.3(3) of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+External dispute resolution  Part 7.10A
+Information sharing and reporting  Division 4
+
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+Section 1058A
+
+Corporations Act 2001 271
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Information sharing and reporting
+
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+1058A  Authorised use or disclosure of information
+
+(1) An AFCA staff member may use or disclose information or 
+documents obtained by an AFCA staff member under or for the 
+purposes of this Part if:
+(a) the use or disclosure is for the purposes of:
+(i) this Part; or
+(ii) Part 7.10B; or
+(iii) the Financial Services Compensation Scheme of Last 
+Resort Levy Act 2023; or
+(iv) the Financial Services Compensation Scheme of Last 
+Resort Levy (Collection) Act 2023; or
+(b) the use or disclosure is to the CSLR operator for the purposes 
+of assisting the CSLR operator to perform its functions or 
+exercise its powers.
+(2) In this section:
+use or disclosure, for information or documents, includes making a 
+record of the information, disclosing the information, producing 
+the document or permitting access to the document.
+
+Part 7.10A  External dispute resolution
+Division 3  Additional provisions relating to superannuation complaints
+1058B  AFCA reporting to CSLR operator
+
+Notification of unpaid fees to CSLR operator
+(1) AFCA must notify the CSLR operator, in writing, of AFCA’s 
+unpaid fees, for a month ending on or after the accumulation 
+recovery day, as soon as practicable after the end of the month.
+Note: The notification could include information about AFCA’s unpaid fees, 
+including whether those fees relate to pre-CSLR complaints.
+(2)AFCA’s unpaid fees, for a month, is the sum of each fee (however 
+described) that:
+(a) relates to one or more complaints, each of which:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

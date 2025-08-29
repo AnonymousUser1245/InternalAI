@@ -1,0 +1,185 @@
+Part 6C.2  Tracing beneficial ownership of shares
+
+Part 6C.2  Tracing beneficial ownership of shares
+Section 672A
+
+Part 6C.2  Tracing beneficial ownership of shares
+354 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 6C.2—Tracing beneficial ownership of shares
+
+Part 6C.2  Tracing beneficial ownership of shares
+672A  Disclosure notices
+
+(1) ASIC, a listed company, the responsible entity for a listed 
+registered scheme or the operator of a listed notified foreign 
+passport fund may direct:
+(a) a member of the company, scheme or fund; or
+(b) a person named in a previous disclosure under section 672B 
+as having a relevant interest in, or having given instructions 
+about, voting shares in the company, interests in the scheme 
+or interests in the fund;
+to make the disclosure required by section 672B.
+(2) ASIC must exercise its powers under this section if requested to do 
+so by a member of the company, scheme or fund unless it 
+considers that it would be unreasonable to do so in all the 
+circumstances.
+
+Part 6C.2  Tracing beneficial ownership of shares
+672B  Disclosure by member of relevant interests and instructions
+
+(1) A person given a direction under section 672A must disclose to the 
+person giving the direction:
+(a) full details of their own relevant interest in the shares, 
+interests in the scheme or interests in the fund and of the 
+circumstances that give rise to that interest; and
+(b) the name and address of each other person who has a relevant 
+interest in any of the shares or interests together with full 
+details of:
+(i) the nature and extent of the interest; and
+(ii) the circumstances that give rise to the other person’s 
+interest; and
+(c) the name and address of each person who has given the 
+person instructions about:
+(i) the acquisition or disposal of the shares or interests; or
+Authorised Version C2025C00450 registered 21/07/2025Information about ownership of listed companies, listed registered schemes and listed 
+notified foreign passport funds  Chapter 6C
+Tracing beneficial ownership of shares  Part 6C.2
+
+Part 6C.2  Tracing beneficial ownership of shares
+Section 672C
+
+Corporations Act 2001 355
+Compilation No. 143 Compilation date: 09/07/2025(ii) the exercise of any voting or other rights attached to the 
+shares or interests; or
+(iii) any other matter relating to the shares or interests;
+together with full details of those instructions (including the 
+date or dates on which they were given).
+(1A) However, a matter referred to in paragraph (1)(b) or (c) need only 
+be disclosed to the extent to which it is known to the person 
+required to make the disclosure.
+Note: A defendant bears an evidential burden in relation to the matter in 
+subsection (1A), see subsection 13.3(3) of the Criminal Code.
+(1B) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(2) The disclosure must be made within 2 business days after:
+(a) the person is given the direction; or
+(b) if the person applies for an exemption under section 673 from 
+the obligation to make the disclosure and ASIC refuses to 
+grant the exemption—ASIC notifies the person of its 
+decision on the application; or
+(c) if the direction is given by a listed company, the responsible 
+entity of a listed registered scheme or the operator of a listed 
+notified foreign passport fund—the company, responsible 
+entity or operator pays any fee payable under the regulations 
+made for the purposes of section 672D.
+(3) The person does not have to comply with a direction given by the 
+company, responsible entity or operator if the person proves that 
+the giving of the direction is vexatious.
+
+Part 6C.2  Tracing beneficial ownership of shares
+672C  ASIC may pass information on to person who made request
+
+If ASIC receives information in response to a direction under 
+section 672A about shares in a company, interests in a listed 
+registered scheme or interests in a listed notified foreign passport 
+fund, ASIC:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6C  Information about ownership of listed companies, listed registered 
+schemes and listed notified foreign passport funds
+
+Part 6C.2  Tracing beneficial ownership of shares
+
+Part 6C.2  Tracing beneficial ownership of shares
+Section 672D
+
+Part 6C.2  Tracing beneficial ownership of shares
+356 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) may pass the information on to the company, the responsible 
+entity for the scheme or the operator of the fund; and
+(b) if ASIC gave the direction in response to a request under 
+subsection 672A(2)—must pass the information on to the 
+person who made the request unless ASIC considers it would 
+be unreasonable in all the circumstances to do so.
+
+Part 6C.2  Tracing beneficial ownership of shares
+672D  Fee for complying with a direction given by a company,
+
+scheme or fund under this Part
+(1) The regulations may prescribe fees that listed companies, 
+responsible entities of listed registered schemes and operators of 
+listed notified foreign passport funds are to pay to persons for 
+complying with directions given under this Part.
+(2) A person is liable to repay a fee paid to the person for complying 
+with a direction under section 672A if the person does not comply 
+with the direction on time even if the person does so later. The fee 
+may be recovered as a debt due to the company, responsible entity 
+or operator that paid it to the person.
+
+Part 6C.2  Tracing beneficial ownership of shares
+672DA  Register of information about relevant interests in listed
+
+company, listed registered scheme or listed notified 
+foreign passport fund
+(1) A listed company, the responsible entity for a listed registered 
+scheme or the operator of a listed notified foreign passport fund, 
+must keep a register of the following information that it receives 
+under this Part on or after 1 January 2005 (whether the information 
+is received pursuant to a direction the company, the responsible 
+entity or the operator itself gives under section 672A or is received 
+from ASIC under section 672C):
+(a) details of the nature and extent of a person’s relevant interest 
+in shares in the company, interests in the scheme or interests 
+in the fund;
+Authorised Version C2025C00450 registered 21/07/2025Information about ownership of listed companies, listed registered schemes and listed 
+notified foreign passport funds  Chapter 6C
+Tracing beneficial ownership of shares  Part 6C.2
+
+Part 6C.2  Tracing beneficial ownership of shares
+Section 672DA
+
+Corporations Act 2001 357
+Compilation No. 143 Compilation date: 09/07/2025(b) details of the circumstances that give rise to a person’s 
+relevant interest in shares in the company, interests in the 
+scheme or interests in the fund;
+(c) the name and address of a person who has a relevant interest 
+in shares in the company, interests in the scheme or interests 
+in the fund;
+(d) details of instructions that a person has given about:
+(i) the acquisition or disposal of shares in the company, 
+interests in the scheme or interests in the fund; or
+(ii) the exercise of any voting or other rights attached to 
+shares in the company, interests in the scheme or 
+interests in the fund; or
+(iii) any other matter relating to shares in the company, 
+interests in the scheme or interests in the fund;
+(e) the name and address of a person who has given instructions 
+of the kind referred to in paragraph (d).
+The register must be kept in accordance with this section.
+(2) A register kept under this section by a listed company must be kept 
+at:
+(a) the company’s registered office; or
+(b) the company’s principal place of business in this jurisdiction; 
+or
+(c) a place in this jurisdiction (whether or not an office of the 
+company) where the work involved in maintaining the 
+register is done; or
+(d) another place in this jurisdiction approved by ASIC.
+(3) A register kept under this section by the responsible entity of a 
+listed registered scheme must be kept at:
+(a) the responsible entity’s registered office; or
+(b) the responsible entity’s principal place of business in this 
+jurisdiction; or
+(c) a place in this jurisdiction (whether or not an office of the 
+responsible entity) where the work involved in maintaining 
+the register is done; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6C  Information about ownership of listed companies, listed registered 
+schemes and listed notified foreign passport funds
+
+Part 6C.2  Tracing beneficial ownership of shares
+
+Part 6C.2  Tracing beneficial ownership of shares
+Section 672DA
+
+Part 6C.2  Tracing beneficial ownership of shares
+358 Corporations Act 2001

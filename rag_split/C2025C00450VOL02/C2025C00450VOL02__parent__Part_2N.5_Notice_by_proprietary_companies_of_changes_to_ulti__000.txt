@@ -1,0 +1,200 @@
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+Section 349A
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+264 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 2N.5—Notice by proprietary companies of 
+changes to ultimate holding company
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+349A  Proprietary companies must notify ASIC of changes to
+
+ultimate holding company
+(1) If an event mentioned in section 349B, 349C or 349D happens in 
+relation to a proprietary company, the proprietary company must 
+notify ASIC, in the prescribed form and within 28 days after the 
+event, of the details required by that section.
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+349B  Another company becomes an ultimate holding company
+
+If another company becomes an ultimate holding company in 
+relation to a proprietary company, the proprietary company must 
+notify ASIC of:
+(a) the other company’s name; and
+(b) either:
+(i) if the other company is registered in Australia—its 
+ABN, ACN or ARBN; or
+(ii) if the other company is not registered in Australia—the 
+place at which it was incorporated or formed; and
+(c) the date on which the other company became an ultimate 
+holding company in relation to the proprietary company.
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+349C  A company ceases to be an ultimate holding company
+
+If a company ceases to be an ultimate holding company in relation 
+to a proprietary company, the proprietary company must notify 
+ASIC of:
+Authorised Version C2025C00450 registered 21/07/2025Updating ASIC information about companies, registered schemes and notified foreign 
+passport funds  Chapter 2N
+Notice by proprietary companies of changes to ultimate holding company  Part 2N.5
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+Section 349D
+
+Corporations Act 2001 265
+Compilation No. 143 Compilation date: 09/07/2025(a) the name of the company that ceased to be an ultimate 
+holding company in relation to the proprietary company; and
+(b) the date the cessation occurred.
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+349D  Ultimate holding company changes its name
+
+If an ultimate holding company in relation to a proprietary 
+company changes its name, the proprietary company must notify 
+ASIC of the new name of the ultimate holding company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2P  Lodgments with ASIC
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+Section 350
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+266 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Chapter 2P—Lodgments with ASIC
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+350  Forms for documents to be lodged with ASIC
+
+(1) A document that this Act requires to be lodged with ASIC in a 
+prescribed form must:
+(a) if a form for the document is prescribed in the regulations:
+(i) be in the prescribed form; and
+(ii) include the information, statements, explanations or 
+other matters required by the form; and
+(iii) be accompanied by any other material required by the 
+form; or
+(b) if a form for the document is not prescribed in the regulations 
+but ASIC has approved a form for the document:
+(i) be in the approved form; and
+(ii) include the information, statements, explanations or 
+other matters required by the form; and
+(iii) be accompanied by any other material required by the 
+form.
+(2) A reference in this Act to a document that has been lodged (being a 
+document to which subsection (1) applies), includes, unless a 
+contrary intention appears, a reference to any other material lodged 
+with the document as required by the relevant form.
+(3) If:
+(a) this Act requires a document to be lodged with ASIC in a 
+prescribed form; and
+(b) a provision of this Act either specifies, or provides for 
+regulations to specify, information, statements, explanations 
+or other matters that must be included in the document, or 
+other material that must accompany the document;
+that other provision is not taken to exclude or limit the operation of 
+subsection (1) in relation to the prescribed form (and so the 
+Authorised Version C2025C00450 registered 21/07/2025Lodgments with ASIC  Chapter 2P
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+Section 351
+
+Corporations Act 2001 267
+Compilation No. 143 Compilation date: 09/07/2025prescribed form may also require information etc. to be included in 
+the form or material to accompany the form).
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+351  Signing documents lodged with ASIC
+
+(1) A document lodged with ASIC in writing by, or on behalf of, a 
+body or a registered scheme must be signed by a director or 
+secretary of the body or of the responsible entity of the registered 
+scheme. If the body is a foreign company, it may be signed by:
+(a) its local agent; or
+(b) if the local agent is a company—a director or secretary of the 
+company.
+(1A) A document lodged with ASIC in writing by, or on behalf of, a 
+notified foreign passport fund or its operator, must be signed by:
+(a) a director or secretary of the operator of the fund; or
+(b) the local agent for the operator of the fund; or
+(c) if the local agent is a company—a director or secretary of 
+that company.
+Subsection (1) does not apply in relation to documents lodged with 
+ASIC in writing by, or on behalf of, a notified foreign passport 
+fund or its operator.
+(2) An individual who lodges a document with ASIC in writing must 
+sign it.
+(3) The person’s name must be printed next to the signature.
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+352  Documents lodged with ASIC electronically
+
+(1) A document may be lodged with ASIC electronically only if:
+(a) ASIC and the person seeking to lodge it (either on their own 
+behalf or as agent) have agreed, in writing, that it may be 
+lodged electronically; or
+(b) ASIC has approved, in writing, the electronic lodgment of 
+documents of that kind.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2P  Lodgments with ASIC
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+Section 353
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+268 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025The document is taken to be lodged with ASIC if it is lodged in 
+accordance with the agreement or approval (including any 
+requirements of the agreement or approval as to authentication).
+(1A) For the purposes of paragraph (1)(b), ASIC may approve:
+(a) a particular kind of document; or
+(b) documents in a particular class of documents.
+(2) Subsection (1) does not apply to a document covered by 
+section 353 or a notice lodged under subsection 1015D(2).
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+353  Electronic lodgment of certain documents
+
+(1) ASIC may determine conditions in relation to the electronic 
+lodgment of documents:
+(a) that must be given to a relevant market operator under 
+section 205G; or
+(b) that must be given to ASIC under section 792C.
+(2) The electronic lodgment of a document covered by a determination 
+under subsection (1) is only effective if the lodgment complies 
+with the conditions determined.
+(3) ASIC must publish in the Gazette a copy of any determination 
+under subsection (1).
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+354  Telephone notice of certain changes
+
+(1) ASIC may, in its discretion, accept telephone notice of a change to 
+a particular in relation to a company or a registered scheme if:
+(a) either:
+(i) the change relates to a misspelling or other minor 
+typographical error; or
+(ii) the change is to a particular included on a list published 
+by ASIC on the internet for the purposes of this section; 
+and
+(b) the notice satisfies the authentication requirements published 
+by ASIC on the internet for the purposes of this section.
+Authorised Version C2025C00450 registered 21/07/2025Lodgments with ASIC  Chapter 2P
+
+Part 2N.5  Notice by proprietary companies of changes to ultimate holding company
+Section 354
+
+Corporations Act 2001 269
+Compilation No. 143 Compilation date: 09/07/2025(2) If ASIC accepts telephone notice of a change to a particular under 
+subsection (1), any obligation elsewhere in this Act to lodge a 
+prescribed form in relation to the change is satisfied by the 
+telephone notice. However, this does not affect the company’s or 
+the scheme’s liability for late lodgment fees incurred before the 
+notice is given or continuing offences committed before that time.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

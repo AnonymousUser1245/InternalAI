@@ -1,0 +1,42 @@
+Part 7.3B, begins to apply to a body corporate; and
+
+(b) a PPSA security interest granted by the company in collateral 
+is covered by subsection (2).
+
+Note: A security interest granted by a company in relation to which 
+paragraph (a) applies that is unperfected at the critical time may vest 
+in the company under section 267 or 267A of the Personal Property 
+Securities Act 2009.
+
+(2) This subsection covers a PPSA security interest if:
+(a) at the critical time, or, if the security interest arises after the 
+critical time, when the security interest arises:
+(i) the security interest is enforceable against third parties 
+under the law of Australia; and
+(ii) the security interest is perfected by registration, and by 
+no other means; and
+(b) the registration time for the collateral is after the latest of the 
+following times:
+(i) 6 months before the critical time;
+(ii) the time that is the end of 20 business days after the 
+security agreement that gave rise to the security interest 
+came into force, or the time that is the critical time, 
+whichever time is earlier;
+(iii) if the security agreement giving rise to the security 
+interest came into force under the law of a foreign 
+jurisdiction, but the security interest first became 
+enforceable against third parties under the law of 
+Australia after the time that is 6 months before the 
+critical time—the time that is the end of 56 days after 
+the security interest became so enforceable, or the time 
+that is the critical time, whichever time is earlier;
+(iv) a later time ordered by the Court under section 588FM.
+
+Note 1: For the meaning of critical time, see subsection (7).
+
+Note 2: For when a security interest is enforceable against third parties under 
+the law of Australia, see section 20 of the Personal Property 
+Securities Act 2009.
+
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Recovering property or compensation for the benefit of creditors of insolvent company

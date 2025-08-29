@@ -1,0 +1,214 @@
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+Section 827B
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+182 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025ASIC may also have regard to any other matter that ASIC 
+considers relevant.
+(3) If ASIC is deciding whether to take the action mentioned in 
+paragraph (1)(a), (b) or (c) in respect of an Australian CS facility 
+licence granted under subsection 824B(2) (overseas clearing and 
+settlement facilities), ASIC must also have regard to:
+(a) the criteria that the licensee or applicant satisfied to obtain an 
+authorisation to operate the same facility in the foreign 
+country in which their principal place of business is located; 
+and
+(b) the obligations they must continue to satisfy to keep the 
+authorisation; and
+(c) the level of supervision to which the facility is subject in that 
+country; and
+(d) whether adequate arrangements exist for cooperation 
+between ASIC, the Reserve Bank and the authority, or 
+authorities, that are responsible for that supervision; and
+(e) the arrangements the licensee or applicant has in place 
+relating to its governance and operations, including the 
+adequacy of those arrangements for ensuring:
+(i) the facility’s services are provided in a fair and effective 
+way in this jurisdiction; and
+(ii) the integrity of, and public confidence in, the operation 
+of the facility in this jurisdiction; and
+(iii) the overall stability in the Australian financial system.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+827B  ASIC may give advice to Minister and Reserve Bank
+
+(1) ASIC may give advice to the Minister in relation to:
+(a) any matter in respect of which the Minister has a discretion 
+under this Part; or
+(b) any other matter concerning clearing and settlement facilities.
+(2) ASIC may give advice to the Reserve Bank in relation to any 
+matter concerning clearing and settlement facilities.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of clearing and settlement facilities  Part 7.3
+Other matters  Division 4
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+Section 827C
+
+Corporations Act 2001 183
+Compilation No. 143 Compilation date: 09/07/2025827C  Reserve Bank may give advice to Minister and ASIC
+(1) The Reserve Bank may give advice to the Minister in relation to:
+(a) any matter in respect of which the Minister has a discretion 
+under this Part; or
+(b) any other matter concerning clearing and settlement facilities.
+(2) The Reserve Bank may give advice to ASIC in relation to any 
+matter concerning clearing and settlement facilities.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+827D  Reserve Bank may determine financial stability standards
+
+(1) The Reserve Bank may, by legislative instrument, determine 
+standards for the purposes of ensuring that CS facility licensees 
+conduct their affairs in a way that causes or promotes overall 
+stability in the Australian financial system.
+(2) The standards are to be complied with by:
+(a) all CS facility licensees; or
+(b) a specified class of CS facility licensees, in the case of a 
+standard that is expressed to apply only in relation to that 
+class.
+(2A) If there is an inconsistency between the standards and any of the 
+following:
+(a) the CS facility rules;
+(b) the CS services rules;
+(c) the derivative transaction rules;
+(d) the derivative trade repository rules;
+the standards prevail to the extent of the inconsistency.
+(3) Before the Reserve Bank determines a standard, it must consult 
+with:
+(a) the CS facility licensees that will be required to comply with 
+the standard; and
+(b) ASIC.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+Section 827D
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+184 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) A standard may impose different requirements to be complied with 
+in different situations or in respect of different activities.
+(5) A standard:
+(a) comes into force:
+(i) unless subparagraph (ii) applies—on the day on which 
+the determination of the standard is made; or
+(ii) if that determination specifies a later day as the day on 
+which the standard comes into force—on the day so 
+specified; and
+(b) continues in force until it is revoked.
+(6) The Reserve Bank may vary a standard by legislative instrument. 
+Before it does so, it must consult with:
+(a) the CS facility licensees that will be required to comply with 
+the standard if it is varied as proposed; and
+(b) ASIC.
+(7) If the Reserve Bank determines or varies a standard, it must, as 
+soon as practicable, give a copy of the standard, or of the variation, 
+to the following:
+(a) each CS facility licensee to which the standard applies;
+(b) the Minister;
+(c) ASIC.
+(8) The Reserve Bank may revoke a standard by legislative instrument.
+(9) If the Reserve Bank revokes a standard, it must, as soon as 
+practicable, give notice of the revocation of the standard to the 
+following:
+(a) each CS facility licensee to which the standard applied;
+(b) the Minister;
+(c) ASIC.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of clearing and settlement facilities  Part 7.3
+Other matters  Division 4
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+Section 827DA
+
+Corporations Act 2001 185
+Compilation No. 143 Compilation date: 09/07/2025827DA  Reserve Bank may determine resolvability standards for CS 
+facility licensees and certain related bodies corporate
+(1) The Reserve Bank may, by legislative instrument, determine 
+standards for the purposes of ensuring that:
+(a) CS facility licensees; and
+(b) related bodies corporate of CS facility licensees, being 
+related bodies corporate that are incorporated in Australia;
+conduct their affairs in a way that would assist the Reserve Bank to 
+manage or respond to a condition in section 831A being satisfied in 
+relation to a CS facility licensee.
+(2) The standards are to be complied with by:
+(a) both:
+(i) all CS facility licensees; and
+(ii) all related bodies corporate of those licensees, being 
+related bodies corporate that are incorporated in 
+Australia; or
+(b) a specified class of those bodies corporate in the case of a 
+standard that is expressed to apply only in relation to that 
+class.
+(3) Before the Reserve Bank determines a standard, it must consult 
+with:
+(a) the bodies corporate that will be required to comply with the 
+standard; and
+(b) ASIC.
+(4) A standard may impose different requirements to be complied with 
+in different situations or in respect of different activities.
+(5) A standard:
+(a) comes into force:
+(i) unless subparagraph (ii) applies—on the day on which 
+the determination of the standard is made; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+Section 827DB
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+186 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) if that determination specifies a later day as the day on 
+which the standard comes into force—on the day so 
+specified; and
+(b) continues in force until it is revoked.
+(6) The Reserve Bank may, by legislative instrument, vary a standard. 
+Before it does so, it must consult with:
+(a) the CS facility licensees that will be required to comply with 
+the standard if it is varied as proposed; and
+(b) ASIC.
+(7) The Reserve Bank may, by legislative instrument, revoke a 
+standard. Before it does so, it must consult with ASIC.
+Inconsistency with other rules
+(8) If there is an inconsistency between the standards made under this 
+section and any of the following:
+(a) the standards made under section 827D;
+(b) the derivative transaction rules;
+(c) the derivative trade repository rules;
+(d) the CS services rules;
+(e) the CS facility rules;
+the standards made under this section prevail to the extent of the 
+inconsistency.
+Overseas clearing and settlement facilities
+(9) A reference in this section to a CS facility licensee does not include 
+a reference to a CS facility licensee if the licensee’s only 
+Australian CS facility licence, or all of the licensee’s Australian CS 
+facility licences, are granted under subsection 824B(2) (overseas 
+clearing and settlement facilities).
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+827DB  Resolution planning
+
+(1) The Reserve Bank may make a plan for the event that a condition 
+in section 831A is satisfied in relation to a CS facility licensee.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of clearing and settlement facilities  Part 7.3
+Other matters  Division 4
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 4  Other matters
+Section 827E

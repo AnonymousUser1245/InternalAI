@@ -1,0 +1,132 @@
+Part 5C.9  Winding up
+
+Part 5C.9  Winding up
+Section 601NA
+
+Part 5C.9  Winding up
+106 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 5C.9—Winding up
+
+Part 5C.9  Winding up
+601NA  Winding up required by scheme’s constitution
+
+The constitution of a registered scheme may provide that the 
+scheme is to be wound up:
+(a) at a specified time; or
+(b) in specified circumstances or on the happening of a specified 
+event;
+but a provision of the constitution that purports to provide that the 
+scheme is to be wound up if a particular company ceases to be its 
+responsible entity is of no effect (including for the purposes of 
+paragraph 601NE(1)(a)).
+
+Part 5C.9  Winding up
+601NB  Winding up at direction of members
+
+If members of a registered scheme want the scheme to be wound 
+up, they may take action under Division 1 of Part 2G.4 for the 
+calling of a members’ meeting to consider and vote on an 
+extraordinary resolution directing the responsible entity to wind up 
+the scheme.
+
+Part 5C.9  Winding up
+601NC  Winding up if scheme’s purpose accomplished or cannot be
+
+accomplished
+(1) If the responsible entity of a registered scheme considers that the 
+purpose of the scheme:
+(a) has been accomplished; or
+(b) cannot be accomplished;
+it may, in accordance with this section, take steps to wind up the 
+scheme.
+(2) The responsible entity must give to the members of the scheme and 
+to ASIC a notice in writing:
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+Winding up  Part 5C.9
+
+Part 5C.9  Winding up
+Section 601ND
+
+Corporations Act 2001 107
+Compilation No. 143 Compilation date: 09/07/2025(a) explaining the proposal to wind up the scheme, including 
+explaining how the scheme’s purpose has been accomplished 
+or why that purpose cannot be accomplished; and
+(b) informing the members of their rights to take action under
+
+Part 5C.9  Winding up
+
+Part 5C.9  Winding up
+Section 601NE
+
+Part 5C.9  Winding up
+108 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) An order based on paragraph (1)(b) may be made on the 
+application of a creditor.
+
+Part 5C.9  Winding up
+601NE  The winding up of the scheme
+
+(1) The responsible entity of a registered scheme must ensure that the 
+scheme is wound up in accordance with its constitution and any 
+orders under subsection 601NF(2) if:
+(a) the scheme’s constitution provides that the scheme is to be 
+wound up at a specified time, in specified circumstances or 
+on the happening of a specified event and that time is 
+reached, those circumstances occur or that event occurs; or
+(b) the members pass an extraordinary resolution directing the 
+responsible entity to wind up the scheme; or
+(c) the Court makes an order directing the responsible entity to 
+wind up the scheme; or
+(d) the members pass a resolution removing the responsible 
+entity but do not, at the same meeting, pass a resolution 
+choosing a company to be the new responsible entity that 
+consents to becoming the scheme’s responsible entity.
+Note: For the Court’s power to order winding up, see 
+subsection 601FQ(5) and section 601ND.
+(2) The responsible entity of a registered scheme may wind up the 
+scheme in accordance with its constitution and any orders under 
+subsection 601NF(2) if the responsible entity is permitted by 
+subsection 601NC(3) to wind up the scheme.
+(3) Interests must not be issued in a registered scheme at a time after 
+the responsible entity has become obliged to ensure the scheme is 
+wound up, or after the scheme has started to be wound up.
+
+Part 5C.9  Winding up
+601NF  Other orders about winding up
+
+(1) The Court may, by order, appoint a person to take responsibility 
+for ensuring a registered scheme is wound up in accordance with 
+its constitution and any orders under subsection (2) if the Court 
+thinks it necessary to do so (including for the reason that the 
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+Winding up  Part 5C.9
+
+Part 5C.9  Winding up
+Section 601NG
+
+Corporations Act 2001 109
+Compilation No. 143 Compilation date: 09/07/2025responsible entity has ceased to exist or is not properly discharging 
+its obligations in relation to the winding up).
+(2) The Court may, by order, give directions about how a registered 
+scheme is to be wound up if the Court thinks it necessary to do so 
+(including for the reason that the provisions in the scheme’s 
+constitution are inadequate or impracticable).
+(3) An order under subsection (1) or (2) may be made on the 
+application of:
+(a) the responsible entity; or
+(b) a director of the responsible entity; or
+(c) a member of the scheme; or
+(d) ASIC.
+
+Part 5C.9  Winding up
+601NG  Unclaimed money to be paid to ASIC
+
+If, on completion of the winding up of a registered scheme, the 
+person who has been winding up the scheme has in their 
+possession or under their control any unclaimed or undistributed 
+money or other property that was part of the scheme property, the 
+person must, as soon as practicable, pay the money or transfer the 
+property to ASIC to be dealt with under Part 9.7.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes

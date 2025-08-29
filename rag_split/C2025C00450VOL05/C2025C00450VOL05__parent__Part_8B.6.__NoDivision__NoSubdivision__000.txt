@@ -1,0 +1,65 @@
+Part 8B.6).
+
+Consequences of contravention
+(3) If a CCIV redeems shares in contravention of subsection (1) or (2):
+(a) the contravention does not affect the validity of the 
+redemption or of any contract or transaction connected with 
+it; and
+(b) the CCIV does not commit an offence.
+Fault-based offence
+(4) A person commits an offence if the person is involved in a CCIV’s 
+contravention of subsection (1) or (2) and the involvement is 
+dishonest.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Corporate finance, financial reporting and sustainability reporting for CCIVs  Part 8B.4
+Shares  Division 1
+
+Part 8B.6).
+Section 1230G
+
+Corporations Act 2001 565
+Compilation No. 143 Compilation date: 09/07/2025Civil liability
+(5) A person who is involved in a CCIV’s contravention of 
+subsection (1) or (2) contravenes this subsection.
+Note: This subsection is a civil penalty provision (see section 1317E).
+
+Part 8B.6).
+1230G  Further requirements for redemptions by retail CCIVs
+
+Redemption must be permitted by constitution
+(1) A retail CCIV must not redeem shares if the redemption is not 
+permitted by the CCIV’s constitution.
+Redemption price must be in accordance with constitution
+(2) A retail CCIV must not redeem shares if:
+(a) at the time of the redemption, section 1230H (about when a 
+sub-fund is liquid) applies to the sub-fund to which the shares 
+are referable; and
+(b) the redemption is not in accordance with the CCIV’s 
+constitution.
+Redemption must comply with sections 1230J and 1230K if 
+sub-fund is not liquid
+(3) A retail CCIV must not redeem shares if:
+(a) at the time of the redemption, section 1230H (about when a 
+sub-fund is liquid) does not apply to the sub-fund to which 
+the shares are referable; and
+(b) any of the following apply:
+(i) the CCIV has not offered members an opportunity to 
+redeem shares under section 1230J;
+(ii) the redemption is not made in satisfaction of a 
+redemption request made in response to the offer;
+(iii) the redemption does not comply with section 1230K.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.6).
+
+(2) Section 254T does not apply to a CCIV.
+
+Part 8B.6).
+1230N  Dividend rights
+
+Each share in a class of shares in a CCIV has the same dividend 
+rights unless:
+(a) the CCIV’s constitution provides for the shares to have 
+different dividend rights; orAmount shareholder requested to redeem Amount of money
+available Total of all amounts shareholders reques t to redeem
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles

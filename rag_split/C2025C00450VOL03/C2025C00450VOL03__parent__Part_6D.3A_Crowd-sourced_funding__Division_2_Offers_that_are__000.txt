@@ -1,0 +1,172 @@
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+Section 738G
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+458 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Offers that are eligible to be made under this 
+Part
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+738G  Offers that are eligible to be made under this Part
+
+(1) An offer is eligible to be made under this Part if:
+(a) it is an offer by a company for the issue of securities of the 
+company; and
+(b) the company is an eligible CSF company (see section 738H) 
+at the time when the offer is made; and
+(c) the securities are of a class specified in the regulations; and
+(d) the offer complies with the issuer cap (see subsection (2) of 
+this section); and
+(e) the funds sought to be raised by the offer are not intended by 
+the company to be used, to any extent, by the company or a 
+related party of the company, to invest in securities or 
+interests in other entities or schemes; and
+(f) any other requirements specified in the regulations are 
+satisfied in relation to the securities or the offer.
+Note: If an offer of securities is expressed to be made under this Part but is 
+not eligible to be made under this Part, ASIC may make a stop order 
+under section 739.
+The issuer cap
+(2) For the purpose of this section, an offer of securities for issue in a 
+company (the new offer) complies with the issuer cap if the total 
+of:
+(a) the maximum amount sought to be raised by the new offer; 
+and
+(b) all amounts raised, in the period of 12 months before the time 
+when the new offer is made, pursuant to CSF offers that were 
+made in that period by the company or by related parties of 
+the company; and
+(c) all amounts raised, in the period of 12 months before the time 
+when the new offer is made, pursuant to offers made by the 
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Crowd-sourced funding  Part 6D.3A
+Offers that are eligible to be made under this Part  Division 2
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+Section 738H
+
+Corporations Act 2001 459
+Compilation No. 143 Compilation date: 09/07/2025company, or by related parties of the company, that did not 
+need disclosure because of subsection 708(1) or (10);
+does not exceed:
+(d) $5 million; or
+(e) if the regulations prescribe a different amount—the 
+prescribed amount.
+Note: Amounts raised by CSF offers that were made before the start of the
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+12 month period referred to in paragraph (2)(b) are not to be counted.
+
+For when a CSF offer is made, see subsection 738N(1).
+Meaning of related party
+(3) For the purposes of this Part, each of the following is a related 
+party of a company:
+(a) a related body corporate of the company;
+(b) an entity controlled by:
+(i) a person who controls the company; or
+(ii) an associate of that person.
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+738H  Meaning of eligible CSF company
+
+(1) A company is an eligible CSF company at a particular time (the 
+test time) if all of the following conditions are satisfied in relation 
+to the company at the test time:
+(a) the company is a public company limited by shares, or the 
+company is a proprietary company that:
+(i) has at least 2 directors; and
+(ii) meets all the other requirements (if any) prescribed by 
+the regulations for the purposes of this subparagraph;
+(b) the company’s principal place of business is in Australia;
+(c) a majority of the company’s directors (not counting alternate 
+directors) ordinarily reside in Australia;
+(d) the company complies with the assets and turnover test (see 
+subsection (2));
+(e) neither the company, nor any related party of the company, 
+is:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+Section 738H
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+460 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(i) a listed corporation; or
+(ii) included in an official list of a financial market operated 
+outside this jurisdiction;
+(f) neither the company, nor any related party of the company, 
+has a substantial purpose of investing in securities or interests 
+in other entities or schemes.
+The assets and turnover test
+(2) The company complies with the assets and turnover test at the test 
+time if:
+(a) the value of the consolidated gross assets of the company, 
+and of all its related parties is less than:
+(i) $25 million; or
+(ii) if the regulations prescribe a different amount—the 
+prescribed amount; and
+(b) the consolidated annual revenue of the company, and of all 
+its related parties, is less than:
+(i) $25 million; or
+(ii) if the regulations prescribe a different amount—the 
+prescribed amount.
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Crowd-sourced funding  Part 6D.3A
+Making offers under this Part  Division 3
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+Section 738J
+
+Corporations Act 2001 461
+Compilation No. 143 Compilation date: 09/07/2025Division 3—Making offers under this Part
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+738J  CSF offer document to be prepared
+
+(1) A document (a CSF offer document) must be prepared for a CSF 
+offer.
+(2) A CSF offer document for a CSF offer must contain the 
+information required by the regulations. The document may also 
+set out the CSF offer.
+Note: See also subsections 738W(8) and (9) about the effect of 
+supplementary or replacement CSF offer documents.
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+738K  Other requirements for CSF offer document
+
+The information in a CSF offer document must be worded and 
+presented in a clear, concise and effective manner. The document 
+must also comply with any other requirements prescribed by the 
+regulations.
+Note 1: If this section is contravened, ASIC may make a stop order under 
+section 739.
+Note 2: See also subsections 738W(8) and (9) about the effect of 
+supplementary or replacement CSF offer documents.
+
+Part 6D.3A  Crowd-sourced funding
+Division 2  Offers that are eligible to be made under this Part
+738L  CSF offer document to be published on platform of a single
+
+CSF intermediary
+(1) A CSF offer of a company’s securities must be made by 
+publishing, on a platform of a single CSF intermediary, a CSF 
+offer document that complies with section 738J. If the CSF offer 
+document does not set out the CSF offer, the CSF offer must be 
+published together with the offer document.
+Note 1: Section 1309 creates offences for providing false or misleading 
+information to CSF intermediaries.
+Note 2: See also section 738Q (gatekeeper obligations of CSF intermediaries).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising

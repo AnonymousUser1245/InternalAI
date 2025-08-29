@@ -1,0 +1,143 @@
+Part 6.8  Acceptances
+
+Part 6.8  Acceptances
+Section 653A
+
+Part 6.8  Acceptances
+278 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 6.8—Acceptances
+
+Part 6.8  Acceptances
+653A  Acceptance of offers made under off-market bid
+
+If:
+(a) an offer is made under an off-market bid for quoted 
+securities; and
+(b) regulations made for the purposes of this paragraph set out 
+any requirements for the manner in which the acceptance of 
+the offer, so far as it relates to those securities, must be 
+complied with;
+an acceptance of the offer for those securities is effective only if it 
+is made in that way.
+
+Part 6.8  Acceptances
+653B  Acceptances by transferees and nominees of offers made under
+
+off-market bid
+(1) If an off-market bid is made for securities:
+(a) a person who:
+(i) is able during the offer period to give good title to a 
+parcel of those securities; and
+(ii) has not already accepted an offer under the bid for those 
+securities;
+may accept as if an offer on terms identical with the other 
+offers made under the bid had been made to that person in 
+relation to those securities; and
+(b) a person who holds 1 or more parcels of those securities as 
+trustee or nominee for, or otherwise on account of, another 
+person may accept as if a separate offer had been made in 
+relation to:
+(i) each of those parcels; and
+(ii) any parcel they hold in their own right.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Acceptances  Part 6.8
+
+Part 6.8  Acceptances
+Section 653B
+
+Corporations Act 2001 279
+Compilation No. 143 Compilation date: 09/07/2025If a person accepts an offer under a proportional takeover bid for 
+securities, no-one else may accept an offer under the bid in respect 
+of those securities.
+Note: Section 9 defines proportional takeover bid. See paragraph 618(1)(b).
+(2) For the purposes of this section:
+(a) a person is taken to hold securities if the person is, or is 
+entitled to be registered as, the holder of the securities; and
+(b) a person is taken to hold the securities on trust for, as 
+nominee for or on account of another person if they:
+(i) are entitled to be registered as the holder of particular 
+securities; and
+(ii) hold their interest in the securities on trust for, as 
+nominee for or on account of that other person; and
+(c) in determining under subsection (1) whether a person has 
+accepted an offer for particular securities under a takeover 
+bid, a person who accepts an offer under a proportional 
+takeover bid is taken to have accepted the offer for all the 
+securities in the bid class that they hold at the time they 
+accept the offer.
+(3) If under paragraph (1)(b) a person may accept as if a separate offer 
+is taken to be made to a person for a parcel of securities within a 
+holding, an acceptance of that offer is ineffective unless:
+(a) the person gives the bidder a notice stating that the securities 
+consist of a separate parcel; and
+(b) the acceptance specifies the number of securities in the 
+parcel.
+(4) A notice under subsection (3) must:
+(a) comply with the conditions specified in regulations made for 
+the purposes of this paragraph that provide for the manner of 
+giving the notice; or
+(b) if no such regulations are made—be in writing.
+(5) A person contravenes this subsection if:
+(a) they purport to accept an offer under this section; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.8  Acceptances
+
+Part 6.8  Acceptances
+Section 653B
+
+Part 6.8  Acceptances
+280 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) the acceptance is not made in accordance with this section.
+The acceptance is, however, as valid as it would have been if it had 
+been made in accordance with this section.
+(6) A person may, at the one time, accept for 2 or more parcels under 
+this section as if there had been a single offer for a separate parcel 
+consisting of those parcels.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Other activities during the bid period  Part 6.9
+
+Part 6.8  Acceptances
+Section 654A
+
+Corporations Act 2001 281
+Compilation No. 143 Compilation date: 09/07/2025Part 6.9—Other activities during the bid period
+
+Part 6.8  Acceptances
+654A  Bidder not to dispose of securities during the bid period
+
+(1) The bidder must not dispose of any securities in the bid class 
+during the bid period.
+(1A) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(2) Subsection (1) does not apply to a disposal of securities by the 
+bidder if:
+(a) someone else who is not an associate of the bidder makes an 
+offer, or improves the consideration offered, under a takeover 
+bid for securities in the bid class after the bidder’s statement 
+is given to the target; and
+(b) the bidder disposes of the securities after the offer is made or 
+the consideration is improved.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (2), see subsection 13.3(3) of the Criminal Code.
+
+Part 6.8  Acceptances
+654B  Disclosures about substantial shareholdings in listed
+
+companies
+During the bid period, substantial shareholding notices that need to 
+be lodged under section 671B must be lodged by 9.30 am the next 
+business day (rather than the usual 2 business days).
+
+Part 6.8  Acceptances
+654C  Disclosures about substantial shareholdings in unlisted
+
+companies
+(1) A bidder making a bid for securities of an unlisted company must 
+give the target a notice stating the bidder’s voting power in the 
+target if, at a particular time during the bid period, the bidder’s 
+voting power in the target rises from below a percentage in the 
+following list to that percentage or higher:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers

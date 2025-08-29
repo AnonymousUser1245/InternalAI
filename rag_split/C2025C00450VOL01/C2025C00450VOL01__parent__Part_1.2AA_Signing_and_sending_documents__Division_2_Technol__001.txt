@@ -1,0 +1,185 @@
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+Section 110G
+
+Corporations Act 2001 221
+Compilation No. 143 Compilation date: 09/07/2025Effect of contravention
+(5) A contravention of subsection (2) by the sender does not affect the 
+validity of any act, transaction, agreement, instrument, resolution 
+or other thing.
+Note: In particular, the validity of the sending of the document as mentioned 
+in paragraph (1)(b) is not affected. Regardless of any contravention of 
+subsection (2), if the sender is required under another provision of this 
+Act to send a document to which this Division applies, that 
+requirement is met if the document is sent in accordance with 
+section 110D and in accordance with any timing requirements under 
+that other provision.
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+110G  Failure to comply with member’s election not to be sent
+
+documents
+(1) This section applies if:
+(a) an election by the recipient not to be sent documents from the 
+sender is in force in relation to a document under 
+section 110E; and
+(b) the sender sends the document to the recipient, other than in 
+the manner mentioned in paragraph 110D(1)(e).
+(2) The sender contravenes this subsection if the sender did not take 
+reasonable steps to avoid sending the document as mentioned in 
+paragraph (1)(b).
+(3) A person commits an offence of strict liability if the person 
+contravenes subsection (2).
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+110H  Effect of election not to be sent documents
+
+(1) This section applies if:
+(a) the sender is required or permitted to send a document to 
+which this Division applies to the recipient in accordance 
+with a provision of this Act (other than this Division); and
+(b) an election under section 110E not to be sent documents is in 
+force in relation to the document.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+Section 110J
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+222 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) For the purposes of the provision mentioned in paragraph (1)(a) of 
+this section:
+(a) the sender is taken to send the document, as required or 
+permitted in accordance with that provision, at the later of:
+(i) the time the recipient’s election mentioned in 
+paragraph (1)(b) came into force; and
+(ii) the earliest time at which the sender could have sent the 
+document in accordance with the provision mentioned 
+in paragraph (1)(a); and
+(b) the recipient is taken to receive the document when it is taken 
+to be sent under paragraph (a) of this subsection.
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+110J  Ad hoc requests to be sent documents in a particular form
+
+(1) This section applies if:
+(a) the recipient is covered by subsection (3); and
+(b) the recipient requests (whether or not in writing) the sender 
+to send a particular document to which this Division applies 
+to the recipient in physical form, or in electronic form; and
+(c) either:
+(i) the sender is required or permitted under this Act to 
+send the document to the recipient by a particular time; 
+or
+(ii) if subparagraph (i) does not apply—the sender has sent 
+the document to the recipient in a manner that would not 
+comply with the request; and
+(d) the request is made:
+(i) if subparagraph (c)(i) applies—within a reasonable time 
+before the particular time mentioned in that 
+subparagraph; or
+(ii) if subparagraph (c)(ii) applies—within a reasonable 
+time after the sender sends the document as mentioned 
+in that subparagraph; and
+(e) at the time the request is made:
+(i) the sender has not yet sent the document to the recipient 
+in a manner that would comply with the request; and
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Signing and sending documents  Part 1.2AA
+Technology neutral sending of documents, and related matters  Division 2
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+Section 110J
+
+Corporations Act 2001 223
+Compilation No. 143 Compilation date: 09/07/2025(ii) no determination is in force under section 1345 allowing 
+the document to be sent by the sender in a manner that 
+would not comply with the request (see 
+subsections 1345(2) and (3A)).
+(2) The sender must take reasonable steps to send the document to the 
+recipient in a manner that complies with the request by the later of 
+the following:
+(a) 3 business days after the day on which the sender received 
+the request;
+(b) if the sender is required or permitted under this Act to send 
+the document by a particular time—that time.
+Note: A determination under section 1345 may extend the time within which 
+a document is required to be sent by the sender to the recipient.
+(3) The recipient is covered by this subsection if:
+(a) where the sender is a company—the recipient is a member of 
+the company; or
+(b) where the sender is the responsible entity of a registered 
+scheme—the recipient is a member of the scheme; or
+(ba) where the sender is the corporate director of a CCIV—the 
+recipient is a member of the CCIV; or
+(c) where the sender is a disclosing entity mentioned in 
+subsection 111AC(1)—the recipient is a member of the 
+disclosing entity; or
+(d) where the sender is a disclosing entity mentioned in 
+subsection 111AC(2)—the recipient is a member of the 
+managed investment scheme mentioned in that subsection; or
+(e) where the sender is the operator of a notified foreign passport 
+fund—the recipient is an Australian member of the fund; or
+(f) where the sender is the bidder under a takeover bid—the 
+recipient is a holder of securities in the target for the bid; or
+(g) the recipient is of a kind specified in regulations made for the 
+purposes of this paragraph.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+Section 110JA
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+224 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) For the purposes of subparagraph (1)(e)(i) and subsection (2), a 
+physical form of the document is taken to have been sent to the 
+recipient:
+(a) when the document is posted; or
+(b) if the document is sent by courier—when the document is 
+given to the courier.
+(5) An offence based on subsection (2) is an offence of strict liability.
+(6) For the purposes of this section, the following manners of sending 
+the document comply with the request:
+(a) for a request to be sent the document in physical form—the 
+manner mentioned in paragraph 110D(1)(a);
+(b) for a request to be sent the document in electronic form—a 
+manner mentioned in paragraph 110D(1)(c) or (d).
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+110JA  Sender does not need to send document if member
+
+uncontactable
+Sender taken to send document
+(1) This section applies if:
+(a) the sender is required or permitted to send a document to 
+which this Division applies to the recipient under a provision 
+of this Act; and
+(b) the conditions in subsection (3) are satisfied; and
+(c) any of the following apply:
+(i) where the sender is a company—the recipient is a 
+member of the company;
+(ii) where the sender is the responsible entity of a registered 
+scheme—the recipient is a member of the scheme;
+(iii) where the sender is the corporate director of a CCIV—
+the recipient is a member of the CCIV;
+(iv) where the sender is a disclosing entity mentioned in 
+subsection 111AC(1)—the recipient is a member of the 
+disclosing entity;
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Signing and sending documents  Part 1.2AA
+Technology neutral sending of documents, and related matters  Division 2
+
+Part 1.2AA  Signing and sending documents
+Division 2  Technology neutral sending of documents, and related matters
+Section 110JA

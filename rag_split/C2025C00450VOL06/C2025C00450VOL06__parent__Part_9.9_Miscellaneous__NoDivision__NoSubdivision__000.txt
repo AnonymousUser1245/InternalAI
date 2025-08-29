@@ -1,0 +1,211 @@
+Part 9.9  Miscellaneous
+
+Part 9.9  Miscellaneous
+Section 1344
+
+Part 9.9  Miscellaneous
+236 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 9.9—Miscellaneous
+
+Part 9.9  Miscellaneous
+1344  Use of ABN
+
+Despite any provision in this Act or any other Act, in any case 
+where:
+(a) the ACN of a company; or
+(b) the ARBN of a registered body; or
+(c) the ARSN of a registered scheme;
+is required or permitted to be used under a law of the 
+Commonwealth administered by ASIC, the ABN of the company, 
+body or scheme may be used instead if the last 9 digits of the ABN 
+are the same, and in the same order, as the last 9 digits of the ACN, 
+ARBN or ARSN.
+
+Part 9.9  Miscellaneous
+1345  Exceptional circumstances—giving documents
+
+(1) Subsections (2) to (4) apply in relation to a document that is 
+required or permitted under this Act to be given by an entity to 
+another entity (the recipient) if:
+(a) the entity giving the document is specified, or is in a class of 
+entities specified, in a determination under subsection (5); 
+and
+(b) the document is specified, or is in a class of documents 
+specified, in the determination.
+Giving document by electronic communication etc.
+(2) If the determination specifies that the document, or documents in 
+that class, may be given in accordance with this subsection, then 
+the document may be given:
+(a) by means of an electronic communication; or
+(b) by giving the recipient (by means of an electronic 
+communication or otherwise) sufficient information to allow 
+the recipient to access the document electronically.
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Miscellaneous  Part 9.9
+
+Part 9.9  Miscellaneous
+Section 1345
+
+Corporations Act 2001 237
+Compilation No. 143 Compilation date: 09/07/2025(3) However, electronic communication or electronic access may only 
+be used if, at the time the electronic communication is used or 
+information about the electronic access is given, it is reasonable to 
+expect that the document would be readily accessible so as to be 
+useable for subsequent reference.
+Giving document in physical form
+(3A) If the determination specifies that the document, or documents in 
+that class, may be given in accordance with this subsection, then 
+the document may be given in physical form.
+Extension of time
+(4) If the requirement or permission mentioned in subsection (1) is for 
+the document to be given within a particular time, the document is 
+taken to have been given within that time if:
+(a) the determination specifies a period of extension of that time 
+that applies to the giving of the document by the entity to the 
+recipient; and
+(b) the specified period of extension starts after the 
+determination is made; and
+(c) the document is given by the entity to the recipient within the 
+specified period of extension.
+ASIC may make determination
+(5) ASIC may make a determination specifying:
+(a) an entity, or a class of entities; and
+(b) a document, or a class of documents, required or permitted to 
+be given under this Act (including a class that is any such 
+document); and
+(c) one or more matters mentioned in subsections (6), (6A) and 
+(7).
+(6) ASIC may specify that the document, or documents in that class, 
+may be given in accordance with subsection (2) (giving document 
+by electronic communication etc.), if ASIC considers that it may be 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.9  Miscellaneous
+
+Part 9.9  Miscellaneous
+Section 1345
+
+Part 9.9  Miscellaneous
+238 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025unreasonable to expect the specified entity, or entities in the 
+specified class, to give the document, or documents in the specified 
+class, in a physical form because of a situation that is beyond the 
+control of the entity, or the entities in the class.
+(6A) ASIC may specify that the document, or documents in that class, 
+may be given in accordance with subsection (3A) (giving 
+document in physical form), if ASIC considers that it may be 
+unreasonable to expect the specified entity, or entities in the 
+specified class, to give the document, or documents in the specified 
+class, in an electronic form because of a situation that is beyond the 
+control of the entity, or the entities in the class.
+(7) To the extent that the document, or documents in that class, are 
+required or permitted under the Act to be given by the entity, or the 
+entities in the class, within a particular time (the original time), 
+ASIC may specify a period of extension of that time applying in 
+relation to the giving of the document or documents in that class, if 
+ASIC considers that it may be unreasonable to expect the entity, or 
+entities in the class, to give the document, or documents in the 
+class, within the original time, because of a situation that is beyond 
+the control of the entity, or the entities in the class.
+Other matters relating to determination
+(8) A determination under subsection (5) is:
+(a) a notifiable instrument, if it specifies an entity; or
+(b) a legislative instrument, if it specifies a class of entities.
+(9) The determination may be subject to specified conditions applying 
+to the specified entity, or to entities in the specified class. An entity 
+to which a condition specified in the determination applies must 
+comply with the condition. The Court may order the entity to 
+comply with the condition in a specified way.
+(10) Unless revoked earlier, the determination is repealed at the end of
+
+Part 9.9  Miscellaneous
+12 months after the day on which it commences.
+
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Miscellaneous  Part 9.9
+
+Part 9.9  Miscellaneous
+Section 1345A
+
+Corporations Act 2001 239
+Compilation No. 143 Compilation date: 09/07/2025(11) This section has effect despite any election (however described) by 
+an entity to be given a document in a particular form.
+(12) This section applies to a requirement or permission to give a 
+document, whether the expression give, send or serve, or any other 
+expression, is used.
+
+Part 9.9  Miscellaneous
+1345A  Minister may delegate prescribed functions and powers
+
+under this Act
+(1) The Minister may, by signed instrument, delegate to an officer of 
+the Department all or any of the Minister’s functions and powers 
+under this Act that are prescribed by the regulations for the 
+purposes of this subsection.
+(1AA) If:
+(a) under subsection (1), the Minister delegates to an officer of 
+the Department all of the Minister’s functions and powers 
+that are prescribed for the purposes of that subsection; and
+(b) the regulations are amended to prescribe one or more 
+additional functions or powers for the purposes of that 
+subsection; and
+(c) the delegation is in force immediately before the amendment 
+takes effect;
+then, on and after the amendment taking effect, the delegation is 
+taken to include the additional functions or powers.
+(1A) The Minister may, by signed instrument, delegate the function or 
+power under subsection 147(2), 601DC(2) or 1213B(6) to:
+(a) a member of ASIC (within the meaning of paragraph (a) of 
+the definition of member in subsection 5(1) of the Australian 
+Securities and Investments Commission Act 2001); or
+(b) a staff member of ASIC who holds, or performs the duties of, 
+a position not below an Executive Level 1 position or an 
+equivalent position.
+(2) A delegate is, in the performance or exercise of a delegated 
+function or power, subject to the Minister’s directions.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.9  Miscellaneous
+
+Part 9.9  Miscellaneous
+Section 1346
+
+Part 9.9  Miscellaneous
+240 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251346  Non-application of rule against perpetuities to certain schemes
+(1) The rules of law relating to perpetuities do not apply, and are taken 
+never to have applied, to the trusts of any fund or scheme for the 
+benefit of any employee of a corporation, whether the fund or 
+scheme was established before, or is established after, the 
+commencement of this section.
+(2) In this section:
+(a) a reference to a corporation includes a reference to a body 
+corporate or society incorporated or formed, or otherwise 
+duly constituted, whether before, at or after the 
+commencement of this section, by or under:
+(i) a law of the Commonwealth, of a State or Territory, of 
+an external Territory or of a country outside Australia 
+and the external Territories; or
+(ii) letters patent or a royal charter; and
+(b) a reference to a fund or scheme includes a reference to a 
+provident, superannuation, sick, accident, assurance, 
+unemployment, pension or co-operative benefit fund, 
+scheme, arrangement or provision or other like fund, scheme, 
+arrangement or provision; and
+(c) a reference to an employee of a corporation includes a 
+reference to:
+(i) a director of the corporation; and
+(ii) a spouse, child, grandchild, parent or any dependant of 
+an employee or of a director of the corporation.
+
+Part 9.9  Miscellaneous
+1348  Operation of Life Insurance Act
+
+Nothing in this Act is taken to affect any of the provisions of the 
+Life Insurance Act 1995.
+
+Part 9.9  Miscellaneous
+1349  Privilege against exposure to penalty—disqualification etc.

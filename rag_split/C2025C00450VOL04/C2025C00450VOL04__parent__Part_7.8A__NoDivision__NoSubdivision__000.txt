@@ -1,0 +1,222 @@
+Part 7.8A
+
+Preliminary  Division 1
+
+Part 7.8A
+Section 994A
+
+Corporations Act 2001 819
+Compilation No. 143 Compilation date: 09/07/2025(i) the day that a review of the determination under 
+section 994C is started; and
+(ii) the last day of the maximum period specified in the 
+determination under paragraph 994B(5)(e);
+(b) a period starting on the day after a review of the 
+determination under section 994C is finished and ending on 
+the earlier of:
+(i) the day on which the next review of the determination 
+under section 994C is started; and
+(ii) the last day of the maximum period specified in the 
+determination under paragraph 994B(5)(f).
+(2) In this Part:
+complaint, in relation to a financial product, means a complaint 
+made to a regulated person about the product, which is covered by 
+a dispute resolution system complying with subsection 912A(2).
+dealing in a financial product has the meaning given by 
+section 766C, subject to the following:
+(a) paragraphs 766C(1)(d) and (e) do not apply;
+(b) despite subsection 766C(3), a person deals in a financial 
+product if the dealing is a regulated sale of the product on the 
+person’s own behalf;
+(c) paragraph 766C(4)(c) does not apply if the dealing is an offer 
+of securities that needs disclosure to investors under
+
+Part 7.8A
+
+Target market determinations for financial products  Division 2
+
+Part 7.8A
+Section 994B
+
+Corporations Act 2001 821
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Target market determinations for financial 
+products
+
+Part 7.8A
+994B  Target market determinations for financial products
+
+Requirement to make a target market determination
+(1) Subject to subsection (3), a person must make a target market 
+determination for a financial product if:
+(a) under Part 6D.2, the person is required to prepare a 
+disclosure document for the product; or
+(b) under Part 7.9, the person is required to prepare a Product 
+Disclosure Statement for the product; or
+(ba) the product is not a financial product (as defined in
+
+Part 7.8A
+
+Target market determinations for financial products  Division 2
+
+Part 7.8A
+Section 994B
+
+Corporations Act 2001 823
+Compilation No. 143 Compilation date: 09/07/2025Requirements for target market determinations
+(5) A target market determination for a financial product must:
+(a) be in writing; and
+(b) describe the class of retail clients that comprises the target 
+market (within the ordinary meaning of the term) for the 
+product; and
+(c) specify any conditions and restrictions on retail product 
+distribution conduct in relation to the product (distribution 
+conditions), other than a condition or restriction imposed by 
+or under another provision of this Act; and
+(d) specify events and circumstances (review triggers) that 
+would reasonably suggest that the determination is no longer 
+appropriate; and
+(e) specify the maximum period from the start of the day the 
+determination is made to the start of the day the first review 
+of the determination under section 994C is to finish; and
+(f) specify the maximum period from the start of the day a 
+review of the determination under section 994C is finished to 
+the start of the day the next review of the determination is to 
+finish; and
+(g) specify a reporting period for reporting information about the 
+number of complaints about the product (see 
+subsection 994F(4)); and
+(h) specify the kinds of information needed to enable the person 
+who made the target market determination to identify 
+promptly whether a review trigger for the determination, or 
+another event or circumstance that would reasonably suggest 
+that the determination is no longer appropriate, has occurred 
+and, for each kind of information, specify:
+(i) the regulated person or regulated persons that, under 
+subsection 994F(5), are required to report the 
+information to the person who made the determination; 
+and
+(ii) a reporting period for reporting the information under 
+subsection 994F(5).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.8A
+
+Target market determinations for financial products  Division 2
+
+Part 7.8A
+Section 994C
+
+Corporations Act 2001 825
+Compilation No. 143 Compilation date: 09/07/2025Making target market determinations public
+(9) A person who makes a target market determination must ensure 
+that the determination is available to the public free of charge.
+Note 1: Contravention of this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+Note 3: This subsection applies to all target market determinations, including 
+those that have ceased to apply.
+
+Part 7.8A
+994C  Target market determinations to be reviewed
+
+Reviews of target market determinations
+(1) A person who makes a target market determination may at any 
+time:
+(a) review the determination; or
+(b) make a new target market determination in accordance with 
+section 994B.
+(2) A person contravenes this subsection if:
+(a) the person makes a target market determination for a 
+financial product; and
+(b) the product is on offer for acquisition by issue, or for 
+regulated sale, to retail clients at or after the end of the 
+review period; and
+(c) the person did not complete a review of the determination 
+during the review period.
+Note 1: Contravention of this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is also a civil penalty provision (see section 1317E). 
+For relief from liability to a civil penalty relating to this subsection, 
+see section 1317S.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.8A
+
+Target market determinations for financial products  Division 2
+
+Part 7.8A
+Section 994C
+
+Corporations Act 2001 827
+Compilation No. 143 Compilation date: 09/07/2025(ii) an event or circumstance has occurred that would 
+reasonably suggest that the determination is no longer 
+appropriate;
+then, from as soon as practicable, but no later than 10 business 
+days, after the person first knew of the occurrence of the review 
+trigger, event or circumstance, the person must not engage in retail 
+product distribution conduct in relation to the product unless:
+(d) the person has reviewed the determination and, if the 
+determination is no longer appropriate, made a new target 
+market determination in accordance with section 994B; or
+(e) the retail product distribution conduct is excluded conduct.
+Note: This subsection is a civil penalty provision (see section 1317E). For 
+relief from liability to a civil penalty relating to this subsection, see 
+section 1317S.
+(5) If:
+(a) a person makes a target market determination for a financial 
+product; and
+(b) the product is on offer for acquisition by issue, or for 
+regulated sale, to retail clients at any time during a review 
+period for the determination; and
+(c) the person knows that:
+(i) a review trigger for the determination has occurred; or
+(ii) an event or circumstance has occurred that would 
+reasonably suggest that the determination is no longer 
+appropriate;
+the person must, as soon as practicable, but no later than 10 
+business days, after the person first knew of the occurrence of the 
+review trigger, event or circumstance, take all reasonable steps to 
+ensure that regulated persons who engage in retail product 
+distribution conduct in relation to the product (or are expected to 
+do so) are informed that they must not engage in retail product 
+distribution conduct in relation to the product unless:
+(d) the determination has been reviewed since the review trigger, 
+event or circumstance occurred and, if a new target market 
+determination is required, it has been made; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.8A
+
+Target market determinations for financial products  Division 2
+
+Part 7.8A
+Section 994D
+
+Corporations Act 2001 829
+Compilation No. 143 Compilation date: 09/07/2025(7) If a regulated person knows or ought reasonably to know that the 
+person who made the target market determination for a financial 
+product has taken steps referred to in subsection (5), the regulated 
+person must, as soon as practicable, but no later than 10 business 
+days, after the regulated person first became aware or should have 
+become aware that the steps had been taken, cease to engage in 
+retail product distribution conduct in relation to the product unless:
+(a) the determination has been reviewed since a review trigger, 
+event or circumstance mentioned in paragraph (5)(c) 
+occurred and, if a new target market determination is 
+required, it has been made; or
+(b) the regulated person:
+(i) made all inquiries (if any) that were reasonable in the 
+circumstances; and
+(ii) after doing so, believed on reasonable grounds that the 
+determination had been reviewed since a review trigger, 
+event or circumstance mentioned in paragraph (5)(c) 
+occurred and, if a new target market determination was 
+required, it had been made; or
+(c) the retail product distribution conduct is excluded conduct.
+Note: This subsection is a civil penalty provision (see section 1317E). For 
+relief from liability to a civil penalty relating to this subsection, see 
+section 1317S.
+
+Part 7.8A
+994D  Prohibition on engaging in retail product distribution conduct

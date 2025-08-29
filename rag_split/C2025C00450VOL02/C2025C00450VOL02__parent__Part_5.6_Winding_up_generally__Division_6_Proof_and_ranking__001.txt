@@ -1,0 +1,208 @@
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+554H  Repayment of excess
+
+(1) Where a creditor who has amended a proof of debt under 
+section 554G has received, in the winding up of the debtor 
+company, an amount in excess of the amount to which the creditor 
+would have been entitled under the amended proof of debt, the 
+creditor must, without delay, repay the amount of the excess to the 
+liquidator.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 554J
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+602 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) Where a creditor who has so amended a proof of debt has received, 
+in the winding up of the debtor company, less than the amount to 
+which the creditor would have been entitled under the amended 
+proof of debt, the creditor is entitled to be paid, out of the money 
+remaining for distribution in the winding up, the amount of the 
+deficiency before any of that money is applied in the payment of 
+future distributions, but the creditor is not entitled to affect a 
+distribution made before the amendment of the proof of debt.
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+554J  Subsequent realisation of security interest
+
+Where:
+(a) a secured creditor’s proof of debt is in respect of the balance 
+due after deducting the creditor’s estimate of the value of the 
+security interest; and
+(b) subsequently:
+(i) the creditor realises the security interest; or
+(ii) the security interest is realised under section 554F;
+the net amount realised is to be substituted for the estimated value 
+of the security interest and section 554H applies as if the proof of 
+debt had been amended accordingly under section 554G.
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 556
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+604 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(da) if the Court ordered the winding up—next, costs and 
+expenses that are payable under subsection 475(8) out of the 
+company’s property;
+(daa) if the company resolved by special resolution that it be 
+wound up voluntarily—next, costs and expenses that are 
+payable under subsection 446C(8) out of the company’s 
+property;
+(db) next, costs that form part of the expenses of the winding up 
+because of subsection 539(6), or subsection 70-15(5) (audit 
+of administration books by ASIC) or section 90-27 (review 
+by another registered liquidator) of Schedule 2;
+(dd) next, any other expenses (except deferred expenses) properly 
+incurred by a relevant authority;
+(de) next, the deferred expenses;
+(df) if a committee of inspection has been appointed for the 
+purposes of the winding up—next, expenses incurred by a 
+person as a member of the committee;
+(e) subject to subsection (1A)—next:
+(i) wages, superannuation contributions and 
+superannuation guarantee charge payable by the 
+company in respect of services rendered to the company 
+by employees before the relevant date; or
+(ii) liabilities to pay the amounts of estimates under
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 556
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+606 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(1AC) If:
+(a) the company has a superannuation guarantee shortfall for a 
+quarter; and
+(b) the shortfall relates to one or more employees; and
+(c) the relevant date occurs during the quarter; and
+(d) the relevant date is not the first day of the quarter;
+then:
+(e) for the purposes of paragraph (1)(e), so much of the 
+superannuation guarantee charge in respect of the quarter as 
+is attributable to the period before the relevant date is taken 
+to be payable by the company in respect of services rendered 
+to the company by those employees before the relevant date; 
+and
+(f) the remainder of the superannuation guarantee charge in 
+respect of the quarter is taken:
+(i) to be an expense referred to in paragraph (1)(a); and
+(ii) not to be an amount of superannuation guarantee charge 
+referred in paragraph (1)(e).
+(1AD) If:
+(a) the company has a superannuation guarantee shortfall for a 
+quarter; and
+(b) the shortfall relates to one or more employees; and
+(c) the relevant date is the first day of the quarter;
+the superannuation guarantee charge in respect of the quarter is 
+taken:
+(d) to be an expense referred to in paragraph (1)(a); and
+(e) not to be an amount of superannuation guarantee charge 
+referred in paragraph (1)(e).
+(1AE) For the purposes of paragraph (1)(e), if:
+(a) the company has a superannuation guarantee shortfall for a 
+quarter; and
+(b) the shortfall relates to one or more employees; and
+(c) the quarter begins after the relevant date; and
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Proof and ranking of claims  Division 6
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 556
+
+Corporations Act 2001 607
+Compilation No. 143 Compilation date: 09/07/2025(d) one or more payments were made by the company during the 
+quarter on account of wages payable to those employees in 
+respect of services rendered to the company by those 
+employees before the relevant date; and
+(e) those payments were made as a result of an advance of 
+money by a person after the relevant date for the purpose of 
+making those payments;
+then:
+(f) for the purposes of paragraph (1)(e), so much of the 
+superannuation guarantee charge in respect of the quarter as 
+is attributable to those payments is taken to be payable by the 
+company in respect of services rendered to the company by 
+those employees before the relevant date; and
+(g) the remainder of the superannuation guarantee charge in 
+respect of the quarter is taken:
+(i) to be an expense referred to in paragraph (1)(a); and
+(ii) not to be an amount of superannuation guarantee charge 
+referred in paragraph (1)(e).
+(1AF) If:
+(a) the company has a superannuation guarantee shortfall for a 
+quarter; and
+(b) the shortfall relates to one or more employees; and
+(c) the relevant date occurs during the quarter; and
+(d) one or more payments were made by the company during the 
+quarter on account of wages payable to those employees in 
+respect of services rendered to the company by those 
+employees before the relevant date; and
+(e) those payments were made as a result of an advance of 
+money by a person after the relevant date for the purpose of 
+making those payments;
+then:
+(f) for the purposes of paragraph (1)(e), so much of the 
+superannuation guarantee charge in respect of the quarter as 
+is attributable to either or both of the following:
+(i) those payments;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 556
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+608 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) the period before the relevant date;
+is taken to be payable by the company in respect of services 
+rendered to the company by those employees before the 
+relevant date; and
+(g) the remainder of the superannuation guarantee charge in 
+respect of the quarter is taken:
+(i) to be an expense referred to in paragraph (1)(a); and
+(ii) not to be an amount of superannuation guarantee charge 
+referred in paragraph (1)(e); and
+(h) subsections (1AC) and (1AD) do not apply to the 
+superannuation guarantee charge in respect of the quarter.
+(1AG) Subsections (1AC) to (1AF) apply to a liability to pay the amount 
+of an estimate of superannuation guarantee charge for a quarter in 
+the same way as they apply to superannuation guarantee charge 
+payable for the quarter.
+Leave amounts
+(1B) The amount or total paid under paragraph (1)(g) to, or in respect of, 
+an excluded employee of the company must be such that so much 
+(if any) of it as is attributable to non-priority days does not exceed 
+$1,500.
+Retrenchment payments
+(1C) A payment under paragraph (1)(h) to an excluded employee of the 
+company must not include an amount attributable to non-priority 
+days.
+Definitions
+(2) In this section:
+company means a company that is being wound up.
+deferred expenses, in relation to a company, means expenses 
+properly incurred by a relevant authority, in so far as they consist 
+of:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Proof and ranking of claims  Division 6
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 556

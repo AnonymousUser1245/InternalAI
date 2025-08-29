@@ -1,0 +1,116 @@
+sub-funds with ED securities on issue
+(1) Section 302 does not apply to a CCIV that is a disclosing entity 
+except as set out in this section.
+(2) If any securities referable to a sub-fund of a retail CCIV are ED 
+securities, section 302 applies to the CCIV as if the requirement in 
+paragraph 302(a) required the CCIV to prepare a financial report 
+and directors’ report for each half-year for the sub-fund.
+Note: For ED securities in a CCIV, see subsection 111AF(3), and 
+section 111AI as affected by section 1231P.
+(3) For the purposes of subsection (2), ED securities that are units of 
+shares in a CCIV are referable to the sub-fund of the CCIV to 
+which the shares are referable.
+(4) The remaining provisions of Division 2 of Part 2M.3 apply in 
+relation to the following documents relating to the sub-fund:
+(a) a financial report and directors’ report prepared under 
+paragraph 302(a) as applied by subsection (2) of this section;
+(b) the documents of which the financial report consists under 
+subsection 303(1);
+as if the sub-fund were the CCIV.
+Note: The combined effect of subsection 1232(1) and this subsection is that 
+references in the remaining provisions of Division 2 of Part 2M.3 to 
+the disclosing entity are, where appropriate, to be read as referring to 
+the sub-fund.
+(5) Despite subsection (4) of this section, paragraph 303(4)(c) applies 
+to a directors’ declaration relating to the sub-fund as if the debts 
+mentioned in that paragraph were only the debts referable to the 
+sub-fund.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Corporate finance, financial reporting and sustainability reporting for CCIVs  Part 8B.4
+Financial reports, sustainability reports and audit of CCIVs  Division 4
+
+Part 8B.4  Corporate finance, financial reporting and sustainability reporting for CCIVs
+Division 4  Financial reports, sustainability reports and audit of CCIVs
+Section 1232G
+
+Corporations Act 2001 587
+Compilation No. 143 Compilation date: 09/07/2025(6) Section 306 applies to the sub-fund of the CCIV as if the 
+requirement in subsection 306(1) were instead a requirement for 
+the directors’ report for the sub-fund for each half-year to include:
+(a) a review of the sub-fund’s operations during the half-year 
+and the results of those operations; and
+(b) details of:
+(i) the name of each corporate director of the CCIV at any 
+time during or since the end of the half-year, and the 
+period for which each was the corporate director; and
+(ii) the name of each director of the corporate director of the 
+CCIV at any time during or since the end of the 
+half-year, and the period for which each was a director 
+of the corporate director.
+
+Part 8B.4  Corporate finance, financial reporting and sustainability reporting for CCIVs
+Division 4  Financial reports, sustainability reports and audit of CCIVs
+1232G  Audit and auditor’s report for sub-funds
+
+(1) Subject to the modifications set out in this section, Division 3 of
+
+Part 8B.4  Corporate finance, financial reporting and sustainability reporting for CCIVs
+Division 4  Financial reports, sustainability reports and audit of CCIVs
+Section 1232H
+
+Part 8B.4  Corporate finance, financial reporting and sustainability reporting for CCIVs
+Division 4  Financial reports, sustainability reports and audit of CCIVs
+588 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Audit
+(3) Section 307 applies in relation to the sub-fund of the CCIV as if 
+the requirements in paragraphs 307(c) and (d) do not apply, and as 
+if those paragraphs instead require the auditor to form an opinion 
+about whether the CCIV has kept:
+(a) financial records, relating to the sub-fund, sufficient to enable 
+a financial report, relating to the sub-fund, to be prepared and 
+audited; and
+(b) other records and registers, relating to the sub-fund, as 
+required by this Act.
+Reporting to ASIC
+(4) Section 311 applies in relation to the sub-fund of the CCIV as if 
+the requirement in paragraph 311(4)(b) were a requirement to have 
+regard to the effect that the contravention has, or may have, on:
+(a) the overall financial position of either the CCIV or the 
+sub-fund, or both; or
+(b) the adequacy of the information available about the overall 
+financial position of either the CCIV or the sub-fund, or both.
+
+Part 8B.4  Corporate finance, financial reporting and sustainability reporting for CCIVs
+Division 4  Financial reports, sustainability reports and audit of CCIVs
+Section 1232M
+
+Part 8B.4  Corporate finance, financial reporting and sustainability reporting for CCIVs
+Division 4  Financial reports, sustainability reports and audit of CCIVs
+590 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(d) the requirement in subsection 318(4) were instead a 
+requirement to give to the trustee for debenture holders a 
+copy of the half-year financial report, prepared for the 
+sub-fund under section 302 as applied by section 1232F, 
+within 75 days after the end of the half-year.
+
+Part 8B.4  Corporate finance, financial reporting and sustainability reporting for CCIVs
+Division 4  Financial reports, sustainability reports and audit of CCIVs
+Section 1232T
+
+Part 8B.4  Corporate finance, financial reporting and sustainability reporting for CCIVs
+Division 4  Financial reports, sustainability reports and audit of CCIVs
+592 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Auditor ceases to hold office if CCIV is being wound up in respect 
+of all of its sub-funds
+(2) An auditor of a CCIV ceases to hold office if an event mentioned 
+in subsection (3) has occurred in relation to each sub-fund of the 
+CCIV.
+(3) The events are as follows:
+(a) a special resolution is passed for the voluntary winding up of 
+a sub-fund of the CCIV;
+(b) an order is made by the Court for the winding up of a 
+sub-fund of the CCIV.
+(4) Section 330 does not apply to a CCIV.

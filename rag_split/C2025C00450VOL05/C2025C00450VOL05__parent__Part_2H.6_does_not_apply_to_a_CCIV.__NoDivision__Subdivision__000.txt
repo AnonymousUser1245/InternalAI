@@ -1,0 +1,69 @@
+Part 2H.6 does not apply to a CCIV.
+Subdivision F—Cross-investment between sub-funds of a CCIV
+1230Q  Cross-investment between sub-funds is permitted
+
+(1) Despite any law, a CCIV may acquire in respect of any of its 
+sub-funds, one or more shares that are referable to another of its 
+sub-funds.
+Note: Requirements or restrictions may apply, see section 1230R.
+(2) To avoid doubt, a law referred to in subsection (1) includes:
+(a) any written law; or
+(b) any unwritten law such as a principle or rule of common law 
+or equity;
+that is or has been in force anywhere in Australia or elsewhere.
+
+Part 2H.6 does not apply to a CCIV.
+Subdivision F—Cross-investment between sub-funds of a CCIV
+1230R  Requirements or restrictions for cross-investment
+
+(1) Regulations made for the purposes of this subsection may prescribe 
+either or both of the following:
+(a) one or more requirements for a CCIV to make an acquisition 
+mentioned in subsection 1230Q(1);
+(b) one or more restrictions on a CCIV making an acquisition 
+mentioned in subsection 1230Q(1).
+(2) Without limiting subsection (1), regulations made for the purposes 
+of that subsection may prescribe requirements or restrictions in 
+relation to one or more of the following:
+(a) all CCIVs;
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Corporate finance, financial reporting and sustainability reporting for CCIVs  Part 8B.4
+Shares  Division 1
+
+Part 2H.6 does not apply to a CCIV.
+Subdivision F—Cross-investment between sub-funds of a CCIV
+Section 1230S
+
+Corporations Act 2001 571
+Compilation No. 143 Compilation date: 09/07/2025(b) a specified class of CCIVs;
+(c) all sub-funds of all CCIVs;
+(d) a specified class of sub-funds of CCIVs;
+(e) all sub-funds of a specified class of CCIVs.
+
+Part 2H.6 does not apply to a CCIV.
+Subdivision F—Cross-investment between sub-funds of a CCIV
+1230S  Consequences for failing to comply with requirements or
+
+restrictions for cross-investment
+(1) A CCIV to which regulations made for the purposes of 
+subsection 1230R(1) apply in relation to an acquisition must 
+comply with any applicable requirements or restrictions in those 
+regulations.
+Consequences for CCIV of contravention
+(2) If a CCIV contravenes subsection (1):
+(a) the contravention does not affect the validity of the 
+acquisition or of any contract or transaction connected with 
+it; and
+(b) the CCIV does not commit an offence.
+Fault-based offence
+(3) A person commits an offence if the person is involved in a CCIV’s 
+contravention of subsection (1) and the involvement is dishonest.
+Civil liability
+(4) A person who is involved in a CCIV’s contravention of 
+subsection (1) contravenes this subsection.
+Note 1: This subsection is a civil penalty provision (see section 1317E).
+Note 2: There are other possible consequences for such a contravention, 
+including the suspension or cancellation of an Australian financial 
+services licence held by the CCIV’s corporate director (see 
+paragraph 915C(1)(a)).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles

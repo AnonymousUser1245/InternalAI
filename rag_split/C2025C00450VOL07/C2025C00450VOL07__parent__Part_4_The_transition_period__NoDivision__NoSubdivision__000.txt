@@ -1,0 +1,138 @@
+Part 4  The transition period
+
+Clause 25
+
+Part 4  The transition period
+192 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 4—The transition period
+
+Part 4  The transition period
+25  ASIC may direct directors of a company to modify its
+
+constitution
+(1) If a company registered under clause 3 of the transition provisions 
+has not modified its constitution so that it complies with 
+subclause 24(1) of the transition provisions by the end of the 
+transition period, ASIC may direct, in writing, the directors of the 
+company to:
+(a) take the necessary or specified steps to:
+(i) ensure that the company modifies its constitution so that 
+it does comply; or
+(ii) ensure that the company makes the modifications to its 
+constitution that ASIC specifies; and
+(b) take those steps within a specified time (which must be more 
+than 28 days).
+A direction may require the directors to take steps that are 
+inconsistent with the company’s constitution.
+(2) ASIC may issue a direction under subclause (1) before the end of 
+the transition period if requested by a majority of directors of the 
+company.
+(3) No civil or criminal liability arises from action taken by a director 
+in good faith and in accordance with a direction issued under 
+subclause (1).
+(4) A person contravenes this subclause if, without reasonable excuse, 
+they contravene a direction under subclause (1).
+(5) A person who intentionally or recklessly contravenes a direction 
+under subclause (1) is guilty of an offence.
+Penalty: 2 years imprisonment.
+Authorised Version C2025C00450 registered 21/07/2025Transfer of financial institutions and friendly societies  Schedule 4
+The transition period  Part 4
+  
+Clause 27
+Corporations Act 2001 193
+Compilation No. 143 Compilation date: 09/07/202527  When certain modifications of a company’s constitution under an 
+exemption or declaration take effect
+(1) If the constitution of a company registered under clause 3 of the 
+transition provisions was modified under an exemption or 
+declaration made under clause 26 of the transition provisions, and 
+that modification varies or cancels, or allows the variation or 
+cancellation of:
+(a) rights attached to shares in a class of shares; or
+(b) rights of members in a class of members;
+the following provisions apply, and to the exclusion of 
+section 246D if it would otherwise apply.
+(2) If the company is not required to lodge a copy of the modification 
+with ASIC by or under any other provision of this Act, the 
+company must lodge a copy of the modification with ASIC within
+
+Part 4  The transition period
+14 days of the modification being made.
+
+(3) If:
+(a) members in the class do not all agree (whether by resolution 
+or written consent) to the modification of the company’s 
+constitution; or
+(b) the members in the class did not have an opportunity to vote 
+on or consent to the modification;
+
+Part 4  The transition period
+10% or more of the members in the class may apply to the Court to
+
+have the modification set aside.
+Note: If a company has only 1 class of shares, all members are members of 
+the class.
+(4) An application may only be made within 1 month after the 
+modification is lodged.
+(5) The modification takes effect:
+(a) if no application is made to the Court to have it set aside—1 
+month after the modification is lodged; or
+(b) if an application is made to the Court to have it set aside—
+when the application is withdrawn or finally determined.
+Authorised Version C2025C00450 registered 21/07/2025Schedule 4  Transfer of financial institutions and friendly societies
+
+Part 4  The transition period
+
+Clause 27
+
+Part 4  The transition period
+194 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(6) The members of the class who want to have the modification set 
+aside may appoint 1 or more of themselves to make the application 
+on their behalf. The appointment must be in writing.
+(7) The Court may set aside the modification if it is satisfied that it 
+would unfairly prejudice the applicants. However, the Court must 
+confirm the modification if the Court is not satisfied of unfair 
+prejudice.
+(8) Within 14 days after the Court makes an order, the company must 
+lodge a copy of it with ASIC.
+Authorised Version C2025C00450 registered 21/07/2025Transfer of financial institutions and friendly societies  Schedule 4
+Disclosure of the proposed demutualisation  Part 5
+  
+Clause 29
+Corporations Act 2001 195
+Compilation No. 143 Compilation date: 09/07/2025Part 5—Disclosure of the proposed demutualisation
+
+Part 4  The transition period
+29  Disclosure for proposed demutualisation
+
+(1) If:
+(a) a modification of the constitution of an unlisted company 
+registered under clause 3 of the transfer provisions is 
+proposed; and
+(b) the unlisted company is a mutual entity; and
+(c) the modification would have the effect that the unlisted 
+company would cease to be a mutual entity;
+the following rules apply:
+(f) notice of the meeting of the company’s members at which the 
+proposed modification is to be considered must be 
+accompanied by the documents listed in subclause (4);
+(g) notice of the meeting may not be shortened under 
+subsection 249H(2);
+(h) the company must lodge with ASIC the notice and the 
+documents referred to in paragraphs (4)(a) and (c) within 7 
+days after notice of the meeting is given.
+(3) ASIC may exempt a company from this Part under clause 30.
+(4) The documents that must accompany the notice are:
+(a) a disclosure statement that:
+(i) satisfies clause 31; and
+(ii) ASIC has registered under clause 32; and
+(b) an estimate of the financial benefits (if any) the member will 
+be offered if the proposed modification occurs; and
+(c) a report by an expert that:
+(i) states whether, in the expert’s opinion, the proposed 
+modification is in the best interests of the members of 
+the company as a whole; and
+(ii) gives the expert’s reasons for forming that opinion; and
+Authorised Version C2025C00450 registered 21/07/2025Schedule 4  Transfer of financial institutions and friendly societies

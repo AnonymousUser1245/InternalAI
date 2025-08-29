@@ -1,0 +1,119 @@
+Part 7.11  Title and transfer
+Division 3
+Section 1073C
+
+Corporations Act 2001 323
+Compilation No. 143 Compilation date: 09/07/20251073C  Application of Division to certain bodies as if they were 
+companies
+This Division applies to the following as if they were companies:
+(a) a body corporate (other than a company) that:
+(i) is incorporated in a State or Territory in this 
+jurisdiction; and
+(ii) is prescribed by regulations made for the purposes of 
+this subparagraph;
+(b) an unincorporated society, association or body, that:
+(i) is formed or established in a State or Territory in this 
+jurisdiction; and
+(ii) is included in the official list of a licensed market; and
+(iii) is prescribed by regulations made for the purposes of 
+this paragraph.
+
+Part 7.11  Title and transfer
+Division 3
+1073D  Regulations may govern transfer of certain securities
+
+(1) The regulations may make provision in relation to transfers of 
+securities that are not effected through a prescribed CS facility.
+Regulations may make provision in relation to the transfer of 
+securities
+(2) The regulations may specify:
+(a) the way in which a security may be transferred, including:
+(i) the forms (if any) to be used; and
+(ii) what amounts to a proper or sufficient transfer of a 
+security; and
+(b) the legal effect of a proper or sufficient transfer of a security; 
+and
+(c) the rights, liabilities and obligations of a person in relation to 
+the transfer of a security, including the rights, liabilities and 
+obligations of:
+(i) the transferor and transferee; and
+(ii) any other person involved in the transfer; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.11  Title and transfer
+Division 3
+Section 1073D
+
+Corporations Act 2001 325
+Compilation No. 143 Compilation date: 09/07/2025Person involved in transfer
+(5) Without limiting paragraph (2)(d), the regulations may provide for 
+any of the following to be taken to be involved in a transfer of 
+securities:
+(a) a person who carries on a financial services business and who 
+arranges for the transfer; and
+(b) a person who operates a financial market on which the 
+securities are sold; and
+(c) a person who operates a licensed CS facility through which 
+the securities are transferred; and
+(d) a company with which the transfer is lodged for registration; 
+and
+(e) an associate of a person who is involved in the transfer.
+The regulations may specify the circumstances in which a person 
+will be taken to be an associate of another person for the purposes 
+of the regulations.
+Offences
+(6) Without limiting subsection (2), the regulations may provide for 
+offences in relation to:
+(a) the use, or purported use, of a stamp of a person who:
+(i) carries on a financial services business; or
+(ii) operates a financial market; or
+(iii) operates a clearing and settlement facility; or
+(b) the execution of a document, or the transmission of an 
+electronic message or other electronic communication, that 
+may be used as a sufficient transfer under this Division; or
+(c) the lodgment of a transfer document or title document for a 
+security with the issuer of the security; or
+(d) the use of identifying codes in relation to transfers of 
+securities.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.11  Title and transfer
+Division 3
+Section 1073F
+
+Corporations Act 2001 327
+Compilation No. 143 Compilation date: 09/07/2025In a prosecution for an offence to which this subsection applies, the 
+prosecution must prove that paragraph (a) or (b) was complied with 
+before the conduct occurred.
+
+Part 7.11  Title and transfer
+Division 3
+1073F  Operation of this Division and regulations made for its
+
+purposes
+(1) This section deals with the effect of the provisions of:
+(a) this Division; and
+(b) the regulations made for the purposes of this Division.
+(2) The provisions apply in relation to a transfer of securities despite 
+anything to the contrary in:
+(a) this Act (other than this Division); or
+(b) another law, or instrument, relating to the transfer of the 
+securities.
+(3) Except as provided in the provisions, the provisions do not affect 
+the terms and conditions on which securities are sold.
+(4) Nothing in the provisions affects any right of the issuer of a 
+security to refuse:
+(a) to acknowledge or register a person as the holder of a 
+security; or
+(b) to issue a security to a person;
+on a ground other than an objection to the form of document, or 
+electronic message or other electronic communication, that is 
+lodged with or sent to the issuer and purports to transfer the 
+security to the person.
+(5) The registration of a transfer, or the issue, of a security by means 
+of a transfer effected in accordance with regulations made for the 
+purposes of this Division does not breach any law, constitution, 
+trust deed or other instrument relating to financial products.
+(6) Nothing in the provisions prevents or affects the use of:
+(a) any other form of transfer of securities; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

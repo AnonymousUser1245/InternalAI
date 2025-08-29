@@ -1,0 +1,191 @@
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+Section 738M
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+462 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) The arrangement (the hosting arrangement) between the company 
+and the CSF intermediary for the publication of the CSF offer 
+document must require all applications made in response to the 
+offer, and all application money in respect of such applications, to 
+be sent or paid to the intermediary and dealt with by the 
+intermediary in accordance with this Part.
+Note: See also section 738ZB (which deals with the responsible 
+intermediary’s obligations in relation to application money).
+(3) The company must not make the CSF offer otherwise than in 
+accordance with subsections (1) and (2).
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(4) This section does not prevent the CSF offer from being advertised 
+or publicised in a way that does not contravene 
+subsection 738ZG(1).
+(5) The responsible intermediary for the CSF offer is the CSF 
+intermediary referred to in subsection (1).
+(6) The offer platform for the CSF offer is the platform on which the 
+CSF offer document is published as referred to in subsection (1).
+(7) The maximum subscription amount for the CSF offer is the 
+amount specified in the CSF offer document as the maximum 
+amount sought to be raised by the offer.
+(8) The minimum subscription amount for the CSF offer is the 
+amount specified in the CSF offer document as the minimum 
+amount sought to be raised by the offer.
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+738M  Consents needed for publication of CSF offer document
+
+(1) The company making a CSF offer must not arrange for a CSF offer 
+document to be published on a platform of a CSF intermediary 
+unless each of the following persons has consented in writing to 
+the publication of that CSF offer document on a platform of that 
+CSF intermediary:
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Crowd-sourced funding  Part 6D.3A
+Making offers under this Part  Division 3
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+Section 738N
+
+Corporations Act 2001 463
+Compilation No. 143 Compilation date: 09/07/2025(a) each director of the company;
+(b) each person named in the CSF offer document as a proposed 
+director of the company.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(2) If the CSF offer document for a CSF offer includes a statement by 
+a person, or a statement said in the document to be based on a 
+statement by a person, the company making the offer must not 
+arrange for the document to be published on a platform of a CSF 
+intermediary unless:
+(a) the person has consented in writing to the statement being 
+included in the document in the form and context in which it 
+is included; and
+(b) the document states that the person has given this consent; 
+and
+(c) the person has not withdrawn this consent before the 
+company arranges for the document to be published on a 
+platform of that CSF intermediary.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(3) A company that makes a CSF offer must keep a consent required 
+by subsection (1) or (2) for 7 years after the consent was given.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(4) An offence based on subsection (1), (2) or (3) is an offence of strict 
+liability.
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+738N  Meaning of made, open, closed, suspended and complete
+
+When a CSF offer is made
+(1) A CSF offer is made at the time when a CSF offer document for 
+the offer is first published on a platform of the responsible 
+intermediary.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+Section 738N
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+464 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025When a CSF offer is open
+(2) A CSF offer is open during the period starting at the time when the 
+offer is made and ending at the time when the offer is closed, but 
+not including any part of that period while the offer is suspended.
+When a CSF offer is closed
+(3) Subject to subsections (4) and (5), the responsible intermediary for 
+a CSF offer may close the offer at any time by giving notice on the 
+offer platform that the offer is closed. If the intermediary does so, 
+the offer is closed from the time when notice is so given on the 
+offer platform.
+Note: See also section 738P (which deals with removal of a CSF offer 
+document from the offer platform) and section 738ZB (which deals 
+with the responsible intermediary’s obligations in relation to 
+application money).
+(4) The responsible intermediary for a CSF offer must close the offer 
+as soon as practicable after the first of the following occurs:
+(a) the period of 3 months starting from when the offer was 
+made ends;
+(b) if the CSF offer document specifies a period during which 
+the offer is to be open, or a date after which the offer is no 
+longer to be open—that period ends or that date occurs;
+(c) the responsible intermediary considers that the offer is fully 
+subscribed to the maximum subscription amount for the 
+offer;
+(d) the company making the offer notifies the responsible 
+intermediary under section 738S that the company wants the 
+offer withdrawn;
+(e) section 738Q prohibits the continued publication of the CSF 
+offer document on the offer platform.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: See also subsection 738X(2), which requires the responsible 
+intermediary to either close or suspend the CSF offer if the 
+intermediary becomes aware that the CSF offer document is defective.
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Crowd-sourced funding  Part 6D.3A
+Making offers under this Part  Division 3
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+Section 738P
+
+Corporations Act 2001 465
+Compilation No. 143 Compilation date: 09/07/2025(5) The hosting arrangement for a CSF offer may impose limits on the 
+responsible intermediary’s power to close the offer otherwise than 
+in circumstances when the intermediary:
+(a) is required by subsection (4) to close the offer; or
+(b) is required by subsection 738X(2) to either close or suspend 
+the offer because the CSF offer document is defective.
+When a CSF offer is suspended
+(6) A CSF offer is suspended during the period of any suspension of 
+the offer under section 738X (responsible intermediary’s 
+obligations on becoming aware that CSF offer document is 
+defective).
+When a CSF offer is complete
+(7) A CSF offer is complete if:
+(a) the offer is closed because of paragraph (4)(a), (b) or (c); and
+(b) all periods within which people could withdraw applications 
+made pursuant to the offer have ended; and
+(c) the applications that have been received by the responsible 
+intermediary and that have not been withdrawn or rejected 
+represent at least the minimum subscription amount for the 
+offer.
+Note: For when applications can be withdrawn, see section 738T.
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+738P  CSF offer document to be removed from offer platform if offer
+
+closes in certain circumstances
+(1) If a CSF offer is closed otherwise than because of 
+paragraph 738N(4)(a), (b) or (c), the responsible intermediary must 
+remove the CSF offer document from the offer platform.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: For removal of the CSF offer document for a CSF offer if the offer is 
+suspended, see subsection 738X(2).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+Section 738Q
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+466 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) If a CSF offer is closed because of paragraph 738N(4)(a), (b) or 
+(c), the responsible intermediary may (but is not required to) 
+remove the CSF offer document from the offer platform.
+
+Part 6D.3A  Crowd-sourced funding
+Division 3  Making offers under this Part
+738Q  Gatekeeper obligations of CSF intermediaries

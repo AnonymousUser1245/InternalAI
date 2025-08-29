@@ -1,0 +1,212 @@
+Part 1.2  Interpretation
+Division 1  General
+Schedule 2.
+
+registered office, in relation to a company or registered body, 
+means the registered office of the company or body under 
+section 142 or 601CT, as the case requires.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 113
+Compilation No. 143 Compilation date: 09/07/2025registered scheme means a managed investment scheme that is 
+registered under section 601EB.
+registered tax agent has the same meaning as in the Tax Agent 
+Services Act 2009.
+registered tax agent or BAS agent has the same meaning as in the 
+Tax Agent Services Act 2009.
+Register of Relevant Providers means the Register of Relevant 
+Providers maintained under section 922Q.
+registrable Australian body means:
+(a) a body corporate, not being:
+(i) a company; or
+(ii) an exempt public authority; or
+(iii) a corporation sole; or
+(b) an unincorporated body that, under the law of its place of 
+formation:
+(i) may sue or be sued; or
+(ii) may hold property;
+in the name of its secretary or of an officer of the body duly 
+appointed for that purpose;
+but does not include a foreign company.
+registrable body means a registrable Australian body or a foreign 
+company.
+registrable superannuation entity:
+(a) when used in a provision outside Chapter 2M or an 
+associated definition—has the same meaning as in the 
+Superannuation Industry (Supervision) Act 1993; and
+(b) when used in Chapter 2M or an associated definition—means 
+a registrable superannuation entity (within the meaning of the 
+Superannuation Industry (Supervision) Act 1993), but does 
+not include the following:
+(i) an exempt public sector superannuation scheme;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+114 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) an excluded approved deposit fund (within the meaning 
+of the Superannuation Industry (Supervision) Act 1993);
+(iii) a small APRA fund (within the meaning of 
+section 1017BB).
+For the purposes of this definition, each of the following is an 
+associated definition:
+(a) the definition of audit company;
+(b) the definition of audit-critical employee;
+(c) the definition of audited body;
+(d) the definition of audit firm;
+(e) the definition of consolidated entity;
+(f) the definition of director;
+(g) the definition of financial year;
+(h) the definition of individual auditor;
+(i) the definition of officer;
+(j) the definition of play a significant role;
+(k) the definition of RSE remuneration report.
+Registrar means:
+(a) if only one Commonwealth body is appointed as Registrar 
+under section 1270—that body; or
+(b) if more than one Commonwealth body is appointed under 
+section 1270:
+(i) for a reference in a provision that relates to one or more 
+particular functions or powers—any Commonwealth 
+body so appointed with any of those particular functions 
+or powers; or
+(ii) otherwise—any of the Commonwealth bodies appointed 
+under section 1270.
+registration prohibition order has the meaning given by 
+paragraph 921L(1)(c).
+registration suspension order has the meaning given by 
+paragraph 921L(1)(b).
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 115
+Compilation No. 143 Compilation date: 09/07/2025regulated CIS has the same meaning as in the Passport Rules for 
+this jurisdiction.
+regulated entity has the meaning given by section 1317AAB.
+regulated person:
+(a) in relation to a financial product:
+(i) in Part 7.8A (design and distribution requirements)—
+has the meaning given by subsection 994A(2); and
+(ii) in Divisions 2 (Product Disclosure Statements) and 7 
+(enforcement) of Part 7.9—has the meaning given by 
+section 1011B; and
+(c) in relation to a CGS depository interest, in Division 5C 
+(information about CGS depository interests) of Part 7.9—
+has the meaning given by subsection 1020AH(2).
+regulated sale means a sale:
+(a) that, under subsection 707(2), (3) or (5), needs disclosure to 
+investors under Part 6D.2; or
+(b) in relation to which a Product Disclosure Statement must be 
+given under subsection 1012C(5), (6) or (8); or
+(c) made in circumstances prescribed by regulations made for 
+the purposes of this paragraph.
+regulated superannuation fund has the same meaning as in the 
+Superannuation Industry (Supervision) Act 1993.
+Regulatory Powers Act means the Regulatory Powers (Standard 
+Provisions) Act 2014.
+related body corporate, in relation to a body corporate, means a 
+body corporate that is related to the first-mentioned body, as 
+determined in accordance with section 50.
+related entity, in relation to a body corporate, means any of the 
+following:
+(a) a promoter of the body;
+(b) a relative of such a promoter;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+116 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(c) a relative of a spouse of such a promoter;
+(d) a director or member of the body or of a related body 
+corporate;
+(e) a relative of such a director or member;
+(f) a relative of a spouse of such a director or member;
+(g) a body corporate that is related to the first-mentioned body;
+(h) a beneficiary under a trust of which the first-mentioned body 
+is or has at any time been a trustee;
+(i) a relative of such a beneficiary;
+(j) a relative of a spouse of such a beneficiary;
+(k) a body corporate one of whose directors is also a director of 
+the first-mentioned body;
+(l) a trustee of a trust under which a person is a beneficiary, 
+where the person is a related entity of the first-mentioned 
+body because of any other application or applications of this 
+definition.
+related party:
+(a) when used in Chapter 2E (other than in relation to a CCIV) 
+has the meaning given by section 228; and
+(aa) when used in Chapters 2E and 8B, in relation to a CCIV, has 
+the meaning given by section 1227E; and
+(b) when used in Part 6D.3A—has the meaning given by 
+subsection 738G(3); and
+(c) when used in Division 2 of Part 5C.10, Chapter 8A and the 
+Passport Rules for this jurisdiction—has the meaning given 
+by the Passport Rules for this jurisdiction.
+relation-back day has the meaning given by section 91.
+relative, in relation to a person, means the spouse, parent or 
+remoter lineal ancestor, child or remoter issue, or brother or sister 
+of the person.
+relevant AFCA determination has the meaning given by 
+section 1065.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 117
+Compilation No. 143 Compilation date: 09/07/2025relevant agreement means an agreement, arrangement or 
+understanding:
+(a) whether formal or informal or partly formal and partly 
+informal; and
+(b) whether written or oral or partly written and partly oral; and
+(c) whether or not having legal or equitable force and whether or 
+not based on legal or equitable rights.
+relevant conduct:
+(a) for an issue situation—has the meaning given by 
+paragraph 1012B(2)(b); and
+(b) for a recommendation situation—has the meaning given by 
+paragraph 1012A(2)(b); and
+(c) for a sale situation—has the meaning given by 
+paragraph 1012C(2)(b).
+relevant date, in relation to a winding up, means the day on which 
+the winding up is taken because of Division 1A of Part 5.6 to have 
+begun.
+Note: Subsection 553(1B) modifies the operation of this definition for debts 
+and claims that arise while a company is under a deed of company 
+arrangement if the deed terminates immediately before the winding 
+up.
+relevant Division 3 financial products has the meaning given by 
+subsection 1042A(1).
+Note: This definition refers to Division 3 (insider trading prohibitions) of
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+118 Corporations Act 2001

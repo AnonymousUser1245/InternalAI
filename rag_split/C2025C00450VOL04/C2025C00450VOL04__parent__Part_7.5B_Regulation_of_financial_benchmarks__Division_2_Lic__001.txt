@@ -1,0 +1,173 @@
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+Section 908BT
+
+Corporations Act 2001 441
+Compilation No. 143 Compilation date: 09/07/2025(a) the person is a benchmark administrator licensee; and
+(b) ASIC requests, in writing, the person to provide reasonable 
+access to any of the person’s facilities for any of the purposes 
+of this Part; and
+(c) the facilities relate to the person’s capacity as such a licensee; 
+and
+(d) the person fails to comply with the request.
+Penalty: 100 penalty units.
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+Section 908BV
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+442 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) a direction under subsection 908BT(1); or
+(b) a notice of variation or revocation under 
+subsection 908BT(4);
+ASIC must give the Minister a copy of the direction or notice.
+(2) Within 30 days after ASIC gives the Minister the copy of the 
+direction or notice, the Minister may, by written instrument, 
+disallow all or a specified part of that direction or notice.
+(3) In deciding whether to do so, the Minister must have regard to:
+(a) the consistency of the direction or notice with the licensee’s 
+obligations referred to in subsection 908BT(1); and
+(b) the matters referred to in subsection 908BO(2).
+(4) As soon as practicable after all or a part of a direction or notice is 
+disallowed, ASIC must give notice of the disallowance to the 
+licensee. The direction or notice ceases to have effect, to the extent 
+of the disallowance, when the licensee receives notice of the 
+disallowance.
+(5) An instrument under subsection (2) is not a legislative instrument.
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+908BV  ASIC’s power to give directions requiring reports
+
+(1) ASIC may, in writing, direct a benchmark administrator licensee to 
+give ASIC a report that:
+(a) deals with specified matters; and
+(b) if ASIC requires—includes an audit statement on the 
+licensee’s report on those matters.
+(2) A direction under subsection (1) must specify:
+(a) a reasonable period for giving ASIC the report; and
+(b) if paragraph (1)(b) applies—a person or body that is suitably 
+qualified to prepare the audit statement.
+(4) A person commits an offence if:
+(a) the person is a benchmark administrator licensee; and
+(b) the person is given a direction under subsection (1); and
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Regulation of financial benchmarks  Part 7.5B
+Licensing of financial benchmarks  Division 2
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+Section 908BW
+
+Corporations Act 2001 443
+Compilation No. 143 Compilation date: 09/07/2025(c) the person fails to comply with the direction.
+Penalty: 100 penalty units.
+(5) A direction under subsection (1) is not a legislative instrument.
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+
+Section 908BWA
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+444 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(5) ASIC may publish all or part of the written report on an 
+assessment.
+908BWA  ASIC’s power to require expert report
+Expert appointed by ASIC
+(1) ASIC may, by written notice given to a benchmark administrator 
+licensee and a person (the expert), appoint the expert to provide 
+ASIC with an expert report on specified matters relating to the 
+licensee’s compliance with its obligations as a benchmark 
+administrator licensee under this Chapter.
+(2) ASIC may, by written notice given to the licensee, direct the 
+licensee to reimburse ASIC for ASIC’s expenses that:
+(a) are incurred in appointing and paying the expert to provide 
+the report; and
+(b) are specified in the notice.
+Expert appointed by licensee
+(3) ASIC may, by written notice given to a benchmark administrator 
+licensee, direct the licensee to appoint a person to provide ASIC 
+with an expert report on specified matters relating to the licensee’s 
+compliance with its obligations as a benchmark administrator 
+licensee under this Chapter.
+Qualifications for appointment
+(4) However, a person cannot be appointed under subsection (1) or (3) 
+unless ASIC:
+(a) is satisfied that the person has the necessary skills or 
+experience to provide the expert report; and
+(b) if subsection (3) applies—has approved the proposed 
+appointment of the person.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Regulation of financial benchmarks  Part 7.5B
+Licensing of financial benchmarks  Division 2
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+Section 908BX
+
+Corporations Act 2001 445
+Compilation No. 143 Compilation date: 09/07/2025Licensee’s obligations
+(5) The licensee must give all information, explanation and assistance 
+to a person appointed under subsection (1) or (3) as the person 
+reasonably requests for the preparation and provision of the expert 
+report.
+Note: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+(6) If, under subsection (2), ASIC directs the licensee to reimburse 
+ASIC for ASIC’s expenses, an amount equal to those expenses:
+(a) is a debt due and payable to ASIC; and
+(b) is recoverable by ASIC in:
+(i) the Federal Court; or
+(ii) the Federal Circuit and Family Court of Australia 
+(Division 2); or
+(iii) a court of a State or Territory that has jurisdiction in 
+relation to the matter.
+(7) The licensee must comply with any direction given under 
+subsection (3) to the licensee.
+Note: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+908BX  Basis of licences
+
+(1) A benchmark administrator licence is granted under this Part on the 
+basis that:
+(a) the licence may be varied, suspended or cancelled, or made 
+subject to conditions (or additional conditions), by or under:
+(i) this Division; or
+(ii) later legislation; and
+(b) no compensation is payable if the licence is varied, 
+suspended or cancelled, or made subject to conditions (or 
+additional conditions), as mentioned in paragraph (a).
+(2) Subsection (1) does not, by implication, affect the interpretation of 
+any other provision:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+Section 908BX
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+446 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) of this Act; or
+(b) of an instrument made under this Act.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Regulation of financial benchmarks  Part 7.5B
+Financial benchmark rules and compelled financial benchmark rules  Division 3
+
+Part 7.5B  Regulation of financial benchmarks
+Division 2  Licensing of financial benchmarks
+Section 908CA
+
+Corporations Act 2001 447
+Compilation No. 143 Compilation date: 09/07/2025Division 3—Financial benchmark rules and compelled 
+financial benchmark rules

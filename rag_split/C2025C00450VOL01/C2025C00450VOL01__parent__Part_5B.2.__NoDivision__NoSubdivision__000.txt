@@ -1,0 +1,37 @@
+Part 5B.2.
+
+ARFN (short for Australian Registered Fund Number) is the 
+number given by ASIC to a sub-fund of a CCIV on registration of 
+the sub-fund (see subsection 1222S(3)).
+arrangement:
+(a) in Part 5.1 (arrangements and reconstructions)—
+arrangement includes a reorganisation of the share capital of 
+a body corporate by the consolidation of shares of different 
+classes, by the division of shares into shares of different 
+classes, or by both of those methods; and
+(b) for the purposes of Chapter 7 (financial services and 
+markets)—arrangement has the meaning given by 
+subsection 761B(1).
+
+Note: In Part 7.1, see also subsection 761B(2).
+
+ARSN (short for “Australian Registered Scheme Number”) is the 
+number given by ASIC to a registered scheme on registration (see 
+section 601EB).
+
+ASIC means the Australian Securities and Investments 
+Commission.
+
+ASIC Act means the Australian Securities and Investments 
+Commission Act 2001 and includes the regulations made under that 
+Act.
+
+ASIC database means so much of the national companies database 
+kept by ASIC as consists of:
+(a) some or all of a register kept by ASIC under this Act; or
+(b) information set out in a document lodged under this Act;
+but does not include ASIC’s document imaging system.
+
+ASIC delegate has the same meaning as in the ASIC Act.
+
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory

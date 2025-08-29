@@ -1,0 +1,195 @@
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+19, in the table were references to the RSE licensee for the
+
+registrable superannuation entity; and
+(b) references to an interest in the audited body in items 10 to 12 
+in the table were references to an interest in either:
+(i) the registrable superannuation entity; or
+(ii) the RSE licensee for the registrable superannuation 
+entity; and
+(c) references to an investment in an entity that has a controlling 
+interest in the audited body in items 13 and 14 in the table 
+were references to an investment in an entity that has a 
+controlling interest in the RSE licensee for the registrable 
+superannuation entity.
+Applying table if audited body is listed entity (other than registered 
+scheme)
+(3) If the audited body is a listed entity (other than a registered 
+scheme), apply the table in subsection (1) as if references in the 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CH
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+186 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025table to the audited body included references to an associated entity 
+of the audited body.
+Note: See section 50AAA for the definition of associated entity.
+Small proprietary companies
+(3A) This subsection applies to an audited body for a financial year if 
+the body:
+(a) is a small proprietary company for the financial year; and
+(b) either:
+(i) does not have any CSF shareholders at any time during 
+the financial year; or
+(ii) has, as at the end of the financial year, raised a total less 
+than the CSF audit threshold from all the CSF offers it 
+has ever made.
+Firm assets
+(4) For the purpose of applying items 10 to 14 in the table in 
+subsection (1) to an audit firm, the firm is taken to have a particular 
+asset if the asset is one of the firm’s partnership assets.
+Housing loan exception
+(5) For the purposes of item 15 of the table in subsection (1), disregard 
+a debt owed by an individual to a body corporate or entity if:
+(a) the body corporate or entity is:
+(i) an Australian ADI; or
+(ii) a body corporate registered under section 21 of the Life 
+Insurance Act 1995; and
+(b) the debt arose because of a loan that the body corporate or 
+entity made to the person in the ordinary course of its 
+ordinary business; and
+(c) the person used the amount of the loan to pay the whole or 
+part of the purchase price of premises that the person uses as 
+their principal place of residence.
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Appointment and removal of auditors  Part 2M.4
+Auditor independence  Division 3
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CH
+
+Corporations Act 2001 187
+Compilation No. 143 Compilation date: 09/07/2025Goods and services exception
+(5A) For the purposes of item 15 of the table in subsection (1), disregard 
+a debt owed by a person or firm to a body corporate or entity if:
+(a) the debt arises from the acquisition of goods or services 
+from:
+(i) the audited body; or
+(ii) an entity that the audited body controls; or
+(iii) a related body corporate; and
+(b) the acquisition of goods and services was on the terms and 
+conditions that would normally apply to goods or services 
+acquired from the body, entity or related body corporate; and
+(c) the debt is owed on the terms and conditions that would 
+normally apply to a debt owing to the body, entity or related 
+body corporate; and
+(d) the goods or services will be used by the person or firm:
+(i) for the personal use of the person or firm; or
+(ii) in the ordinary course of business of the person or firm.
+Ordinary commercial loan exception
+(5B) For the purposes of item 15 of the table in subsection (1), disregard 
+a debt owed under a loan that:
+(a) is made or given in the ordinary course of business of:
+(i) the audited body; or
+(ii) the related body corporate; or
+(iii) the controlled entity; and
+(b) is made or given on the terms and conditions that would 
+normally apply to a loan made or given by the audited body, 
+the related body corporate or the controlled entity.
+Loans by immediate family members in ordinary business dealing 
+with client
+(6) For the purposes of item 16 of the table in subsection (1), disregard 
+a debt owed to a person by a body corporate or entity if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CH
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+188 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the item applies to the person because the person is an 
+immediate family member of:
+(i) a professional member of the audit team conducting the 
+audit of the audited body; or
+(ii) a non-audit services provider; and
+(b) the debt is incurred in the ordinary course of business of the 
+body corporate or entity.
+(6A) For the purposes of item 16 in the table in subsection (1), disregard 
+an amount owed under a loan to a person or firm by the audited 
+body, a related body corporate or an entity that the audited body 
+controls if:
+(a) the body, body corporate or entity is an Australian ADI; and
+(b) the amount is deposited in a basic deposit product provided 
+by the body, body corporate or entity; and
+(c) the amount was deposited, in the ordinary course of business 
+of the audited body, body corporate or entity, on the terms 
+and conditions that would normally apply to a basic deposit 
+product provided by the body, body corporate or entity.
+Ordinary commercial guarantee exception
+(8) For the purposes of item 19 of the table in subsection (1), disregard 
+any guarantee that:
+(a) is made or given in the ordinary course of the business of:
+(i) the audited body; or
+(ii) the related body corporate; or
+(iii) the controlled entity; and
+(b) is made or given on the terms and conditions that would 
+normally apply to a guarantee made or given by the audited 
+body, the related body corporate or the controlled entity.
+Future debts and liabilities
+(8A) In this section:
+(a) a reference to a debt or amount that is owed by one entity to 
+another entity includes a reference to a debt or amount that 
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Appointment and removal of auditors  Part 2M.4
+Auditor independence  Division 3
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CI
+
+Corporations Act 2001 189
+Compilation No. 143 Compilation date: 09/07/2025will (or may) be owed by the first entity to the other entity 
+under an existing agreement between the entities; and
+(b) a reference to a liability under a guarantee of a loan includes 
+a reference to a liability that will arise under the guarantee if 
+the loan is not repaid.
+Relevant financial year
+(9) In this section:
+relevant financial year, in relation to audit activities undertaken in 
+relation to an audit or review of a financial report for a financial 
+year or an audit or review of a financial report for a half-year in a 
+financial year, means the financial year immediately before that 
+financial year.
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+324CI  Special rule for retiring partners of audit firms and retiring
+
+directors of authorised audit companies
+A person contravenes this section if:
+(a) the person ceases to be:
+(i) a member of an audit firm; or
+(ii) a director of an audit company;
+at a particular time (the departure time); and
+(b) at any time before the departure time, the audit firm or audit 
+company has engaged in an audit of an audited body; and
+(c) the person was a professional member of the audit team for 
+the audit; and
+(d) within the period of 2 years starting on the date the report 
+under section 308 or 309 was made on the latest audit to 
+which paragraphs (b) and (c) apply, the person becomes, or 
+continues to be, an officer of the audited body; and
+(e) subsection 324CH(3A) (about small proprietary companies) 
+does not apply to the audited body for the most recently 
+ended financial year.
+If the audited body is a listed entity (other than a registered 
+scheme), apply paragraph (d) as if references in that paragraph to 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CJ
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+190 Corporations Act 2001

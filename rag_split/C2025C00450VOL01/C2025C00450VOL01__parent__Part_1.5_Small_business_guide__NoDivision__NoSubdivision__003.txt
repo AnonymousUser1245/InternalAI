@@ -1,0 +1,232 @@
+Part 1.5  Small business guide
+6.4 Voting rights
+
+Different rights to vote at meetings of shareholders may attach to 
+different classes of shares. It is a replaceable rule (see 1.6) that, 
+subject to those different rights, each shareholder has 1 vote on a 
+show of hands and, on a poll, 1 vote for each share held.
+[sections 250E, 254A—254B]
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Small business guide  Part 1.5
+
+Part 1.5  Small business guide
+Section 7
+
+Corporations Act 2001 259
+Compilation No. 143 Compilation date: 09/07/20256.5 Buying and selling shares
+A shareholder may sell their shares but only if the sale would not 
+breach the company’s constitution (if any). It is a replaceable rule 
+(see 1.6) that the directors have a discretion to refuse to register a 
+transfer of shares.
+[sections 1091D—1091E]
+
+Part 1.5  Small business guide
+7  Signing company documents
+
+A company’s power to sign, discharge and otherwise deal with 
+contracts, or execute documents, can be exercised by an individual 
+acting with the company’s authority and on its behalf. A company 
+can deal with contracts without using a common seal.
+A company may execute a document by having it signed by:
+• 2 directors of the company; or
+• a director and the company secretary; or
+• for a company with a sole director who is also the sole 
+secretary—that director; or
+• for a company with a sole director and no company 
+secretary—that director.
+If the document is to have effect as a deed, it should be expressed 
+to be a deed.
+[sections 126—127]
+A company is not required to have a common seal. If it does, the 
+seal must show the company’s name and its ACN or ABN (if the 
+last 9 digits are the same, and in the same order, as the last 9 digits 
+of its ACN). The seal is equivalent to the company’s signature and 
+may be used on important company documents such as mortgages.
+[sections 123, 127(2)]
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.5  Small business guide
+
+Part 1.5  Small business guide
+Section 8
+
+Part 1.5  Small business guide
+260 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20258  Funding the company’s operations
+The shareholders may fund the company’s operations by lending 
+money to the company or by taking up other shares in the 
+company. Except if it is raising funds from its own employees or 
+shareholders or under a CSF offer, a proprietary company must not 
+engage in any fundraising activity that would require disclosure to 
+investors under Chapter 6D (for example, advertising in a 
+newspaper inviting people to invest in the company).
+The company may also borrow money from banks and other 
+financial organisations.
+Anyone who has lent money, or provided credit, to the company 
+may ask for a security interest in the company’s assets to secure the 
+performance by the company of its obligations.
+[sections 113, 124]
+
+Part 1.5  Small business guide
+9  Returns to shareholders
+
+Shareholders can take money out of the company in a number of 
+ways, but only if the company complies with its constitution (if 
+any), the Corporations Act and all other relevant laws. If a 
+company pays out money in a way that results in the company 
+being unable to pay its debts as they fall due, its directors may be 
+liable:
+• to pay compensation; and
+• for criminal and civil penalties.
+[sections 588G, 1317E, 1317G, 1317H, 1317P]
+
+Part 1.5  Small business guide
+9.1 Dividends
+
+Dividends are payments to shareholders. They can only be paid if:
+• the company’s assets are sufficiently in excess of its 
+liabilities immediately before the dividend is declared; and
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Small business guide  Part 1.5
+
+Part 1.5  Small business guide
+Section 10
+
+Corporations Act 2001 261
+Compilation No. 143 Compilation date: 09/07/2025• the payment of the dividend is fair and reasonable to the 
+company’s shareholders as a whole and does not materially 
+prejudice the company’s ability to pay its creditors.
+It is a replaceable rule (see 1.6) that the directors decide whether 
+the company should pay a dividend.
+[sections 254T, 254U]
+
+Part 1.5  Small business guide
+9.2 Buy-back of shares
+
+A company can buy back shares from shareholders.
+[sections 257A—257J]
+
+Part 1.5  Small business guide
+9.4 Distribution of surplus assets on winding up
+
+If a company is wound up and there are any assets left over after all 
+the company’s debts have been paid, the surplus is distributed to 
+shareholders in accordance with the rights attaching to their shares.
+
+Part 1.5  Small business guide
+10  Annual financial reports and audit
+
+Part 1.5  Small business guide
+10.1 The small/large distinction
+
+The accounting requirements imposed on a proprietary company 
+under the Corporations Act depend on whether the company is 
+classified as small or large. A company’s classification can change 
+from 1 financial year to another as its circumstances change.
+A company is classified as small for a financial year if it satisfies at 
+least 2 of the following tests:
+• gross operating revenue of less than $10 million for the 
+year
+• gross assets of less than $5 million at the end of the year
+• fewer than 50 employees at the end of the year.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.5  Small business guide
+
+Part 1.5  Small business guide
+Section 10
+
+Part 1.5  Small business guide
+262 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025A company that does not satisfy at least 2 of these tests is classified 
+as large.
+[section 45A]
+As the great majority of proprietary companies are small under 
+these tests, the discussion below deals mainly with the accounting 
+requirements for small proprietary companies.
+[sections 286—301]
+
+Part 1.5  Small business guide
+10.2 Financial records
+
+Under the Corporations Act, all proprietary companies must keep 
+sufficient financial records to record and explain their transactions 
+and financial position and to allow true and fair financial 
+statements to be prepared and audited. Financial record here 
+means some kind of systematic record of the company’s financial 
+transactions—not merely a collection of receipts, invoices, bank 
+statements and cheque butts. Financial records may be kept on 
+computer.
+[sections 286—289]
+
+Part 1.5  Small business guide
+10.3 Preparing annual financial reports and directors’ reports
+
+The Corporations Act requires a small proprietary company to 
+prepare an annual financial report (an annual profit and loss 
+statement, a balance sheet and a statement of cash flows) and a 
+directors’ report (about the company’s operations, dividends paid 
+or recommended, options issued etc.) if:
+• the shareholders with at least 5% of the votes in the 
+company direct it to do so; or
+• ASIC directs it to do so; or
+• it has one or more CSF shareholders at any time during the 
+financial year.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Small business guide  Part 1.5
+
+Part 1.5  Small business guide
+Section 11
+
+Corporations Act 2001 263
+Compilation No. 143 Compilation date: 09/07/2025Unless the shareholders’ direction specifies otherwise, the 
+company must prepare the annual financial report in accordance 
+with the applicable accounting standards.
+Although the Corporations Act itself may not require a small 
+proprietary company to prepare a financial report except in the 
+circumstances mentioned, the company may need to prepare the 
+annual financial reports for the purposes of other laws (for 
+example, income tax laws). Moreover, good business practice may 
+also make it advisable for the company to prepare the financial 
+reports so that it can monitor and better manage its financial 
+position.
+Large proprietary companies must prepare annual financial reports 
+and a directors’ report, have the financial report audited and send 
+both reports to shareholders. They must also lodge the annual 
+financial reports with ASIC unless exempted.
+[sections 286—301, 319—320]
+
+Part 1.5  Small business guide
+11  Disagreements within the company
+
+Part 1.5  Small business guide
+11.1 Special problems faced by minority shareholders
+
+There are remedies available to a shareholder of a company if:
+• the affairs of the company are being conducted in a way 
+that is unfair to that shareholder or to other shareholders of 
+the company; or
+• the affairs of the company are being conducted in a way 
+that is against the interests of the company as a whole.
+A Court may, for example, order the winding up of a company or 
+the appointment of a receiver.
+[sections 232-235, 461]
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.5  Small business guide
+
+Part 1.5  Small business guide
+Section 12
+
+Part 1.5  Small business guide
+264 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/202511.2 Buy—back of shares
+A company may buy back the shares of a shareholder who wants to 
+sever their relationship with the company.
+[sections 257A—257J]
+
+Part 1.5  Small business guide
+11.3 Selling shares

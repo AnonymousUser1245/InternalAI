@@ -1,0 +1,200 @@
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+658 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) ASIC decides to deregister the sub-fund under this section; 
+and
+(b) ASIC is not aware of any failure to comply with 
+subsections (1) to (4);
+ASIC must:
+(c) give notice of the proposed deregistration on ASIC database; 
+and
+(d) publish notice of the proposed deregistration in the 
+prescribed manner.
+(6) When 2 months have passed since the publication of the notice 
+under paragraph (5)(d), ASIC may deregister the sub-fund.
+(7) ASIC must give notice of the deregistration to:
+(a) the applicant; or
+(b) the person nominated in the application to be given the 
+notice.
+Notices taken to have been given under section 601AA
+(8) For the purposes of the provisions of this Act (other than a 
+provision of this Chapter):
+(a) a notice given under paragraph (5)(c) is taken to have been 
+given under paragraph 601AA(4)(c); and
+(b) a notice published under paragraph (5)(d) is taken to have 
+been published under subsection 601AA(4)(d).
+ASIC must not deregister a sub-fund that is an Australian passport 
+fund if the fund has certain members
+(9) However, ASIC must not decide, under this section, to deregister a 
+sub-fund that is an Australian passport fund if:
+(a) there are members of the fund who became members 
+(whether in this jurisdiction or any host economy for the 
+fund) after the fund became an Australian passport fund; or
+(b) there are members of the fund who became members 
+(whether in this jurisdiction or any host economy for the 
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+External administration and deregistration  Part 8B.6
+Deregistration and transfer of registration  Division 9
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239A
+
+Corporations Act 2001 659
+Compilation No. 143 Compilation date: 09/07/2025fund) on the expectation that the fund would become an 
+Australian passport fund.
+(10) For the purposes of subsection (9), ignore any member of the fund 
+that:
+(a) is, or has at any time been, the operator of the fund; or
+(b) is a related party of an entity that is, or has at any time been, 
+the operator of the fund.
+Note: See section 1216B for the circumstances in which a person becomes a 
+member of a fund on the expectation that it would become an 
+Australian passport fund.
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239A  Deregistration of a sub-fund—ASIC initiated
+
+Circumstances in which ASIC may deregister
+(1) ASIC may decide to deregister a sub-fund of a CCIV if:
+(a) the CCIV has not lodged any documents that relate to the 
+sub-fund under this Act in the last 18 months; and
+(b) ASIC has no reason to believe that the part of the business of 
+the CCIV that is registered as the sub-fund is being carried 
+on.
+(2) ASIC may also decide to deregister a sub-fund of a CCIV if:
+(a) the CCIV’s review fee in respect of a review date has not 
+been paid in full at least 12 months after the due date for 
+payment; and
+(b) the review fee is to any extent a liability of the sub-fund.
+(3) ASIC may also decide to deregister a sub-fund of a CCIV if the 
+sub-fund is being wound up and ASIC has reason to believe that:
+(a) the liquidator of the sub-fund is no longer acting; or
+(b) the sub-fund’s affairs have been fully wound up and a return 
+that the liquidator should have lodged is at least 6 months 
+late; or
+(c) the sub-fund’s affairs have been fully wound up under
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239A
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+660 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025sub-fund are not enough to cover the costs of obtaining a 
+Court order for the sub-fund’s deregistration.
+(4) However, ASIC must not decide, under this section, to deregister a 
+sub-fund that is an Australian passport fund if ASIC is of the 
+opinion that to do so would not be in the interests of:
+(a) members of the fund who became members (whether in this 
+jurisdiction or any host economy for the fund) after the fund 
+became an Australian passport fund; and
+(b) members of the fund who became members (whether in this 
+jurisdiction or any host economy for the fund) on the 
+expectation that the fund would become an Australian 
+passport fund.
+(5) For the purposes of subsection (4), ignore any member of the fund 
+that:
+(a) is, or has at any time been, the operator of the fund; or
+(b) is a related party of an entity that is, or has at any time been, 
+the operator of the fund.
+Note: See section 1216B for the circumstances in which a person becomes a 
+member of a fund on the expectation that it would become an 
+Australian passport fund.
+Show cause notice
+(6) Before deciding to deregister a sub-fund, ASIC must give the 
+CCIV a written notice that requires the CCIV to show cause, at a 
+hearing before a specified person, why the sub-fund should not be 
+deregistered.
+(7) The notice must specify:
+(a) the grounds on which it is proposed to deregister the 
+sub-fund; and
+(b) a reasonable time and place at which the hearing is to be 
+held.
+However, if the CCIV consents, the person conducting the hearing 
+may fix a different time or place.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+External administration and deregistration  Part 8B.6
+Deregistration and transfer of registration  Division 9
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239B
+
+Corporations Act 2001 661
+Compilation No. 143 Compilation date: 09/07/2025(8) The person conducting the hearing must:
+(a) give the CCIV an opportunity to be heard at the hearing; and
+(b) give ASIC:
+(i) a report about the hearing; and
+(ii) a recommendation about the grounds in the notice on 
+which it is proposed to deregister the sub-fund.
+(9) After considering the report and recommendation, ASIC may 
+decide to:
+(a) take no further action in relation to the matter and give 
+written advice of that decision to the CCIV; or
+(b) deregister the sub-fund.
+(10) Neither of the following is a legislative instrument:
+(a) a notice under subsection (6);
+(b) a report under subsection (8) (if it is in writing).
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239B  Process for ASIC initiated deregistration of a sub-fund
+
+(1) If ASIC decides under section 1239A to deregister a sub-fund of a 
+CCIV, it must:
+(a) give notice setting out the date on which ASIC proposes to 
+deregister the sub-fund:
+(i) to the CCIV; and
+(ii) to the liquidator of the sub-fund (if any); and
+(iii) to the corporate director; and
+(iv) on the ASIC database; and
+(b) publish notice of the date on which ASIC proposes to 
+deregister the sub-fund in the prescribed manner.
+(2) A notice under paragraph (1)(a) must be given at least 5 business 
+days before the sub-fund is deregistered.
+(3) ASIC may deregister the sub-fund if:
+(a) 5 business days have passed since the publication of the 
+notice under paragraph (1)(b); and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+Section 1239C
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+662 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) at the time ASIC deregisters the sub-fund, ASIC has reason 
+to believe that there is no property of the CCIV to which 
+section 1233K (about property that has to be converted) 
+applies.
+(4) ASIC does not have to give a person notice under paragraph (1)(a) 
+if ASIC does not have the necessary information about the person’s 
+identity or address.
+(5) If ASIC deregisters a sub-fund of a CCIV under this section, ASIC 
+must give notice that the fund has been deregistered, and the date 
+on which it has been deregistered, to everyone who was notified of 
+the proposed deregistration under subparagraph (1)(a)(ii) or (iii).
+(6) The notice must be given within 5 business days after the sub-fund 
+is deregistered.
+Notices taken to have been given under section 601AB
+(7) For the purposes of the provisions of this Act (other than a 
+provision of this Chapter):
+(a) a notice given under paragraph (1)(a) is taken to have been 
+given under paragraph 601AB(3)(a); and
+(b) a notice published under paragraph (1)(b) is taken to have 
+been published under subsection 601AB(3)(b).
+
+Part 8B.6  External administration and deregistration
+Division 9  Deregistration and transfer of registration
+1239C  Deregistration of a sub-fund—following amalgamation or

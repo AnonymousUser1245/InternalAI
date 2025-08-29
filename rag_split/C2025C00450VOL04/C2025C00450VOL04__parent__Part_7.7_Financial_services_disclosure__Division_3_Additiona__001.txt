@@ -1,0 +1,198 @@
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+Section 946B
+
+Corporations Act 2001 661
+Compilation No. 143 Compilation date: 09/07/2025Note 2: For the client’s right to a record of the advice, see 
+subsections 942B(8) and 942C(8).
+Certain basic deposit and other products
+(5) The providing entity does not have to give the client a Statement of 
+Advice if the advice relates to any or all of the following:
+(a) a basic deposit product;
+(b) a facility for making non-cash payments that is related to a 
+basic deposit product;
+(c) a financial product of a kind prescribed by regulations made 
+for the purposes of this paragraph.
+(6) However, if subsection (5) applies and the client is not given a 
+Statement of Advice, the client must instead, when, or as soon as 
+practicable after, the advice is provided, be given the information 
+that would be required to be in the Statement of Advice by 
+paragraphs 947B(2)(d) and (e), or 947C(2)(e) and (f), as the case 
+requires.
+Where advice does not recommend the purchase or sale of 
+products
+(7) The providing entity does not have to give the client a Statement of 
+Advice for particular advice if:
+(a) the advice does not recommend or state an opinion in respect 
+of:
+(i) the acquisition or disposal of any specific financial 
+product, or the products of a specific issuer; nor
+(ii) a modification to an investment strategy or a 
+contribution level in relation to a financial product held 
+by the client; and
+(b) the following persons do not directly receive any 
+remuneration (other than remuneration that is currently being 
+received for an earlier acquisition of a product) or other 
+benefit for, or in relation to, the advice:
+(i) the providing entity;
+(ii) an employer of the providing entity;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+Section 946C
+
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+662 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(iii) the authorising licensee, or any of the authorising 
+licensees;
+(iv) an employee or director of the authorising licensee, or 
+of any of the authorising licensees;
+(v) an associate of any of the above;
+(vi) any other person prescribed by regulations made for the 
+purposes of this paragraph.
+(8) However, in the same communication as is used to provide to the 
+client the advice referred to in subsection (7), the client must be 
+given the information that would, if a Statement of Advice were to 
+be given, be required to be in the Statement by paragraphs
+
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+947B(2)(d) and (e), or 947C(2)(e) and (f), as the case requires.
+
+(9) The providing entity must keep a record of the advice and, in doing 
+so, must comply with any applicable requirements of regulations 
+made for the purposes of this subsection.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: For the client’s right to a record of the advice, see 
+subsections 942B(8) and 942C(8).
+
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+946C  Timing of giving Statement of Advice
+
+General rule
+(1) Subject to this section, if the Statement of Advice is not the means 
+by which the advice is provided, the Statement of Advice must be 
+given to the client when, or as soon as practicable after, the advice 
+is provided and, in any event, before the providing entity provides 
+the client with any further financial service that arises out of or is 
+connected with that advice.
+Statement of certain information if Statement of Advice not given 
+when advice provided
+(2) If the Statement of Advice is not given to the client when the 
+advice is provided, the providing entity must, when the advice is 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial services disclosure  Part 7.7
+Additional requirements for personal advice provided to a retail client  Division 3
+
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+Section 947A
+
+Corporations Act 2001 663
+Compilation No. 143 Compilation date: 09/07/2025provided, give the client a statement that contains the information 
+that would be required to be in a Statement of Advice by 
+paragraphs 947B(2)(d) and (e), or 947C(2)(e) and (f), as the case 
+requires, and by section 947D, if applicable.
+Time critical cases
+(3) If:
+(a) the client expressly instructs that they require a further 
+financial service that arises out of, or is connected with, the 
+advice to be provided immediately, or by a specified time; 
+and
+(b) it is not reasonably practicable to give the Statement of 
+Advice to the client before that further service is provided as 
+so instructed;
+the providing entity must give the client the Statement of Advice:
+(c) unless paragraph (d) applies—within 5 business days after 
+providing that further service, or sooner if practicable; or
+(d) if that further service is the provision to the person of a 
+financial product and section 1019B (cooling-off period) will 
+apply to the acquisition of the product by the person—before 
+the start of the period applicable under subsection 1019B(3), 
+or sooner if practicable.
+
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+Section 947B
+
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+664 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025947B  Statement of Advice given by financial services licensee—main 
+requirements
+(1) This section applies if the providing entity is a financial services 
+licensee.
+(2) Subject to subsection (3) and to the regulations (see 
+subsection (4)), the Statement of Advice must include the 
+following statements and information:
+(a) a statement setting out the advice; and
+(b) information about the basis on which the advice is or was 
+given; and
+(c) a statement setting out the name and contact details of the 
+providing entity; and
+(d) information about any remuneration (including commission) 
+or other benefits that any of the following is to receive that 
+might reasonably be expected to be or have been capable of 
+influencing the providing entity in providing the advice:
+(i) the providing entity;
+(ii) a related body corporate of the providing entity;
+(iii) a director or employee of the providing entity or a 
+related body corporate;
+(iv) an associate of any of the above;
+(v) any other person in relation to whom the regulations 
+require the information to be provided; and
+(e) information about:
+(i) any other interests, whether pecuniary or not and 
+whether direct or indirect, of the providing entity or of 
+any associate of the providing entity; and
+(ii) any associations or relationships between the providing 
+entity or any associate of the providing entity and the 
+issuers of any financial products;
+that might reasonably be expected to be or have been capable 
+of influencing the providing entity in providing the advice; 
+and
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial services disclosure  Part 7.7
+Additional requirements for personal advice provided to a retail client  Division 3
+
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+Section 947C
+
+Corporations Act 2001 665
+Compilation No. 143 Compilation date: 09/07/2025(f) if section 961H requires a warning to be given to the client in 
+relation to the advice—a statement setting out, or recording, 
+the warning required by that section; and
+(g) any other statements or information required by the 
+regulations; and
+(h) unless in accordance with the regulations, for information to 
+be disclosed in accordance with paragraph (d) and 
+subparagraph (e)(i), any amounts are to be stated in dollars.
+(3) Subject to subsection (4), the level of detail about a matter that is 
+required is such as a person would reasonably require for the 
+purpose of deciding whether to act on the advice as a retail client.
+(4) The regulations may provide all or any of the following:
+(a) that a provision of subsection (2) does not apply in a 
+particular situation;
+(b) that particular information is not required by a provision of 
+subsection (2), either in a particular situation or generally;
+(c) a more detailed statement of the information that is required 
+by a provision of subsection (2), either in a particular 
+situation or generally.
+(5) The Statement of Advice:
+(a) must also include any information required by section 947D, 
+if applicable; and
+(b) may also include other information.
+(6) The statements and information included in the Statement of 
+Advice must be worded and presented in a clear, concise and 
+effective manner.
+
+Part 7.7  Financial services disclosure
+Division 3  Additional requirements for personal advice provided to a retail client
+947C  Statement of Advice given by authorised representative—main

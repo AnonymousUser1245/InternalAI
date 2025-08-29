@@ -1,0 +1,206 @@
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+500AA  Eligibility criteria for the simplified liquidation process
+
+(1) The eligibility criteria for the simplified liquidation process are 
+met in relation to a company if:
+(a) a triggering event occurs in relation to the company; and
+(b) subsection 497(4) (report on company’s business affairs etc.) 
+and section 498 (declaration of eligibility for simplified 
+liquidation process) have been complied with, or are taken to 
+have been complied with, in relation to the company; and
+(c) the company will not be able to pay its debts in full within a 
+period not exceeding 12 months after the day on which the 
+triggering event occurs; and
+(d) if the regulations prescribe a test for eligibility based on the 
+liabilities of the company—that test is satisfied on the day on 
+which the triggering event occurs; and
+(e) no person who:
+(i) is a director of the company; or
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Voluntary winding up  Part 5.5
+Creditors’ voluntary winding up  Division 3
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+Section 500AB
+
+Corporations Act 2001 559
+Compilation No. 143 Compilation date: 09/07/2025(ii) has been a director of the company within the 12 
+months immediately preceding the day on which the 
+triggering event occurs;
+has been a director of another company that has undergone 
+restructuring or been the subject of a simplified liquidation 
+process within a period prescribed by the regulations, unless 
+exempt under regulations made for the purposes of 
+subsection (2) of this section; and
+(f) the company has not undergone restructuring or been the 
+subject of a simplified liquidation process within a period 
+prescribed by the regulations, unless exempt under 
+regulations made for the purposes of subsection (2) of this 
+section; and
+(g) if the company is required by a taxation law (within the 
+meaning of the Income Tax Assessment Act 1997) to give a 
+return, notice, statement, application or other document 
+before the day the liquidator is appointed—the company has 
+substantially complied with that requirement.
+(2) The regulations may prescribe:
+(a) tests for eligibility based on the liabilities of companies for 
+the purposes of paragraph (1)(d); and
+(b) circumstances in which the directors of companies are 
+exempt from the requirement in paragraph (1)(e); and
+(c) circumstances in which companies are exempt from the 
+requirement in paragraph (1)(f).
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+500AB  Creditors may request liquidator not to follow the simplified
+
+liquidation process
+A creditor of a company may, within 20 business days after the day 
+on which a triggering event in relation to the company occurs, give 
+the liquidator of the company notice in writing requesting the 
+liquidator not to follow the simplified liquidation process in 
+relation to the company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+Section 500AC
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+560 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025500AC  Liquidator must cease to follow the simplified liquidation 
+process
+(1) The liquidator of a company must cease to follow the simplified 
+liquidation process:
+(a) if the eligibility criteria for the simplified liquidation process 
+are no longer met in relation to a company; or
+(b) in other circumstances prescribed by the regulations.
+(2) The regulations may deal with the transition from a simplified 
+liquidation process to another process under this Chapter.
+(3) Without limiting subsection (2), regulations made for the purposes 
+of that subsection may deal with:
+(a) proofs of debts and claims in relation to a company that has 
+ceased to be subject to the simplified liquidation process; and
+(b) ranking debts and claims in relation to a company that has 
+ceased to be subject to the simplified liquidation process; and
+(c) the identification of contributories in relation to a company 
+that has ceased to be the subject of the simplified liquidation 
+process; and
+(d) the declaration and payment of a dividend in the winding up 
+of a company that has ceased to be the subject of the 
+simplified liquidation process; and
+(e) giving information, providing reports and producing 
+documents to ASIC in relation to a company that has ceased 
+to be the subject of the simplified liquidation process.
+(4) Regulations made for the purposes of subsection (2) may provide 
+that this Act has effect with any modifications prescribed by the 
+regulations.
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+500AD  Working out whether the 25% in value of creditors test met
+
+For the purposes of paragraph 500A(2)(c):
+(a) the value of the creditors at a particular time is to be worked 
+out by reference to the value of the creditors’ claims against 
+the company that are known at that time; and
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Voluntary winding up  Part 5.5
+Creditors’ voluntary winding up  Division 3
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+Section 500AE
+
+Corporations Act 2001 561
+Compilation No. 143 Compilation date: 09/07/2025(b) the regulations may prescribe creditors that are, or are not, to 
+be taken into account.
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+500AE  Simplified liquidation process
+
+(1) The simplified liquidation process for a creditors’ voluntary 
+winding up is the process for a creditors’ voluntary winding up set 
+out in this Act, as affected by:
+(a) subsection (2); and
+(b) regulations made for the purposes of subsection (3).
+(2) The following provisions do not apply in the simplified liquidation 
+process:
+(a) section 533;
+(b) section 75-10 of Schedule 2 (external administrator may 
+convene meetings);
+(c) section 75-15 of Schedule 2 (external administrator must 
+convene meeting in certain circumstances);
+(d) section 75-20 of Schedule 2 (external administrator must 
+convene meeting if required by ASIC);
+(e) Division 80 of Schedule 2 (committees of inspection);
+(f) subsections 90-23(1) to (5) and section 90-24 of Schedule 2 
+(appointment of reviewing liquidator by ASIC, creditors 
+etc.).
+(3) The regulations may provide for and in relation to the following:
+(a) circumstances in which a transaction is not an unfair 
+preference despite section 588FA;
+(b) circumstances in which a transaction is not voidable despite 
+section 588FE;
+(c) proofs of debts and claims in relation to a company that is 
+subject to the simplified liquidation process, including:
+(i) the preparation and content of formal and informal 
+proofs of debts and claims in relation to the company; 
+and
+(ii) the submission of formal and informal proofs of debts 
+and claims to the liquidator of the company; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+Section 500AE
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+562 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(iii) the production of documents and information relating to 
+proofs of debts and claims to the liquidator of the 
+company; and
+(iv) withdrawal and variation of proofs of debts and claims 
+in relation to the company; and
+(v) the admission and rejection of formal and informal 
+proofs of debts and claims in relation to the company;
+(d) the identification of contributories in relation to a company 
+that is the subject of the simplified liquidation process;
+(e) the declaration and payment of a dividend in the winding up 
+of a company that is the subject of the simplified liquidation 
+process;
+(f) giving information, providing reports and producing 
+documents to ASIC in relation to a company that is the 
+subject of the simplified liquidation process.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Voluntary winding up  Part 5.5
+Voluntary winding up generally  Division 4
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+Section 501
+
+Corporations Act 2001 563
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Voluntary winding up generally
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+501  Distribution of property of company
+
+Subject to the provisions of this Act as to preferential payments, 
+the property of a company must, on its winding up, be applied in 
+satisfaction of its liabilities equally and, subject to that application, 
+must, unless the company’s constitution otherwise provides, be 
+distributed among the members according to their rights and 
+interests in the company.
+
+Part 5.5  Voluntary winding up
+Division 3  Creditors’ voluntary winding up
+506  Powers and duties of liquidator

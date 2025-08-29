@@ -1,0 +1,202 @@
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+Section 249H
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+492 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 3—How to call meetings of members
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+249H  Amount of notice of meetings
+
+General rule
+(1) Subject to subsection (2), at least 21 days notice must be given of a 
+meeting of a company’s members. However, if a company has a 
+constitution, it may specify a longer minimum period of notice.
+Calling meetings on shorter notice
+(2) A company may call on shorter notice:
+(a) an AGM, if all the members entitled to attend and vote at the 
+AGM agree beforehand; and
+(b) any other general meeting, if members with at least 95% of 
+the votes that may be cast at the meeting agree beforehand.
+A company cannot call an AGM or other general meeting on 
+shorter notice if it is a meeting of the kind referred to in 
+subsection (3) or (4).
+Shorter notice not allowed—removing or appointing director
+(3) At least 21 days notice must be given of a meeting of the members 
+of a public company at which a resolution will be moved to:
+(a) remove a director under section 203D; or
+(b) appoint a director in place of a director removed under that 
+section.
+Shorter notice not allowed—removing auditor
+(4) At least 21 days notice must be given of a meeting of a company at 
+which a resolution will be moved to remove an auditor under 
+section 329.
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+How to call meetings of members  Division 3
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+Section 249HA
+
+Corporations Act 2001 493
+Compilation No. 143 Compilation date: 09/07/2025249HA  Amount of notice of meetings of listed company
+(1) Despite section 249H, at least 28 days notice must be given of a 
+meeting of a company’s members.
+(2) This section only applies to a company that is listed.
+(3) This section applies despite anything in the company’s 
+constitution.
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+249J  Notice of meetings of members to members and directors
+
+Notice to members and directors individually
+(1) Written notice of a meeting of a company’s members must be 
+given individually to each member entitled to vote at the meeting 
+and to each director. Notice need only be given to 1 member of a 
+joint membership.
+Notice to joint members (replaceable rule—see section 135)
+(2) Notice to joint members must be given to the joint member named 
+first in the register of members.
+How notice is given
+(3) A company may give the notice of meeting to a member:
+(a) personally; or
+(b) by sending it by post to the address for the member in the 
+register of members or the alternative address (if any) 
+nominated by the member; or
+(c) in the manner mentioned in paragraph 110D(1)(b), (c) or (d); 
+or
+(d) by any other means that the company’s constitution (if any) 
+permits.
+Note: A defect in the notice given may not invalidate a meeting (see 
+section 1322).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+Section 249K
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+494 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025When notice is given (replaceable rule—see section 135)
+(4) A notice of meeting is taken to be given:
+(a) if it is sent by post—3 days after it is posted; or
+(aa) if it is sent by sending the member information in accordance 
+with paragraph 110D(1)(b) by post—3 days after the 
+information is posted; or
+(b) if it is sent by means of an electronic communication in 
+accordance with paragraph 110D(1)(c)—on the business day 
+after it is sent; or
+(c) if it is sent by giving the member information in accordance 
+with paragraph 110D(1)(d)—on the business day after the 
+day on which the information is sent to the member.
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+249K  Auditor entitled to notice and other communications
+
+(1) A company must give its auditor:
+(a) notice of a general meeting in the same way that a member of 
+the company is entitled to receive notice; and
+(b) any other communications relating to the general meeting 
+that a member of the company is entitled to receive.
+Note 1: For when a company must have an auditor, see Part 2M.3.
+Note 2: An auditor may appoint a representative to attend a meeting (see 
+subsection 249V(4)).
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+249L  Contents of notice of meetings of members
+
+(1) A notice of a meeting of a company’s members must:
+(a) set out:
+(i) if there is only one location at which the members who 
+are entitled to physically attend the meeting may do 
+so—the date, time and place for the meeting; and
+(ii) if there are 2 or more locations at which the members 
+who are entitled to physically attend the meeting may 
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+How to call meetings of members  Division 3
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+Section 249L
+
+Corporations Act 2001 495
+Compilation No. 143 Compilation date: 09/07/2025do so—the date and time for the meeting at each 
+location, and the main location for the meeting; and
+(iii) if virtual meeting technology is to be used in holding the 
+meeting—sufficient information to allow the members 
+to participate in the meeting by means of the 
+technology; and
+(b) state the general nature of the meeting’s business; and
+(c) if a special resolution is to be proposed at the meeting—set 
+out an intention to propose the special resolution and state the 
+resolution; and
+(d) if a member is entitled to appoint a proxy—contain a 
+statement setting out the following information:
+(i) that the member has a right to appoint a proxy;
+(ii) whether or not the proxy needs to be a member of the 
+company;
+(iii) that a member who is entitled to cast 2 or more votes 
+may appoint 2 proxies and may specify the proportion 
+or number of votes each proxy is appointed to exercise.
+Note: There may be other requirements for disclosure to members.
+(2) The notice of the AGM of a listed company must also:
+(a) inform members that the resolution referred to in 
+subsection 250R(2) (resolution on remuneration report) will 
+be put at the AGM; and
+(b) if at the previous AGM at least 25% of the votes cast on a 
+resolution that the remuneration report be adopted were 
+against adoption of the report (but the same was not the case 
+at the AGM before that):
+(i) explain the circumstances in which subsection 250V(1) 
+would apply; and
+(ii) inform members that the resolution described in 
+subsection 250V(1) as the spill resolution will be put at 
+the AGM if that subsection applies.
+Note: Subsection 250R(2) requires a resolution to adopt a remuneration 
+report for a listed company to be put to the vote at the company’s 
+AGM.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+Section 249LA
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+496 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) The information included in the notice of meeting must be worded 
+and presented in a clear, concise and effective manner.
+
+Part 2G.2  Meetings of members of companies
+Division 3  How to call meetings of members
+249LA  Notice of meeting not required to contain certain
+
+information
+(1) The regulations may provide that a notice of a meeting of a 
+company’s members is not required by section 249L or otherwise 
+to include information specified in the regulations if any conditions 
+specified in the regulations are satisfied.
+(2) Without limiting subsection (1), the regulations may specify 
+different conditions for:
+(a) different kinds of information; and
+(b) a notice of meeting given by a company or a class of 
+companies.
+(3) If:
+(a) regulations are made for the purposes of subsection (1); and
+(b) a notice of meeting does not include particular information in 
+accordance with those regulations;
+the information is taken to be included in the notice of meeting.

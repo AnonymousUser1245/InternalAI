@@ -1,0 +1,163 @@
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+Section 302
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+84 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Half-year financial report and directors’ 
+report
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+302  Disclosing entity must prepare half-year financial report and
+
+directors’ report
+A disclosing entity must:
+(a) prepare a financial report and directors’ report for each 
+half-year; and
+(b) have the financial report audited or reviewed in accordance 
+with Division 3 and obtain an auditor’s report; and
+(c) lodge the financial report, the directors’ report and the 
+auditor’s report on the financial report with ASIC;
+unless the entity is not a disclosing entity when lodgment is due.
+Note 1: This Chapter only applies to disclosing entities incorporated or formed 
+in Australia (see subsection 285(2)).
+Note 2: See section 320 for the time for lodgment with ASIC.
+Note 3: Subsection 318(4) requires disclosing entities that are borrowers in 
+relation to debentures to also report to the trustee for debenture 
+holders.
+Note 4: Section 1232F extends this section to preparing half-year financial 
+reports and directors’ reports for sub-funds of retail CCIVs (if there 
+are ED securities referable to the sub-fund), and applies this Division 
+accordingly.
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+303  Contents of half-year financial report
+
+Basic contents
+(1) The financial report for a half-year consists of:
+(a) the financial statements for the half-year; and
+(b) the notes to the financial statements; and
+(c) the directors’ declaration about the statements and notes.
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Half-year financial report and directors’ report  Division 2
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+Section 303
+
+Corporations Act 2001 85
+Compilation No. 143 Compilation date: 09/07/2025Financial statements
+(2) The financial statements for the half-year are:
+(a) unless paragraph (b) applies—the financial statements in 
+relation to the disclosing entity required by the accounting 
+standards; or
+(b) if the accounting standards require the disclosing entity to 
+prepare financial statements in relation to a consolidated 
+entity—the financial statements in relation to the 
+consolidated entity required by the accounting standards.
+Notes to financial statements
+(3) The notes to the financial statements are:
+(a) disclosures required by the regulations; and
+(b) notes required by the accounting standards; and
+(c) any other information necessary to give a true and fair view 
+(see section 305).
+Directors’ declaration
+(4) The directors’ declaration is a declaration by the directors:
+(c) whether, in the directors’ opinion, there are reasonable 
+grounds to believe that the disclosing entity will be able to 
+pay its debts as and when they become due and payable; and
+(d) whether, in the directors’ opinion, the financial statement and 
+notes are in accordance with this Act, including:
+(i) section 304 (compliance with accounting standards); 
+and
+(ii) section 305 (true and fair view).
+Note: See paragraph 285(3)(c) for the reference to the debts of a disclosing 
+entity that is a registered scheme.
+(5) The declaration must:
+(a) be made in accordance with a resolution of the directors; and
+(b) specify the day on which the declaration is made; and
+(c) be signed by a director.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+Section 304
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+86 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: Section 1228 deals with directors’ resolutions for CCIVs.
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+304  Compliance with accounting standards and regulations
+
+The financial report for a half-year must comply with the 
+accounting standards and any further requirements in the 
+regulations.
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+305  True and fair view
+
+The financial statements and notes for a half-year must give a true 
+and fair view of:
+(a) the financial position and performance of the disclosing 
+entity; or
+(b) if consolidated financial statements are required—the 
+financial position and performance of the consolidated entity.
+This section does not affect the obligation under section 304 for 
+financial reports to comply with accounting standards.
+Note: If the financial statements prepared in compliance with the accounting 
+standards would not give a true and fair view, additional information 
+must be included in the notes to the financial statements under 
+paragraph 303(3)(c).
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+306  Half-year directors’ report
+
+(1) The directors of the disclosing entity must prepare a directors’ 
+report for each half-year that consists of:
+(a) a review of the entity’s operations during the half-year and 
+the results of those operations; and
+(b) the name of each person who has been a director of the 
+disclosing entity at any time during or since the end of the 
+half-year and the period for which they were a director.
+If consolidated financial statements are required, the review under 
+paragraph (a) must cover the consolidated entity.
+Note: This subsection applies to sub-funds of retail CCIVs in a modified 
+form: see subsection 1232F(6).
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Half-year financial report and directors’ report  Division 2
+
+Part 2M.3  Financial and sustainability reporting
+Division 2  Half-year financial report and directors’ report
+Section 306
+
+Corporations Act 2001 87
+Compilation No. 143 Compilation date: 09/07/2025(1A) The directors’ report must include a copy of the auditor’s 
+declaration under section 307C in relation to the audit or review for 
+the half-year.
+(2) If the financial report for a half-year includes additional 
+information under paragraph 303(3)(c) (information included to 
+give true and fair view of financial position and performance), the 
+directors’ report for the half-year must also:
+(a) set out the directors’ reasons for forming the opinion that the 
+inclusion of that additional information was necessary to give 
+the true and fair view required by section 305; and
+(b) specify where that information can be found in the financial 
+report.
+(3) The report must:
+(a) be made in accordance with a resolution of the directors; and
+(b) specify the date on which the report is made; and
+(c) be signed by a director.
+Note: Section 1228 deals with directors’ resolutions for CCIVs.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit

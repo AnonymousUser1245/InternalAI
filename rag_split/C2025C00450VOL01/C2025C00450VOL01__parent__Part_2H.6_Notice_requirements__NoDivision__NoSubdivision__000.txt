@@ -1,0 +1,51 @@
+Part 2H.6  Notice requirements
+
+Part 2H.6  Notice requirements
+Section 254Y
+
+Part 2H.6  Notice requirements
+596 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2A) An offence based on subsection (1) or (2) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(3) The company does not have to lodge a subsection (1) notice about 
+the issue of shares to a person on the registration of the company or 
+on the company changing its type from a company limited by 
+guarantee to a company limited by shares.
+Note: Information about shares issued in these situations will come to ASIC 
+under subsections 5H(2), 117(2), 163(3) and 601BC(2).
+
+Part 2H.6  Notice requirements
+254Y  Notice to ASIC of share cancellation
+
+(1) Within 1 month after shares are cancelled, the company must lodge 
+with ASIC a notice in the prescribed form that sets out:
+(a) the number of shares cancelled; and
+(b) any amount paid by the company (in cash or otherwise) on 
+the cancellation of the shares; and
+(c) if the shares are cancelled following a share buy-back—the 
+amount paid by the company (in cash or otherwise) on the 
+buy-back; and
+(d) if the company has different classes of shares—the class to 
+which each cancelled share belonged; and
+(e) if the company is a proprietary company that has made one 
+or more CSF offers—whether the cancellation has resulted in 
+the company ceasing to have any CSF shareholders.
+Note: Provisions under which shares are cancelled include section 254J 
+(redeemable preference shares), section 256B (capital reductions), 
+subsection 257H(3) (shares a company has bought back), 
+section 258D (forfeited shares), and subsections 258E(2) and (3) 
+(shares returned to a company).
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Transactions affecting share capital  Chapter 2J
+Share capital reductions and share buy-backs  Part 2J.1
+
+Part 2H.6  Notice requirements
+Section 256A
+
+Corporations Act 2001 597
+Compilation No. 143 Compilation date: 09/07/2025Chapter 2J—Transactions affecting share 
+capital
+Note: This Chapter is modified for CCIVs: see Division 2 of Part 8B.4.

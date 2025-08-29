@@ -1,0 +1,90 @@
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+1043M  Defences to prosecution for an offence
+
+(1) In a prosecution of a person for an offence based on 
+subsection 1043A(1) or (2), it is not necessary for the prosecution 
+to prove the non-existence of facts or circumstances which, if they 
+existed, would, by virtue of section 1043B, 1043C, 1043D, 1043E,
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+1043F, 1043G, 1043H, 1043I, 1043J or 1043K, preclude the act or
+
+omission from constituting a contravention of subsection 1043A(1) 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+Section 1043M
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+238 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025or (2), as the case may be, but it is a defence if the facts or 
+circumstances existed.
+Note: A defendant bears an evidential burden in relation to the facts or 
+circumstances. See subsection 13.3(3) of the Criminal Code.
+(2) In a prosecution brought against a person for an offence based on 
+subsection 1043A(1) because the person entered into, or procured 
+another person to enter into, a transaction or agreement at a time 
+when certain information was in the first-mentioned person’s 
+possession:
+(a) it is a defence if the information came into the 
+first-mentioned person’s possession solely as a result of the 
+information having been made known as mentioned in 
+subparagraph 1042C(1)(b)(i); and
+(b) it is a defence if the other party to the transaction or 
+agreement knew, or ought reasonably to have known, of the 
+information before entering into the transaction or agreement.
+Note: A defendant bears an evidential burden in relation to the matters 
+referred to in paragraphs (a) and (b). See subsection 13.3(3) of the 
+Criminal Code.
+(3) In a prosecution against a person for an offence based on 
+subsection 1043A(2) because the person communicated 
+information, or caused information to be communicated, to another 
+person:
+(a) it is a defence if the information came into the 
+first-mentioned person’s possession solely as a result of the 
+information having been made known as mentioned in 
+subparagraph 1042C(1)(b)(i); and
+(b) it is a defence if the other person knew, or ought reasonably 
+to have known, of the information before the information was 
+communicated.
+Note: A defendant bears an evidential burden in relation to the matters 
+referred to in paragraphs (a) and (b). See subsection 13.3(3) of the 
+Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Market misconduct and other prohibited conduct relating to financial products and 
+financial services  Part 7.10
+The insider trading prohibitions  Division 3
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+Section 1043N
+
+Corporations Act 2001 239
+Compilation No. 143 Compilation date: 09/07/20251043N  Relief from civil liability
+In proceedings against a person under Part 9.4B (including under 
+section 1317HA) relating to a contravention of 
+subsection 1043A(1) or (2), the court may relieve the person 
+wholly or partly from liability if it appears to the court that:
+(a) in any case—the circumstances in any of the sections referred 
+to in subsection 1043M(1) applied; or
+(b) in the case of subsection 1043A(1)—the circumstance 
+referred to in paragraph 1043M(2)(a) or (b) applied; or
+(c) in the case of subsection 1043A(2)—the circumstance 
+referred to in paragraph 1043M(3)(a) or (b) applied.
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+1043O  Powers of Court
+
+If, in a proceeding instituted under this Act, the Court finds that a 
+contravention of section 1043A has occurred, the Court may, in 
+addition to any other orders that it may make under any other 
+provision of this Act, make such order or orders as it thinks just, 
+including, but without limiting the generality of the above, any one 
+or more of the following orders:
+(a) an order restraining the exercise of rights attached to

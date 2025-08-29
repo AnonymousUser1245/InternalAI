@@ -1,0 +1,168 @@
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+Section 203AA
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+406 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(d) the applicant satisfies ASIC or the Court that the person 
+stopped being a director of the company on the resignation 
+day;
+ASIC or the Court may fix the resignation day as the day the 
+person’s resignation takes effect.
+(3) The Court must not fix the resignation day as the day the person’s 
+resignation takes effect unless it is satisfied that it is just and 
+equitable to do so.
+(4) ASIC must not fix the resignation day as the day the person’s 
+resignation takes effect unless it has had regard to:
+(a) any conduct, act, omission or representation of the applicant 
+in relation to notifying ASIC of the resignation; and
+(b) the reasons for any delay in notifying ASIC of the 
+resignation.
+Application to ASIC or the Court
+(5) For the purposes of paragraph (2)(c), the application:
+(a) if made to ASIC—must:
+(i) be made within 56 days after the day the person stopped 
+being a director of the company; and
+(ii) be lodged in the prescribed form; or
+(b) if made to the Court—must be made within either:
+(i) 12 months after the day the person stopped being a 
+director of the company; or
+(ii) such longer period as the Court allows.
+Notification to ASIC
+(6) If the Court fixes the resignation day as the day the person’s 
+resignation takes effect, the applicant must, within 2 business days 
+after the Court fixes the resignation day, lodge with ASIC a copy 
+of the order made by the Court that fixes the day.
+(7) An offence based on subsection (6) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Appointment, remuneration and cessation of appointment of directors  Part 2D.3
+Resignation, retirement or removal of directors  Division 3
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+Section 203AB
+
+Corporations Act 2001 407
+Compilation No. 143 Compilation date: 09/07/2025Company must be left with at least 1 director
+(8) This section has effect subject to section 203AB.
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+203AB  Resignation of directors—resignation has no effect if
+
+company has no other directors
+(1) The resignation of a director of a company does not take effect if, 
+at the end of the day that the resignation is to take effect, the 
+company does not have at least one director.
+Note: For the application of this section, see Part 10.37.
+(2) However, subsection (1) does not prevent the resignation of a 
+director of a company taking effect if the resignation is to take 
+effect on or after the day that the winding up of the company is 
+taken, because of Division 1A of Part 5.6, to have begun.
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+203B  Signpost to consequences of disqualification from managing
+
+corporations
+A person ceases to be a director of a company if the person 
+becomes disqualified from managing corporations under Part 2D.6 
+(see subsection 206A(2)) unless ASIC or the Court allows them to 
+manage the company (see sections 206GAB and 206G).
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+203C  Removal by members—proprietary companies (replaceable
+
+rule—see section 135)
+A proprietary company:
+(a) may by resolution remove a director from office; and
+(b) may by resolution appoint another person as a director 
+instead.
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+203CA  Resolution to remove directors—resolution is void if
+
+proprietary company has no other directors
+(1) A resolution by members of a proprietary company to remove a 
+director of the company is void if, at the end of the day that the 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2D  Officers and employees
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+Section 203D
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+408 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025resolution is to take effect, the company does not have at least one 
+director.
+Note: For the application of this section, see Part 10.37.
+(2) However, subsection (1) does not affect the validity of a resolution 
+by members of a proprietary company to remove a director of the 
+company if the resolution is to take effect on or after the day that 
+the winding up of the company is taken, because of Division 1A of
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+Section 203E
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+410 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025203E  Director cannot be removed by other directors—public 
+companies
+A resolution, request or notice of any or all of the directors of a 
+public company is void to the extent that it purports to:
+(a) remove a director from their office; or
+(b) require a director to vacate their office.
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+203F  Termination of appointment of managing director (replaceable
+
+rule—see section 135)
+(1) A person ceases to be managing director if they cease to be a 
+director.
+(2) The directors may revoke or vary an appointment of a managing 
+director.
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Appointment of secretaries  Part 2D.4
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+Section 204A
+
+Corporations Act 2001 411
+Compilation No. 143 Compilation date: 09/07/2025Part 2D.4—Appointment of secretaries
+Note: This Part does not apply to a CCIV: see section 1224E.
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+204A  Minimum number of secretaries
+
+Proprietary companies
+(1) A proprietary company is not required to have a secretary but, if it 
+does have 1 or more secretaries, at least 1 of them must ordinarily 
+reside in Australia.
+Public companies
+(2) A public company must have at least 1 secretary. At least 1 of them 
+must ordinarily reside in Australia.
+Strict liability offences
+(3) An offence based on subsection (1) or (2) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2D.3  Appointment, remuneration and cessation of appointment of directors
+Division 3  Resignation, retirement or removal of directors
+204B  Who can be a secretary
+
+(1) Only an individual who is at least 18 may be appointed as a 
+secretary of a company.
+(2) A person who is disqualified from managing corporations under

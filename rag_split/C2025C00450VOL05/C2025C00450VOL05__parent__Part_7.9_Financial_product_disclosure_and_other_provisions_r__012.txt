@@ -1,0 +1,179 @@
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1015D
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+66 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the manner in which a Statement may be given to a person; 
+and
+(b) the presentation, structure and format for a Statement that is 
+to be given in electronic form.
+The giving of the Statement is not effective unless those 
+requirements are satisfied.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+1015D  Notice, retention and access requirements for Statement that
+
+does not need to be lodged
+(1) This section applies to a Statement if section 1015B does not 
+require a copy of the Statement to be lodged with ASIC.
+(2) The responsible person for the Statement (other than the trustee of 
+a self managed superannuation fund) must lodge a notice with 
+ASIC, in electronic form, advising of the occurrence of any of the 
+following events as soon as practicable, and in any event within 5 
+business days, after the occurrence of the event:
+(a) except in the case of a Supplementary Product Disclosure 
+Statement—a copy of the Statement is first given to someone 
+in a recommendation, issue or sale situation;
+(b) a change is made to fees and charges set out in the Statement;
+(c) the financial product to which the Statement relates ceases to 
+be available to be recommended or offered to new clients in a 
+recommendation, issue or sale situation.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: The fees and charges set out in a Product Disclosure Statement may be 
+changed by a Supplementary Product Disclosure Statement (see 
+section 1014A).
+(3) The responsible person for the Statement must keep a copy of the 
+Statement for the period of 7 years after the date of the Statement.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Product Disclosure Statements  Division 2
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1015E
+
+Corporations Act 2001 67
+Compilation No. 143 Compilation date: 09/07/2025(4) During that period the responsible person:
+(a) must make a copy of the Statement available to ASIC if 
+asked to do so by ASIC; and
+(b) must comply with any reasonable request from any other 
+person for a copy of the Statement.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+1015E  Altering a Statement after its preparation and before giving it
+
+to a person
+(1) A regulated person must not, in purported compliance with a 
+provision of this Part, give a person a Statement that has been 
+altered (otherwise than pursuant to paragraph (b)) after the date of 
+the Statement if either or both of the following paragraphs applies:
+(a) the alteration was not made by, or with the authority of, the 
+issuer or seller, as the case requires, of the financial products;
+(b) the alteration is a material alteration and the date of the 
+Statement has not been changed to:
+(i) if a copy of the altered Statement has been lodged with 
+ASIC (see subsection (2))—the date on which it was so 
+lodged; or
+(ii) in any other case—the date on which the alteration was 
+made.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(2) If the alteration is a material alteration to a Statement that has been 
+lodged with ASIC under section 1015B, that section applies to the 
+altered Statement as if it were a new Statement.
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1016A
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+68 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025defective, in relation to a Product Disclosure Statement as at a 
+particular time, means that the Product Disclosure Statement, if it 
+had been given to a person at that time, would have been defective 
+as defined in Subdivision A of Division 7.
+Note: Information in a Supplementary Product Disclosure Statement is taken 
+to be contained in the Product Disclosure Statement it supplements 
+(see section 1014D).
+eligible application, in relation to a restricted issue or restricted 
+sale of a relevant financial product, means an application that 
+satisfies the following requirements:
+(a) the application is made using an application form; and
+(b) the application form used to apply for the product:
+(i) was included in, or accompanied, a Product Disclosure 
+Statement (relating to the product) that was given to the 
+applicant and that was not defective as at the time when 
+the application was made; or
+(ii) was copied, or directly derived, by the applicant from a 
+form referred to in subparagraph (i); and
+(c) all other applicable requirements (if any) in regulations made 
+for the purposes of this paragraph are satisfied in relation to 
+the application.
+Note: Information in a Supplementary Product Disclosure Statement is taken 
+to be contained in the Product Disclosure Statement it supplements 
+(see section 1014D).
+relevant financial product means:
+(a) a managed investment product; or
+(aa) a foreign passport fund product; or
+(b) a superannuation product; or
+(c) an investment life insurance product; or 
+(d) an RSA; or
+(db) a margin lending facility; or
+(e) a financial product of a kind specified in regulations made for 
+the purposes of this paragraph.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Product Disclosure Statements  Division 2
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1016A
+
+Corporations Act 2001 69
+Compilation No. 143 Compilation date: 09/07/2025relevant superannuation entity means a superannuation entity of a 
+kind specified in regulations made for the purposes of this 
+definition.
+restricted issue means an issue of a relevant financial product to a 
+person as a retail client, other than an issue covered by either of the 
+following paragraphs:
+(a) an issue in a situation, or pursuant to an offer made in a 
+situation, to which a subsection, other than subsection (1), of 
+section 1012D applies; or
+(b) an issue in a situation, or pursuant to an offer made in a 
+situation, to which section 1012E or 1012F applies.
+restricted sale means a sale of a relevant financial product pursuant 
+to an offer that:
+(a) is of a kind described in subsection 1012C(3) or (4); and
+(b) is not made in a situation to which a subsection, other than 
+subsection (1), of section 1012D applies.
+(2) A person (the issuer or seller) must only make a restricted issue or 
+a restricted sale of a relevant financial product to a person (the 
+recipient) if:
+(a) the issue or sale is made pursuant to an eligible application 
+made to the issuer or seller by the recipient; or
+(b) it is a restricted issue in relation to which the following 
+conditions are satisfied:
+(i) the financial product is an interest in a relevant 
+superannuation entity;
+(ii) the interest is issued pursuant to an application made to 
+the issuer by a standard employer-sponsor of the entity 
+on the recipient’s behalf;
+(iii) if the application is the first application for the issue of a 
+superannuation interest made to the issuer by the 
+standard employer-sponsor on behalf of any person—
+the application is an eligible application; or
+(c) it is a restricted issue in relation to which the following 
+conditions are satisfied:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+Section 1016A
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 2  Product Disclosure Statements
+70 Corporations Act 2001

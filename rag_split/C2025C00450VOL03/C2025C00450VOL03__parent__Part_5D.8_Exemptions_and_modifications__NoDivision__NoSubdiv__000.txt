@@ -1,0 +1,210 @@
+Part 5D.8  Exemptions and modifications
+
+Section 601YAA
+
+Part 5D.8  Exemptions and modifications
+178 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 5D.8—Exemptions and modifications
+  
+601YAA  Exemptions and modifications by ASIC
+(1) ASIC may:
+(a) exempt a person or class of persons, or an estate or class of 
+estates, from all or specified provisions of this Chapter; or
+(b) declare that this Chapter applies to a person or class of 
+persons, or an estate or class of estates, as if specified 
+provisions were omitted, modified or varied as specified in 
+the declaration.
+(2) An exemption may apply unconditionally or subject to specified 
+conditions. A person to whom a condition specified in an 
+exemption applies must comply with the condition. The Court may 
+order the person to comply with the condition in a specified way. 
+Only ASIC may apply to the Court for the order.
+(3) An exemption or declaration is a legislative instrument if it is 
+expressed to apply in relation to a class of persons or a class of 
+estates (whether or not it is also expressed to apply in relation to 
+one or more persons or estates identified otherwise than by 
+reference to membership of a class).
+(4) If subsection (3) does not apply to an exemption or declaration, the 
+exemption or declaration must be in writing and ASIC must 
+publish notice of it in the Gazette. The exemption or determination 
+is not a legislative instrument.
+(5) If conduct (including an omission) of a person would not have 
+constituted an offence if a particular declaration under 
+paragraph (1)(b) had not been made, that conduct does not 
+constitute an offence unless, before the conduct occurred (in 
+addition to complying with the requirements of the Legislation Act
+
+Part 5D.8  Exemptions and modifications
+2003 (if the declaration is of a kind referred to in subsection (3)),
+
+or with the gazettal requirement of subsection (4), as the case may 
+be):
+Authorised Version C2025C00450 registered 21/07/2025Licensed trustee companies  Chapter 5D
+Exemptions and modifications  Part 5D.8
+  
+Section 601YAB
+Corporations Act 2001 179
+Compilation No. 143 Compilation date: 09/07/2025(a) the text of the declaration was made available by ASIC on 
+the internet; or
+(b) ASIC gave written notice setting out the text of the 
+declaration to the person.
+In a prosecution for an offence to which this subsection applies, the 
+prosecution must prove that paragraph (a) or (b) was complied with 
+before the conduct occurred.
+(6) For the purpose of this section, the provisions of this Chapter 
+include:
+(a) regulations or other instruments made for the purposes of this 
+Chapter; and
+(b) definitions in this Act or the regulations, as they apply to 
+references in:
+(i) this Chapter; or
+(ii) regulations or other instruments made for the purposes 
+of this Chapter; and
+(c) any provisions of Division 2 of Part 10.12 that relate to this 
+Chapter.
+601YAB  Exemptions and modifications by regulations
+(1) The regulations may:
+(a) exempt a person or class of persons, or an estate or class of 
+estates, from all or specified provisions of this Chapter; or
+(b) provide that this Chapter applies to a person or class of 
+persons, or an estate or class of estates, as if specified 
+provisions were omitted, modified or varied as specified in 
+the declaration.
+(2) For the purpose of this section, the provisions of this Chapter 
+include:
+(a) regulations or other instruments made for the purposes of this 
+Chapter; and
+(b) definitions in this Act or the regulations, as they apply to 
+references in:
+(i) this Chapter; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5D  Licensed trustee companies
+
+Part 5D.8  Exemptions and modifications
+
+Section 601YAB
+
+Part 5D.8  Exemptions and modifications
+180 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) regulations or other instruments made for the purposes 
+of this Chapter; and
+(c) any provisions of Division 2 of Part 10.12 that relate to this 
+Chapter.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+
+Part 5D.8  Exemptions and modifications
+Section 602
+
+Corporations Act 2001 181
+Compilation No. 143 Compilation date: 09/07/2025Chapter 6—Takeovers
+Note: This Chapter only applies to acquisitions of interests in a CCIV if the CCIV is a listed 
+company: see Division 1 of Part 8B.7.
+
+Part 5D.8  Exemptions and modifications
+602  Purposes of Chapter
+
+The purposes of this Chapter are to ensure that:
+(a) the acquisition of control over:
+(i) the voting shares in a listed company, or an unlisted 
+company with more than 50 members; or
+(ii) the voting shares in a listed body (other than a notified 
+foreign passport fund); or
+(iii) the voting interests in a listed registered scheme;
+takes place in an efficient, competitive and informed market; 
+and
+(b) the holders of the shares or interests, and the directors of the 
+company or body or the responsible entity for the scheme:
+(i) know the identity of any person who proposes to 
+acquire a substantial interest in the company, body or 
+scheme; and
+(ii) have a reasonable time to consider the proposal; and
+(iii) are given enough information to enable them to assess 
+the merits of the proposal; and
+(c) as far as practicable, the holders of the relevant class of 
+voting shares or interests all have a reasonable and equal 
+opportunity to participate in any benefits accruing to the 
+holders through any proposal under which a person would 
+acquire a substantial interest in the company, body or 
+scheme; and
+(d) an appropriate procedure is followed as a preliminary to 
+compulsory acquisition of voting shares or interests or any 
+other kind of securities under Part 6A.1.
+Note 1: To achieve the objectives referred to in paragraphs (a), (b) and (c), the 
+prohibition in section 606 and the exceptions to it refer to interests in 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 5D.8  Exemptions and modifications
+Section 602A
+
+Part 5D.8  Exemptions and modifications
+182 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025“voting shares”. To achieve the objective in paragraph (d), the 
+provisions that deal with the takeover procedure refer more broadly to 
+interests in “securities”.
+Note 2: Subsection 92(3) defines securities for the purposes of this Chapter.
+
+Part 5D.8  Exemptions and modifications
+602A  Meaning of substantial interest
+
+(1) A reference in this Chapter to a substantial interest in a company, 
+listed body (other than a notified foreign passport fund) or listed 
+registered scheme is not to be read as being limited to an interest 
+that is constituted by one or more of the following:
+(a) a relevant interest in securities in the company, body or 
+scheme;
+(b) a legal or equitable interest in securities in the company, 
+body or scheme;
+(c) a power or right in relation to:
+(i) the company, body or scheme; or
+(ii) securities in the company, body or scheme.
+(2) A person does not have a substantial interest in the company, body 
+or scheme for the purposes of this Chapter merely because the 
+person has an interest in, or a relationship with, the company, body 
+or scheme of a kind prescribed by the regulations for the purposes 
+of this subsection.
+(3) The regulations may provide that an interest of a particular kind is 
+an interest that may constitute a substantial interest in a company, 
+listed body (other than a notified foreign passport fund) or listed 
+registered scheme for the purposes of this Chapter.
+
+Part 5D.8  Exemptions and modifications
+603  Chapter extends to some listed bodies that are not companies
+
+This Chapter applies to the acquisition of relevant interests in the 
+securities of listed bodies that are not companies but are 
+incorporated or formed in Australia in the same way as it applies to 
+the acquisition of relevant interests in the securities of companies.
+Note: Section 9 defines company and listed.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+
+Part 5D.8  Exemptions and modifications
+Section 604
+
+Corporations Act 2001 183
+Compilation No. 143 Compilation date: 09/07/2025604  Chapter extends to listed registered schemes
+(1) This Chapter applies to the acquisition of relevant interests in the 
+interests in a registered scheme that is also listed as if:
+(a) the scheme were a listed company; and
+(b) interests in the scheme were shares in the company; and
+(c) voting interests in the scheme were voting shares in the 
+company; and
+(d) a meeting of the members of the scheme were a general 
+meeting of the company; and
+(e) the obligations and powers that are imposed or conferred on 
+the company were imposed or conferred on the responsible 
+entity; and
+(f) the directors of the responsible entity were the directors of 
+the company; and
+(g) the appointment of a responsible entity for the scheme were 
+the election of a director of the company; and
+(h) the scheme’s constitution were the company’s constitution.
+Note 1: Paragraph (g): See subsection 610(2).
+Note 2: Section 9 defines voting interest in a managed investment scheme.
+(2) The regulations may modify the operation of this Chapter as it 
+applies in relation to the acquisition of interests in listed registered 
+schemes.
+
+Part 5D.8  Exemptions and modifications
+605  Classes of securities

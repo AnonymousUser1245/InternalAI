@@ -1,0 +1,32 @@
+Part 6.10  Review and intervention
+Division 1—Compulsory acquisition of bid class securities
+661A  Compulsory acquisition power following takeover bid
+
+Threshold for compulsory acquisition power
+(1) Under this subsection, the bidder under a takeover bid may 
+compulsorily acquire any securities in the bid class if:
+(a) the bid is:
+(i) an off-market bid to acquire all the securities in the bid 
+class; or
+(ii) a market bid; and
+(b) during, or at the end of, the offer period:
+(i) the bidder and their associates have relevant interests in 
+at least 90% (by number) of the securities in the bid 
+class; and
+(ii) the bidder and their associates have acquired at least
+
+Part 6.10  Review and intervention
+Division 1—Compulsory acquisition of bid class securities
+75% (by number) of the securities that the bidder
+
+offered to acquire under the bid (whether the 
+acquisitions happened under the bid or otherwise).
+This is so even if the bidder subsequently ceases to satisfy 
+subparagraph (b)(i) because of the issue of further securities in the 
+bid class.
+Note: Subsection 92(3) defines securities for the purposes of this Chapter.
+(2) For the purposes of subsection (1), disregard any relevant interests 
+that the bidder has merely because of the operation of 
+subsection 608(3) (relevant interest by 20% interest in body 
+corporate).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6A  Compulsory acquisitions and buy-outs

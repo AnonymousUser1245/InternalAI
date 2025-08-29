@@ -1,0 +1,196 @@
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZI
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+380 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(7) A person does not commit an offence against subsection (4) 
+because of an omission from information mentioned in 
+paragraph (1)(a) in relation to a particular matter if the person 
+proves that the person did not know that there was an omission 
+from the information in relation to that matter.
+(8) A person does not commit an offence against subsection (4) 
+because of a new circumstance that had arisen as mentioned in 
+paragraph (1)(c) if the person did not know that the new 
+circumstance had arisen.
+Defence—reasonable reliance on information given by someone 
+else
+(9) A person does not commit an offence against subsection (4) 
+because of a misleading or deceptive statement in information 
+mentioned in paragraph (1)(a) if the person proves that the person 
+placed reasonable reliance on information given to them by:
+(a) if the person is a body corporate or a responsible entity of a 
+registered scheme—someone other than a director, employee 
+or agent of the body corporate or responsible entity; or
+(b) if the person is an individual—someone other than an 
+employee or agent of the individual.
+(10) For the purposes of subsection (9), a person is not the agent of a 
+body corporate or responsible entity merely because the person 
+performs a particular professional or advisory function for the body 
+corporate or responsible entity.
+Defence—provision of updated information
+(11) A person does not commit an offence against subsection (4) 
+because of a new circumstance that has arisen as mentioned in 
+paragraph (1)(c) if the person proves that, as soon as reasonably 
+practicable after the circumstance arose:
+(a) the information mentioned in paragraph (1)(a) was updated to 
+include all relevant information about the new circumstance; 
+and
+(b) the updated information was given to the ESS participants.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Employee share schemes  Division 1A
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZJ
+
+Corporations Act 2001 381
+Compilation No. 143 Compilation date: 09/07/20251100ZJ  Obligation to inform person about deficiencies in disclosure 
+documents
+(1) This section applies to offers of ESS interests that are expressed to 
+be made under this Division, if:
+(a) paragraph 1100Q(1)(a) applies to the offer; and
+(b) the offer is made in, or accompanied by, a document that 
+purports to be an ESS offer document required by 
+section 1100W for the offer.
+(2) A person covered by subsection (3) must notify, in writing, the 
+body corporate or responsible entity of a registered scheme making 
+the offer as soon as practicable if, during the application period for 
+the offer mentioned in paragraph 1100W(2)(e), the person becomes 
+aware that:
+(a) a material statement in any of the following documents is 
+misleading or deceptive:
+(i) a document that purports to be an ESS offer document 
+required by section 1100W for the offer;
+(ii) information that purports to be supporting information 
+required under section 1100X for the offer; or
+(b) there is a material omission of information from any of the 
+documents mentioned in paragraph (a) that would result in 
+any of those documents being misleading or deceptive; or
+(c) a material new circumstance exists that:
+(i) has arisen during the application period for the offer 
+mentioned in paragraph 1100W(2)(e); and
+(ii) if the new circumstance had occurred before the offer 
+was made, would have been required to be included in 
+any of the documents mentioned in paragraph (a).
+(3) The following persons are covered by this subsection:
+(a) each director of the body corporate or responsible entity;
+(b) a person named, with the person’s consent, in any document 
+mentioned in paragraph (2)(a) as a proposed director of the 
+body corporate or responsible entity;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZK
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+382 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(c) a person named, with the person’s consent, in any document 
+mentioned in paragraph (2)(a) as having made a statement:
+(i) that is included in any such document; or
+(ii) on which a statement made in any such document is 
+based.
+(4) An offence based on subsection (2) is an offence of strict liability.
+Defence—withdrawal of consent
+(5) A person does not commit an offence against subsection (2) if:
+(a) the person is named, with the person’s consent, in any 
+document mentioned in paragraph (2)(a):
+(i) as a director or proposed director of the body corporate 
+or responsible entity; or
+(ii) as having made a statement that is included in any such 
+document or on which a statement made in any such 
+document is based; and
+(b) at any time, the person publicly withdraws the person’s 
+consent to being named in the document in that way.
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZL
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+384 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(i) an application form for the offer;
+(ii) a document that purports to be an ESS offer document 
+for the offer;
+(iii) a document that purports to be supporting information 
+required under section 1100X for the offer;
+(iv) if the offer is not in a document mentioned in 
+subparagraph (i) or (ii)—the document that contains the 
+offer; or
+(b) a document that purports to be an ESS offer document for the 
+offer does not meet the requirements of 
+subsection 1100W(2); or
+(c) the terms of the offer do not comply with section 1100Y or
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+1100Z; or
+
+(d) a document that purports to be supporting information 
+required under section 1100X for the offer does not meet the 
+relevant requirements under that section for that document; 
+or
+(e) the document that purports to be the ESS offer document, 
+information that purports to be supporting information 
+required under section 1100X, or the terms of the offer:
+(i) include a misleading or deceptive statement; or
+(ii) omit information in such a way that results in any of 
+those documents being misleading or deceptive; or
+(f) a person has contravened, or is likely to contravene, a term of 
+the offer covered by section 1100Y or 1100Z.
+(2) ASIC may order that no offers, issues, sales or transfers of the ESS 
+interests be made while the order is in force.
+(3) Before making an order under subsection (2), ASIC must:
+(a) hold a hearing; and
+(b) give a reasonable opportunity to any interested people to 
+make oral or written submissions to ASIC on whether an 
+order should be made.
+(4) If ASIC considers that any delay in making an order under 
+subsection (2) pending the holding of a hearing would be 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Employee share schemes  Division 1A
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+Section 1100ZM
+
+Corporations Act 2001 385
+Compilation No. 143 Compilation date: 09/07/2025prejudicial to the public interest, ASIC may make an interim order 
+that no offers, issues, sales or transfers of the ESS interests be 
+made while the interim order is in force. The interim order may be 
+made without holding a hearing and lasts for 21 days after the day 
+on which it is made unless revoked before then.
+(5) At any time during the hearing, ASIC may make an interim order 
+that no offers, issues, sales or transfers of the ESS interests be 
+made while the interim order is in force. The interim order lasts 
+until:
+(a) ASIC makes an order under subsection (2) after the 
+conclusion of the hearing; or
+(b) the interim order is revoked;
+whichever happens first.
+(6) An order under subsection (2), (4) or (5) must be in writing and 
+must be served on the person who is ordered not to offer, issue, sell 
+or transfer ESS interests.
+
+Part 7.12  Miscellaneous
+Division 1A  Employee share schemes
+1100ZM  ASIC’s power to request documents
+
+(1) ASIC may require a person who makes, or purports to make, an 
+offer of ESS interests to produce to ASIC such documents, or to 
+give to ASIC such information, as ASIC thinks necessary in order 
+to form an opinion about whether the provisions of this Division 
+have been complied with.
+(2) The person must provide the information within such reasonable 
+period, and in such form, as are specified by ASIC.
+(3) An offence based on subsection (2) is an offence of strict liability.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

@@ -1,0 +1,176 @@
+Part 5.7B
+
+Voidable transactions  Division 2
+
+Part 5.7B
+Section 588FE
+
+Corporations Act 2001 681
+Compilation No. 143 Compilation date: 09/07/2025(c) the transaction was entered into, or an act was done for the 
+purpose of giving effect to it, during the period beginning at 
+the start of the relation-back day and ending:
+(i) when the company made the special resolution that it be 
+wound up voluntarily; or
+(ii) when the Court made the order that the company be 
+wound up; and
+(d) the transaction, or the act done for the purpose of giving 
+effect to it, was not entered into, or done, in the ordinary 
+course of business or by or with the consent of the 
+restructuring practitioner for the company.
+(2D) The transaction is voidable if:
+(a) the transaction is:
+(i) an uncommercial transaction of the company; or
+(ii) an unfair preference given by the company to a creditor 
+of the company; or
+(iii) an unfair loan to the company; or
+(iv) an unreasonable director-related transaction of the 
+company; and
+(b) the company was subject to a restructuring plan immediately 
+before:
+(i) the company resolved by special resolution that it be 
+wound up voluntarily; or
+(ii) the Court ordered that the company be wound up; and
+(c) the transaction was entered into, or an act was done for the 
+purpose of giving effect to it, during the period beginning at 
+the start of the relation-back day and ending:
+(i) when the company made the special resolution that it be 
+wound up voluntarily; or
+(ii) when the Court made the order that the company be 
+wound up; and
+(d) the transaction, or the act done for the purpose of giving 
+effect to it, was not entered into, or done:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Voidable transactions  Division 2
+
+Part 5.7B
+Section 588FE
+
+Corporations Act 2001 683
+Compilation No. 143 Compilation date: 09/07/2025(b) it was entered into, or an act was done for the purposes of 
+giving effect to it:
+(i) during the 4 years ending on the relation-back day; or
+(ii) after that day but on or before the day when the winding 
+up began.
+(6B) The transaction is voidable if:
+(a) it is a creditor-defeating disposition of property of the 
+company; and
+(b) at least one of the following applies:
+(i) the transaction was entered into, or an act was done for 
+the purposes of giving effect to it, when the company 
+was insolvent, during the 12 months ending on the 
+relation-back day or both after that day and on or before 
+the day when the winding up began;
+(ii) the company became insolvent because of the 
+transaction or an act done for the purposes of giving 
+effect to the transaction during the 12 months ending on 
+the relation-back day or both after that day and on or 
+before the day when the winding up began;
+(iii) less than 12 months after the transaction or an act done 
+for the purposes of giving effect to the transaction, the 
+start of an external administration (as defined in
+
+Part 5.7B
+Schedule 2) of the company occurs as a direct or
+
+indirect result of the transaction or act; and
+(c) the transaction, or the act done for the purpose of giving 
+effect to it, was not entered into, or done:
+(i) under a compromise or arrangement approved by a 
+Court under section 411; or
+(ii) under a deed of company arrangement executed by the 
+company; or
+(iii) by an administrator of the company; or
+(iiia) by a restructuring practitioner for the company; or
+(iiib) under a restructuring plan made by the company; or
+(iv) by a liquidator of the company; or
+(v) by a provisional liquidator of the company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Voidable transactions  Division 2
+
+Part 5.7B
+Section 588FF
+
+Corporations Act 2001 685
+Compilation No. 143 Compilation date: 09/07/2025to any extent by or under, the transaction may be proved in a 
+winding up of the company;
+(h) an order declaring an agreement constituting, forming part of, 
+or relating to, the transaction, or specified provisions of such 
+an agreement, to have been void at and after the time when 
+the agreement was made, or at and after a specified later 
+time;
+(i) an order varying such an agreement as specified in the order 
+and, if the Court thinks fit, declaring the agreement to have 
+had effect, as so varied, at and after the time when the 
+agreement was made, or at and after a specified later time;
+(j) an order declaring such an agreement, or specified provisions 
+of such an agreement, to be unenforceable.
+(2) Nothing in subsection (1) limits the generality of anything else in 
+it.
+(3) An application under subsection (1) may only be made:
+(a) during the period beginning on the relation-back day and 
+ending:
+(i) 3 years after the relation-back day; or
+(ii) 12 months after the first appointment of a liquidator in 
+relation to the winding up of the company;
+whichever is the later; or
+(b) within such longer period as the Court orders on an 
+application under this paragraph made by the liquidator 
+during the paragraph (a) period.
+(4) If the transaction is a voidable transaction solely because it is an 
+unreasonable director-related transaction, the court may make 
+orders under subsection (1) only for the purpose of recovering for 
+the benefit of the creditors of the company the difference between:
+(a) the total value of the benefits provided by the company under 
+the transaction; and
+(b) the value (if any) that it may be expected that a reasonable 
+person in the company’s circumstances would have provided 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Voidable transactions  Division 2
+
+Part 5.7B
+Section 588FG
+
+Corporations Act 2001 687
+Compilation No. 143 Compilation date: 09/07/2025become insolvent as mentioned in paragraph 588FC(b); 
+and
+(ii) a reasonable person in the person’s circumstances 
+would have had no such grounds for so suspecting; and
+(c) the person has provided valuable consideration under the 
+transaction or has changed his, her or its position in reliance 
+on the transaction.
+(3) For the purposes of paragraph (2)(c), if an amount has been paid or 
+applied towards discharging to a particular extent a liability to pay 
+tax, the discharge is valuable consideration provided:
+(a) by the person to whom the tax is payable; and
+(b) under any transaction that consists of, or involves, the 
+payment or application.
+(4) In subsection (3):
+tax means tax (however described) payable under a law of the 
+Commonwealth or of a State or Territory, and includes, for 
+example, a levy, a charge, and municipal or other rates.
+(5) For the purposes of paragraph (2)(c), if an amount has been paid or 
+applied towards discharging to a particular extent a liability to the 
+Commonwealth, or to the Commissioner of Taxation, that arose 
+under or because of an Act of which the Commissioner has the 
+general administration, the discharge is valuable consideration 
+provided by the Commonwealth, or by the Commissioner, as the 
+case requires, under any transaction that consists of, or involves, 
+the payment or application.
+(6) Subsections (3) and (5):
+(a) are to avoid doubt and are not intended to limit the cases 
+where a person may be taken to have provided valuable 
+consideration under a transaction; and
+(b) apply to an amount even if it was paid or applied before the 
+commencement of this Act.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B

@@ -1,0 +1,223 @@
+Part 5.7B
+
+Vesting of PPSA security interests if not continuously perfected  Division 2A
+
+Part 5.7B
+Section 588FN
+
+Corporations Act 2001 703
+Compilation No. 143 Compilation date: 09/07/2025Note: If an insolvency-related event occurs in relation to a company, 
+paragraph 588FL(2)(b) fixes a time by which a PPSA security interest 
+granted by the company must be registered under the Personal 
+Property Securities Act 2009, failing which the security interest may 
+vest in the company.
+(2) On an application under this section, the Court may make the order 
+sought if it is satisfied that:
+(a) the failure to register the collateral earlier:
+(i) was accidental or due to inadvertence or some other 
+sufficient cause; or
+(ii) is not of such a nature as to prejudice the position of 
+creditors or shareholders; or
+(b) on other grounds, it is just and equitable to grant relief.
+(3) The Court may make the order sought on any terms and conditions 
+that seem just and expedient to the Court.
+
+Part 5.7B
+588FN  PPSA security interests unaffected by section 588FL
+
+PPSA security interests arising under certain transactions
+(1) Subsection 588FL(4) (vesting of security interests in company) 
+does not apply to a PPSA security interest provided for by any of 
+the following transactions, if the interest does not secure the 
+payment or performance of an obligation:
+(a) a transfer of an account or chattel paper;
+(b) a PPS lease, if paragraph (e) (serial numbered goods) of the 
+definition of PPS lease in subsection 13(1) of the Personal 
+Property Securities Act 2009 applies to the lease, and none of 
+paragraphs (a) to (d) of that definition applies to the lease;
+(c) a commercial consignment.
+Example: An example of a PPSA security interest mentioned in paragraph (b) is 
+a PPS lease of goods that does not secure the payment or performance 
+of an obligation, if:
+(a) the goods leased may or must be described by serial number in 
+accordance with regulations made for the purposes of the 
+Personal Property Securities Act 2009; and
+(b) the lease is for a term of between 90 days and 1 year; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Vesting of PPSA security interests if not continuously perfected  Division 2A
+
+Part 5.7B
+Section 588FO
+
+Corporations Act 2001 705
+Compilation No. 143 Compilation date: 09/07/2025Transfer of collateral subject to PPSA security interests
+(3) Subsection 588FL(4) (vesting of security interests in company) 
+does not apply to a PPSA security interest if:
+(a) before the critical time that applies under section 588FL, the 
+company acquired, by transfer, the collateral in which the 
+PPSA security interest is granted; and
+(b) the company did not acquire the collateral free of the security 
+interest; and
+(c) the security interest became perfected before the critical time; 
+and
+(d) the security interest was continuously perfected by 
+registration during a period covered by subsection (4) that 
+begins before the critical time.
+(4) The period covered by this subsection:
+(a) begins at whichever of the following times is applicable:
+(i) in a case in which the secured party consented to the 
+transfer—the end of 5 business days after the day of the 
+transfer;
+(ii) in a case in which the secured party otherwise acquires 
+the actual or constructive knowledge required to perfect 
+the secured party’s interest by registration (or to 
+re-perfect the interest by an amendment of a 
+registration)—the end of 5 business days after the day 
+the secured party acquires the knowledge; and
+(b) ends no earlier than at the critical time that applies under 
+section 588FL.
+Note: For what is actual or constructive knowledge, see sections 297 and
+
+Part 5.7B
+298 of the Personal Property Securities Act 2009.
+
+Part 5.7B
+588FO  Certain lessors, bailors and consignors entitled to damages
+
+Scope
+(1) This section applies if either of the following PPSA security 
+interests is vested in a company under section 588FL:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Security interests in favour of company officers etc.  Division 2B
+
+Part 5.7B
+Section 588FP
+
+Corporations Act 2001 707
+Compilation No. 143 Compilation date: 09/07/2025Division 2B—Security interests in favour of company 
+officers etc.
+
+Part 5.7B
+588FP  Security interests in favour of an officer of a company etc.
+
+void
+General rule
+(1) A security interest, and any powers purporting to be conferred by 
+the instrument under which the security interest is created, are 
+void, and are taken always to have been void, if:
+(a) a company grants the security interest; and
+(b) a person covered by subsection (2) is a secured party; and
+(c) the secured party purports to take a step to enforce the 
+security interest, within 6 months after the time (the relevant 
+time) the instrument is made, without the leave of the Court 
+under subsection (4).
+(2) This subsection covers the following persons:
+(a) a person who is an officer (including a local agent of a 
+foreign company) of the company at the relevant time;
+(b) a person who has been such an officer of the company at any 
+time within the period of 6 months ending at the relevant 
+time;
+(c) a person associated, in relation to the creation of the security 
+interest, with a person of a kind mentioned in paragraph (a) 
+or (b).
+(3) Without limiting paragraph (1)(c), a secured party takes a step to 
+enforce a security interest if:
+(a) the secured party appoints a receiver, or a receiver and 
+manager, under powers conferred by an instrument creating 
+or evidencing the security interest; or
+(b) whether directly or by an agent, the secured party enters into 
+possession or assumes control of property of a company for 
+the purposes of enforcing the security interest; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Security interests in favour of company officers etc.  Division 2B
+
+Part 5.7B
+Section 588FP
+
+Corporations Act 2001 709
+Compilation No. 143 Compilation date: 09/07/2025(b) at the time the person acquires the property, the person has 
+no actual or constructive knowledge that the seller is a 
+secured party or acting on behalf of a secured party.
+(8) Sections 297 to 300 of the Personal Property Securities Act 2009 
+apply in relation to the determination of whether or not a person 
+has actual or constructive knowledge as mentioned in 
+paragraph (7)(b) of this section.
+Onus of proof
+(9) In a proceeding in Australia under this Act, the onus of proving the 
+fact that a person acquires property without actual or constructive 
+knowledge as mentioned in paragraph (7)(b) lies with the person 
+asserting that fact.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Duties to prevent insolvent trading and creditor-defeating dispositions  Division 3
+
+Part 5.7B
+Section 588G
+
+Corporations Act 2001 711
+Compilation No. 143 Compilation date: 09/07/2025When debts are incurred [operative table]
+Action of company When debt is incurred
+
+Part 5.7B
+3 buying back shares (even if the
+
+consideration is not a sum certain 
+in money)when the buy-back agreement is entered 
+into
+
+Part 5.7B
+4 redeeming redeemable preference
+
+shares that are redeemable at its 
+optionwhen the company exercises the option
+
+Part 5.7B
+5 issuing redeemable preference
+
+shares that are redeemable 
+otherwise than at its optionwhen the shares are issued
+
+Part 5.7B
+6 financially assisting a person to
+
+acquire shares (or units of shares) 
+in itself or a holding companywhen the agreement to provide the 
+assistance is entered into or, if there is no 
+agreement, when the assistance is 
+provided
+
+Part 5.7B
+7 entering into an uncommercial
+
+transaction (within the meaning of 
+section 588FB) other than one that 
+a court orders, or a prescribed 
+agency directs, the company to 
+enter intowhen the transaction is entered into
+(2) By failing to prevent the company from incurring the debt, the 
+person contravenes this section if:
+(a) the person is aware at that time that there are such grounds 
+for so suspecting; or
+(b) a reasonable person in a like position in a company in the 
+company’s circumstances would be so aware.
+Note: This subsection is a civil penalty provision (see section 1317E).
+(3) A person commits an offence if:
+(a) a company incurs a debt at a particular time; and
+(aa) at that time, a person is a director of the company; and
+(b) the company is insolvent at that time, or becomes insolvent 
+by incurring that debt, or by incurring at that time debts 
+including that debt; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B

@@ -1,0 +1,55 @@
+Part 6.5  The takeover procedure
+Division 5  General rules on takeover procedure
+Section 648G
+
+Part 6.5  The takeover procedure
+Division 5  General rules on takeover procedure
+262 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) renew its proportional takeover approval provisions;
+then:
+(c) holders who together hold not less than 10% (by number) of 
+the issued securities in a class of securities in the company to 
+which the provisions apply may, within 21 days after that 
+day, apply to the Court to have the purported alteration or 
+renewal set aside to the extent to which it relates to that class; 
+and
+(d) unless and until an application made under paragraph (c) is 
+finally determined by the making of an order setting aside the 
+purported alteration or renewal to that extent, the company is 
+taken for all purposes (other than the purposes of an 
+application of that kind):
+(i) to have validly altered its constitution by inserting the 
+provisions referred to in paragraph (a) applying to that 
+class; or
+(ii) to have validly renewed the provisions referred to in 
+paragraph (b) applying to that class.
+(7) An application under paragraph (6)(c) may be made, on behalf of 
+the holders entitled to make the application, by a holder or holders 
+appointed by them in writing.
+(8) On an application under paragraph (6)(c), the Court may make an 
+order setting aside the purported alteration or renewal to the extent 
+to which it applies to that class if it is satisfied that it is appropriate 
+in all the circumstances to do so. Otherwise the Court must dismiss 
+the application.
+(9) Within 14 days after the day on which the Court makes an order of 
+the kind referred to in subsection (8) in relation to a company, the 
+company must lodge a copy of the order with ASIC.
+(10) An offence based on subsection (5) or (9) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+The takeover procedure  Part 6.5
+General rules on takeover procedure  Division 5
+
+Part 6.5  The takeover procedure
+Division 5  General rules on takeover procedure
+Section 648H
+
+Corporations Act 2001 263
+Compilation No. 143 Compilation date: 09/07/2025648H  Effect of Subdivision
+This Subdivision applies notwithstanding anything contained in:
+(a) the operating rules of a financial market; or
+(b) the constitution of a company; or
+(c) any agreement.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers

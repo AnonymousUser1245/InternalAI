@@ -1,0 +1,195 @@
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 556
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+610 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(c) an employee of the company who is a relative (other than a 
+spouse) of an employee of the kind referred to in 
+paragraph (a).
+non-priority day, in relation to an excluded employee of a 
+company, means a day on which the employee was:
+(a) if paragraph (a) of the definition of excluded employee 
+applies—a director of the company; or
+(b) if paragraph (b) of that definition applies—a spouse of an 
+employee of the kind referred to in paragraph (a) of that 
+definition; or
+(c) if paragraph (c) of that definition applies—a relative (other 
+than a spouse) of an employee of the kind referred to in 
+paragraph (a) of that definition;
+even if the day was more than 12 months before the relevant date.
+quarter has the same meaning as in the Superannuation Guarantee 
+(Administration) Act 1992.
+relevant authority, in relation to a company, means any of the 
+following:
+(a) in any case—a liquidator or provisional liquidator of the 
+company;
+(c) in any case—an administrator of the company, even if the 
+administration ended before the winding up began;
+(d) in any case—an administrator of a deed of company 
+arrangement executed by the company, even if the deed 
+terminated before the winding up began;
+(e) in any case—a restructuring practitioner for the company, 
+even if the restructuring ended before the winding up began;
+(f) in any case—a restructuring practitioner for a restructuring 
+plan made by the company, even if the plan terminated 
+before the winding up began.
+retrenchment payment, in relation to an employee of a company, 
+means an amount payable by the company to the employee, by 
+virtue of an industrial instrument, in respect of the termination of 
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Proof and ranking of claims  Division 6
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 558
+
+Corporations Act 2001 611
+Compilation No. 143 Compilation date: 09/07/2025the employee’s employment by the company, whether the amount 
+becomes payable before, on or after the relevant date.
+superannuation contribution, in relation to a company, means a 
+contribution by the company to a fund or scheme for the purposes 
+of making provision for, or obtaining, superannuation benefits 
+(including defined benefits) for an employee of the company, or 
+for dependants of such an employee.
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+558  Debts due to employees
+
+(1) Where a contract of employment with a company being wound up 
+was subsisting immediately before the relevant date, the employee 
+under the contract is, whether or not he or she is a person referred 
+to in subsection (2), entitled to payment under section 556 as if his 
+or her services with the company had been terminated by the 
+company on the relevant date.
+(2) Where, for the purposes of the winding up of a company, a 
+liquidator employs a person whose services with the company had 
+been terminated by reason of the winding up, that person is, for the 
+purpose of calculating any entitlement to payment for leave of 
+absence, or any entitlement to a retrenchment amount in respect of 
+employment, taken, while the liquidator employs him or her for 
+those purposes, to be employed by the company.
+(3) Subject to subsection (4), where, after the relevant date, an amount 
+in respect of long service leave or extended leave, or a 
+retrenchment amount, becomes payable to a person referred to in 
+subsection (2) in respect of the employment so referred to, the 
+amount is a cost of the winding up.
+(4) Where, at the relevant date, the length of qualifying service of a 
+person employed by a company that is being wound up is 
+insufficient to entitle him or her to any amount in respect of long 
+service leave or extended leave, or to any retrenchment amount in 
+respect of employment by the company, but, by the operation of 
+subsection (2) he or she becomes entitled to such an amount after 
+that date, that amount:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 559
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+612 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) is a cost of the winding up to the extent of an amount that 
+bears to that amount the same proportion as the length of his 
+or her qualifying service after that relevant date bears to the 
+total length of his or her qualifying service; and
+(b) is, to the extent of the balance of that amount, taken, for the 
+purposes of section 556, to be an amount referred to in 
+paragraph 556(1)(g), or a retrenchment payment payable to 
+the person, as the case may be.
+(5) In this section, retrenchment amount, in relation to employment of 
+a person, means an amount payable to the person, by virtue of an 
+industrial instrument, in respect of termination of the employment.
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+559  Debts of a class to rank equally
+
+The debts of a class referred to in each of the paragraphs of 
+subsection 556(1) rank equally between themselves and must be 
+paid in full, unless the property of the company is insufficient to 
+meet them, in which case they must be paid proportionately.
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+560  Advances for company to make priority payments in relation to
+
+employees
+If:
+(a) a payment has been made by a company:
+(i) on account of wages; or
+(ii) on account of superannuation contributions (within the 
+meaning of section 556); or
+(iii) in respect of leave of absence, or termination of 
+employment, under an industrial instrument; and
+(b) the payment was made as a result of an advance of money by 
+a person (whether before, on or after the relevant date) for the 
+purpose of making the payment;
+then:
+(c) the person by whom the money was advanced has the same 
+rights under this Chapter as a creditor of the company; and
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Proof and ranking of claims  Division 6
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 561
+
+Corporations Act 2001 613
+Compilation No. 143 Compilation date: 09/07/2025(d) subject to paragraph (e), the person by whom the money was 
+advanced has, in the winding up of the company, the same 
+right of priority of payment in respect of the money so 
+advanced and paid as the person who received the payment 
+would have had if the payment had not been made; and
+(e) the right of priority conferred by paragraph (d) is not to 
+exceed the amount by which the sum in respect of which the 
+person who received the payment would have been entitled 
+to priority in the winding up has been diminished by reason 
+of the payment.
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+561  Priority of employees’ claims over circulating security interests
+
+So far as the property of a company available for payment of 
+creditors other than secured creditors is insufficient to meet 
+payment of:
+(a) any debt referred to in paragraph 556(1)(e), (g) or (h); and
+(b) any amount that pursuant to subsection 558(3) or (4) is a cost 
+of the winding up, being an amount that, if it had been 
+payable on or before the relevant date, would have been a 
+debt referred to in paragraph 556(1)(e), (g) or (h); and
+(c) any amount in respect of which a right of priority is given by 
+section 560;
+payment of that debt or amount must be made in priority over the 
+claims of a secured party in relation to a circulating security 
+interest created by the company and may be made accordingly out 
+of any property comprised in or subject to the circulating security 
+interest.
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+562  Application of proceeds of contracts of insurance
+
+(1) Where a company is, under a contract of insurance (not being a 
+contract of reinsurance) entered into before the relevant date, 
+insured against liability to third parties, then, if such a liability is 
+incurred by the company (whether before or after the relevant date) 
+and an amount in respect of that liability has been or is received by 
+the company or the liquidator from the insurer, the amount must, 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+Section 562A
+
+Part 5.6  Winding up generally
+Division 6  Proof and ranking of claims
+614 Corporations Act 2001

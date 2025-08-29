@@ -1,0 +1,49 @@
+Part 5D.8  Exemptions and modifications
+Section 605A
+
+Part 5D.8  Exemptions and modifications
+184 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025605A  Chapter does not apply to MCIs
+This Chapter does not apply to MCIs.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Prohibited acquisitions of relevant interests in voting shares  Part 6.1
+
+Part 5D.8  Exemptions and modifications
+Section 606
+
+Corporations Act 2001 185
+Compilation No. 143 Compilation date: 09/07/2025Part 6.1—Prohibited acquisitions of relevant 
+interests in voting shares
+
+Part 5D.8  Exemptions and modifications
+606  Prohibition on certain acquisitions of relevant interests in voting
+
+shares
+Acquisition of relevant interests in voting shares through 
+transaction entered into by or on behalf of person acquiring 
+relevant interest
+(1) A person must not acquire a relevant interest in issued voting 
+shares in a company if:
+(a) the company is:
+(i) a listed company; or
+(ii) an unlisted company with more than 50 members; and
+(b) the person acquiring the interest does so through a 
+transaction in relation to securities entered into by or on 
+behalf of the person; and
+(c) because of the transaction, that person’s or someone else’s 
+voting power in the company increases:
+(i) from 20% or below to more than 20%; or
+(ii) from a starting point that is above 20% and below 90%.
+Note 1: Section 9 defines company as meaning a company registered under 
+this Act.
+Note 2: Section 607 deals with the effect of a contravention of this section on 
+transactions. Sections 608 to 609B deal with the meaning of relevant 
+interest. Section 610 deals with the calculation of a person’s voting 
+power in a company.
+Note 3: If the acquisition of relevant interests in an unlisted company with 50 
+or fewer members leads to the acquisition of a relevant interest in 
+another company that is an unlisted company with more than 50 
+members, or a listed company, the acquisition is caught by this section 
+because of its effect on that other company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers

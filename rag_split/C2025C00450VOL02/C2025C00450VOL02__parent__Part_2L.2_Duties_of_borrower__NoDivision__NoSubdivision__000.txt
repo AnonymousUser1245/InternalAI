@@ -1,0 +1,233 @@
+Part 2L.2  Duties of borrower
+
+Section 283BCA
+
+Part 2L.2  Duties of borrower
+6 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) any other information related to the trustee or the debentures 
+that is prescribed by the regulations.
+(2) If there is any change to the information, the borrower must, within
+
+Part 2L.2  Duties of borrower
+14 days of the change, lodge with ASIC a notice containing the
+
+changed information.
+(3) A notice under subsection (1) or (2) must be in the prescribed 
+form.
+283BCA  Register relating to trustees for debenture holders
+The register
+(1) ASIC must establish and maintain a register relating to trustees for 
+debenture holders.
+(2) The regulations may prescribe the way in which the register must 
+be established or maintained, including the details that ASIC must 
+enter in the register.
+Inspection of register
+(3) A person may inspect the register, and may make copies of, or take 
+extracts from, the register.
+(4) The regulations may prescribe the fees that a person must pay 
+ASIC to do the things mentioned in subsection (3).
+(5) Any disclosure necessary for the purposes of this section is 
+authorised by this section.
+
+Part 2L.2  Duties of borrower
+283BD  Duty to replace trustee
+
+The borrower must take all reasonable steps to replace the trustee 
+under section 283AE as soon as practicable after the borrower 
+becomes aware that the trustee:
+(a) has ceased to exist; or
+(b) has not been validly appointed; or
+(c) cannot be a trustee under section 283AC; or
+Authorised Version C2025C00450 registered 21/07/2025Debentures  Chapter 2L
+Duties of borrower  Part 2L.2
+
+Part 2L.2  Duties of borrower
+Section 283BE
+
+Corporations Act 2001 7
+Compilation No. 143 Compilation date: 09/07/2025(d) has failed or refused to act as trustee.
+
+Part 2L.2  Duties of borrower
+283BE  Duty to inform trustee about security interests
+
+If the borrower creates a security interest, it must:
+(a) give the trustee written details of the security interest within
+
+Part 2L.2  Duties of borrower
+21 days after it is created; and
+
+(b) if the total amount to be advanced on the security of the 
+security interest is indeterminate and the advances are not 
+merged in a current account with bankers, trade creditors or 
+anyone else—give the trustee written details of the amount of 
+each advance within 7 days after it is made.
+Note: If the advances are merged in a current account the borrower must 
+give the trustee the details in the quarterly report (see 
+subsection 283BF(4)).
+
+Part 2L.2  Duties of borrower
+283BF  Duty to give trustee and ASIC quarterly reports
+
+Quarterly reports
+(1) Within 1 month after the end of each quarter, the borrower must:
+(a) give the trustee a quarterly report that sets out the 
+information required by subsections (4), (5) and (6); and
+(b) lodge a copy of the report with ASIC (see section 351).
+First quarter
+(2) The first quarter is the period of 3 months ending on a day fixed by 
+the borrower, by written notice to the trustee. The day must be less 
+than 6 months after the first issue of a debenture under the trust 
+deed.
+Subsequent quarters
+(3) Each of the subsequent quarters are periods of 3 months. The 
+trustee may allow a particular quarter to be a period of less than 3 
+months if the trustee is satisfied that special circumstances justify 
+doing so.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2L  Debentures
+
+Part 2L.2  Duties of borrower
+
+Part 2L.2  Duties of borrower
+Section 283BF
+
+Part 2L.2  Duties of borrower
+8 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Content of quarterly report
+(4) The report for a quarter must include details of:
+(a) any failure by the borrower and each guarantor to comply 
+with the terms of the debentures or the provisions of the trust 
+deed or this Chapter during the quarter; and
+(b) any event that has happened during the quarter that has 
+caused, or could cause, 1 or more of the following:
+(i) any amount deposited or lent under the debentures to 
+become immediately payable;
+(ii) the debentures to become immediately enforceable;
+(iii) any other right or remedy under the terms of the 
+debenture or provisions of the trust deed to become 
+immediately enforceable; and
+(c) any circumstances that have occurred during the quarter that 
+materially prejudice:
+(i) the borrower, any of its subsidiaries, or any of the 
+guarantors; or
+(ii) any security interest included in or created by the 
+debentures or the trust deed; and
+(d) any substantial change in the nature of the business of the 
+borrower, any of its subsidiaries, or any of the guarantors that 
+has occurred during the quarter; and
+(e) any of the following events that happened in the quarter:
+(i) the appointment of a guarantor;
+(ii) the cessation of liability of a guarantor body for the 
+payment of the whole or part of the money for which it 
+was liable under the guarantee;
+(iii) a change of name of a guarantor (if this happens, the 
+report must also disclose the guarantor’s new name); 
+and
+(f) the net amount outstanding on any advances at the end of the 
+quarter if the borrower has created a security interest where:
+(i) the total amount to be advanced on the security of the 
+security interest is indeterminate; and
+Authorised Version C2025C00450 registered 21/07/2025Debentures  Chapter 2L
+Duties of borrower  Part 2L.2
+
+Part 2L.2  Duties of borrower
+Section 283BF
+
+Corporations Act 2001 9
+Compilation No. 143 Compilation date: 09/07/2025(ii) the advances are merged in a current account with 
+bankers, trade creditors or anyone else; and
+(g) any other matters that may materially prejudice any security 
+interests or other interests of the debenture holders.
+Note: Paragraph (f)—the borrower has a duty to inform the trustee about 
+security interests as they are created (see section 283BE).
+(5) If the borrower has deposited money with, or lent money to, a 
+related body corporate during the quarter, the report must also 
+include details of:
+(a) the total of the money deposited with, or lent to, the related 
+body corporate during the quarter (see subsection (7)); and
+(b) the total amount of money owing to the borrower at the end 
+of the quarter in respect of the deposits or loans to the related 
+body corporate.
+Disregard any amount that the borrower deposits with an ADI in 
+the normal course of the borrower’s business.
+(6) If the borrower has assumed a liability of a related body corporate 
+during the quarter, the report must also include details of the extent 
+of the liability assumed during the quarter and the extent of the 
+liability as at the end of the quarter.
+(7) For the purposes of subsections (5) and (6), the report:
+(a) must distinguish between deposits, loans and assumptions of 
+liability that are secured and those that are unsecured; and
+(b) may exclude any deposit, loan or assumption of liability on 
+behalf of the related body corporate if it has:
+(i) guaranteed the repayment of the debentures of the 
+borrower; and
+(ii) secured the guarantee by a security interest over all of 
+its property in favour of the trustee.
+Formalities
+(8) The report must:
+(a) be made in accordance with a resolution of the directors; and
+(b) specify the date on which the report is made.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2L  Debentures
+
+Part 2L.2  Duties of borrower
+
+Part 2L.2  Duties of borrower
+Section 283BG
+
+Part 2L.2  Duties of borrower
+10 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025283BG  Exceptions to borrower’s duty to report to trustee and ASIC
+
+Part 2L.2  Duties of borrower
+Section 283BF does not apply in respect of:
+
+(a) a borrower, while:
+(i) it is under external administration; or
+(ii) a receiver, or a receiver and manager, of property of the 
+borrower has been appointed and has not ceased to act 
+under that appointment; or
+(b) a security interest in PPSA retention of title property.
+
+Part 2L.2  Duties of borrower
+283BH  How debentures may be described
+
+(1) The borrower may describe or refer to the debentures in:
+(a) any disclosure in relation to the offer of the debentures; or
+(b) any other document constituting or relating to the offer of the 
+debentures; or
+(c) the debentures themselves;
+only in accordance with the following table:
+How debentures may be described
+Item Description When description may be used
+
+Part 2L.2  Duties of borrower
+1 mortgage debenture only if the circumstances set out in
+
+subsection (2) are satisfied
+
+Part 2L.2  Duties of borrower
+2 debenture only if the circumstances set out in
+
+subsection (2) or (3) are satisfied
+
+Part 2L.2  Duties of borrower
+2A secured note only if:
+
+(a) the circumstances set out in 
+subsection (4) are satisfied; and
+(b) in a case described in 
+subsection 283BHA(1), (2) or 
+(3)—the requirements set out in 
+that subsection are satisfied
+
+Part 2L.2  Duties of borrower
+3 unsecured note or
+
+unsecured deposit notein any other case
+Authorised Version C2025C00450 registered 21/07/2025Debentures  Chapter 2L
+Duties of borrower  Part 2L.2
+
+Part 2L.2  Duties of borrower
+Section 283BH

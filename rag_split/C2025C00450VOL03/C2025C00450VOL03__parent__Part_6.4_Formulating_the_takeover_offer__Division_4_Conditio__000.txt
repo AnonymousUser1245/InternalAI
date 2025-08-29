@@ -1,0 +1,206 @@
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+Section 625
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+222 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Conditional offers
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+625  Conditional offers—general
+
+Market bids
+(1) Offers under a market bid must be unconditional.
+Off-market bids may generally be conditional
+(2) Offers under an off-market bid may be subject to conditions that 
+are not prohibited by sections 626 to 629.
+(3) If:
+(a) the consideration offered is or includes securities; and
+(b) the offer or the bidder’s statement states or implies that the 
+securities are to be quoted on a financial market (whether in 
+Australia or elsewhere);
+the following rules apply:
+(c) the offer is subject to a condition that:
+(i) an application for admission to quotation will be made 
+within 7 days after the start of the bid period; and
+(ii) permission for admission to quotation will be granted no 
+later than 7 days after the end of the bid period;
+(d) the offer may not be freed from this condition.
+Note: Section 1325A provides that a Court may make a remedial order if the 
+condition is not satisfied.
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+626  Maximum acceptance conditions in off-market bids
+
+Maximum acceptance conditions not allowed
+(1) Offers under an off-market bid must not be subject to a maximum 
+acceptance condition. A maximum acceptance condition is one that 
+provides that the offers will terminate, or the maximum 
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Formulating the takeover offer  Part 6.4
+Conditional offers  Division 4
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+Section 627
+
+Corporations Act 2001 223
+Compilation No. 143 Compilation date: 09/07/2025consideration offered under the bid will be reduced, if one or more 
+of the following occur:
+(a) the number of securities for which the bidder receives 
+acceptances reaches or exceeds a particular number; or
+(b) the bidder’s voting power in the company reaches or exceeds 
+a particular percentage; or
+(c) the percentage of securities the bidder has relevant interests 
+in reaches or exceeds a particular percentage of securities in 
+that class.
+(2) For the purposes of subsection (1), it does not matter:
+(a) how the condition is expressed; or
+(b) how a particular number or percentage was, or is to be, 
+determined; or
+(c) whether or not a particular number or percentage is specified 
+in the condition and, if it is so specified, how it is expressed.
+(3) For the purposes of subsection (1), an offer under an off-market bid 
+terminates if:
+(a) the offer lapses, is withdrawn or otherwise ceases to have 
+effect; or
+(b) a binding takeover contract will not result from an acceptance 
+of the offer; or
+(c) an obligation of the bidder will not arise under the takeover 
+contract; or
+(d) the takeover contract is rescinded; or
+(e) the bidder is entitled to rescind the takeover contract; or
+(f) the bidder is relieved of an obligation arising under the 
+takeover contract.
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+627  Discriminatory conditions not allowed for off-market bids
+
+Offers under an off-market bid must not be subject to a condition 
+that allows the bidder to acquire, or may result in the bidder 
+acquiring, securities from some but not all of the people who 
+accept the offers. It does not matter how the condition is expressed.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+Section 628
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+224 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025628  Conditions requiring payments to officers of target not allowed 
+in off-market bids
+An offer to a person under an off-market bid must not be made 
+subject to a condition that requires the person to approve or 
+consent to a payment or other benefit to an officer or employee of 
+the target or a related body corporate:
+(a) as compensation for loss of; or
+(b) as consideration in connection with retirement from;
+any office or employment in connection with the management of 
+the target or of a related body corporate. A purported requirement 
+of this kind is void.
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+629  Conditions turning on bidder’s or associate’s opinion not
+
+allowed in off-market bids
+(1) Offers under an off-market bid must not be subject to a defeating 
+condition if the fulfilment of the condition depends on:
+(a) the bidder’s, or an associate’s, opinion, belief or other state 
+of mind; or
+(b) the happening of an event that is within the sole control of, or 
+is a direct result of action by, any of the following:
+(i) the bidder (acting alone or together with an associate or 
+associates);
+(ii) an associate (acting alone or together with the bidder or 
+another associate or associates of the bidder).
+A purported condition of this kind is void.
+Note: Section 9 defines defeating condition. Sections 630, 650F and 650G 
+deal with defeating conditions.
+(2) For the purposes of paragraph (1)(b):
+(a) the target; and
+(b) a subsidiary of the target;
+are taken not to be associates of the bidder if they would otherwise 
+be an associate merely because of paragraph 12(2)(a).
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+Formulating the takeover offer  Part 6.4
+Conditional offers  Division 4
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+Section 630
+
+Corporations Act 2001 225
+Compilation No. 143 Compilation date: 09/07/2025630  Defeating conditions
+Off-market bid may include defeating conditions
+(1) Offers under an off-market bid may be made subject to a defeating 
+condition only if the offers specify a date (not more than 14 days 
+and not less than 7 days before the end of the offer period) for 
+giving a notice on the status of the condition.
+(2) If the offer period is extended by a period:
+(a) the date for giving the notice is taken to be postponed for the 
+same period; and
+(b) as soon as practicable after the extension, the bidder must 
+give a notice that states:
+(i) the new date for giving the notice of the status of the 
+condition; and
+(ii) whether the offers have been freed from the condition 
+and whether, so far as the bidder knows, the condition 
+has been fulfilled on the date the notice under this 
+subsection is given.
+Bidder to give notice of status of defeating condition near end of 
+offer period
+(3) On the date determined under subsection (1) or (2), the bidder must 
+give a notice that states:
+(a) whether the offers are free of the condition; and
+(b) whether, so far as the bidder knows, the condition was 
+fulfilled on the date the notice is given; and
+(c) the bidder’s voting power in the target.
+The bidder must comply with this subsection whether or not the 
+bidder has given a notice under subsection (4) or 650F(1).
+Note: The offers may be freed of the condition by a declaration by the 
+bidder under subsection 650F(1).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6  Takeovers
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+Section 630
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+226 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Bidder to give notice if defeating condition fulfilled
+(4) If the condition is fulfilled (so that the offers become free of the 
+condition) during the bid period but before the date for publishing 
+the notice on the status of the condition, the bidder must publish as 
+soon as practicable a notice that states that the condition has been 
+fulfilled.
+(5) A notice under this section is given by:
+(a) giving the notice to the target; and
+(b) for quoted bid class securities—giving the notice to the 
+relevant market operator; and
+(c) for unquoted bid class securities—lodging the notice with 
+ASIC.
+Strict liability offences
+(6) An offence based on subsection (2), (3) or (4) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Takeovers  Chapter 6
+The takeover procedure  Part 6.5
+The overall procedure  Division 1
+
+Part 6.4  Formulating the takeover offer
+Division 4  Conditional offers
+Section 631
+
+Corporations Act 2001 227
+Compilation No. 143 Compilation date: 09/07/2025Part 6.5—The takeover procedure

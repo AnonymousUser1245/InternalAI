@@ -1,0 +1,185 @@
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+1417  Section 1413 markets—additional provisions relating to
+
+previously unregulated services
+(1) This section applies to a financial market in relation to which the 
+following paragraphs are satisfied:
+(a) a licence is granted under section 1413 to the operator of the 
+market; and
+(b) the conditions on the licence specify, as the classes of 
+financial products that can be dealt with on the market, the 
+classes of financial products specified in whichever of 
+paragraphs 1413(5)(a) and (b) is applicable; and
+(c) immediately before the commencement, other financial 
+products (the additional products) were also dealt with on 
+the market, and the fact that the market dealt with those 
+products did not constitute a contravention of a provision of 
+the old Corporations Act.
+(2) Subject to subsection (3), section 791A of the amended 
+Corporations Act does not apply in relation to the market in so far 
+as all or any of the additional products are dealt with on the market 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1418
+
+Corporations Act 2001 317
+Compilation No. 143 Compilation date: 09/07/2025(2) Subject to subsection (5), section 791A of the amended 
+Corporations Act does not apply in relation to a stock market or 
+futures market to which this section applies during the period (the 
+transition period) starting on the FSR commencement and ending 
+on whichever of the following first occurs:
+(a) the end of the period of 2 years starting on the FSR 
+commencement;
+(b) the operator of the market is granted a licence under 
+section 795B of the amended Corporations Act covering the 
+operation of the market;
+(c) the Minister makes an exemption under section 791C of the 
+amended Corporations Act covering the market;
+(d) the declaration of exemption is revoked.
+(3) Subject to subsections (4) and (5), Part 7.2 (in the case of a stock 
+market), or Part 8.2 (in the case of a futures market), and any 
+associated provisions, (the relevant old legislation) of the old 
+Corporations Act continue to apply in relation to a stock market or 
+futures market to which this section applies during the transition 
+period for the market.
+(4) The declaration of exemption (including any conditions specified 
+in the declaration) for a stock market or futures market to which 
+this section applies cannot be varied during the transition period for 
+the market so as to cover the market providing services that were 
+not covered by the declaration as in force immediately before the 
+FSR commencement. However, it may be varied in other ways, or 
+revoked, by the Minister in writing.
+(5) The regulations may do all or any of the following:
+(a) provide that some or all of the relevant old legislation does 
+not apply in relation to a stock market or futures market to 
+which this section applies during some or all of the transition 
+period for the market;
+(b) provide that some or all of the relevant old legislation applies 
+in relation to a stock market or futures market to which this 
+section applies with specified modifications during some or 
+all of the transition period for the market;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1419
+
+Corporations Act 2001 319
+Compilation No. 143 Compilation date: 09/07/2025be required by section 911A of the amended Corporations 
+Act to be covered by an Australian financial services licence.
+(3) Subject to subsections (4) and (5), Part 7.2 (in the case of a stock 
+market), or Part 8.2 (in the case of a futures market), and any 
+associated provisions, (the relevant old legislation) of the old 
+Corporations Act continue to apply in relation to an exempted 
+participant and a stock market or futures market to which this 
+section applies during any period during which section 1431 
+provides that the relevant new legislation (within the meaning of 
+subsection 1431(1)) does not apply in relation to the exempted 
+participant’s activities connected with the market.
+(4) The declaration of exemption (including any conditions specified 
+in the declaration) for a stock market or futures market to which 
+this section applies cannot:
+(a) be varied during the transition period for an exempted 
+participant and the market so as to cover the market 
+providing services that were not covered by the declaration as 
+in force immediately before the FSR commencement; or
+(b) be varied after the FSR commencement so as to cover a 
+person or persons it did not cover immediately before the 
+commencement.
+However, it may be varied in other ways, or revoked, by the 
+Minister in writing.
+(5) The regulations may do either or both of the following:
+(a) provide that some or all of the relevant old legislation does 
+not apply in relation to an exempted participant and a market 
+to which this section applies during some or all of the 
+transition period for the exempted participant and the market;
+(b) provide that some or all of the relevant old legislation applies 
+in relation to an exempted participant and a market to which 
+this section applies with specified modifications during some 
+or all of the transition period for the exempted participant and 
+the market.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1421
+
+Corporations Act 2001 321
+Compilation No. 143 Compilation date: 09/07/2025(5) The regulations may do all or any of the following:
+(a) provide that some or all of the relevant old legislation does 
+not apply in relation to a stock market to which this section 
+applies during some or all of the transition period for the 
+market;
+(b) provide that some or all of the relevant old legislation applies 
+in relation to a stock market to which this section applies 
+with specified modifications during some or all of the 
+transition period for the market;
+(c) provide that specified provisions of the amended 
+Corporations Act (including section 791A), and any 
+associated provisions, apply in relation to a stock market to 
+which this section applies during some or all of the transition 
+period for the market with specified modifications.
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+1421  Treatment of special stock markets for unquoted interests in a
+
+registered scheme
+(1) This section applies to each stock market being operated before the 
+FSR commencement by a body corporate covered by an approval 
+(the instrument of approval) in force immediately before the FSR 
+commencement under subsection 770A(2) of the old Corporations 
+Act.
+(2) Subject to subsection (5), section 791A of the amended 
+Corporations Act does not apply in relation to a stock market to 
+which this section applies during the period (the transition period) 
+starting on the FSR commencement and ending on whichever of 
+the following first occurs:
+(a) the end of the period of 2 years starting on the FSR 
+commencement;
+(b) the operator of the market is granted a licence under 
+section 795B of the amended Corporations Act covering the 
+operation of the market;
+(c) the Minister makes an exemption under section 791C of the 
+amended Corporations Act covering the market;
+(d) the instrument of approval is revoked.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+Section 1423
+
+Corporations Act 2001 323
+Compilation No. 143 Compilation date: 09/07/2025(c) the market is not a market to which section 1413, 1418, 1419,
+
+Part 10.2  Transitional provisions relating to the Financial Services Reform Act 2001
+Division 1
+1420 or 1421 applies;
+
+(d) the market was not an unauthorised stock market or an 
+unauthorised futures market (as defined in section 9 of the 
+old Corporations Act) immediately before the FSR 
+commencement.
+(2) Subject to subsection (3), section 791A of the amended 
+Corporations Act does not apply in relation to a market to which 
+this section applies during the period (the transition period) 
+starting on the FSR commencement and ending on whichever of 
+the following first occurs:
+(a) the end of the period of 2 years starting on the FSR 
+commencement;
+(b) the operator of the market is granted a licence under 
+section 795B of the amended Corporations Act covering the 
+operation of the market;
+(c) the Minister makes an exemption under section 791C of the 
+amended Corporations Act covering the market;
+(d) the market starts to provide services in respect of a class or 
+classes of financial products in respect of which it did not 
+provide services immediately before the commencement.
+(3) The regulations may, in relation to a market to which this section 
+applies, provide that specified provisions (including section 791A) 
+of the amended Corporations Act, and any associated provisions, 
+apply in relation to the market during some or all of the transition 
+period for the market with specified modifications.

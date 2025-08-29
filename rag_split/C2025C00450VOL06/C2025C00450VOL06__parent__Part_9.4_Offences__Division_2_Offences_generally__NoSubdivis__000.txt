@@ -1,0 +1,244 @@
+Part 9.4  Offences
+Division 2  Offences generally
+Section 1311A
+
+Part 9.4  Offences
+Division 2  Offences generally
+76 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(e) Chapter 10.
+
+Part 9.4  Offences
+Division 2  Offences generally
+1311A  Penalty for committing an offence
+
+(1) A person who commits an offence against this Act is punishable on 
+conviction by a penalty not exceeding the penalty applicable to the 
+offence.
+(2) If:
+(a) a person commits an offence in the person’s capacity as 
+trustee of a registrable superannuation entity; and
+(b) the penalty applicable to the offence is, or includes, a fine;
+then, in determining the fine for the offence, the court must take 
+into account the impact that the fine under consideration would 
+have on the beneficiaries of the entity.
+
+Part 9.4  Offences
+Division 2  Offences generally
+1311B  Penalty applicable to an offence committed by an individual
+
+(1) The penalty applicable to an offence committed by an individual 
+is:
+(a) for an offence for which a fine is the only penalty specified—
+the fine specified; and
+(b) for an offence for which a term of imprisonment is the only 
+penalty specified—either the term of imprisonment, the fine 
+worked out under this section, or both.
+(2) If:
+(a) a term of imprisonment is the only penalty specified for an 
+offence; and
+(b) the term of imprisonment is less than 10 years;
+the fine mentioned in paragraph (1)(b) is the number of penalty 
+units worked out using the individual fine formula.
+(3) The individual fine formula is:
+Term of imprisonment,10expressed in months´
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Offences  Part 9.4
+Offences generally  Division 2
+
+Part 9.4  Offences
+Division 2  Offences generally
+Section 1311C
+
+Corporations Act 2001 77
+Compilation No. 143 Compilation date: 09/07/2025(4) If:
+(a) a term of imprisonment is the only penalty specified for an 
+offence; and
+(b) the term of imprisonment is 10 years or more;
+the fine mentioned in paragraph (1)(b) is the greater of:
+(c) 4,500 penalty units; and
+(d) if the court can determine the benefit derived and detriment 
+avoided because of the offence—that amount multiplied by 
+3.
+(5) This section applies in relation to an offence committed by an 
+individual unless there is a contrary intention under this Act in 
+relation to the penalty applicable to the offence. In that case, the 
+penalty applicable is the penalty specified for the offence.
+Note: The following are examples of cases in which a penalty is specified 
+that would indicate a contrary intention:
+(a) the table item in Schedule 3 relating to subsection 794D(3), 
+which specifies a penalty for each day, or part of a day, in respect 
+of which an offence is committed;
+(b) a regulation made under paragraph 1364(2)(w) prescribing a 
+penalty for an individual for a contravention of the regulations.
+
+Part 9.4  Offences
+Division 2  Offences generally
+1311C  Penalty applicable to an offence committed by a body
+
+corporate
+(1) The penalty applicable to an offence committed by a body 
+corporate is:
+(a) for an offence for which a fine is the only penalty specified—
+the fine specified multiplied by 10; and
+(b) for an offence for which a term of imprisonment is the only 
+penalty specified—the fine worked out under this section.
+(2) If:
+(a) a term of imprisonment is the only penalty specified for an 
+offence; and
+(b) the term of imprisonment is less than 10 years;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4  Offences
+Division 2  Offences generally
+Section 1311D
+
+Part 9.4  Offences
+Division 2  Offences generally
+78 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025the fine mentioned in paragraph (1)(b) is the number of penalty 
+units worked out using the individual fine formula, multiplied by
+
+Part 9.4  Offences
+Division 2  Offences generally
+10.
+
+(3) If:
+(a) a term of imprisonment is the only penalty specified for an 
+offence; and
+(b) the term of imprisonment is 10 years or more;
+the fine mentioned in paragraph (1)(b) is the greatest of:
+(c) 45,000 penalty units; and
+(d) if the court can determine the benefit derived and detriment 
+avoided because of the offence—that amount multiplied by
+
+Part 9.4  Offences
+Division 2  Offences generally
+3; and
+
+(e) 10% of the annual turnover of the body corporate for the
+
+Part 9.4  Offences
+Division 2  Offences generally
+12-month period ending at the end of the month in which the
+
+body corporate committed, or began committing, the offence.
+(4) This section applies in relation to an offence committed by a body 
+corporate unless there is a contrary intention under this Act in 
+relation to the penalty applicable to the offence. In that case, the 
+penalty applicable is the penalty specified for the offence.
+Note: The following are examples of cases in which a penalty is specified 
+that would indicate a contrary intention:
+(a) subsection 1211B(3), which specifies a penalty for a body 
+corporate;
+(b) the table item in Schedule 3 relating to subsection 794D(3), 
+which specifies a penalty for each day, or part of a day, in respect 
+of which an offence is committed;
+(c) a regulation made under paragraph 1364(2)(w) prescribing a 
+penalty for a body corporate for a contravention of the 
+regulations.
+
+Part 9.4  Offences
+Division 2  Offences generally
+1311D  Meaning of benefit derived and detriment avoided—offence
+
+The benefit derived and detriment avoided because of an offence 
+is the sum of:
+(a) the total value of all benefits obtained by one or more 
+persons that are reasonably attributable to the commission of 
+the offence; and
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Offences  Part 9.4
+Offences generally  Division 2
+
+Part 9.4  Offences
+Division 2  Offences generally
+Section 1311E
+
+Corporations Act 2001 79
+Compilation No. 143 Compilation date: 09/07/2025(b) the total value of all detriments avoided by one or more 
+persons that are reasonably attributable to the commission of 
+the offence.
+
+Part 9.4  Offences
+Division 2  Offences generally
+1311E  Where is the penalty for an offence specified?
+
+(1) The penalty specified for an offence is:
+(a) if a penalty, pecuniary or otherwise, is specified in
+
+Part 9.4  Offences
+Division 2  Offences generally
+Schedule 3 for the provision under which the offence is
+
+created, or a provision or provisions in which that provision 
+is included—that penalty; and
+(b) if a penalty, pecuniary or otherwise, is specified in any other 
+provision of this Act for the provision under which the 
+offence is created, or a provision or provisions in which that 
+provision is included—that penalty.
+(2) To avoid doubt, a penalty is not specified for an offence if it is a 
+consequence for committing the offence that is not a punishment 
+on conviction for the offence.
+(3) Without limiting subsection (2), each of the following is a 
+consequence for committing an offence that is not a punishment on 
+conviction for the offence:
+(a) the availability, under any law of the Commonwealth or of a 
+State or Territory, of a pecuniary penalty order for the 
+contravention of a civil penalty provision that relates to the 
+same conduct as that which gave rise to the offence;
+(b) the availability, under any law of the Commonwealth or of a 
+State or Territory, of an infringement notice in relation to an 
+alleged commission of the offence;
+(c) the availability of administrative consequences as a result of 
+the commission of the offence, such as:
+(i) disqualification from any office; or
+(ii) consequences in relation to a licence; or
+(iii) other actions that may be taken by ASIC under this Act 
+or any other Act;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.4  Offences
+Division 2  Offences generally
+Section 1311F
+
+Part 9.4  Offences
+Division 2  Offences generally
+80 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(d) the availability under any law of the Commonwealth or of a 
+State or Territory (including the general law) of an order to 
+refund money, pay compensation, relinquish a benefit or 
+make any other payment if the offence is committed;
+(e) the availability under any law of the Commonwealth or of a 
+State or Territory (including the general law) of an injunction 
+or any other order directing a person to take, or refrain from 
+taking, action if the offence is committed.
+
+Part 9.4  Offences
+Division 2  Offences generally
+1311F  If no penalty is specified
+
+If no penalty is specified for an offence:
+(a) the offence is an offence of strict liability; and
+(b) 20 penalty units is taken to be the penalty specified for the 
+offence.
+
+Part 9.4  Offences
+Division 2  Offences generally
+1313A  Offences committed partly in and partly out of the
+
+jurisdiction
+Where:
+(a) a person does or omits to do an act outside this jurisdiction; 
+and
+(b) if that person had done or omitted to do that act in this 
+jurisdiction, the person would, by reason of also having done 
+or omitted to do an act in this jurisdiction, have been guilty 
+of an offence against this Act;
+the person is guilty of that offence.
+
+Part 9.4  Offences
+Division 2  Offences generally
+1314  Continuing offences

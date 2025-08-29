@@ -1,0 +1,193 @@
+Part 6C.3  ASIC powers
+
+Part 6C.3  ASIC powers
+Section 673
+
+Part 6C.3  ASIC powers
+362 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 6C.3—ASIC powers
+
+Part 6C.3  ASIC powers
+673  ASIC’s power to exempt and modify
+
+(1) ASIC may:
+(a) exempt a person from a provision of this Chapter; or
+(b) declare that this Chapter applies to a person as if specified 
+provisions were omitted, modified or varied as specified in 
+the declaration.
+(2) In deciding whether to give the exemption or declaration, ASIC 
+must consider the purposes of Chapter 6 set out in section 602.
+(3) The exemption or declaration may:
+(a) apply to all or specified provisions of this Chapter; and
+(b) apply to all persons, specified persons, or a specified class of 
+persons; and
+(c) relate to all securities, specified securities or a specified class 
+of securities; and
+(d) relate to any other matter generally or as specified.
+(4) An exemption may apply unconditionally or subject to specified 
+conditions. A person to whom a condition specified in an 
+exemption applies must comply with the condition. The Court may 
+order the person to comply with the condition in a specified way. 
+Only ASIC may apply to the Court for the order.
+(5) The exemption or declaration must be in writing and ASIC must 
+publish notice of it in the Gazette.
+(6) For the purposes of this section, the provisions of this Chapter 
+include:
+(a) regulations made for the purposes of this Chapter; and
+(b) definitions in this Act or the regulations as they apply to 
+references in:
+(i) this Chapter; or
+Authorised Version C2025C00450 registered 21/07/2025Information about ownership of listed companies, listed registered schemes and listed 
+notified foreign passport funds  Chapter 6C
+ASIC powers  Part 6C.3
+
+Part 6C.3  ASIC powers
+Section 673
+
+Corporations Act 2001 363
+Compilation No. 143 Compilation date: 09/07/2025(ii) regulations made for the purposes of this Chapter; and
+(c) the old Division 12 of Part 11.2 transitionals.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6CA  Continuous disclosure
+
+Part 6C.3  ASIC powers
+Section 674
+
+Part 6C.3  ASIC powers
+364 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Chapter 6CA—Continuous disclosure
+
+Part 6C.3  ASIC powers
+674  Continuous disclosure—listed disclosing entity bound by a
+
+disclosure requirement in market listing rules—
+reasonable person’s expectations
+Obligation to disclose in accordance with listing rules
+(1) Subsection (2) applies to a listed disclosing entity if provisions of 
+the listing rules of a listing market in relation to that entity require 
+the entity to notify the market operator of information about 
+specified events or matters as they arise for the purpose of the 
+operator making that information available to participants in the 
+market.
+(2) If:
+(a) this subsection applies to a listed disclosing entity; and
+(b) the entity has information that those provisions require the 
+entity to notify to the market operator; and
+(c) the information is not generally available; and
+(d) a reasonable person would expect the information, if it were 
+generally available, to have a material effect on the price or 
+value of ED securities of the entity;
+the entity must notify the market operator of that information in 
+accordance with those provisions.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 3: An infringement notice may be issued for an alleged contravention of 
+this subsection, see section 1317DAC.
+(3) For the purposes of the application of subsection (2) to a listed 
+disclosing entity that is an undertaking to which interests in a 
+registered scheme relate, the obligation of the entity to notify the 
+market operator of information is an obligation of the responsible 
+entity.
+Authorised Version C2025C00450 registered 21/07/2025Continuous disclosure  Chapter 6CA
+
+Part 6C.3  ASIC powers
+Section 674A
+
+Corporations Act 2001 365
+Compilation No. 143 Compilation date: 09/07/2025(3A) For the purposes of the application of subsection (2) to a listed 
+disclosing entity that is an undertaking to which interests in a 
+notified foreign passport fund relate, the obligation of the entity to 
+notify the market operator of information is an obligation of the 
+operator of the fund.
+(4) Nothing in subsection (2) is intended to affect or limit the 
+situations in which action can be taken (otherwise than by way of a 
+prosecution for an offence based on subsection (2)) in respect of a 
+failure to comply with provisions referred to in subsection (1).
+Obligation to make provisions of listing rules available
+(5) If the listing rules of a listing market in relation to a listed 
+disclosing entity contain provisions of a kind referred to in 
+subsection (1), the market operator must ensure that those 
+provisions are available, on reasonable terms, to:
+(a) the entity; or
+(b) if the entity is an undertaking to which interests in a 
+registered scheme relate—the undertaking’s responsible 
+entity; or
+(c) if the entity is an undertaking to which interests in a notified 
+foreign passport fund relate—the operator of the fund.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: This subsection is not a civil penalty provision, as it is not listed in the 
+table in subsection 1317E(3).
+
+Part 6C.3  ASIC powers
+674A  Continuous disclosure—listed disclosing entity bound by a
+
+disclosure requirement in market listing rules—
+knowledge, recklessness or negligence
+(1) Subsection (2) applies to a listed disclosing entity if provisions of 
+the listing rules of a listing market in relation to that entity require 
+the entity to notify the market operator of information about 
+specified events or matters as they arise for the purpose of the 
+operator making that information available to participants in the 
+market.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6CA  Continuous disclosure
+
+Part 6C.3  ASIC powers
+Section 674A
+
+Part 6C.3  ASIC powers
+366 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) If:
+(a) this subsection applies to a listed disclosing entity; and
+(b) the entity has information that those provisions require the 
+entity to notify to the market operator; and
+(c) the information is not generally available; and
+(d) the entity knows, or is reckless or negligent with respect to 
+whether, the information would, if it were generally 
+available, have a material effect on the price or value of ED 
+securities of the entity;
+the entity must notify the market operator of that information in 
+accordance with those provisions.
+Note 1: Except for paragraph (d), this subsection is identical to 
+subsection 674(2).
+Note 2: This subsection is a financial services civil penalty provision (see 
+section 1317E). As a result, compensation orders are available for 
+contraventions of this subsection (see section 1317HA). For relief 
+from liability relating to this subsection, see section 1317S.
+Note 3: This subsection does not create an offence (see subsection 1311(1A)).
+(3) A person who is involved in a listed disclosing entity’s 
+contravention of subsection (2) contravenes this subsection.
+Note 1: This subsection is a financial services civil penalty provision (see 
+section 1317E). As a result, compensation orders are available for 
+contraventions of this subsection (see section 1317HA). For relief 
+from liability relating to this subsection, see section 1317S.
+Note 2: Section 79 defines involved.
+(4) A person does not contravene subsection (3) if the person proves 
+that the person:
+(a) took all steps (if any) that were reasonable in the 
+circumstances to ensure that the listed disclosing entity 
+complied with its obligations under subsection (2); and
+(b) after doing so, believed on reasonable grounds that the listed 
+disclosing entity was complying with its obligations under 
+that subsection.
+Authorised Version C2025C00450 registered 21/07/2025Continuous disclosure  Chapter 6CA
+
+Part 6C.3  ASIC powers
+Section 675
+
+Corporations Act 2001 367
+Compilation No. 143 Compilation date: 09/07/2025(5) For the purposes of this section, subsections 674(3) and (3A) apply 
+as if each reference in those subsections to subsection 674(2) were 
+replaced by a reference to subsection (2) of this section.
+(6) Nothing in subsection (2) is intended to affect or limit the 
+situations in which action can be taken in respect of a failure to 
+comply with provisions referred to in subsection (1).
+(7) Subsection 1317QB(1) (state of mind) does not apply in relation to 
+subsections (2) and (3) of this section.
+Note: In relation to subsection (3) of this section, see also 
+subsection 1317QB(2).
+
+Part 6C.3  ASIC powers
+675  Continuous disclosure—other disclosing entities—reasonable

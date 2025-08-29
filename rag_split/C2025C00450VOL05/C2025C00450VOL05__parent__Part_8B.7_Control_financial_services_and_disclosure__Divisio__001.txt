@@ -1,0 +1,212 @@
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+Section 1241R
+
+Corporations Act 2001 683
+Compilation No. 143 Compilation date: 09/07/2025(4) If a reference in Part 7.9 to a seller of a financial product applies to 
+the corporate director of a CCIV as the seller of a security in the 
+CCIV, treat the reference as referring to the CCIV.
+(5) Subsections (3) and (4) apply despite subsection 1241A(2).
+Note: This subsection confirms that the general rule in subsection 1241A(2) 
+does not affect subsections (3) and (4) of this section.
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+1241R  Product Disclosure Statements—when a security in a CCIV
+
+is of the same kind as another product
+For the purposes of sections 1012C and 1012D (as affected by this 
+Part), a security in a CCIV that is referable to a sub-fund of the 
+CCIV is of the same kind as another product only if the other 
+product:
+(a) is also a security in the CCIV; and
+(b) is also referable to that sub-fund of the CCIV; and
+(c) is issued on the same terms and conditions (other than price) 
+as the first-mentioned security.
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+1241S  Product Disclosure Statements—situations when not required
+
+for CCIVs
+No consideration to be provided
+(1) Paragraph 1012D(5)(b) also applies to the case where the financial 
+product is not an option and is a security in a CCIV.
+Client is associated with the CCIV
+(2) Treat section 1012D as also providing that, in a recommendation 
+situation, an issue situation or a sale situation, the regulated person 
+does not have to give the client a Product Disclosure Statement if:
+(a) the financial product is a security in a CCIV; and
+(b) the client is associated (within the meaning of subsection (3) 
+of this section) with the CCIV.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+Section 1241S
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+684 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) For the purposes of subsection (2), the client is associated with the 
+CCIV if the client is:
+(a) the corporate director of the CCIV; or
+(b) a director or secretary of that corporate director; or
+(c) a senior manager of the corporate director or of a related 
+body corporate of that corporate director; or
+(d) a spouse, parent, child, brother or sister of a person who is a 
+director or senior manager of:
+(i) that corporate director; or
+(ii) a related body corporate of that corporate director; or
+(e) a body corporate controlled by a person referred to in 
+paragraph (a), (b), (c) or (d).
+Dividend reinvestment plan or bonus share plan
+(4) Treat section 1012D as also providing that, in a recommendation 
+situation or issue situation, the regulated person does not have to 
+give the client a Product Disclosure Statement for a fully-paid 
+share in a CCIV if:
+(a) the client already holds a share, of the same kind, in the 
+CCIV; and
+(b) either:
+(i) in a recommendation situation—the advice that 
+constitutes the relevant conduct relates to an offer made 
+under a dividend reinvestment plan or bonus share plan; 
+or
+(ii) in an issue situation—the offer or issue that constitutes 
+the relevant conduct is made under a dividend 
+reinvestment plan or bonus share plan.
+Note: For when such a share is of the same kind, see section 1241R.
+Compromise or arrangement under Part 5.1
+(5) Treat section 1012D as also providing that, in an issue situation or 
+a sale situation, the regulated person does not have to give the 
+client a Product Disclosure Statement if the issue situation or sale 
+situation is an offer:
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Control, financial services and disclosure  Part 8B.7
+Financial services and markets  Division 4
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+Section 1241S
+
+Corporations Act 2001 685
+Compilation No. 143 Compilation date: 09/07/2025(a) of securities in a CCIV; and
+(b) made under a compromise or arrangement under Part 5.1 
+approved at a meeting held as a result of an order under 
+subsection 411(1) or (1A).
+Rights issues
+(6) Subsection 1012DAA(3) also applies to contraventions of the 
+following provisions:
+(a) if the relevant product is a security in a CCIV—the 
+provisions of Chapter 2M (as affected by Division 4 of
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+Section 1241T
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+686 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251241T  Product Disclosure Statements—content requirements
+Main requirements
+(1) Treat subsection 1013D(1) as also including the following 
+paragraph:
+“(la) if the product is a share in a CCIV, and the CCIV’s 
+constitution makes provision for acquisitions described in 
+paragraph 1223G(e)—a statement to the effect that the CCIV 
+may acquire, in respect of any of its sub-funds, one or more 
+shares that are referable to another of its sub-funds; and”.
+(2) Treat subsection 1013D(2A) as also including securities in a CCIV.
+Extra requirements for ED securities in a CCIV
+(3) Section 1013I also applies as if:
+(a) references in that section to managed investment products 
+included references to securities in a CCIV; and
+(b) references in that section to a scheme included references to 
+the CCIV.
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+1241U  Product Disclosure Statements—replacement statements
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+Section 1014G also applies as if the reference in
+
+paragraph 1014G(a) to an interest in a managed investment scheme 
+included a reference to an interest that is a security in a CCIV.
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+1241V  Product Disclosure Statements—lodging with ASIC
+
+(1) Section 1015B also applies as if:
+(a) a reference in that section to a managed investment product 
+included a reference to a security in a CCIV; and
+(b) paragraph 1015B(1)(ba) were not enacted; and
+(c) an extra paragraph of subsection 1015B(1) provided that the 
+financial product is a security that:
+(i) is in a CCIV; and
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Control, financial services and disclosure  Part 8B.7
+Financial services and markets  Division 4
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+Section 1241W
+
+Corporations Act 2001 687
+Compilation No. 143 Compilation date: 09/07/2025(ii) is referable to a sub-fund of the CCIV that is an 
+Australian passport fund.
+(2) When section 1015B so applies, treat subsection 1015B(2) as 
+instead providing that the lodgement with ASIC of a Statement in 
+relation to a security in the CCIV requires the consent of every 
+director of the corporate director of the CCIV.
+Note: This is the case whether the Statement is an issue Statement or a sale 
+Statement.
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+1241W  Product Disclosure Statements—use of application forms
+
+Treat the definition of relevant financial product in 
+subsection 1016A(1) as also meaning a security in a CCIV.
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+1241X  Product Disclosure Statements—if lodged, then security not
+
+to be issued or sold before specified period
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+Section 1016B does not apply in relation to a financial product to
+
+which a Product Disclosure Statement relates if the financial 
+product is a security that:
+(a) is in a CCIV; and
+(b) is referable to a sub-fund of the CCIV that is an Australian 
+passport fund.
+Note: This section does not prevent section 1016B from applying in relation 
+to a security in the CCIV referable to any other kind of sub-fund of the 
+CCIV.
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+1241Y  Remedies for person acquiring financial product under
+
+defective Product Disclosure Document
+If, for the purposes of subsection 1016F(2), the responsible person 
+is a CCIV, treat the reference in that subsection to the directors of 
+the responsible person as if it were instead a reference to the 
+directors of the corporate director of the CCIV.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+Section 1241Z
+
+Part 8B.7  Control, financial services and disclosure
+Division 4  Financial services and markets
+688 Corporations Act 2001

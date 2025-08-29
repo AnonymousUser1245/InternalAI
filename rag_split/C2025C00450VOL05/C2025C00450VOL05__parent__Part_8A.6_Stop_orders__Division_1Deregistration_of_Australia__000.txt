@@ -1,0 +1,32 @@
+Part 8A.6  Stop orders
+Division 1—Deregistration of Australian passport funds
+Subdivision A—Voluntary deregistration
+
+1216  Application to deregister
+
+(1) The operator of an Australian passport fund may lodge an 
+application for deregistration of the fund as an Australian passport 
+fund.
+(2) The application must be in the prescribed form.
+
+Part 8A.6  Stop orders
+Division 1—Deregistration of Australian passport funds
+Subdivision A—Voluntary deregistration
+
+1216A  ASIC to deregister
+
+(1) On an application under section 1216, ASIC must deregister a fund 
+as an Australian passport fund if ASIC is satisfied that:
+(a) there are no members of the fund who became members 
+(whether in this jurisdiction or any host economy for the 
+fund) after the fund became an Australian passport fund; and
+(b) there are no members of the fund who became members 
+(whether in this jurisdiction or any host economy for the 
+fund) on the expectation that the fund would become an 
+Australian passport fund.
+(2) For the purposes of subsection (1), ignore any member of the fund 
+that:
+(a) is, or has at any time been, the operator of the fund; or
+(b) is a related party of an entity that is, or has at any time been, 
+the operator of the fund.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8A  Asia Region Funds Passport

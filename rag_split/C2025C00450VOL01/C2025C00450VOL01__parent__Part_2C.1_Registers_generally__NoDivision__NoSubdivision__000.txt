@@ -1,0 +1,213 @@
+Part 2C.1  Registers generally
+
+Part 2C.1  Registers generally
+Section 169
+
+Part 2C.1  Registers generally
+336 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b), (e) and (f) of the definition of debenture in section 9 must also 
+be entered into the register of debenture holders.
+
+Part 2C.1  Registers generally
+169  Register of members
+
+General requirements
+(1) The register of members must contain the following information 
+about each member:
+(a) the member’s name and address;
+(b) the date on which the entry of the member’s name in the 
+register is made.
+Index to register
+(2) If the company or scheme has more than 50 members, the company 
+or scheme must include in the register an up-to-date index of 
+members’ names. The index must be convenient to use and allow a 
+member’s entry in the register to be readily found. A separate 
+index need not be included if the register itself is kept in a form 
+that operates effectively as an index.
+Companies with share capital
+(3) If the company has a share capital, the register must also show:
+(a) the date on which every allotment of shares takes place; and
+(b) the number of shares in each allotment; and
+(c) the shares held by each member; and
+(d) the class of shares; and
+(e) the share numbers (if any), or share certificate numbers (if 
+any), of the shares; and
+(ea) the amount paid on the shares; and
+(eb) whether or not the shares are fully paid; and
+(f) the amount unpaid on the shares (if any).
+Note 1: Transfers of shares are entered in the register under section 1071D.
+
+Part 2C.1  Registers generally
+Section 1072E deals with the registration of trustees etc. on the death,
+
+incapacity or bankruptcy of the shareholder.
+Authorised Version C2025C00450 registered 21/07/2025Registers  Chapter 2C
+Registers generally  Part 2C.1
+
+Part 2C.1  Registers generally
+Section 169
+
+Corporations Act 2001 337
+Compilation No. 143 Compilation date: 09/07/2025Note 2: For the treatment of joint holders see subsection (8).
+Note 3: A CCIV’s register must also show the sub-funds relevant to each 
+share: see subsection 1222ZB(1).
+(4) The register does not have to show the amount unpaid on the 
+shares (see paragraph (1)(f)) if:
+(a) all of the company’s shares were issued before 1 July 1998; 
+and
+(b) the register continues to show the par values of the shares as 
+they were immediately before 1 July 1998.
+(5) The register does not have to show the amount unpaid on the 
+shares (see paragraph (1)(f)) if:
+(a) all of the company’s shares were issued before 1 July 1998; 
+and
+(b) the company is not a listed company.
+Non-beneficial ownership—companies other than listed companies
+(5A) The register of a company that:
+(a) has a share capital; and
+(b) is neither a listed company (within the meaning of 
+section 603) nor a company covered by an order under 
+section 707;
+must indicate any shares that a member does not hold beneficially.
+Note: See also section 1072H (in particular, subsection 1072H(8) which 
+contains relevant presumptions about beneficial ownership).
+(6) In deciding for the purposes of subsection (5A) whether a member 
+holds shares beneficially or non-beneficially, the company is to 
+have regard only to information in notices given to the company 
+under section 1072H, 672B or 672C.
+Proprietary companies that have made CSF offers
+(6AA) The register of a proprietary company that has made one or more 
+CSF offers must also show:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2C  Registers
+
+Part 2C.1  Registers generally
+
+Part 2C.1  Registers generally
+Section 169
+
+Part 2C.1  Registers generally
+338 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the date on which every issue of shares in the company 
+pursuant to each CSF offer takes place; and
+(b) the number of shares issued pursuant to each CSF offer; and
+(c) the shares issued to each member pursuant to each CSF offer; 
+and
+(d) the date on which an entity ceases to be a CSF shareholder of 
+the company for a particular share in the company;
+during any period in which the company has one or more CSF 
+shareholders.
+Registered schemes
+(6A) The register of a registered scheme must also show:
+(a) the date on which every issue of interests takes place; and
+(b) the number of interests in each issue; and
+(c) the interests held by each member; and
+(d) the class of interests; and
+(e) the amount paid, or agreed to be considered as paid, on the 
+interests.
+Former members
+(7) A register of members must also show:
+(a) the name and details of each person who stopped being a 
+member of the company or scheme within the last 7 years; 
+and
+(b) the date on which the person stopped being a member.
+The company or scheme may keep these entries separately from 
+the rest of the register.
+Joint holders
+(8) For the purposes of this section:
+(a) 2 or more persons who jointly hold shares in the company or 
+interests in the scheme are taken to be a single member of the 
+company or scheme in relation to those shares or interests; 
+and
+Authorised Version C2025C00450 registered 21/07/2025Registers  Chapter 2C
+Registers generally  Part 2C.1
+
+Part 2C.1  Registers generally
+Section 170
+
+Corporations Act 2001 339
+Compilation No. 143 Compilation date: 09/07/2025(b) 2 or more persons who have given a guarantee jointly are 
+taken to be a single member of the company.
+They may also be members of the company or scheme because of 
+shares or interests that they hold, or a guarantee that they have 
+given, in their own right or jointly with others.
+
+Part 2C.1  Registers generally
+170  Register of option holders and copies of options documents
+
+(1) The register of option holders must contain the following 
+information about each holder of options over unissued shares in 
+the company or unissued interests in the scheme:
+(a) the option holder’s name and address;
+(b) the date on which the entry of the option holder’s name in the 
+register is made;
+(c) the date of grant of the options;
+(d) the number and description of the shares or interests over 
+which the options were granted;
+(e) either:
+(i) the period during which the options may be exercised; 
+or
+(ii) the time at which the options may be exercised;
+(f) any event that must happen before the options can be 
+exercised;
+(g) any consideration for the grant of the options;
+(h) any consideration for the exercise of the options or the 
+method by which that consideration is to be determined.
+Because it is a register of the holders of options that are still 
+exercisable, the register must be updated whenever options are 
+exercised or expire.
+Note: A CCIV’s register must also show the sub-funds relevant to each 
+share or option: see subsection 1222ZB(2).
+(2) Information about the grant of an option must be entered in the 
+register within 14 days after the grant of the option.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2C  Registers
+
+Part 2C.1  Registers generally
+
+Part 2C.1  Registers generally
+Section 171
+
+Part 2C.1  Registers generally
+340 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Copies of options documents
+(3) The company or scheme must keep with the register a copy of 
+every document that grants an option over unissued shares or 
+interests.
+(3A) An offence based on subsection (3) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(3B) Subsection (3) does not apply if the option is listed for quotation on 
+a declared financial market.
+Note: A defendant bears an evidential burden in relation to the matter in 
+subsection (3B), see subsection 13.3(3) of the Criminal Code.
+(4) The company or scheme must change the register to reflect the 
+transfer of an option only if the person transferring the option gives 
+the company or scheme written notice of the transfer.
+(5) A failure to comply with this section in relation to an option does 
+not affect the option itself.
+
+Part 2C.1  Registers generally
+171  Register of debenture holders
+
+(1) The register of debenture holders must contain the following 
+information about each holder of a debenture:
+(a) the debenture holder’s name and address;
+(b) the amount of the debentures held.
+Note 1: See subsection 168(2) for the coverage of debenture.
+Note 2: A CCIV’s register must also show the sub-funds relevant to each 
+debenture: see subsection 1222ZB(3).
+(2) A company’s failure to comply with this section in relation to a 
+debenture does not affect the debenture itself.
+
+Part 2C.1  Registers generally
+172  Location of registers
+
+(1) A register kept under this Chapter that relates to a company must 
+be kept at:
+(a) the company’s registered office; or
+Authorised Version C2025C00450 registered 21/07/2025Registers  Chapter 2C
+Registers generally  Part 2C.1
+
+Part 2C.1  Registers generally
+Section 172

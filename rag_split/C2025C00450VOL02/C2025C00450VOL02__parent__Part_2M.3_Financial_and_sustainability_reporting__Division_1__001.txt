@@ -1,0 +1,184 @@
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 295
+
+Corporations Act 2001 49
+Compilation No. 143 Compilation date: 09/07/2025entity—a statement that includes the following information 
+for each entity that was, at the end of the financial year, part 
+of the consolidated entity:
+(i) the entity’s name (if any) at that time;
+(ii) whether, at that time, the entity was a body corporate, 
+partnership, or trust;
+(iii) whether, at that time, the entity was a trustee of a trust 
+within the consolidated entity, a partner in a partnership 
+within the consolidated entity, or a participant in a joint 
+venture within the consolidated entity;
+(iv) if the entity is a body corporate—the place at which the 
+entity was incorporated or formed;
+(v) if the entity is a body corporate with a share capital—
+the percentage of the entity’s issued share capital 
+(excluding any part that carries no right to participate 
+beyond a specified amount in a distribution of either 
+profits or capital) that was held, directly or indirectly, 
+by the public company at that time;
+(vi) whether the entity was an Australian resident at that 
+time;
+(vii) a list of each foreign jurisdiction (if any) in which the 
+entity was, at that time, a resident for the purposes of 
+the law of the foreign jurisdiction relating to foreign 
+income tax (within the meaning of the Income Tax 
+Assessment Act 1997); or
+(b) if paragraph (a) does not apply—a statement to that effect.
+(3B) For the purposes of this section, an entity is an Australian resident 
+at the end of a financial year if the entity is:
+(a) an Australian resident (within the meaning of the Income Tax 
+Assessment Act 1997) at that time; or
+(b) a partnership at least one member of which is an Australian 
+resident (within the meaning of the Income Tax Assessment 
+Act 1997) at that time; or
+(c) a resident trust estate (within the meaning of Division 6 of
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 295
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+50 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025the year of income (within the meaning of that Act) that 
+corresponds to the financial year.
+Directors’ declaration
+(4) The directors’ declaration is a declaration by the directors:
+(c) whether, in the directors’ opinion, there are reasonable 
+grounds to believe that the company, registered scheme, 
+registrable superannuation entity or disclosing entity will be 
+able to pay its debts as and when they become due and 
+payable; and
+(ca) if the company, registered scheme, registrable 
+superannuation entity or disclosing entity has included in the 
+notes to the financial statements, in compliance with the 
+accounting standards, an explicit and unreserved statement of 
+compliance with international financial reporting standards—
+that this statement has been included in the notes to the 
+financial statements; and
+(d) whether, in the directors’ opinion, the financial statement and 
+notes are in accordance with this Act, including:
+(i) section 296 (compliance with accounting standards); 
+and
+(ii) section 297 (true and fair view); and
+(da) whether, in the directors’ opinion, the consolidated entity 
+disclosure statement required by subsection (3A) is true and 
+correct; and
+(e) if the company, disclosing entity or registered scheme is 
+listed—that the directors have been given the declarations 
+required by section 295A.
+Note: See paragraph 285(3)(c) for the reference to the debts of a registered 
+scheme.
+(5) The declaration must:
+(a) be made in accordance with a resolution of the directors; and
+(b) specify the date on which the declaration is made; and
+(c) be signed by a director.
+Note: Section 1228 deals with directors’ resolutions for CCIVs.
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Annual financial reports, sustainability reports and directors’ reports  Division 1
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 295A
+
+Corporations Act 2001 51
+Compilation No. 143 Compilation date: 09/07/2025295A  Declaration in relation to listed entity’s financial statements by 
+chief executive officer and chief financial officer
+(1) If the company, disclosing entity or registered scheme is listed, the 
+directors’ declaration under subsection 295(4) must be made only 
+after each person who performs:
+(a) a chief executive function; or
+(b) a chief financial officer function;
+in relation to the company, disclosing entity or registered scheme 
+has given the directors a declaration under subsection (2) of this 
+section.
+(2) The declaration is a declaration whether, in the person’s opinion:
+(a) the financial records of the company, disclosing entity or 
+registered scheme for the financial year have been properly 
+maintained in accordance with section 286; and
+(b) the financial statements, and the notes referred to in 
+paragraph 295(3)(b), for the financial year comply with the 
+accounting standards; and
+(c) the financial statements and notes for the financial year give 
+a true and fair view (see section 297); and
+(ca) the consolidated entity disclosure statement required by 
+subsection 295(3A) is true and correct; and
+(d) any other matters that are prescribed by the regulations for 
+the purposes of this paragraph in relation to the financial 
+statements and the notes for the financial year are satisfied.
+(3) The declaration must:
+(a) be made in writing; and
+(b) specify the date on which the declaration is made; and
+(c) specify the capacity in which the person is making the 
+declaration; and
+(d) be signed by the person making the declaration.
+A person who performs both a chief executive function and a chief 
+financial officer function may make a single declaration in both 
+capacities.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 295A
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+52 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) A person performs a chief executive function in relation to the 
+company, disclosing entity or registered scheme if the person is the 
+person who is primarily and directly responsible to the directors for 
+the general and overall management of the company, disclosing 
+entity or registered scheme.
+(5) If there is no one person who performs a chief executive function 
+in relation to the company, disclosing entity or registered scheme 
+under subsection (4), a person performs a chief executive function 
+in relation to the company, disclosing entity or registered scheme if 
+the person is one of a number of people who together are primarily 
+and directly responsible to the directors for the general and overall 
+management of the company, disclosing entity or registered 
+scheme.
+(6) A person performs a chief financial officer function in relation to 
+the company, disclosing entity or registered scheme if that person 
+is the person who is:
+(a) primarily responsible for financial matters in relation to the 
+company, disclosing entity or registered scheme; and
+(b) directly responsible for those matters to either:
+(i) the directors; or
+(ii) the person or persons who perform the chief executive 
+function in relation to the company.
+(7) If there is no one person who performs a chief financial officer 
+function in relation to the company, disclosing entity or registered 
+scheme under subsection (6), a person performs a chief financial 
+officer function in relation to the company, disclosing entity or 
+registered scheme if the person is one of a number of people who 
+together are:
+(a) primarily responsible for financial matters in relation to the 
+company, disclosing entity or registered scheme; and
+(b) directly responsible for those matters to either:
+(i) the directors; or
+(ii) the person or persons who perform the chief executive 
+function in relation to the company.
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Annual financial reports, sustainability reports and directors’ reports  Division 1
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 296
+
+Corporations Act 2001 53
+Compilation No. 143 Compilation date: 09/07/2025(8) Nothing in this section derogates from the responsibility that a 
+director has for ensuring that financial statements comply with this 
+Act.
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+296  Compliance with accounting standards and regulations

@@ -1,0 +1,204 @@
+Part 5.7B
+
+Preliminary  Division 1
+
+Part 5.7B
+Section 588C
+
+Corporations Act 2001 667
+Compilation No. 143 Compilation date: 09/07/2025Part 5.7B—Recovering property or compensation 
+for the benefit of creditors of insolvent 
+company
+Note: This Part applies to a sub-fund of a CCIV in a modified form: see Division 3 of
+
+Part 5.7B
+
+Preliminary  Division 1
+
+Part 5.7B
+Section 588E
+
+Corporations Act 2001 669
+Compilation No. 143 Compilation date: 09/07/2025(a) has failed to keep financial records in relation to a period as 
+required by subsection 286(1); or
+(b) has failed to retain financial records in relation to a period for 
+the 7 years required by subsection 286(2);
+the company is to be presumed to have been insolvent throughout 
+the period.
+(4A) In determining for the purposes of the recovery proceeding 
+whether a disposition of property of the company is a 
+creditor-defeating disposition, the consideration payable to the 
+company for the disposition is to be presumed to be less than both 
+the market value of the property and the best price reasonably 
+obtainable for the property, if it is proved that the company:
+(a) has failed to keep financial records relating to the disposition 
+as required by subsection 286(1); or
+(b) has failed to retain financial records relating to the 
+disposition for 7 years after the disposition as required by 
+subsection 286(2).
+This subsection is subject to subsections (5) and (6).
+(5) Paragraphs (4)(a) and (4A)(a) do not apply in relation to a 
+contravention of subsection 286(1) that is only minor or technical.
+(6) A presumption under subsection (4) or (4A) of this section, 
+applying because of a contravention of subsection 286(2), does not 
+have effect so far as it would prejudice a right or interest of a 
+person, if it is proved that:
+(a) the contravention was due solely to someone destroying, 
+concealing or removing financial records of the company; 
+and
+(b) none of those financial records was destroyed, concealed or 
+removed by the first-mentioned person; and
+(c) the person was not in any way, by act or omission, directly or 
+indirectly, knowingly or recklessly, concerned in, or party to, 
+destroying, concealing or removing any of those financial 
+records.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Preliminary  Division 1
+
+Part 5.7B
+Section 588F
+
+Corporations Act 2001 671
+Compilation No. 143 Compilation date: 09/07/2025(e) if the other proceeding is of the kind referred to in 
+paragraph (1)(f) of this section—a matter of the kind referred 
+to in a paragraph of subsection 588V(1), or a defence under 
+section 588X;
+it must be presumed that that matter was the case, or that the 
+matters constituting that defence were the case.
+(8A) If, for the purposes of another recovery proceeding in relation to 
+the company, evidence has been adduced or pointed to that 
+suggests a reasonable possibility of:
+(a) subsection 588GA(1) or 588GAAA(1) applying in relation to 
+a person and either a debt or a disposition; or
+(b) subsection 588WA(1) applying in relation to a corporation 
+and a debt;
+it must be presumed that that reasonable possibility exists.
+(9) A presumption for which this section provides operates except so 
+far as the contrary is proved for the purposes of the proceeding 
+concerned.
+
+Part 5.7B
+588F  Certain taxation liabilities taken to be debts
+
+(1) For the purposes of this Part, a company’s liability under a 
+remittance provision to pay to the Commissioner of Taxation an 
+amount equal to a deduction made by the company, after 1 July
+
+Part 5.7B
+1993, from a payment:
+
+(a) is taken to be a debt; and
+(b) is taken to have been incurred when the deduction was made.
+(2) In this section:
+remittance provision means any of the following former provisions 
+of the Income Tax Assessment Act 1936:
+(aa) section 220AAE, 220AAM or 220AAR;
+(a) section 221F (except subsection 221F(12)) or section 221G 
+(except subsection 221G(4A));
+(b) subsection 221YHDC(2);
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Voidable transactions  Division 2
+
+Part 5.7B
+Section 588FA
+
+Corporations Act 2001 673
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Voidable transactions
+
+Part 5.7B
+
+Voidable transactions  Division 2
+
+Part 5.7B
+Section 588FD
+
+Corporations Act 2001 675
+Compilation No. 143 Compilation date: 09/07/2025(a) any of the following happens at a time when the company is 
+insolvent:
+(i) the transaction is entered into; or
+(ii) an act is done, or an omission is made, for the purpose 
+of giving effect to the transaction; or
+(b) the company becomes insolvent because of, or because of 
+matters including:
+(i) entering into the transaction; or
+(ii) a person doing an act, or making an omission, for the 
+purpose of giving effect to the transaction.
+
+Part 5.7B
+588FD  Meaning of unfair loan
+
+(1) A loan to a company is unfair if, and only if:
+(a) the interest on the loan was extortionate when the loan was 
+made, or has since become extortionate because of a 
+variation; or
+(b) the charges in relation to the loan were extortionate when the 
+loan was made, or have since become extortionate because of 
+a variation;
+even if the interest is, or the charges are, no longer extortionate.
+(2) In determining:
+(a) whether interest on a loan was or became extortionate at a 
+particular time as mentioned in paragraph (1)(a); or
+(b) whether charges in relation to a loan were or became 
+extortionate at a particular time as mentioned in 
+paragraph (1)(b);
+regard is to be had to the following matters as at that time:
+(c) the risk to which the lender was exposed; and
+(d) the value of any security in respect of the loan; and
+(e) the term of the loan; and
+(f) the schedule for payments of interest and charges and for 
+repayments of principal; and
+(g) the amount of the loan; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Voidable transactions  Division 2
+Section 588FDB
+Corporations Act 2001 677
+Compilation No. 143 Compilation date: 09/07/2025(a) the transaction is a payment, disposition or issue; and
+(b) the transaction is entered into for the purpose of meeting an 
+obligation the company has incurred;
+the test in paragraph (1)(c) applies to the transaction taking into 
+account the circumstances as they exist at the time when the 
+transaction is entered into (rather than as they existed at the time 
+when the obligation was incurred).
+(3) A transaction may be an unreasonable director-related transaction 
+because of subsection (1):
+(a) whether or not a creditor of the company is a party to the 
+transaction; and
+(b) even if the transaction is given effect to, or is required to be 
+given effect to, because of an order of an Australian court or 
+a direction by an agency.
+588FDB  Meaning of creditor-defeating disposition
+(1) A disposition of property of a company is a creditor-defeating 
+disposition if:
+(a) the consideration payable to the company for the disposition 
+was less than the lesser of the following at the time the 
+relevant agreement (as defined in section 9) for the 
+disposition was made or, if there was no such agreement, at 
+the time of the disposition:
+(i) the market value of the property;
+(ii) the best price that was reasonably obtainable for the 
+property, having regard to the circumstances existing at 
+that time; and
+(b) the disposition has the effect of:
+(i) preventing the property from becoming available for the 
+benefit of the company’s creditors in the winding-up of 
+the company; or
+(ii) hindering, or significantly delaying, the process of 
+making the property available for the benefit of the 
+company’s creditors in the winding-up of the company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.7B
+
+Voidable transactions  Division 2
+
+Part 5.7B
+Section 588FE

@@ -1,0 +1,185 @@
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+761FA  Meaning of person—generally includes multiple trustees
+
+(1) This section applies in relation to a trust while the trust continues 
+to have:
+(a) 2 or more trustees; or
+(b) a single trustee who was a trustee of the trust at a time when 
+it had 2 or more trustees.
+(2) Subject to subsections (3) and (4), during a period while this 
+section applies to a trust, this Chapter applies to the trust as if the 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of some terms relating to financial services and markets  Division 2
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761FA
+
+Corporations Act 2001 19
+Compilation No. 143 Compilation date: 09/07/2025trustee or trustees of the trust from time to time during the period 
+constituted a single legal entity (the notional entity) that remained 
+the same for the duration of that period.
+Note: So, for example, while this section applies to a trust, a licence granted 
+under this Chapter to the trustees of the trust will continue in force, 
+despite a change in the persons who are the trustees.
+(3) During any period or part of a period while this section applies to a 
+trust and the trust has 2 or more trustees, this Chapter applies to the 
+trustees as mentioned in subsection (2), but it applies with the 
+following changes:
+(a) obligations that would be imposed on the notional entity are 
+imposed instead on each trustee, but may be discharged by 
+any of the trustees;
+(b) any contravention of a provision of this Chapter, or a 
+provision of this Act that relates to a requirement in a 
+provision of this Chapter, that would otherwise be a 
+contravention by the notional entity is taken (whether for the 
+purposes of criminal or civil liability) to have been a 
+contravention by each trustee who:
+(i) aided, abetted, counselled or procured the relevant act or 
+omission; or
+(ii) was in any way knowingly concerned in, or party to, the 
+relevant act or omission (whether directly or indirectly 
+and whether by any act or omission of the trustee).
+(4) During any period or part of a period while this section applies to a 
+trust and the trust has only one trustee, this Chapter applies to the 
+trustee as mentioned in subsection (2), but it applies with the 
+following changes:
+(a) obligations that would be imposed on the notional entity are 
+imposed instead on that single trustee;
+(b) any contravention of a provision of this Chapter, or a 
+provision of this Act that relates to a requirement in a 
+provision of this Chapter, that would otherwise be a 
+contravention by the notional entity is taken (whether for the 
+purposes of criminal or civil liability) to have been a 
+contravention by that single trustee.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761G
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+20 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(5) Subsections (2), (3) and (4) have effect subject to:
+(a) an express or implied contrary intention in a provision or 
+provisions of this Chapter; and
+(b) the regulations, which may exclude or modify the effect of 
+those subsections in relation to specified provisions.
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+761G  Meaning of retail client and wholesale client
+
+Providing a financial product or financial service to a person as a 
+retail client
+(1) A financial product or a financial service is provided to a person as 
+a retail client unless subsection (5), (6), (6A) or (7), or 
+section 761GA, provides otherwise.
+Note: The references in this section to providing a financial product to a 
+person are not to be taken to imply that the provision of a financial 
+product is not also the provision of a financial service (see the 
+meaning of dealing in section 766C).
+Acquiring a financial product or financial service as a retail client
+(2) A person to whom a financial product or financial service is 
+provided as a retail client is taken to acquire the product or service 
+as a retail client.
+Disposing of a financial product as a retail client
+(3) If a financial product is provided to a person as a retail client, any 
+subsequent disposal of all or part of that product by the person is a 
+disposal by the person as a retail client.
+Wholesale clients
+(4) A financial product or a financial service is provided to, or 
+acquired by, a person as a wholesale client if it is not provided to, 
+or acquired by, the person as a retail client.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of some terms relating to financial services and markets  Division 2
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761G
+
+Corporations Act 2001 21
+Compilation No. 143 Compilation date: 09/07/2025General insurance products
+(5) If a financial product is, or a financial service provided to a person 
+relates to, a general insurance product, the product or service is 
+provided to the person as a retail client if:
+(a) either:
+(i) the person is an individual; or
+(ii) the insurance product is or would be for use in 
+connection with a small business (see subsection (12)); 
+and
+(b) the general insurance product is:
+(i) a motor vehicle insurance product (as defined in the 
+regulations); or
+(ii) a home building insurance product (as defined in the 
+regulations); or
+(iii) a home contents insurance product (as defined in the 
+regulations); or
+(iv) a sickness and accident insurance product (as defined in 
+the regulations); or
+(v) a consumer credit insurance product (as defined in the 
+regulations); or
+(vi) a travel insurance product (as defined in the 
+regulations); or
+(vii) a personal and domestic property insurance product (as 
+defined in the regulations); or
+(viii) a kind of general insurance product prescribed by 
+regulations made for the purposes of this subparagraph.
+In any other cases, the provision to a person of a financial product 
+that is, or a financial service that relates to, a general insurance 
+product does not constitute the provision of a financial product or 
+financial service to the person as a retail client.
+Products and services relating to superannuation and RSAs
+(6) For the purposes of this Act:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+Section 761G
+
+Part 7.1  Preliminary
+Division 2  Meaning of some terms relating to financial services and markets
+22 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) if a financial product provided to a person is a 
+superannuation product or an RSA, the product is provided to 
+the person as a retail client; and
+(aa) however, if a trustee of a pooled superannuation trust 
+provides a financial product that is an interest in the trust to a 
+person covered by subparagraph (c)(i), the product is not 
+provided to the person as a retail client; and
+(b) if a financial service (other than the provision of a financial 
+product) provided to a person who is not covered by 
+subparagraph (c)(i) or (ii) relates to a superannuation product 
+or an RSA, or is a superannuation trustee service, the service 
+is provided to the person as a retail client; and
+(c) if a financial service (other than the provision of a financial 
+product) provided to a person who is:
+(i) the trustee of a superannuation fund, an approved 
+deposit fund, a pooled superannuation trust or a public 
+sector superannuation scheme that has net assets of at 
+least $10 million; or
+(ii) an RSA provider;
+relates to a superannuation product or an RSA, or is a 
+superannuation trustee service, that does not constitute the 
+provision of a financial service to the person as a retail client.
+Traditional trustee company services
+(6A) If a financial service provided to a person is a traditional trustee 
+company service, the service is provided to the person as a retail 
+client unless regulations made for the purpose of this subsection 
+provide otherwise.
+Other kinds of financial product
+(7) If a financial product is not, or a financial service (other than a 
+traditional trustee company service or a superannuation trustee 
+service) provided to a person does not relate to, a general insurance 
+product, a superannuation product or an RSA, the product or 
+service is provided to the person as a retail client unless one or 
+more of the following paragraphs apply:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Preliminary  Part 7.1
+Meaning of some terms relating to financial services and markets  Division 2

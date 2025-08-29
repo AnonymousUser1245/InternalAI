@@ -1,0 +1,196 @@
+Compilation No. 143 Compilation date: 09/07/2025(f) is not a relative of a person who has a material interest in the 
+corporate director or a related body corporate.
+(3) The corporate director of a retail CCIV must not fail to comply 
+with subsection (1) for a period exceeding 14 days (or a longer 
+period allowed in writing by ASIC).
+Fault-based offence
+(4) A person commits an offence if the person intentionally or 
+recklessly fails to comply with subsection (3).
+Strict liability offence
+(5) A person commits an offence of strict liability if the person fails to 
+comply with subsection (3).
+(6) In agreeing to a longer period under subsection (3), ASIC may 
+impose conditions to be complied with and the corporate director 
+must comply with them.
+(7) An offence based on subsection (6) is an offence of strict liability.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224H  Effectiveness of acts by corporate director
+
+(1) An act done by the company named in ASIC’s record of a CCIV’s 
+registration as the corporate director or temporary corporate 
+director of the CCIV is effective even if:
+(a) the company’s appointment as corporate director or 
+temporary corporate director did not comply with the CCIV’s 
+constitution or any provision of this Act; or
+(b) the continuance of the company’s appointment as corporate 
+director or temporary corporate director does not comply 
+with the CCIV’s constitution or any provision of this Act.
+(2) Subsection (1) does not deal with the question whether an effective 
+act by a corporate director:
+(a) binds the CCIV in its dealings with other people; or
+(b) makes the CCIV liable to another person.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Corporate governance of CCIVs  Part 8B.3
+Officers and employees of the CCIV  Division 2
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+Section 1224J
+
+Corporations Act 2001 509
+Compilation No. 143 Compilation date: 09/07/2025Note: The kinds of acts that this section validates are those that are only 
+legally effective if the person doing them is a director (for example, 
+calling a meeting of the company’s members). Sections 128 to 130 
+contain rules about the assumptions people are entitled to make when 
+dealing with a company and its officers.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224J  Corporate director must operate the CCIV
+
+(1) The corporate director of a CCIV is to:
+(a) operate the business and conduct the affairs of the CCIV; and
+(b) perform the functions conferred on the corporate director by 
+the CCIV’s constitution and this Act.
+Note 1: If a CCIV commits an offence or contravenes a civil penalty 
+provision, the corporate director is generally responsible: see
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+Section 1224L
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+510 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251224L  Corporate director may appoint an agent or engage a person
+Agents appointed by corporate director
+(1) The corporate director has power to appoint an agent, or otherwise 
+engage a person, to do anything that the corporate director is 
+authorised to do in connection with the CCIV.
+Note: A CCIV may also have an agent: see section 126.
+Agents appointed by CCIV and sub-agents
+(2) An agent appointed, or a person otherwise engaged, by:
+(a) an agent or person referred to in subsection (1); or
+(b) the CCIV; or
+(c) a person who is taken under this subsection to be an agent of 
+the corporate director;
+to do anything that the corporate director is authorised to do in 
+connection with the CCIV is taken to be an agent appointed by the 
+corporate director to do that thing for the purposes of this section.
+Delegation
+(3) Section 198D does not apply to a CCIV.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224M  Retail CCIV—responsibility of corporate director for
+
+certain acts of agents
+(1) Subsection (2) applies in relation to a retail CCIV for the purpose 
+of determining whether:
+(a) there is a liability to the CCIV or the CCIV’s members; or
+(b) the corporate director has properly performed its duties for 
+the purposes of section 1224N.
+Note: A CCIV’s constitution may provide for the corporate director to be 
+indemnified for liabilities—see section 1224N.
+Extended liability for acts of agents
+(2) If:
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Corporate governance of CCIVs  Part 8B.3
+Officers and employees of the CCIV  Division 2
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+Section 1224N
+
+Corporations Act 2001 511
+Compilation No. 143 Compilation date: 09/07/2025(a) the corporate director appoints an agent, or otherwise 
+engages a person, under section 1224L; or
+(b) an agent or person is taken under subsection 1224L(2) (about 
+sub-agents) to be an agent of the corporate director;
+the corporate director is taken to have done (or failed to do) 
+anything that the agent or person has done (or failed to do) because 
+of the appointment or engagement, even if the person or agent was 
+acting fraudulently or outside the scope of the authority or 
+engagement.
+Note: This subsection does not apply to receivers: see section 1236F.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224N  Retail CCIV—limitation on right of corporate director to
+
+fees and indemnities
+If the corporate director of a retail CCIV is to have any rights to be 
+paid fees out of assets of a sub-fund of the CCIV, or to be 
+indemnified out of assets of a sub-fund of the CCIV for liabilities 
+or expenses incurred in relation to the performance of its duties, 
+those rights:
+(a) must be specified in the CCIV’s constitution; and
+(b) must be available only in relation to the proper performance 
+of those duties;
+and any other agreement or arrangement has no effect to the extent 
+that it purports to confer such a right.
+Note 1: ASIC may direct the CCIV to modify its constitution to ensure such 
+rights are dealt with in adequate detail: see subsection 1223C(2).
+Note 2: Sections 199A to 199C may prohibit giving an indemnity for the 
+corporate director of a CCIV. Those sections have extended operation 
+in relation to a CCIV: see section 1225E.
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224P  Retail CCIV—limitation on right of corporate director to
+
+acquire shares in CCIV
+(1) The corporate director of a retail CCIV may acquire and hold a 
+share in the CCIV, but the corporate director must only do so:
+(a) for not less than the consideration that would be payable if 
+the share were acquired by another person; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+Section 1224Q
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+512 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) subject to terms and conditions that would not disadvantage 
+other members.
+Note: If the corporate director holds a share in the CCIV, the corporate 
+director does so subject to section 253E, as affected by section 1228G 
+(certain members cannot vote or be counted).
+(2) A corporate director who contravenes subsection (1), and any 
+person who is involved in a corporate director’s contravention of 
+that subsection, contravenes this subsection.
+Note 1: Section 79 defines involved.
+Note 2: This subsection is a civil penalty provision (see section 1317E).
+(3) A person must not intentionally be involved in a corporate 
+director’s contravention of subsection (1).
+
+Part 8B.3  Corporate governance of CCIVs
+Division 2  Officers and employees of the CCIV
+1224Q  Exercise of powers while sub-fund is in liquidation
+
+Powers of corporate director while sub-fund in liquidation
+(1) The corporate director of a CCIV contravenes this subsection if:
+(a) a sub-fund of the CCIV is being wound up, or a provisional 
+liquidator of a sub-fund of the CCIV is acting; and
+(b) the corporate director purports to do any of the following:
+(i) carry on the business of the sub-fund;
+(ii) enter into a transaction or dealing on behalf of the CCIV 
+affecting the property of the sub-fund.
+(2) However, subsection (1) does not apply to the extent that the 
+corporate director is acting:
+(a) with the written approval of the liquidator of the sub-fund or 
+the Court; or
+(b) in circumstances in which, despite the fact that the sub-fund 
+is being wound up, the corporate director is permitted by this 
+Act to act.
+(3) Despite subsection 13.3(3) of the Criminal Code, in a prosecution 
+for an offence based on subsection (1) of this section, a defendant 
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Corporate governance of CCIVs  Part 8B.3
+Officers and employees of the CCIV  Division 2

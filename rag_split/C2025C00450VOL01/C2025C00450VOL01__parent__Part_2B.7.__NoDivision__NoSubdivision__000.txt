@@ -1,0 +1,50 @@
+Part 2B.7.
+
+Note 2: A no liability company must have solely mining purposes and 
+have no contractual right to recover unpaid calls (see 
+subsection 112(2)).
+nominated electronic address, in relation to the addressee of an 
+electronic communication, means:
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 2B.7.
+Section 9
+
+Corporations Act 2001 93
+Compilation No. 143 Compilation date: 09/07/2025(a) the most recent electronic address nominated by the 
+addressee to the originator of the electronic communication 
+as the electronic address for receiving electronic 
+communications; or
+(b) if:
+(i) the addressee has nominated an electronic address as 
+mentioned in paragraph (a) and the originator knows, or 
+there are reasonable grounds to believe, that the address 
+is not a current electronic address for the addressee; or
+(ii) the addressee has not nominated an electronic address as 
+mentioned in paragraph (a);
+an electronic address that the originator believes on 
+reasonable grounds to be a current electronic address for the 
+addressee for receiving electronic communications.
+non-audit services provider for an auditor conducting an audit 
+means a person who:
+(a) is not a professional member of the audit team conducting the 
+audit of the audited body; and
+(b) is either:
+(i) if the auditor is an individual auditor—an employee of 
+the individual auditor (or of an entity acting for, or on 
+behalf of, the individual auditor); or
+(ii) if the auditor is an audit firm—a member of the audit 
+firm or senior manager of the audit firm (or of an entity 
+acting for, or on behalf of, the audit firm); or
+(iii) if the auditor is an audit company—a director of the 
+audit company or a senior manager of the audit 
+company (or of an entity acting for, or on behalf of, the 
+audit company); and
+(c) provides, or has provided, services (other than services 
+related to the conduct of an audit) to the audited body.
+non-cash payments: see makes non-cash payments.
+non-shareholder mutual member of an MCI mutual entity means 
+a person who is a member of the entity otherwise than as a holder 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory

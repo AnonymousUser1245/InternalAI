@@ -1,0 +1,194 @@
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+300C  Annual directors’ report—registrable superannuation entities
+
+Remuneration
+(1) The directors’ report for a financial year for a registrable 
+superannuation entity must also include (in a separate and clearly 
+identified section of the report):
+(a) the prescribed details in relation to the remuneration of each 
+member of the key management personnel for the registrable 
+superannuation entity; and
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Annual financial reports, sustainability reports and directors’ reports  Division 1
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 300C
+
+Corporations Act 2001 79
+Compilation No. 143 Compilation date: 09/07/2025(b) such other matters (if any) relating to such remuneration as 
+are prescribed by the regulations.
+(2) The material referred to in subsection (1) must be included in the 
+directors’ report under the heading “Remuneration report”.
+(3) Without limiting paragraph (1)(a), the regulations may:
+(a) provide that the value of an element of remuneration is to be 
+determined, for the purposes of this section, in a particular 
+way or by reference to a particular standard; and
+(b) provide that details to be given of an element of remuneration 
+must relate to the remuneration provided in:
+(i) the financial year to which the directors’ report relates; 
+and
+(ii) the earlier financial years specified in the regulations.
+Non-audit services and auditor independence
+(4) The directors’ report for a registrable superannuation entity for a 
+financial year must also include the following in relation to each 
+auditor:
+(a) details of the amounts paid or payable to the auditor for 
+non-audit services provided, during the year, by the auditor 
+(or by another person or firm on the auditor’s behalf);
+(b) a statement whether the directors are satisfied that the 
+provision of non-audit services, during the year, by the 
+auditor (or by another person or firm on the auditor’s behalf) 
+is compatible with the general standard of independence for 
+auditors imposed by this Act;
+(c) a statement of the directors’ reasons for being satisfied that 
+the provision of those non-audit services, during the year, by 
+the auditor (or by another person or firm on the auditor’s 
+behalf) did not compromise the auditor independence 
+requirements of this Act.
+(5) The details and statements mentioned in subsection (4) must be 
+included in the directors’ report under the heading “Non-audit 
+services”.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 300C
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+80 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(6) For the purposes of paragraph (4)(a), the details of amounts paid or 
+payable to an auditor for non-audit services provided, during the 
+year, by the auditor (or by another person or firm on the auditor’s 
+behalf) are:
+(a) the name of the auditor; and
+(b) the dollar amount that:
+(i) the registrable superannuation entity; or
+(ii) the RSE licensee for the registrable superannuation 
+entity;
+paid, or is liable to pay, for each of those non-audit services.
+(7) The statements under paragraphs (4)(b) and (c) must be made in 
+accordance with advice provided by the registrable superannuation 
+entity’s audit committee.
+(8) For the purposes of subsection (7), a statement is taken to be made 
+in accordance with advice provided by the registrable 
+superannuation entity’s audit committee only if:
+(a) the statement is consistent with that advice and does not 
+contain any material omission of material included in that 
+advice; and
+(b) the advice is endorsed by a resolution passed by the members 
+of the audit committee; and
+(c) the advice is written advice signed by a member of the audit 
+committee on behalf of the audit committee and given to the 
+directors.
+Audit
+(9) If an individual plays a significant role in the audit of a registrable 
+superannuation entity for a financial year in reliance on an 
+approval granted under section 324DAA, the directors’ report for 
+the entity for the financial year must also include details of, and 
+reasons for, the approval.
+(10) If a registered company auditor plays a significant role in the audit 
+of a registrable superannuation entity for a financial year in 
+reliance on a declaration made under section 342A, the directors’ 
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Annual financial reports, sustainability reports and directors’ reports  Division 1
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 301
+
+Corporations Act 2001 81
+Compilation No. 143 Compilation date: 09/07/2025report for the entity for the financial year must also include details 
+of the declaration.
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+301  Audit of annual financial report
+
+(1) A company, registered scheme, registrable superannuation entity or 
+disclosing entity must have the financial report for a financial year 
+audited in accordance with Division 3 and obtain an auditor’s 
+report.
+Small proprietary companies
+(2) A small proprietary company’s financial report for a financial year 
+does not have to be audited if:
+(a) the report is required only because of:
+(i) paragraph 292(2)(c) (about having CSF shareholders); 
+or
+(ii) a direction under section 293; or
+(iii) both paragraph 292(2)(c) and a direction under 
+section 293; and
+(b) in a case where subparagraph (a)(i) or (iii) applies—as at the 
+end of the financial year, the company has raised a total less 
+than the CSF audit threshold from all the CSF offers it has 
+ever made; and
+(c) in a case where subparagraph (a)(ii) or (iii) applies—the 
+direction did not ask for the financial report to be audited.
+Companies limited by guarantee
+(3) A company limited by guarantee may have its financial report for a 
+financial year reviewed, rather than audited, if:
+(a) the company is not one of the following:
+(i) a Commonwealth company for the purposes of the 
+Public Governance, Performance and Accountability 
+Act 2013;
+(ii) a subsidiary of a Commonwealth company for the 
+purposes of that Act;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 301
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+82 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(iii) a subsidiary of a corporate Commonwealth entity for the 
+purposes of that Act; and
+(b) one of the following is true:
+(i) the company is not required by the accounting standards 
+to be included in consolidated financial statements and 
+the revenue of the company for the financial year is less 
+than $1 million;
+(ii) the company is required by the accounting standards to 
+be included in consolidated financial statements and the 
+consolidated revenue of the consolidated entity for the 
+financial year is less than $1 million.
+(4) A small company limited by guarantee’s financial report for a 
+financial year does not have to be audited or reviewed if:
+(a) the report is prepared in response to a member direction 
+under section 294A; and
+(b) the direction does not ask for the audit or review.
+(5) A company need not comply with subsection (1) if:
+(a) it is covered under section 738ZI at the end of the financial 
+year mentioned in subsection (1); and
+(b) as at the end of that financial year, the company has raised 
+less than $3 million from all CSF offers that it has made at 
+any time.
+Registrable superannuation entities
+(6) The following reports relating to:
+(a) a registrable superannuation entity; and
+(b) a financial year;
+may be set out in the same document:
+(c) an auditor’s report obtained by the entity under 
+subsection (1);
+(d) an auditor’s report provided in relation to the entity under a 
+provision of the RSE licensee law.
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Financial and sustainability reporting  Part 2M.3
+Annual financial reports, sustainability reports and directors’ reports  Division 1
+
+Part 2M.3  Financial and sustainability reporting
+Division 1  Annual financial reports, sustainability reports and directors’ reports
+Section 301A
+
+Corporations Act 2001 83
+Compilation No. 143 Compilation date: 09/07/2025301A  Audit of annual sustainability report
+An entity that is required to prepare a sustainability report for a 
+financial year must:
+(a) have the sustainability report audited in accordance with

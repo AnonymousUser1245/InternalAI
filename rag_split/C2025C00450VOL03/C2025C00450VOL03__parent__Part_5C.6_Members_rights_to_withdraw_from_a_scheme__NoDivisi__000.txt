@@ -1,0 +1,150 @@
+Part 5C.6  Members’ rights to withdraw from a scheme
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+Section 601KB
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+98 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Liquid assets
+(5) The following are liquid assets unless it is proved that the 
+responsible entity cannot reasonably expect to realise them within 
+the period specified in the constitution for satisfying withdrawal 
+requests while the scheme is liquid:
+(a) money in an account or on deposit with a bank;
+(b) bank accepted bills;
+(c) marketable securities (as defined in section 9);
+(d) property of a prescribed kind.
+(6) Any other property is a liquid asset if the responsible entity 
+reasonably expects that the property can be realised for its market 
+value within the period specified in the constitution for satisfying 
+withdrawal requests while the scheme is liquid.
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+601KB  Non-liquid schemes—offers
+
+(1) The responsible entity of a registered scheme that is not liquid may 
+offer members an opportunity to withdraw, wholly or partly, from 
+the scheme to the extent that particular assets are available and able 
+to be converted to money in time to satisfy withdrawal requests 
+that members may make in response to the offer.
+(2) The withdrawal offer must be in writing and be made:
+(a) if the constitution specifies procedures for making the 
+offer—in accordance with those procedures; or
+(b) otherwise—by giving a copy of the offer to all members of 
+the scheme or to all members of a particular class.
+(3) The withdrawal offer must specify:
+(a) the period during which the offer will remain open (this 
+period must last for at least 21 days after the offer is made); 
+and
+(b) the assets that will be used to satisfy withdrawal requests; 
+and
+(c) the amount of money that is expected to be available when 
+those assets are converted to money; and
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+Members’ rights to withdraw from a scheme  Part 5C.6
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+Section 601KC
+
+Corporations Act 2001 99
+Compilation No. 143 Compilation date: 09/07/2025(d) the method for dealing with withdrawal requests if the money 
+available is insufficient to satisfy all requests.
+The method specified under paragraph (d) must comply with 
+section 601KD.
+(4) For joint members, a copy of the withdrawal offer need only be 
+given to the joint member named first in the register of members.
+(5) As soon as practicable after making the withdrawal offer, the 
+responsible entity must lodge a copy of the offer with ASIC.
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+601KC  Non-liquid schemes—only one withdrawal offer to be open
+
+at any time
+Only one withdrawal offer may be open at any time in relation to a 
+particular interest in a registered scheme that is not liquid.
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+601KD  Non-liquid schemes—how payments are to be made
+
+The responsible entity of a registered scheme that is not liquid 
+must ensure that withdrawal requests made in response to a 
+withdrawal offer are satisfied within 21 days after the offer closes. 
+No request made under the withdrawal offer may be satisfied while 
+the offer is still open. If an insufficient amount of money is 
+available from the assets specified in the offer to satisfy all 
+requests, the requests are to be satisfied proportionately in 
+accordance with the formula:
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+601KE  Non-liquid schemes—responsible entity may cancel
+
+withdrawal offer
+(1) The responsible entity of a registered scheme that is not liquid:
+(a) may cancel a withdrawal offer before it closes if the offer 
+contains a material error; orAmount member requested
+            to withdrawAmount of money availableTotal of all amounts members
+        request to withdraw´
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+Section 601KE
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+100 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) must cancel a withdrawal offer before it closes if it is in the 
+best interests of members to do so.
+(2) The cancellation must be made:
+(a) if the constitution specifies procedures for cancelling the 
+withdrawal offer—in accordance with those procedures; or
+(b) otherwise—by notice in writing to the members to whom the 
+withdrawal offer was made.
+(3) The responsible entity must lodge written notice of the cancellation 
+with ASIC.
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+Related party transactions  Part 5C.7
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+Section 601LA
+
+Corporations Act 2001 101
+Compilation No. 143 Compilation date: 09/07/2025Part 5C.7—Related party transactions
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+601LA  Chapter 2E applies with modifications
+
+Chapter 2E applies to a registered scheme with the modifications 
+set out in sections 601LB to 601LE and as if:
+(a) references to a public company were instead references to the 
+responsible entity of the scheme; and
+(b) references to a benefit being given to or received by a related 
+party of a public company were instead references to a 
+benefit being given to or received by the responsible entity or 
+a related party; and
+(c) references to a resolution of a public company were instead 
+references to a resolution of the members of the scheme; and
+(d) references to a general meeting were instead references to a 
+members’ meeting of the scheme; and
+(e) references to members of a public company were instead 
+references to members of the scheme; and
+(f) references to the company’s best interests were instead 
+references to the best interests of the scheme’s members.
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+601LB  Replacement section 207
+
+Chapter 2E applies as if section 207 were replaced by the 
+following section:
+
+Part 5C.6  Members’ rights to withdraw from a scheme
+207  Purpose
+
+The rules in this Chapter, as they apply to a registered scheme, are 
+designed to protect the interests of the scheme’s members as a 
+whole, by requiring member approval for giving financial benefits 
+to the responsible entity or its related parties that come out of 
+scheme property or that could endanger those interests.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes

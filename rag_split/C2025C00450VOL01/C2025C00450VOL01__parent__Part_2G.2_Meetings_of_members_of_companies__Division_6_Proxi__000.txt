@@ -1,0 +1,193 @@
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+Section 249X
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+506 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 6—Proxies and body corporate representatives
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+249X  Who can appoint a proxy (replaceable rule for proprietary
+
+companies and mandatory rule for public companies—see 
+section 135)
+(1) A member of a company who is entitled to attend and cast a vote at 
+a meeting of the company’s members may appoint a person as the 
+member’s proxy to attend and vote for the member at the meeting.
+(1A) The person appointed as the member’s proxy may be an individual 
+or a body corporate.
+Note: A body corporate may appoint a representative to exercise the powers 
+that the body corporate may exercise as the member’s proxy, see 
+section 250D.
+(2) The appointment may specify the proportion or number of votes 
+that the proxy may exercise.
+(3) Each member may appoint a proxy. If the member is entitled to 
+cast 2 or more votes at the meeting, they may appoint 2 proxies. If 
+the member appoints 2 proxies and the appointment does not 
+specify the proportion or number of the member’s votes each proxy 
+may exercise, each proxy may exercise half of the votes.
+(4) Disregard any fractions of votes resulting from the application of 
+subsection (2) or (3).
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+249Y  Rights of proxies
+
+Rights of proxies
+(1) A proxy appointed to attend and vote for a member has the same 
+rights as the member:
+(a) to speak at the meeting; and
+(b) to vote (but only to the extent allowed by the appointment); 
+and
+(c) join in a demand for a poll.
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+Proxies and body corporate representatives  Division 6
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+Section 249Z
+
+Corporations Act 2001 507
+Compilation No. 143 Compilation date: 09/07/2025Proxy’s right to vote
+(2) If a company has a constitution, the constitution may provide that a 
+proxy is not entitled to vote on a show of hands.
+Note: Even if the proxy is not entitled to vote on a show of hands, they may 
+make or join in the demand for a poll.
+Effect of member’s presence on proxy’s authority
+(3) A company’s constitution (if any) may provide for the effect that a 
+member’s presence at a meeting has on the authority of a proxy 
+appointed to attend and vote for the member. However, if the 
+constitution does not deal with this, a proxy’s authority to speak 
+and vote for a member at a meeting is suspended while the member 
+is present at the meeting.
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+249Z  Company sending appointment forms or lists of proxies must
+
+send to all members
+(1) If a company sends a member a proxy appointment form for a 
+meeting or a list of persons willing to act as proxies at a meeting:
+(a) if the member requested the form or list—the company must 
+send the form or list to all members who ask for it and who 
+are entitled to appoint a proxy to attend and vote at the 
+meeting; or
+(b) otherwise—the company must send the form or list to all its 
+members entitled to appoint a proxy to attend and vote at the 
+meeting.
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+250A  Appointing a proxy
+
+(1) An appointment of a proxy is valid if it is signed, or otherwise 
+authenticated in a manner prescribed by the regulations, by the 
+member of the company making the appointment and contains the 
+following information:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+Section 250B
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+508 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the member’s name and address;
+(b) the company’s name;
+(c) the proxy’s name or the name of the office held by the proxy;
+(d) the meetings at which the appointment may be used.
+An appointment may be a standing one.
+(1A) The regulations made for the purposes of subsection (1) may 
+prescribe different requirements for the authentication of an 
+appointment given to the company by different means (electronic 
+or otherwise).
+(2) If a company has a constitution, the constitution may provide that 
+an appointment is valid even if it contains only some of the 
+information required by subsection (1).
+(3) An undated appointment is taken to have been dated on the day it 
+is given to the company.
+(6) An appointment does not have to be witnessed.
+(7) A later appointment revokes an earlier one if both appointments 
+could not be validly exercised at the meeting.
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+250B  Proxy documents
+
+Documents to be received by company before meeting
+(1) For an appointment of a proxy for a meeting of a company’s 
+members to be effective, the following documents must be 
+received by the company at least 48 hours before the meeting:
+(a) the proxy’s appointment;
+(b) if the appointment is signed, or otherwise authenticated in a 
+manner prescribed by regulations made for the purposes of 
+subsection 250A(1), by the appointor’s attorney—the 
+authority under which the appointment was signed or 
+authenticated or a certified copy of the authority.
+Authorised Version C2025C00450 registered 21/07/2025Meetings  Chapter 2G
+Meetings of members of companies  Part 2G.2
+Proxies and body corporate representatives  Division 6
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+Section 250BA
+
+Corporations Act 2001 509
+Compilation No. 143 Compilation date: 09/07/2025Documents received following adjournment of meeting
+(2) If a meeting of a company’s members has been adjourned, an 
+appointment and any authority received by the company at least 48 
+hours before the resumption of the meeting are effective for the 
+resumed part of the meeting.
+Receipt of documents
+(3) A company receives a document referred to in subsection (1):
+(a) when the document is received at any of the following:
+(i) the company’s registered office;
+(ii) a fax number at the company’s registered office;
+(iii) a place, fax number or electronic address specified for 
+the purpose in the notice of meeting; and
+(b) if the notice of meeting specifies other electronic means by 
+which a member may give the document—when the 
+document given by those means is received by the company 
+as prescribed by the regulations.
+Note: For when a document is received by electronic communication, see 
+section 105A.
+Constitution or notice of meeting may provide for different 
+notification period
+(5) The company’s constitution (if any) or the notice of meeting may 
+reduce the period of 48 hours referred to in subsection (1) or (2).
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+250BA  Proxy documents—listed companies
+
+(1) In a notice of meeting for a meeting of the members of the 
+company, the company must specify at least one of the following:
+(a) a place for the purposes of receipt of proxy appointments and 
+proxy appointment authorities;
+(b) sufficient information to allow members to comply with 
+section 250B by means of an electronic communication.
+(2) This section only applies to a company that is listed.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2G  Meetings
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+Section 250BB
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+510 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) This section applies despite anything in the company’s 
+constitution.
+
+Part 2G.2  Meetings of members of companies
+Division 6  Proxies and body corporate representatives
+250BB  Proxy vote if appointment specifies way to vote

@@ -1,0 +1,148 @@
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+Section 513B
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+572 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(dc) if, immediately before the order was made, a restructuring 
+plan had been made by the company and had not yet 
+terminated—on the section 513CA day in relation to the 
+restructuring that ended when the plan was made; or
+(e) otherwise—on the day when the order was made.
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+513B  Voluntary winding up
+
+Where a company resolves by special resolution that it be wound 
+up voluntarily, the winding up is taken to have begun or 
+commenced:
+(a) if, when the resolution was passed, a winding up of the 
+company was already in progress—when the last-mentioned 
+winding up is taken because of this Division to have begun or 
+commenced; or
+(b) if, immediately before the resolution was passed, the 
+company was under administration—on the section 513C day 
+in relation to the administration; or
+(c) if, immediately before the resolution was passed, a deed of 
+company arrangement had been executed by the company but 
+had not yet terminated—on the section 513C day in relation 
+to the administration that ended when the deed was executed; 
+or
+(d) if the resolution is taken to have been passed because the 
+company’s creditors:
+(i) passed a resolution terminating a deed of company 
+arrangement executed by the company; and
+(ii) also resolved under section 445E that the company be 
+wound up;
+on the section 513C day in relation to the administration that 
+ended when the deed was executed; or
+(da) if the resolution is taken to have been passed under 
+section 446AA because of:
+(i) the making of an order under section 445D by the Court 
+terminating a deed of company arrangement executed 
+by the company; or
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+When winding up taken to begin  Division 1A
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+Section 513C
+
+Corporations Act 2001 573
+Compilation No. 143 Compilation date: 09/07/2025(ii) the existence of circumstances that are specified in a 
+deed of company arrangement executed by the company 
+to be circumstances in which the deed is to terminate 
+and the company is to be wound up;
+on the section 513C day in relation to the administration that 
+ended when the deed was executed; or
+(db) if, immediately before the resolution was passed, the 
+company was under restructuring—on the section 513CA 
+day in relation to the restructuring; or
+(dc) if, immediately before the resolution was passed, a 
+restructuring plan had been made by the company but had not 
+yet terminated—on the section 513CA day in relation to the 
+restructuring that ended when the plan was made; or
+(e) otherwise—on the day on which the resolution was passed.
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+513C  Section 513C day in relation to an administration under
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+Section 513D
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+574 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025513D  Validity of proceedings in earlier winding up
+Where, at the time when:
+(a) the Court orders under section 233, 459A, 459B or 461 that a 
+company be wound up; or
+(b) a company resolves by special resolution that it be wound up 
+voluntarily;
+a winding up of the company is already in progress, all proceedings 
+in the last-mentioned winding up are taken to have been valid, 
+except so far as the Court otherwise orders because fraud or 
+mistake has been proved.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Contributories  Division 2
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+Section 514
+
+Corporations Act 2001 575
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Contributories
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+514  Where Division applies
+
+(1) This Division applies where a company is wound up.
+(2) This Division does not apply to the winding up of a no liability 
+company.
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+515  General liability of contributory
+
+Subject to this Division, a present or past member is liable to 
+contribute to the company’s property to an amount sufficient:
+(a) to pay the company’s debts and liabilities and the costs, 
+charges and expenses of the winding up; and
+(b) to adjust the rights of the contributories among themselves.
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+516  Company limited by shares
+
+Subject to sections 518 and 519, if the company is a company 
+limited by shares, a member need not contribute more than the 
+amount (if any) unpaid on the shares in respect of which the 
+member is liable as a present or past member.
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+517  Company limited by guarantee
+
+Subject to sections 518 and 519, if the company is a company 
+limited by guarantee, a member need not contribute more than the 
+amount the member has undertaken to contribute to the company’s 
+property if the company is wound up.
+
+Part 5.6  Winding up generally
+Division 1A  When winding up taken to begin
+518  Company limited both by shares and by guarantee
+
+Subject to section 519, if the company is a company limited both 
+by shares and by guarantee, neither of sections 516 and 517 applies 
+but the member need not contribute more than the aggregate of the 
+following:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

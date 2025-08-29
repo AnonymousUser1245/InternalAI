@@ -1,0 +1,227 @@
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 60
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+178 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025has, or has had within the preceding 24 months, a 
+relationship with:
+(iv) the company; or
+(v) an associate of the company; or
+(vi) a former liquidator, or former provisional liquidator, of 
+the company; or
+(via) a former restructuring practitioner for the company, or a 
+restructuring plan of the company; or
+(vii) a person who is entitled to enforce a security interest in 
+the whole, or substantially the whole, of the company’s 
+property (including any PPSA retention of title 
+property); and
+(b) if so, stating the administrator’s reasons for believing that 
+none of the relevant relationships result in the administrator 
+having a conflict of interest or duty.
+Restructuring practitioner
+(1A) In this Act, a declaration of relevant relationships, in relation to a 
+restructuring practitioner for a company under restructuring, means 
+a written declaration:
+(a) stating whether any of the following:
+(i) the restructuring practitioner;
+(ii) if the restructuring practitioner’s firm (if any) is a 
+partnership—a partner in that partnership;
+(iii) if the restructuring practitioner’s firm (if any) is a body 
+corporate—that body corporate or an associate of that 
+body corporate;
+has, or has had within the preceding 24 months, a 
+relationship with:
+(iv) the company; or
+(v) an associate of the company; or
+(vi) a former liquidator, or former provisional liquidator, of 
+the company; or
+(vii) a person who is entitled to enforce a security interest in 
+the whole, or substantially the whole, of the company’s 
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Meaning of some other expressions  Division 7
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 64A
+
+Corporations Act 2001 179
+Compilation No. 143 Compilation date: 09/07/2025property (including any PPSA retention of title 
+property); and
+(b) if so, stating the restructuring practitioner’s reasons for 
+believing that none of the relevant relationships result in the 
+restructuring practitioner having a conflict of interest or duty.
+Liquidator
+(2) In this Act, a declaration of relevant relationships, in relation to a 
+liquidator of a company, means a written declaration:
+(a) stating whether any of the following:
+(i) the liquidator;
+(ii) if the liquidator’s firm (if any) is a partnership—a 
+partner in that partnership;
+(iii) if the liquidator’s firm (if any) is a body corporate—that 
+body corporate or an associate of that body corporate;
+has, or has had within the preceding 24 months, a 
+relationship with:
+(iv) the company; or
+(v) an associate of the company; or
+(vi) a former liquidator, or former provisional liquidator, of 
+the company; or
+(vii) a former administrator of the company; or
+(viii) a former administrator of a deed of company 
+arrangement executed by the company; or
+(ix) a former restructuring practitioner for the company; or
+(x) a former restructuring practitioner for a restructuring 
+plan made by the company; and
+(b) if so, stating the liquidator’s reasons for believing that none 
+of the relevant relationships result in the liquidator having a 
+conflict of interest or duty.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+64A  Meaning of entity
+
+Except in Chapters 2E, 8A and 8B, a reference to an entity:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 64B
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+180 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) is a reference to a natural person, a body corporate (other 
+than an exempt public authority), a partnership or a trust; and
+(b) includes, in the case of a trust, a reference to the trustee of the 
+trust.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+64B  Entities connected with a corporation
+
+Body corporate
+(1) A body corporate is connected with a corporation if, and only if, 
+the corporation:
+(a) can control, or influence materially, the body’s activities or 
+internal affairs; or
+(b) is a member of the body; or
+(c) is in a position to cast, or to control the casting of, a vote at a 
+general meeting of the body; or
+(d) has power to dispose of, or to exercise control over the 
+disposal of, a share in the body; or
+(e) is financially interested in the body’s success or failure or 
+apparent success or failure; or
+(f) is owed a debt by the body; or
+(g) is engaged by the body under a contract for services; or
+(h) acts as agent for the body in any transaction or dealing.
+Natural person
+(2) A natural person is connected with a corporation if, and only if, the 
+corporation:
+(a) is a trustee of a trust under which the person is capable of 
+benefiting; or
+(b) is engaged by the person under a contract for services; or
+(c) acts as agent for the person in any transaction or dealing; or
+(d) is an attorney of the person under a power of attorney; or
+(e) has appointed the person as the corporation’s attorney under 
+a power of attorney; or
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Meaning of some other expressions  Division 7
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 64B
+
+Corporations Act 2001 181
+Compilation No. 143 Compilation date: 09/07/2025(f) is given financial, business or legal advice by the person in 
+the performance of the functions attaching to the person’s 
+professional capacity.
+Partnership
+(3) A partnership is connected with a corporation if, and only if, the 
+corporation:
+(a) is a partner in the partnership; or
+(b) can control, or influence materially, the partnership’s 
+activities or internal affairs; or
+(c) is financially interested in the partnership’s success or failure 
+or apparent success or failure; or
+(d) is a creditor of the partnership; or
+(e) is engaged by the partnership under a contract for services; or
+(f) acts as agent for the partnership in any transaction or dealing.
+Trust
+(4) A trust is connected with a corporation if, and only if, the 
+corporation:
+(a) is the settlor, or one of the settlors, of the trust; or
+(b) has power under the terms of the trust to appoint or remove a 
+trustee of the trust or to vary, or cause to be varied, any of the 
+terms of the trust; or
+(c) is a trustee of the trust; or
+(d) can control, or influence materially, the activities of the trust; 
+or
+(e) is capable of benefiting under the trust; or
+(f) is a creditor of the trustee of the trust; or
+(g) is engaged by the trustee of the trust under a contract for 
+services; or
+(h) acts as agent for the trustee of the trust in any transaction or 
+dealing.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 65
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+182 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/202565  Eligible money market dealer
+ASIC may declare a body corporate to be an authorised dealer in 
+the short term money market by notice published in the Gazette.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+66A  Meaning of exempt body corporate
+
+A body corporate is an exempt body corporate of a State or 
+Territory if, and only if, it:
+(a) is not a company; and
+(b) is incorporated by or under a law of the State or Territory.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+70  Extension of period for doing an act
+
+Where this Act confers power to extend the period for doing an act, 
+an application for the exercise of the power may be made, and the 
+power may be exercised, even if the period, or the period as last 
+extended, as the case requires, has ended.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+73A  When a court is taken to find a person guilty of an offence
+
+An Australian court finds a person guilty of an offence if, and only 
+if:
+(a) the court convicts the person of the offence; or
+(b) the person is charged before the court with the offence and is 
+found in the court to have committed the offence, but the 
+court does not proceed to convict the person of the offence.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+75  Inclusion in official list
+
+A reference to a body corporate or other person included in an 
+official list of a body corporate is a reference to:
+(a) a body corporate or other person whose name is included in 
+that official list; or
+(b) a body corporate or other person whose name has been 
+changed but whose previous name was included in that 
+official list immediately before the change and is still so 
+included.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Meaning of some other expressions  Division 7

@@ -1,0 +1,211 @@
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+Section 727
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+442 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: Sections 706, 707, 708, 708AA and 708A say when the offer needs 
+disclosure to investors under Part 6D.2.
+Non-quoted securities—waiting period after lodgment before 
+processing applications for securities
+(3) A person must not accept an application for, or issue or transfer, 
+non-quoted securities offered under a disclosure document until the 
+period of 7 days after lodgment of the disclosure document has 
+ended. ASIC may extend the period by notice in writing to the 
+person offering the securities. The period as extended must end no 
+more than 14 days after lodgment.
+Simple corporate bonds
+(3A) Subsection (3) does not apply in relation to an offer of securities 
+under a 2-part simple corporate bonds prospectus if the securities 
+are in the same class as existing securities that are quoted on a 
+declared financial market immediately before the application 
+period for the prospectus but for differences as to:
+(a) the fixed term of the securities (if any); or
+(b) the rate at which interest is payable under the securities; or
+(c) the dates on which the holders are to be paid interest under 
+the securities.
+Issue or transfer not to breach section 708 ceiling
+(4) If a person relies on subsection 708(1) to make offers of securities 
+without disclosure to investors under Part 6D.2, the person must 
+not issue or transfer securities without disclosure to investors under 
+that Part if the issue or transfer would result in a breach of the 20 
+investors ceiling or the $2 million ceiling (see subsections 708(3), 
+(4), (5), (6) and (7)).
+Circumstances in which a person is taken not to contravene this 
+section
+(5) If:
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Prohibitions, liabilities and remedies (other than for CSF offers)  Part 6D.3
+Prohibitions and liabilities  Division 1
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+Section 728
+
+Corporations Act 2001 443
+Compilation No. 143 Compilation date: 09/07/2025(a) a person relies on subsection 708AA(2) or 708A(5) to make 
+offers of securities for issue or sale without disclosure to 
+investors under Part 6D.2; and
+(b) the notice given under that subsection purported to comply 
+with subsection 708AA(7) or 708A(6) but did not actually 
+comply with subsection 708AA(7) or 708A(6);
+the person is taken not to contravene this section.
+Civil liability
+(6) A person contravenes this subsection if the person contravenes 
+subsection (1), (2), (3) or (4).
+Note: This subsection is a civil penalty provision (see section 1317E).
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+728  Misstatement in, or omission from, disclosure document
+
+Misleading or deceptive statements, omissions and new matters
+(1) A person must not offer securities under a disclosure document if 
+there is:
+(a) a misleading or deceptive statement in:
+(i) the disclosure document; or
+(ii) any application form that accompanies the disclosure 
+document; or
+(iii) any document that contains the offer if the offer is not in 
+the disclosure document or the application form; or
+(b) an omission from the disclosure document of material 
+required by section 710, 711, 712, 713, 713C, 713D, 713E,
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+714 or 715; or
+
+(c) a new circumstance that:
+(i) has arisen since the disclosure document was lodged; 
+and
+(ii) would have been required by section 710, 711, 712,
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+713, 713C, 713D, 713E, 714 or 715 to be included in
+
+the disclosure document if it had arisen before the 
+disclosure document was lodged.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+Section 728
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+444 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note 1: The person may make further offers after making up the deficiency in 
+the current disclosure document by lodging a supplementary or 
+replacement document.
+Note 2: See sections 731, 732 and 733 for defences.
+Note 3: Section 1041H imposes liabilities in respect of other conduct related 
+to the offering of the securities.
+Forecasts and other forward-looking statements
+(2) A person is taken to make a misleading statement about a future 
+matter (including the doing of, or refusing to do, an act) if they do 
+not have reasonable grounds for making the statement. This 
+subsection does not limit the meaning of a reference to a 
+misleading statement or a statement that is misleading in a material 
+particular.
+Offence if statement, omission or new matter materially adverse
+(3) A person commits an offence if they contravene subsection (1) 
+and:
+(a) the misleading or deceptive statement; or
+(b) the omission or new circumstance;
+is materially adverse from the point of view of an investor.
+Civil liability if statement, omission or new matter materially 
+adverse
+(4) A person contravenes this subsection if:
+(a) the person contravenes subsection (1); and
+(b) either:
+(i) the misleading or deceptive statement; or
+(ii) the omission or new circumstance;
+is materially adverse from the point of view of an investor.
+Note: This subsection is a civil penalty provision (see section 1317E).
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Prohibitions, liabilities and remedies (other than for CSF offers)  Part 6D.3
+Prohibitions and liabilities  Division 1
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+Section 729
+
+Corporations Act 2001 445
+Compilation No. 143 Compilation date: 09/07/2025729  Right to recover for loss or damage resulting from 
+contravention
+Right to compensation
+(1) A person who suffers loss or damage because an offer of securities 
+under a disclosure document contravenes subsection 728(1) may 
+recover the amount of the loss or damage from a person referred to 
+in the following table if the loss or damage is one that the table 
+makes the person liable for. This is so even if the person did not 
+commit, and was not involved in, the contravention.
+People liable on disclosure document [operative]
+These people... are liable for loss or damage caused 
+by...
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+1 the person making the offer any contravention of subsection 728(1)
+
+in relation to the disclosure document
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+2 each director of the body making
+
+the offer if the offer is made by a 
+bodyany contravention of subsection 728(1) 
+in relation to the disclosure document
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+3 a person named in the disclosure
+
+document with their consent as a 
+proposed director of the body 
+whose securities are being offeredany contravention of subsection 728(1) 
+in relation to the disclosure document
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+4 an underwriter (but not a
+
+sub-underwriter) to the issue or 
+sale named in the disclosure 
+document with their consentany contravention of subsection 728(1) 
+in relation to the disclosure document
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+5 a person named in the disclosure
+
+document with their consent as 
+having made a statement:
+(a) that is included in the 
+disclosure document; or
+(b) on which a statement made in 
+the disclosure document is 
+basedthe inclusion of the statement in the 
+disclosure document
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+Section 730
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+446 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025People liable on disclosure document [operative]
+These people... are liable for loss or damage caused 
+by...
+
+Part 6D.3  Prohibitions, liabilities and remedies (other than for CSF offers)
+Division 1  Prohibitions and liabilities
+6 a person who contravenes, or is

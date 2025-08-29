@@ -1,0 +1,206 @@
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+Section 901C
+
+Corporations Act 2001 387
+Compilation No. 143 Compilation date: 09/07/2025901C  Regulations may limit the transactions in relation to which 
+rules may impose requirements
+The regulations may provide that the derivative transaction rules:
+(a) cannot impose requirements (or certain kinds of 
+requirements) in relation to certain classes of derivative 
+transactions; or
+(b) can only impose requirements (or certain kinds of 
+requirements) in relation to certain classes of derivative 
+transactions in certain circumstances.
+Note: A class of derivative transactions can be described by reference to any 
+matter, including (for example):
+(a) the derivatives to which transactions relate; or
+(b) the circumstances in which transactions were entered into; or
+(c) the time when, or place where, transactions were entered into; or
+(d) the parties to transactions.
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+901D  Regulations may limit the persons on whom requirements may
+
+be imposed
+The regulations may provide that the derivative transaction rules:
+(a) cannot impose requirements (or certain kinds of 
+requirements) on certain classes of persons; or
+(b) can only impose requirements (or certain kinds of 
+requirements) on certain classes of persons in certain 
+circumstances.
+Note: A class of persons may be described by reference to any matter, 
+including (for example):
+(a) the volume of derivative transactions entered into by persons 
+over a period; or
+(b) the characteristics or nature of persons or of their businesses; or
+(c) the place of residence or business of persons.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+Section 901E
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+388 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision B—Compliance with derivative transaction rules
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+901E  Obligation to comply with derivative transaction rules
+
+(1) A person must comply with provisions of the derivative transaction 
+rules that apply to the person.
+Note: This section is a civil penalty provision (see section 1317E). For relief 
+from liability to a civil penalty relating to this section, see 
+section 1317S.
+(2) If there is an inconsistency between the derivative transaction rules 
+and the derivative trade repository rules, the derivative transaction 
+rules prevail to the extent of the inconsistency.
+Note 1: If there is an inconsistency between the market integrity rules and the 
+derivative transaction rules, the market integrity rules prevail: see 
+subsection 798H(3).
+Note 2: If there is an inconsistency between the standards determined under 
+section 827D and the derivative transaction rules, the standards 
+prevail: see subsection 827D(2A).
+Note 3: If there is an inconsistency between the derivative transaction rules 
+and the client money reporting rules, the derivative transaction rules 
+prevail: see subsection 981M(2).
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+901F  Alternatives to civil proceedings
+
+(1) The regulations may provide for a person who is alleged to have 
+contravened section 901E to do one or more of the following as an 
+alternative to civil proceedings:
+(a) pay a penalty to the Commonwealth;
+(b) undertake or institute remedial measures (including education 
+programs);
+(c) accept sanctions other than the payment of a penalty to the 
+Commonwealth;
+(d) enter into a legally enforceable undertaking.
+(2) The penalty payable under regulations made under paragraph (1)(a) 
+in relation to an alleged contravention of a derivative transaction 
+rule must not exceed:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Regulation of derivative transactions and derivative trade repositories  Part 7.5A
+Regulation of derivative transactions: derivative transaction rules  Division 2
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+Section 901G
+
+Corporations Act 2001 389
+Compilation No. 143 Compilation date: 09/07/2025(a) for an individual—200 penalty units; and
+(b) for a body corporate—1,000 penalty units.
+(3) Without limiting regulations that may be made for the purpose of 
+paragraph (1)(d), those regulations may provide for one or more of 
+the following kinds of undertakings:
+(a) an undertaking to take specified action within a specified 
+period;
+(b) an undertaking to refrain from taking specified action;
+(c) an undertaking to pay a specified amount within a specified 
+period to the Commonwealth or to some other specified 
+person.
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+901G  Failure to comply with derivative transaction rules does not
+
+invalidate transaction etc.
+A failure, in relation to a derivative transaction, to comply with a 
+requirement of the derivative transaction rules does not invalidate 
+the transaction or affect any rights or obligations arising under, or 
+relating to, the transaction.
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+Section 901J
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+390 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025proposed rule on any Australian market or markets on 
+which the commodities concerned may be traded; and
+(b) may have regard to any other matters that ASIC considers 
+relevant.
+Note: Matters that ASIC may have regard to under paragraph (b) may, for 
+example, include:
+(a) any relevant international standards and international 
+commitments; and
+(b) matters raised in consultations (if any) under section 901J.
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+901J  ASIC to consult before making rules
+
+(1) ASIC must not make a derivative transaction rule unless ASIC:
+(a) has consulted the public about the proposed rule; and
+(b) has also consulted the following about the proposed rule:
+(i) APRA;
+(ii) the Reserve Bank;
+(iii) any other person or body as required by regulations 
+made for the purpose of this subparagraph.
+Note: In some situations, consultation is not required: see section 901L.
+(2) Without limiting the ways in which ASIC may comply with the 
+obligation in paragraph (1)(a) to consult the public about a 
+proposed rule, ASIC is taken to comply with that obligation if 
+ASIC, on its website:
+(a) makes the proposed rule, or a description of the content of 
+the proposed rule, available; and
+(b) invites the public to comment on the proposed rule.
+(3) A failure to consult as required by subsection (1) does not 
+invalidate a derivative transaction rule.
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+901K  Ministerial consent to rules required
+
+(1) ASIC must not make a derivative transaction rule unless the 
+Minister has consented, in writing, to the making of the rule.
+Note: In some situations, consent is not required: see section 901L.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Regulation of derivative transactions and derivative trade repositories  Part 7.5A
+Regulation of derivative transactions: derivative transaction rules  Division 2
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+Section 901L
+
+Corporations Act 2001 391
+Compilation No. 143 Compilation date: 09/07/2025(2) A consent under subsection (1) is not a legislative instrument.
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+901L  Emergency rules: consultation and consent not required
+
+(1) ASIC may make a derivative transaction rule without consulting as 
+required by section 901J, and without the consent of the Minister 
+as required by section 901K, if ASIC is of the opinion that it is 
+necessary, or in the public interest, to do so in order to protect:
+(a) the Australian economy; or
+(b) the efficiency, integrity and stability of the Australian 
+financial system.
+(2) However, if ASIC does so, ASIC must:
+(a) provide the Minister, on the following day, with a written 
+explanation of the need for the rule; and
+(b) amend or revoke the rule in accordance with any written 
+directions of the Minister.
+(3) A direction under paragraph (2)(b) is not a legislative instrument.
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 2  Regulation of derivative transactions: derivative transaction rules
+901M  Amendment and revocation of derivative transaction rules
+
+(1) ASIC may amend or revoke a derivative transaction rule in like 
+manner and subject to like conditions (see subsections 33(3) and 
+(3AA) of the Acts Interpretation Act 1901).
+(2) However, the requirements of sections 901H, 901J and 901K do 
+not apply in relation to an amendment or revocation pursuant to a 
+direction by the Minister under paragraph 901L(2)(b).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

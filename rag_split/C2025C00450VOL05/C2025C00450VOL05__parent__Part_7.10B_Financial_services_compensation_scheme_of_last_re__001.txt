@@ -1,0 +1,32 @@
+Part 7.10B  Financial services compensation scheme of last resort
+Division 2  Compensation payments under the scheme
+Section 1069
+
+Corporations Act 2001 283
+Compilation No. 143 Compilation date: 09/07/20251069  Acceptance of offer of compensation payments
+(1) A person accepts an offer made under section 1068 of an amount 
+of compensation if the person notifies the CSLR operator, in 
+writing, that the person accepts the offer.
+(2) If the person does not accept the offer within 90 days after the day 
+the offer is made, the person is taken to have withdrawn their 
+application for compensation for the relevant AFCA determination 
+to which the offer relates.
+
+Part 7.10B  Financial services compensation scheme of last resort
+Division 2  Compensation payments under the scheme
+1069A  CSLR operator’s right of subrogation if compensation is paid
+
+If:
+(a) the CSLR operator pays an amount of compensation:
+(i) to a person under section 1063; and
+(ii) for a relevant AFCA determination that required 
+payment of an amount by another person (the AFCA 
+member) who is, or was, a member of the AFCA 
+scheme; and
+(b) the AFCA member is (or has become) a Chapter 5 body 
+corporate;
+the CSLR operator is subrogated, to the extent of that amount of 
+compensation, to any rights and remedies that the person may 
+have, in relation to the relevant AFCA determination, that are 
+recognised by an officer of the Chapter 5 body corporate.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

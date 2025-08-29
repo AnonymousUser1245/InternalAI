@@ -1,0 +1,180 @@
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+Section 459G
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+496 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 3—Application to set aside statutory demand
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+459G  Company may apply
+
+(1) A company may apply to the Court for an order setting aside a 
+statutory demand served on the company.
+(2) An application may only be made within the statutory period after 
+the demand is so served.
+(3) An application is made in accordance with this section only if, 
+within that period:
+(a) an affidavit supporting the application is filed with the Court; 
+and
+(b) a copy of the application, and a copy of the supporting 
+affidavit, are served on the person who served the demand on 
+the company.
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+459H  Determination of application where there is a dispute or
+
+offsetting claim
+(1) This section applies where, on an application under section 459G, 
+the Court is satisfied of either or both of the following:
+(a) that there is a genuine dispute between the company and the 
+respondent about the existence or amount of a debt to which 
+the demand relates;
+(b) that the company has an offsetting claim.
+(2) The Court must calculate the substantiated amount of the demand 
+in accordance with the formula:
+where:
+admitted total means:
+(a) the admitted amount of the debt; orAdmitted total Offsetting total  -
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up in insolvency  Part 5.4
+Application to set aside statutory demand  Division 3
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+Section 459H
+
+Corporations Act 2001 497
+Compilation No. 143 Compilation date: 09/07/2025(b) the total of the respective admitted amounts of the debts;
+as the case requires, to which the demand relates.
+offsetting total means:
+(a) if the Court is satisfied that the company has only one 
+offsetting claim—the amount of that claim; or
+(b) if the Court is satisfied that the company has 2 or more 
+offsetting claims—the total of the amounts of those claims; 
+or
+(c) otherwise—a nil amount.
+(3) If the substantiated amount is less than the statutory minimum, the 
+Court must, by order, set aside the demand.
+(4) If the substantiated amount is at least as great as the statutory 
+minimum, the Court may make an order:
+(a) varying the demand as specified in the order; and
+(b) declaring the demand to have had effect, as so varied, as from 
+when the demand was served on the company.
+(5) In this section:
+admitted amount, in relation to a debt, means:
+(a) if the Court is satisfied that there is a genuine dispute 
+between the company and the respondent about the existence 
+of the debt—a nil amount; or
+(b) if the Court is satisfied that there is a genuine dispute 
+between the company and the respondent about the amount 
+of the debt—so much of that amount as the Court is satisfied 
+is not the subject of such a dispute; or
+(c) otherwise—the amount of the debt.
+offsetting claim means a genuine claim that the company has 
+against the respondent by way of counterclaim, set-off or 
+cross-demand (even if it does not arise out of the same transaction 
+or circumstances as a debt to which the demand relates).
+respondent means the person who served the demand on the 
+company.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+Section 459J
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+498 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(6) This section has effect subject to section 459J.
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+459J  Setting aside demand on other grounds
+
+(1) On an application under section 459G, the Court may by order set 
+aside the demand if it is satisfied that:
+(a) because of a defect in the demand, substantial injustice will 
+be caused unless the demand is set aside; or
+(b) there is some other reason why the demand should be set 
+aside.
+(2) Except as provided in subsection (1), the Court must not set aside a 
+statutory demand merely because of a defect.
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+459K  Effect of order setting aside demand
+
+A statutory demand has no effect while there is in force under 
+section 459H or 459J an order setting aside the demand.
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+459L  Dismissal of application
+
+Unless the Court makes, on an application under section 459J, an 
+order under section 459H or 459J, the Court is to dismiss the 
+application.
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+459M  Order subject to conditions
+
+An order under section 459H or 459J may be made subject to 
+conditions.
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+459N  Costs where company successful
+
+Where, on an application under section 459G, the Court sets aside 
+the demand, it may order the person who served the demand to pay 
+the company’s costs in relation to the application.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up in insolvency  Part 5.4
+Application for order to wind up company in insolvency  Division 4
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+Section 459P
+
+Corporations Act 2001 499
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Application for order to wind up company in 
+insolvency
+
+Part 5.4  Winding up in insolvency
+Division 3  Application to set aside statutory demand
+459P  Who may apply for order under section 459A
+
+(1) Any one or more of the following may apply to the Court for a 
+company to be wound up in insolvency:
+(a) the company;
+(b) a creditor (even if the creditor is a secured creditor or is only 
+a contingent or prospective creditor);
+(c) a contributory;
+(d) a director;
+(e) a liquidator or provisional liquidator of the company;
+(f) ASIC;
+(g) a prescribed agency.
+Note: The Reserve Bank may also apply under this section to the Court for 
+an order if a condition in section 831A is satisfied in relation to a CS 
+facility licensee: see section 849AA.
+(2) An application by any of the following, or by persons including 
+any of the following, may only be made with the leave of the 
+Court:
+(a) a person who is a creditor only because of a contingent or 
+prospective debt;
+(b) a contributory;
+(c) a director;
+(d) ASIC.
+(3) The Court may give leave if satisfied that there is a prima facie 
+case that the company is insolvent, but not otherwise.
+(4) The Court may give leave subject to conditions.
+(5) Except as permitted by this section, a person cannot apply for a 
+company to be wound up in insolvency.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

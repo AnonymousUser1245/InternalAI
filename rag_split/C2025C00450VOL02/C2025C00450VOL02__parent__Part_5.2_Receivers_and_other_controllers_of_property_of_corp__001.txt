@@ -1,0 +1,184 @@
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 420
+
+Corporations Act 2001 303
+Compilation No. 143 Compilation date: 09/07/2025(n) to use a seal of the corporation; and
+(o) to engage or discharge employees on behalf of the 
+corporation; and
+(p) to appoint a solicitor, accountant or other professionally 
+qualified person to assist the receiver; and
+(q) to appoint an agent to do any business that the receiver is 
+unable to do, or that it is unreasonable to expect the receiver 
+to do, in person; and
+(r) where a debt or liability is owed to the corporation—to prove 
+the debt or liability in a bankruptcy, insolvency or winding 
+up and, in connection therewith, to receive dividends and to 
+assent to a proposal for a composition, a scheme of 
+arrangement or a restructuring plan; and
+(s) if the receiver was appointed under an instrument that created 
+a security interest in uncalled share capital of the corporation:
+(i) to make a call in the name of the corporation for the 
+payment of money unpaid on the corporation’s shares; 
+or
+(ii) on giving a proper indemnity to a liquidator of the 
+corporation—to make a call in the liquidator’s name for 
+the payment of money unpaid on the corporation’s 
+shares; and
+(t) to enforce payment of any call that is due and unpaid, 
+whether the calls were made by the receiver or otherwise; 
+and
+(u) to make or defend an application for the winding up of the 
+corporation; and
+(w) to refer to arbitration any question affecting the corporation.
+(3) The conferring by this section on a receiver of powers in relation to 
+property of a corporation does not affect any rights in relation to 
+that property of any other person other than the corporation.
+(4) In this section, a reference, in relation to a receiver, to property of a 
+corporation is, unless the contrary intention appears, a reference to 
+the property of the corporation in relation to which the receiver 
+was appointed.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 420A
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+304 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(5) In this section:
+lease includes a lease of goods that gives rise to a PPSA security 
+interest in the goods.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+420A  Controller’s duty of care in exercising power of sale
+
+(1) In exercising a power of sale in respect of property of a 
+corporation, a controller must take all reasonable care to sell the 
+property for:
+(a) if, when it is sold, it has a market value—not less than that 
+market value; or
+(b) otherwise—the best price that is reasonably obtainable, 
+having regard to the circumstances existing when the 
+property is sold.
+(2) Nothing in subsection (1) limits the generality of anything in 
+section 180, 181, 182, 183 or 184.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+420B  Court may authorise managing controller to dispose of
+
+property despite prior security interest
+(1) On the application of a managing controller of property of a 
+corporation, the Court may by order authorise the controller to sell, 
+or to dispose of in some other specified way, specified property of 
+the corporation, even though it is subject to a security interest (the 
+prior security interest) that has priority over a security interest (the 
+controller’s security interest) in that property that the controller is 
+enforcing.
+(2) However, the Court may only make an order if satisfied that:
+(a) apart from the existence of the prior security interest, the 
+controller would have power to sell, or to so dispose of, the 
+property; and
+(b) the controller has taken all reasonable steps to obtain the 
+consent of the secured party in relation to the prior security 
+interest to the sale or disposal, but has not obtained that 
+consent; and
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 420B
+
+Corporations Act 2001 305
+Compilation No. 143 Compilation date: 09/07/2025(c) sale or disposal of the property under the order is in the best 
+interests of the corporation’s creditors and of the corporation; 
+and
+(d) sale or disposal of the property under the order will not 
+unreasonably prejudice the rights or interests of the secured 
+party in relation to the prior security interest.
+(3) The Court is to have regard to the need to protect adequately the 
+rights and interests of the secured party in relation to the prior 
+security interest.
+(4) If the property would be sold or disposed of together with other 
+property that is subject to the controller’s security interest, the 
+Court may have regard to:
+(a) the amount (if any) by which it is reasonable to expect that 
+the net proceeds of selling or disposing of that other property 
+otherwise than together with the first-mentioned property 
+would be less than so much of the net proceeds of selling or 
+disposing of all the property together as would be attributable 
+to that other property; and
+(b) the amount (if any) by which it is reasonable to expect that 
+the net proceeds of selling or disposing of the first-mentioned 
+property otherwise than together with the other property 
+would be greater than so much of the net proceeds of selling 
+or disposing of all the property together as would be 
+attributable to the first-mentioned property.
+(5) Nothing in subsection (3) or (4) limits the matters to which the 
+Court may have regard for the purposes of subsection (2).
+(6) An order may be made subject to conditions, for example (but 
+without limitation):
+(a) a condition that:
+(i) the net proceeds of the sale or disposal; and
+(ii) the net proceeds of the sale or disposal of such other 
+property (if any) as is specified in the condition and is 
+subject to the controller’s security interest;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 420C
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+306 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025or a specified part of those net proceeds, be applied in 
+payment of specified amounts secured by the prior security 
+interest; or
+(b) a condition that the controller apply a specified amount in 
+payment of specified amounts secured by the prior security 
+interest.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+420C  Receiver’s power to carry on corporation’s business during
+
+winding up
+(1) A receiver of property of a corporation that is being wound up 
+may:
+(a) with the written approval of the corporation’s liquidator or 
+with the approval of the Court, carry on the corporation’s 
+business either generally or as otherwise specified in the 
+approval; and
+(b) do whatever is necessarily incidental to carrying on that 
+business under paragraph (a).
+(2) Subsection (1) does not:
+(a) affect a power that the receiver has otherwise than under that 
+subsection; or
+(b) empower the receiver to do an act that he or she would not 
+have power to do if the corporation were not being wound 
+up.
+(3) A receiver of property of a corporation who carries on the 
+corporation’s business under subsection (1) does so:
+(a) as agent for the corporation; and
+(b) in his or her capacity as receiver of property of the 
+corporation.
+(4) The consequences of subsection (3) include, but are not limited to, 
+the following:
+(a) for the purposes of subsection 419(1), a debt that the receiver 
+incurs in carrying on the business as mentioned in 
+subsection (3) of this section is incurred in the course of the 
+receivership;
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 421
+
+Corporations Act 2001 307
+Compilation No. 143 Compilation date: 09/07/2025(b) a debt or liability that the receiver incurs in so carrying on the 
+business is not a cost, charge or expense of the winding up.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+421  Managing controller’s duties in relation to bank accounts and

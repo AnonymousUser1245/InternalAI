@@ -1,0 +1,224 @@
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+Section 952G
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+692 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025the disclosure document or statement concerned is required 
+to contain; and
+(c) the representative prepares the disclosure document or 
+statement on the basis that the information is all the 
+information relating to the matter or matters that the 
+disclosure document or statement is required to contain; and
+(d) the disclosure document or statement is defective because it 
+includes only that information about the matter or matters 
+(whether or not it is also defective for other reasons).
+(7) For the purposes of an offence based on subsection (6), strict 
+liability applies to the physical elements of the offence specified in 
+paragraphs (6)(b) and (d).
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(8) In any proceedings against a person for an offence based on 
+subsection (2), it is a defence if the person took reasonable steps to 
+ensure that the disclosure document or statement would not be 
+defective.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (8). See subsection 13.3(3) of the Criminal Code.
+(9) In any proceedings against a person for an offence based on 
+subsection (4), it is a defence if the person took reasonable steps to 
+ensure that the information they provided would not be such as to 
+make the disclosure document or statement defective.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (9). See subsection 13.3(3) of the Criminal Code.
+(10) In any proceedings against a person for an offence based on 
+subsection (6), it is a defence if the person took reasonable steps to 
+ensure that the information they provided about the matter or 
+matters would be all the information about the matter or matters 
+that the disclosure document or statement would be required to 
+contain.
+Note: A defendant bears an evidential burden in relation to the matters in 
+subsection (10). See subsection 13.3(3) of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial services disclosure  Part 7.7
+Enforcement  Division 7
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+Section 952H
+
+Corporations Act 2001 693
+Compilation No. 143 Compilation date: 09/07/2025952H  Financial services licensee failing to ensure authorised 
+representative gives disclosure documents or statements 
+as required
+Obligation
+(1) A financial services licensee contravenes this subsection if the 
+licensee does not take reasonable steps to ensure that an authorised 
+representative of the licensee:
+(a) complies with their obligations under this Part to give, or 
+make available, disclosure documents or statements as and 
+when required; and
+(b) without limiting paragraph (a), does not, in purported 
+compliance with obligations under this Part, give, or make 
+available, disclosure documents or statements that are 
+defective.
+Fault-based offence
+(2) A person commits an offence if the person contravenes 
+subsection (1).
+Civil liability
+(3) A person contravenes this subsection if the person contravenes 
+subsection (1).
+Note: This subsection is a civil penalty provision (see section 1317E).
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+952I  Offences if a Financial Services Guide, Supplementary FSG or
+
+website disclosure information does not comply with 
+certain requirements
+(1) A financial services licensee commits an offence if:
+(a) the licensee:
+(i) gives (see subsection (6)) a person a Financial Services 
+Guide in circumstances in which it is required by a 
+provision of this Part to be given to the person; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+Section 952I
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+694 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) gives (see subsection (6)), or makes available to, a 
+person a Financial Services Guide, reckless as to 
+whether the person will or may rely on the information 
+in it; and
+(b) the Financial Services Guide does not comply with 
+section 942A, subsection 942B(5) or 942DA(3) or 
+paragraph 942E(b).
+(2) A financial services licensee commits an offence if:
+(a) the financial services licensee authorises the distribution of a 
+Financial Services Guide by an authorised representative of 
+the licensee; and
+(b) the Financial Services Guide does not comply with 
+section 942A, subsection 942B(5) or 942DA(3) or 
+paragraph 942E(b).
+(3) A financial services licensee commits an offence if:
+(a) the licensee:
+(i) gives (see subsection (6)) a person a Supplementary 
+Financial Services Guide in circumstances in which it is 
+required by a provision of this Part to be given to the 
+person; or
+(ii) gives (see subsection (6)), or makes available to, a 
+person a Supplementary Financial Services Guide, 
+reckless as to whether the person will or may rely on the 
+information in it; and
+(b) the Supplementary Financial Services Guide does not comply 
+with section 943B or 943C.
+(4) A financial services licensee commits an offence if:
+(a) the financial services licensee authorises the distribution of a 
+Supplementary Financial Services Guide by an authorised 
+representative of the licensee; and
+(b) the Supplementary Financial Services Guide does not comply 
+with section 943B or 943C.
+(4A) A financial services licensee commits an offence if:
+(a) the licensee:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial services disclosure  Part 7.7
+Enforcement  Division 7
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+Section 952J
+
+Corporations Act 2001 695
+Compilation No. 143 Compilation date: 09/07/2025(i) makes available, on its website, website disclosure 
+information, in circumstances in which it is required by 
+a provision of this Part to do so; or
+(iv) makes available, on its website, website disclosure 
+information, reckless as to whether a person will or may 
+rely on the information; and
+(b) the website disclosure information does not comply with 
+paragraph 943L(2)(b) or 943M(b).
+(4B) A financial services licensee commits an offence if:
+(a) the financial services licensee authorises the distribution of 
+website disclosure information by an authorised 
+representative of the licensee; and
+(b) the website disclosure information does not comply with 
+paragraph 943L(2)(b) or 943M(b).
+(5) For the purposes of an offence based on subsection (1), (2), (3), 
+(4), (4A) or (4B), strict liability applies to paragraph (b) of that 
+subsection.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+(6) In this section, give means give by any means (including orally), 
+and is not limited to the meaning it has because of section 940C.
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+952J  Offence if a Statement of Advice does not comply with certain
+
+requirements
+(1) A financial services licensee, or an authorised representative of a 
+financial services licensee, commits an offence if:
+(a) the licensee or representative gives (see subsection (3)) a 
+person a Statement of Advice in circumstances in which it is 
+required by a provision of this Part to be given to the person; 
+and
+(b) the Statement of Advice does not comply with section 947A 
+or 947E.
+(2) For the purposes of an offence based on subsection (1), strict 
+liability applies to paragraph (b) of that subsection.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+Section 952JA
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+696 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: For strict liability, see section 6.1 of the Criminal Code.
+(3) In this section, give means give by any means (including orally), 
+and is not limited to the meaning it has because of section 940C.
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+952JA  Offence if a Cash Settlement Fact Sheet does not comply with
+
+certain requirements
+(1) A financial services licensee, or an authorised representative of a 
+financial services licensee, commits an offence if:
+(a) the licensee or representative gives (see subsection (3)) a 
+person a Cash Settlement Fact Sheet in circumstances in 
+which it is required by a provision of this Part to be given to 
+the person; and
+(b) the Cash Settlement Fact Sheet does not comply with 
+section 948E.
+Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(2) For the purposes of an offence based on subsection (1), strict 
+liability applies to paragraph (b) of that subsection.
+(3) In this section, give means give by any means (including orally), 
+and is not limited to the meaning it has because of section 940C.
+
+Part 7.7  Financial services disclosure
+Division 7  Enforcement
+952K  Offence if authorised representative gives out unauthorised
+
+Financial Services Guide, Supplementary FSG or website 
+disclosure information
+An authorised representative of a financial services licensee 
+commits an offence if:
+(a) the representative:
+(i) gives a person a Financial Services Guide, or a 
+Supplementary Financial Services Guide, in 
+circumstances in which it is required by a provision of 
+this Part to be given to the person; or
+(ii) gives, or makes available to, a person a Financial 
+Services Guide, or a Supplementary Financial Services 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial services disclosure  Part 7.7
+Enforcement  Division 7

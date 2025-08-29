@@ -1,0 +1,32 @@
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 1—Preliminary
+908AA  Simplified outline of this Part
+
+Administrators of significant financial benchmarks must be 
+licensed under this Part. Administrators of other financial 
+benchmarks may voluntarily opt in to the same licensing scheme.
+Licensees are subject to certain obligations.
+ASIC may make financial benchmark rules that apply in relation to 
+licensees and the financial benchmarks they administer.
+ASIC may also make compelled financial benchmark rules to deal 
+with circumstances such as the failure of a licensee to administer a 
+significant financial benchmark specified in its licence.
+Offences and civil penalty provisions apply to conduct that could 
+unduly manipulate a financial benchmark.
+
+Part 7.5A  Regulation of derivative transactions and derivative trade repositories
+Division 1—Preliminary
+908AB  Meaning of financial benchmark
+
+(1) A financial benchmark is a price, estimate, rate, index or value 
+that:
+(a) is made available to users (whether or not for a fee); and
+(b) is calculated periodically from one or more:
+(i) transactions, instruments, currencies, prices, estimates, 
+rates, indices, values, financial products, bank accepted 
+bills or negotiable certificates of deposit; or
+(ii) other interests or goods (whether tangible or intangible); 
+and
+(c) is referenced or otherwise used for purposes that include one 
+or more of the following:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

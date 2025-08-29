@@ -1,0 +1,133 @@
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+194  Voting and completion of transactions—directors of proprietary
+
+companies (replaceable rule—see section 135)
+If a director of a proprietary company has a material personal 
+interest in a matter that relates to the affairs of the company and:
+(a) under section 191 the director discloses the nature and extent 
+of the interest and its relation to the affairs of the company at 
+a meeting of the directors; or
+(b) the interest is one that does not need to be disclosed under 
+section 191;
+then:
+(c) the director may vote on matters that relate to the interest; 
+and
+(d) any transactions that relate to the interest may proceed; and
+(e) the director may retain benefits under the transaction even 
+though the director has the interest; and
+(f) the company cannot avoid the transaction merely because of 
+the existence of the interest.
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Duties and powers  Part 2D.1
+Disclosure of, and voting on matters involving, material personal interests  Division 2
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+Section 195
+
+Corporations Act 2001 365
+Compilation No. 143 Compilation date: 09/07/2025If disclosure is required under section 191, paragraphs (e) and (f) 
+apply only if the disclosure is made before the transaction is 
+entered into.
+Note: A director may need to give notice to the other directors if the director 
+has a material personal interest in a matter relating to the affairs of the 
+company (see section 191).
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+195  Restrictions on voting—directors of public companies only
+
+Restrictions on voting and being present
+(1) A director of a public company who has a material personal 
+interest in a matter that is being considered at a directors’ meeting 
+must not:
+(a) be present while the matter is being considered at the 
+meeting; or
+(b) vote on the matter.
+(1A) Subsection (1) does not apply if:
+(a) subsection (2) or (3) allows the director to be present; or
+(b) the interest does not need to be disclosed under section 191.
+Note: A defendant bears an evidential burden in relation to the matter in 
+subsection (1A), see subsection 13.3(3) of the Criminal Code.
+(1B) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Participation with approval of other directors
+(2) The director may be present and vote if directors who do not have 
+a material personal interest in the matter have passed a resolution 
+that:
+(a) identifies the director, the nature and extent of the director’s 
+interest in the matter and its relation to the affairs of the 
+company; and
+(b) states that those directors are satisfied that the interest should 
+not disqualify the director from voting or being present.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2D  Officers and employees
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+Section 196
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+366 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Participation with ASIC approval
+(3) The director may be present and vote if they are so entitled under a 
+declaration or order made by ASIC under section 196.
+Director may consider or vote on resolution to deal with matter at 
+general meeting
+(4) If there are not enough directors to form a quorum for a directors’ 
+meeting because of subsection (1), 1 or more of the directors 
+(including those who have a material personal interest in that 
+matter) may call a general meeting and the general meeting may 
+pass a resolution to deal with the matter.
+Effect of contravention by director
+(5) A contravention by a director of:
+(a) this section; or
+(b) a condition attached to a declaration or order made by ASIC 
+under section 196;
+does not affect the validity of any resolution.
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+196  ASIC power to make declarations and class orders
+
+ASIC’s power to make specific declarations
+(1) ASIC may declare in writing that a director of a public company 
+who has a material personal interest in a matter that is being, or is 
+to be, considered at a directors’ meeting may, despite the director’s 
+interest, be present while the matter is being considered at the 
+meeting, vote on the matter, or both be present and vote. However, 
+ASIC may only make the declaration if:
+(a) the number of directors entitled to be present and vote on the 
+matter would be less than the quorum for a directors’ meeting 
+if the director were not allowed to vote on the matter at the 
+meeting; and
+(b) the matter needs to be dealt with urgently, or there is some 
+other compelling reason for the matter being dealt with at the 
+Authorised Version C2025C00450 registered 21/07/2025Officers and employees  Chapter 2D
+Duties and powers  Part 2D.1
+Disclosure of, and voting on matters involving, material personal interests  Division 2
+
+Part 2D.1  Duties and powers
+Division 2  Disclosure of, and voting on matters involving, material personal interests
+Section 196
+
+Corporations Act 2001 367
+Compilation No. 143 Compilation date: 09/07/2025directors’ meeting, rather than by a general meeting called 
+under subsection 195(4).
+(2) The declaration may:
+(a) apply to all or only some of the directors; or
+(b) specify conditions that the company or director must comply 
+with.
+ASIC’s power to make class orders
+(3) ASIC may make an order in writing that enables directors who 
+have a material personal interest in a matter to be present while the 
+matter is being considered at a directors’ meeting, vote on that 
+matter, or both be present and vote. The order may be made in 
+respect of a specified class of public companies, directors, 
+resolutions or interests.
+(4) The order may be expressed to be subject to conditions.
+(5) Notice of the making, revocation or suspension of the order must 
+be published in the Gazette.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2D  Officers and employees

@@ -1,0 +1,19 @@
+Part 7.3A  CS services
+Division 1—Preliminary
+828  Meaning of CS service
+
+(1) A CS service is a service that can only be provided if it has access 
+to a clearing and settlement facility, or to data used in the operation 
+of a clearing and settlement facility.
+(2) The operation of a clearing and settlement facility is taken to be the 
+provision of a CS service.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+CS services  Part 7.3A
+Regulation of CS services: CS services rules  Division 2
+
+Part 7.3A  CS services
+Division 1—Preliminary
+Section 828A
+
+Corporations Act 2001 189
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Regulation of CS services: CS services rules

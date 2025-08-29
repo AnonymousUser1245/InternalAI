@@ -1,0 +1,184 @@
+Part 6D.2  Disclosure to investors about securities (other than for CSF offers)
+Division 5  Procedure for offering securities
+Section 720
+
+Corporations Act 2001 431
+Compilation No. 143 Compilation date: 09/07/2025720  Consents needed for lodgment
+The lodgment of a disclosure document, or a supplementary or 
+replacement document, for the offer of a body’s securities requires 
+the consent of:
+Consents required for lodgment [operative]
+Type of offer People whose consent is 
+required
+1Issue offers
+offer of securities for issue 
+(other than an offer of simple 
+corporate bonds under a 2-part 
+simple corporate bonds 
+prospectus)every director of the body
+every person named in the 
+document as a proposed 
+director of the body
+1ASimple corporate bonds issue 
+offers
+offer of simple corporate bonds 
+under a 2-part simple corporate 
+bonds prospectusevery director of the body
+every person named in the 
+document as a proposed 
+director of the body
+2sale offers (sale by controller)
+offer of securities for sale that 
+needs a disclosure document 
+because of subsection 707(2)if seller an individual—that 
+individual
+if seller a body—every 
+director of the body
+3sale offers (sale amounting to 
+indirect issue)
+offer of securities for sale that 
+needs a disclosure document 
+because of subsection 707(3)every director of the body 
+whose securities are offered 
+for sale
+if seller an individual—that 
+individual
+if seller a body—every 
+director of the body
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.2  Disclosure to investors about securities (other than for CSF offers)
+Division 5  Procedure for offering securities
+Section 721
+
+Part 6D.2  Disclosure to investors about securities (other than for CSF offers)
+Division 5  Procedure for offering securities
+432 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Consents required for lodgment [operative]
+Type of offer People whose consent is 
+required
+4sale offers (sale amounting to 
+indirect sale by controller)
+offer of securities for sale that 
+needs a disclosure document 
+because of subsection 707(5) if seller an individual—that 
+individual
+if seller a body—every 
+director of the body
+if individual controls the body 
+whose securities are offered 
+for sale—that individual
+if body controls the body 
+whose securities are offered 
+for sale—every director of the 
+controlling body
+
+Part 6D.2  Disclosure to investors about securities (other than for CSF offers)
+Division 5  Procedure for offering securities
+721  Offer must be made in, or accompanied by, the disclosure
+
+document
+Offers using prospectus alone
+(1) Offers of securities for which a prospectus is being used must be 
+made in, or accompanied by, the prospectus.
+Note 1: Subsection 727(1) makes it an offence to make an offer of securities 
+unless the offer is made in or accompanied by the disclosure 
+document and subsection 723(1) makes it an offence to issue 
+securities unless they are applied for on a form that was issued in or 
+together with the disclosure document.
+Note 2: Section 736 makes it an offence to make unsolicited offers in a way 
+that amounts to securities hawking.
+Note 3: Section 728 makes it an offence for a person to offer securities if the 
+disclosure document is deficient in a way that is material from the 
+point of view of an investor.
+(1A) Subsection (1) does not apply to the extent that subsection (2) 
+allows a profile statement to be used instead of a prospectus.
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Disclosure to investors about securities (other than for CSF offers)  Part 6D.2
+Procedure for offering securities  Division 5
+
+Part 6D.2  Disclosure to investors about securities (other than for CSF offers)
+Division 5  Procedure for offering securities
+Section 721
+
+Corporations Act 2001 433
+Compilation No. 143 Compilation date: 09/07/2025Note: A defendant bears an evidential burden in relation to the matter in 
+subsection (1A), see subsection 13.3(3) of the Criminal Code.
+Offers using prospectus and profile statement
+(2) An offer of securities may be made in, or accompanied by, a 
+profile statement if:
+(a) under subsection 709(3), ASIC has approved the making of 
+offers of that kind with a profile statement instead of a 
+prospectus; and
+(b) the profile statement complies with the requirements 
+specified in ASIC approval.
+(3) If the offer that is made to a person is made in or accompanied by a 
+profile statement, the person making the offer must give the person 
+a copy of the prospectus free of charge if the person asks for it.
+Offers using offer information statement
+(4) Offers for which an offer information statement is being used must 
+be made in, or accompanied by, the offer information statement.
+Note 1: Subsection 727(1) makes it an offence to make an offer of securities 
+unless the offer is made in or accompanied by the disclosure 
+document and subsection 723(1) makes it an offence to issue 
+securities unless they are applied for on a form that was issued in or 
+together with the disclosure document.
+Note 2: Section 736 makes it an offence to make unsolicited offers in a way 
+that amounts to securities hawking.
+Note 3: Section 728 makes it an offence for a person to offer securities if the 
+disclosure document is deficient in a way that is material from the 
+point of view of an investor.
+Offence
+(5) A person commits an offence if the person intentionally or 
+recklessly contravenes subsection (1) or (4).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.2  Disclosure to investors about securities (other than for CSF offers)
+Division 5  Procedure for offering securities
+Section 722
+
+Part 6D.2  Disclosure to investors about securities (other than for CSF offers)
+Division 5  Procedure for offering securities
+434 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025722  Application money to be held on trust
+(1) If a person offers securities for issue or sale under a disclosure 
+document, the person must hold:
+(a) all application money received from people applying for 
+securities under the disclosure document; and
+(b) all other money paid by them on account of the securities 
+before they are issued or transferred;
+in trust under this section for the applicants until:
+(c) the securities are issued or transferred; or
+(d) the money is returned to the applicants.
+(2) If the application money needs to be returned to an applicant, the 
+person must return the money as soon as practicable.
+(3) An offence based on subsection (1) or (2) is an offence of strict 
+liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 6D.2  Disclosure to investors about securities (other than for CSF offers)
+Division 5  Procedure for offering securities
+723  Issuing or transferring the securities under a disclosure
+
+document
+Applications must be made on form included in, or accompanied 
+by, disclosure document
+(1) If an offer of securities needs a disclosure document, the securities 
+may only be issued or transferred in response to an application 
+form. The securities may only be issued or transferred if the person 
+issuing or transferring them has reasonable grounds to believe that:
+(a) the form was included in, or accompanied by:
+(i) the disclosure document; or
+(ii) if subsection 721(2) allows a profile statement to be 
+used—the prospectus or the profile statement;
+when the form was distributed by the person issuing or 
+transferring the securities; or
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Disclosure to investors about securities (other than for CSF offers)  Part 6D.2
+Procedure for offering securities  Division 5
+
+Part 6D.2  Disclosure to investors about securities (other than for CSF offers)
+Division 5  Procedure for offering securities
+Section 723

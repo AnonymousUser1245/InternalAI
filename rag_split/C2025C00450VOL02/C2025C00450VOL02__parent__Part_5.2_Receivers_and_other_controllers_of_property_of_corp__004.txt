@@ -1,0 +1,188 @@
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 425
+
+Corporations Act 2001 319
+Compilation No. 143 Compilation date: 09/07/2025(cb) the restructuring practitioner for a restructuring plan made by 
+the corporation; or
+(d) ASIC.
+(6) An order under this section may be varied or amended on the 
+application of the receiver concerned.
+(7) An order under this section may be made, varied or amended only 
+as provided in subsections (5) and (6).
+(8) In exercising its powers under this section, the Court must have 
+regard to whether the remuneration is reasonable, taking into 
+account any or all of the following matters:
+(a) the extent to which the work performed by the receiver was 
+reasonably necessary;
+(b) the extent to which the work likely to be performed by the 
+receiver is likely to be reasonably necessary;
+(c) the period during which the work was, or is likely to be, 
+performed by the receiver;
+(d) the quality of the work performed, or likely to be performed, 
+by the receiver;
+(e) the complexity (or otherwise) of the work performed, or 
+likely to be performed, by the receiver;
+(f) the extent (if any) to which the receiver was, or is likely to 
+be, required to deal with extraordinary issues;
+(g) the extent (if any) to which the receiver was, or is likely to 
+be, required to accept a higher level of risk or responsibility 
+than is usually the case;
+(h) the value and nature of any property dealt with, or likely to 
+be dealt with, by the receiver;
+(i) whether the receiver was, or is likely to be, required to deal 
+with:
+(i) one or more other receivers; or
+(ii) one or more receivers and managers; or
+(iii) one or more liquidators; or
+(iv) one or more administrators; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 426
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+320 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(v) one or more administrators of deeds of company 
+arrangement; or
+(vi) one or more restructuring practitioners; or
+(vii) one or more restructuring practitioners for restructuring 
+plans;
+(j) the number, attributes and behaviour, or the likely number, 
+attributes and behaviour, of the company’s creditors;
+(k) if the remuneration is ascertained, in whole or in part, on a 
+time basis:
+(i) the time properly taken, or likely to be properly taken, 
+by the receiver in performing the work; and
+(ii) whether the total remuneration payable to the receiver is 
+capped;
+(l) any other relevant matters.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+426  Controller has qualified privilege in certain cases
+
+A controller of property of a corporation has qualified privilege in 
+respect of:
+(a) a matter contained in a report or return that the controller 
+lodges under section 421A, 422, 422A or 422B; or
+(b) a comment that the controller makes under 
+paragraph 429(2)(c) (including as it applies under 
+paragraph 429A(3)(g)).
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+427  Notification of matters relating to controller
+
+(1) A person who:
+(a) obtains an order for the appointment of a receiver of property 
+of a corporation; or
+(b) appoints such a receiver under a power contained in an 
+instrument;
+must, within 7 days after obtaining the order or making the 
+appointment, lodge notice that the order has been obtained, or that 
+the appointment has been made, as the case may be.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 428
+
+Corporations Act 2001 321
+Compilation No. 143 Compilation date: 09/07/2025(1A) A person who appoints another person to enter into possession, or 
+take control, of property of a corporation (whether or not as agent 
+for the corporation) for the purpose of enforcing a security interest 
+otherwise than as receiver of that property must, within 7 days after 
+making the appointment, lodge notice of the appointment.
+(1B) A person who enters into possession, or takes control, as 
+mentioned in subsection (1A) must, within 7 days after entering 
+into possession or taking control, lodge notice that the person has 
+done so, unless another person:
+(a) appointed the first-mentioned person so to enter into 
+possession or take control; and
+(b) complies with subsection (1A) in relation to the appointment.
+(2) Within 14 days after becoming a controller of property of a 
+corporation, a person must lodge notice in the prescribed form of 
+the address of the person’s office.
+(3) A controller of property of a corporation must, within 14 days after 
+a change in the situation of the controller’s office, lodge notice in 
+the prescribed form of the change.
+(4) A person who ceases to be a controller of property of a corporation 
+must, within 7 days after so ceasing, lodge notice that the person 
+has so ceased.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+428  Statement that receiver appointed or other controller acting
+
+Property of corporation
+(1) Where a receiver of property (whether in or outside this 
+jurisdiction or in or outside Australia) of a corporation has been 
+appointed, the corporation must set out, in every public document, 
+and in every negotiable instrument, of the corporation, after the 
+name of the corporation where it first appears, a statement that a 
+receiver, or a receiver and manager, as the case requires, has been 
+appointed.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 428
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+322 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) Where there is a controller (other than a receiver) of property 
+(whether in Australia or elsewhere) of a corporation, the 
+corporation must set out, in every public document, and in every 
+negotiable instrument, of the corporation, after the corporation’s 
+name where it first appears, a statement that a controller is acting.
+(2A) However, if the only property of the corporation in respect of 
+which a receiver has been appointed, or in respect of which there is 
+a controller, is:
+(a) scheme property of any registered schemes of which the 
+corporation is the responsible entity; or
+(b) property the corporation holds on trust, if the corporation:
+(i) is a licensed trustee company; or
+(ii) holds an Australian financial services licence that 
+covers the provision of custodial or depository services;
+subsections (1) and (2) apply only to documents or instruments that 
+relate to the relevant registered schemes and trusts. The statement 
+may refer to those schemes and trusts.
+Scheme property
+(2B) A corporation must set out in every public document, and in every 
+negotiable instrument, of the corporation that relates to a registered 
+scheme, after the name of the corporation where it first appears, a 
+statement that a receiver, or a receiver and manager, as the case 
+requires, has been appointed, if:
+(a) the corporation is the responsible entity of the registered 
+scheme; and
+(b) a receiver of scheme property (whether in or outside this 
+jurisdiction or in or outside Australia) of the registered 
+scheme has been appointed; and
+(c) the scheme property is not property of the corporation.
+The statement may refer to the registered scheme.
+(2C) A corporation must set out in every public document, and in every 
+negotiable instrument, of the corporation that relates to a registered 
+scheme, after the name of the corporation where it first appears, a 
+statement that a controller is acting, if:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 429
+
+Corporations Act 2001 323
+Compilation No. 143 Compilation date: 09/07/2025(a) the corporation is the responsible entity of the registered 
+scheme; and
+(b) there is a controller (other than a receiver) of scheme 
+property (whether in Australia or elsewhere) of the registered 
+scheme; and
+(c) the scheme property is not property of the corporation.
+The statement may refer to the registered scheme.
+Strict liability offence
+(3) An offence based on subsection (1), (2), (2B) or (2C) is an offence 
+of strict liability.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+429  Reporting officers to report to controller about corporation’s

@@ -1,0 +1,187 @@
+inclusion of defective statement
+(1) A person commits an offence if:
+(a) they consent to the inclusion of a statement (the consented 
+material) in a Product Disclosure Statement or a 
+Supplementary Product Disclosure Statement as mentioned 
+in paragraph 1013K(1)(a); and
+(b) either:
+(i) there is a misleading or deceptive statement in the 
+consented material; or
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Enforcement  Division 7
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021M
+
+Corporations Act 2001 169
+Compilation No. 143 Compilation date: 09/07/2025(ii) there is an omission of information from the consented 
+material; and
+(c) the statement or omission is or would be materially adverse 
+from the point of view of a reasonable person considering 
+whether to proceed to acquire the financial product 
+concerned.
+(2) A person commits an offence if:
+(a) they consent to the inclusion of a statement (the consented 
+material) in a Product Disclosure Statement or a 
+Supplementary Product Disclosure Statement as mentioned 
+in paragraph 1013K(1)(a); and
+(b) they become aware that either:
+(i) there is a misleading or deceptive statement in the 
+consented material; or
+(ii) there is an omission of information from the consented 
+material;
+being a statement, or an omission, that:
+(iii) is or would be materially adverse from the point of view 
+of a reasonable person considering whether to proceed 
+to acquire the financial product concerned; or
+(iv) results in the Product Disclosure Statement or the 
+Supplementary Product Disclosure Statement being 
+defective, or more defective than it would otherwise be; 
+and
+(c) they do not withdraw their consent after becoming aware of 
+the matter mentioned in paragraph (b).
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+1021M  Offences relating to keeping and providing copies of Product
+
+Disclosure Statements (or Supplementary PDSs)
+Strict liability offence
+(1) A person commits an offence if:
+(a) the person is required by section 1015D:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021M
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+170 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(i) to notify ASIC that a Product Disclosure Statement or a 
+Supplementary Product Disclosure Statement is in use; 
+or
+(ii) to keep a copy of a Product Disclosure Statement or a 
+Supplementary Product Disclosure Statement for a 
+particular period; or
+(iii) to make a copy of a Product Disclosure Statement or a 
+Supplementary Product Disclosure Statement available 
+to ASIC; or
+(iv) to comply with a request from a person for a copy of a 
+Product Disclosure Statement or a Supplementary 
+Product Disclosure Statement; and
+(b) the person does not comply with that requirement.
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Ordinary offence
+(3) A person commits an offence if:
+(a) the person is required by section 1015D:
+(i) to notify ASIC that a Product Disclosure Statement or a 
+Supplementary Product Disclosure Statement is in use; 
+or
+(ii) to keep a copy of a Product Disclosure Statement or a 
+Supplementary Product Disclosure Statement for a 
+particular period; or
+(iii) to make a copy of a Product Disclosure Statement or a 
+Supplementary Product Disclosure Statement available 
+to ASIC; or
+(iv) to comply with a request from a person for a copy of a 
+Product Disclosure Statement or a Supplementary 
+Product Disclosure Statement; and
+(b) the person does not comply with that requirement.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Enforcement  Division 7
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021N
+
+Corporations Act 2001 171
+Compilation No. 143 Compilation date: 09/07/20251021N  Offence of failing to provide additional information 
+requested under section 1017A
+A person (the responsible person) commits an offence if:
+(a) a request is made to them by another person, in accordance 
+with subsection 1017A(1), to provide further information 
+about a financial product; and
+(b) the responsible person is required by subsection 1017A(2) to 
+give the other person the information; and
+(c) the other person has paid any charge in respect of the request, 
+being a charge that is in accordance with 
+subsections 1017A(5) and (6); and
+(d) the responsible person does not take reasonable steps to 
+ensure that, as soon as practicable after receiving the request, 
+and in any event within one month, the information is 
+provided to the other person in accordance with 
+subsection 1017A(4).
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+1021NA  Offences relating to obligation to make product dashboard
+
+publicly available
+Failure to comply with obligation to make product dashboard 
+publicly available
+(1) A person commits an offence if:
+(a) the person is a trustee of a regulated superannuation fund; 
+and
+(b) as trustee, the person is required, under section 1017BA, to 
+ensure that a product dashboard for each of the fund’s 
+MySuper products and choice products is made publicly 
+available on the fund’s website; and
+(c) a product dashboard for each of the fund’s MySuper products 
+and choice products is not made publicly available as 
+required by that section.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021NA
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+172 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Offence where information known to be defective
+(2) A person commits an offence if:
+(a) the person is a trustee of a regulated superannuation fund; 
+and
+(b) a product dashboard is made publicly available on the fund’s 
+website in purported compliance with section 1017BA; and
+(c) the person knows that:
+(i) the information set out in the product dashboard has not 
+been updated as required by that section; or
+(ii) the information set out in the product dashboard is 
+otherwise misleading or deceptive; or
+(iii) there is an omission from the information set out in the 
+product dashboard.
+Offence whether or not information known to be defective
+(3) A person commits an offence if:
+(a) the person is a trustee of a regulated superannuation fund; 
+and
+(b) a product dashboard is made publicly available on the fund’s 
+website in purported compliance with section 1017BA; and
+(c) either:
+(i) the information set out in the product dashboard has not 
+been updated as required by that section; or
+(ii) the information set out in the product dashboard is 
+otherwise misleading or deceptive; or
+(iii) there is an omission from the information set out in the 
+product dashboard.
+(4) For the purposes of an offence based on subsection (3), strict 
+liability applies to the physical element of the offence specified in 
+any of subparagraphs (3)(c)(i) to (iii).
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial product disclosure and other provisions relating to issue, sale and purchase of 
+financial products  Part 7.9
+Enforcement  Division 7
+
+Part 7.9  Financial product disclosure and other provisions relating to issue, sale and
+Division 7  Enforcement
+Section 1021NA

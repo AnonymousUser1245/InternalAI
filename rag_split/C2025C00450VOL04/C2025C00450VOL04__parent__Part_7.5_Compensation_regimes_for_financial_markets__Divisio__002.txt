@@ -1,0 +1,160 @@
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+Section 890D
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+366 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) The board of the SEGC must not delegate any of the following 
+powers of the SEGC:
+(a) the power to borrow under section 889E;
+(b) the power to determine the order of payments under 
+section 889H;
+(c) the power to determine a minimum amount under 
+section 889I;
+(d) the power to make operating rules under section 890D;
+(e) the power (or duty) to make a payment under section 891A.
+(3) Otherwise, the board of the SEGC may delegate all or any of their 
+powers under this Part in accordance with section 198D.
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+890D  Operating rules of the SEGC
+
+The SEGC may make rules (operating rules) relating to the 
+performance or exercise of its powers or duties under this Part, or 
+relating to matters permitted by this Part to be dealt with in its 
+operating rules.
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+890E  Legal effect of the SEGC’s operating rules
+
+The SEGC’s operating rules have effect as a contract under seal 
+between the SEGC and each member of the SEGC under which 
+each of those persons agrees to observe the operating rules to the 
+extent that they apply to the person and engage in conduct that the 
+person is required by the operating rules to engage in.
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+890F  Enforcement of the SEGC’s operating rules
+
+(1) If a person who is under an obligation to comply with or enforce 
+any of the SEGC’s operating rules fails to meet that obligation, an 
+application to the Court may be made by:
+(a) ASIC; or
+(b) the SEGC; or
+(c) a member of the SEGC; or
+(d) a person aggrieved by the failure.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Compensation regimes for financial markets  Part 7.5
+NGF Compensation regime  Division 4
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+Section 890G
+
+Corporations Act 2001 367
+Compilation No. 143 Compilation date: 09/07/2025(2) After giving an opportunity to be heard to the applicant and the 
+person against whom the order is sought, the Court may make an 
+order giving directions to:
+(a) the person against whom the order is sought; or
+(b) if that person is a body corporate—the directors of the body 
+corporate;
+about compliance with, or enforcement of, the operating rules.
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+890G  Changing the SEGC’s operating rules
+
+(1) As soon as practicable after a change is made to the SEGC’s 
+operating rules, the SEGC must lodge with ASIC in a prescribed 
+form written notice of the change.
+(2) The notice must:
+(a) set out the text of the change; and
+(b) specify the date on which the change was made; and
+(c) contain an explanation of the purpose of the change.
+(3) If no notice is lodged with ASIC in a prescribed form within 21 
+days after the change is made, the change ceases to have effect.
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+890H  Disallowance of changes to the SEGC’s operating rules
+
+(1) Within 28 days after receiving a notice under section 890G, ASIC 
+may disallow all or a specified part of the change to the SEGC’s 
+operating rules.
+(3) As soon as practicable after all or part of a change is disallowed, 
+ASIC must give notice of the disallowance to the SEGC. The 
+change ceases to have effect, to the extent of the disallowance, 
+when the SEGC receives the notice.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+Section 891A
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+368 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Subdivision E—Other provisions relating to compensation 
+under this Division
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+891A  Payment out of the NGF to prescribed body with
+
+arrangements covering clearing and settlement facility 
+support
+(1) If the Minister is satisfied that a body corporate specified in 
+regulations made for the purposes of this section has made 
+adequate arrangements covering all or part of the clearing and 
+settlement system support that this Division provides for, the 
+Minister may, in writing, direct the SEGC to pay a specified 
+amount to that body corporate out of the NGF.
+(2) The Minister may, in writing, impose conditions to be complied 
+with by the SEGC or the body corporate, or both, in relation to the 
+payment.
+(3) The SEGC and the body corporate must comply with the direction 
+and with any applicable conditions to which the direction is 
+subject.
+(4) Before giving a direction under subsection (1), the Minister must 
+be satisfied that, after the payment is made, the NGF will still have 
+an adequate amount of assets to meet claims.
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+891B  Markets operated by bodies corporate that become members
+
+of the SEGC—regulations may deal with transitional 
+provisions and other matters
+(1) In this section:
+joining market means a financial market that:
+(a) is operated by a body corporate that becomes a member of 
+the SEGC after the commencement of this Division, or by a 
+subsidiary of such a body corporate; and
+(b) is a financial market to which this Division applies.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Compensation regimes for financial markets  Part 7.5
+NGF Compensation regime  Division 4
+
+Part 7.5  Compensation regimes for financial markets
+Division 4  NGF Compensation regime
+Section 891C
+
+Corporations Act 2001 369
+Compilation No. 143 Compilation date: 09/07/2025(2) The regulations may make provisions of a transitional or saving 
+nature dealing with the transition, in relation to a joining market, 
+from the compensation regime previously applicable in relation to 
+the market to the arrangements constituted by this Division.
+(3) Without limiting subsection (2), the regulations may require money 
+or other property (including money or other property in a fidelity 
+fund) to be paid or transferred to the SEGC for inclusion in the 
+NGF.
+(4) The regulations may also provide for the allocation of part of the 
+NGF as being for use for the purposes of claims arising in 
+connection with the joining market.
+(5) The regulations may make modifications of provisions of this

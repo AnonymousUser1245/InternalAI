@@ -1,0 +1,230 @@
+Part 1.2  Interpretation
+Division 1  General
+Section 9AB
+
+Corporations Act 2001 145
+Compilation No. 143 Compilation date: 09/07/2025(c) relationships traced through relationships referred to in 
+paragraphs (a) and (b).
+
+Part 1.2  Interpretation
+Division 1  General
+9AB  Meaning of asset
+
+(1) An asset (except in relation to a sub-fund of a CCIV) is property, 
+or a right, of any kind, and includes:
+(a) any legal or equitable estate or interest (whether present or 
+future, vested or contingent, tangible or intangible, in real or 
+personal property) of any kind; and
+(b) any chose in action; and
+(c) any right, interest or claim of any kind including rights, 
+interests or claims in or in relation to property (whether 
+arising under an instrument or otherwise, and whether 
+liquidated or unliquidated, certain or contingent, accrued or 
+accruing); and
+(d) any CGT asset within the meaning of the Income Tax 
+Assessment Act 1997.
+(2) The assets of a financial services licensee are all the licensee’s 
+assets (as defined in subsection (1)), whether or not the assets are 
+used in connection with the licensee’s Australian financial services 
+licence.
+(3) An asset of a sub-fund of a CCIV has the meaning given by 
+section 1233H.
+
+Part 1.2  Interpretation
+Division 1  General
+9AC  Meaning of director
+
+(1) A director of a company or other body is:
+(a) a person who:
+(i) is appointed to the position of a director; or
+(ii) is appointed to the position of an alternate director and 
+is acting in that capacity;
+regardless of the name that is given to their position; and
+(b) unless the contrary intention appears, a person who is not 
+validly appointed as a director if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9AD
+
+Part 1.2  Interpretation
+Division 1  General
+146 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(i) they act in the position of a director; or
+(ii) the directors of the company or body are accustomed to 
+act in accordance with the person’s instructions or 
+wishes (excluding advice given by the person in the 
+proper performance of functions attaching to the 
+person’s professional capacity or their business 
+relationship with the directors or the corporation).
+Note: Examples of provisions for which a person would not be a director 
+because of paragraph (b) of this subsection include:
+(a) section 205B (notice to ASIC of change of address); and
+(b) section 249C (power to call meetings of a company’s members); 
+and
+(c) subsection 251A(3) (signing minutes of meetings).
+(2) In Part 5.1 (arrangements and reconstructions), the meaning of 
+directors (as defined in subsection (1)) is affected by section 410.
+(3) For the purposes of Chapter 2M, a director of a registrable 
+superannuation entity is:
+(a) if the RSE licensee for the entity is a constitutional 
+corporation (within the meaning of the Superannuation 
+Industry (Supervision) Act 1993) or a body corporate—a 
+director of the constitutional corporation or body corporate; 
+or
+(b) if the RSE licensee for the entity is a group of individual 
+trustees—each of those trustees.
+
+Part 1.2  Interpretation
+Division 1  General
+9AD  Meaning of officer
+
+(1) An officer of a corporation (other than a CCIV) is:
+(a) a director or secretary of the corporation; or
+(b) a person:
+(i) who makes, or participates in making, decisions that 
+affect the whole, or a substantial part, of the business of 
+the corporation; or
+(ii) who has the capacity to affect significantly the 
+corporation’s financial standing; or
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9AD
+
+Corporations Act 2001 147
+Compilation No. 143 Compilation date: 09/07/2025(iii) in accordance with whose instructions or wishes the 
+directors of the corporation are accustomed to act 
+(excluding advice given by the person in the proper 
+performance of functions attaching to the person’s 
+professional capacity or their business relationship with 
+the directors or the corporation); or
+(c) a receiver, or receiver and manager, of the property of the 
+corporation; or
+(d) an administrator of the corporation; or
+(e) an administrator of a deed of company arrangement executed 
+by the corporation; or
+(f) a restructuring practitioner for the corporation; or
+(g) a restructuring practitioner for a restructuring plan made by 
+the corporation; or
+(h) a liquidator of the corporation; or
+(i) a trustee or other person administering a compromise or 
+arrangement made between the corporation and someone 
+else.
+Note: Section 201B contains rules about who can be a director of a 
+corporation.
+(2) An officer of a corporation that is a CCIV has the meaning given 
+by section 1224B.
+(3) Subject to subsection (4), an officer of an entity that is neither an 
+individual nor a corporation is:
+(a) if the entity is a partnership—a partner in the partnership; or
+(b) if the entity is an unincorporated association—an office 
+holder of the unincorporated association; or
+(c) in any case—a person:
+(i) who makes, or participates in making, decisions that 
+affect the whole, or a substantial part, of the business of 
+the entity; or
+(ii) who has the capacity to affect significantly the entity’s 
+financial standing.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9A
+
+Part 1.2  Interpretation
+Division 1  General
+148 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(4) For the purposes of Chapter 2M, an officer of a registrable 
+superannuation entity is:
+(a) if the RSE licensee for the entity is a constitutional 
+corporation (within the meaning of the Superannuation 
+Industry (Supervision) Act 1993) or a body corporate—an 
+officer of the constitutional corporation or body corporate; or
+(b) if the RSE licensee for the entity is a group of individual 
+trustees:
+(i) each of those trustees; or
+(ii) a person who makes, or participates in making, 
+decisions that affect the whole, or a substantial part, of 
+the business of the entity; or
+(iii) a person who has the capacity to affect significantly the 
+entity’s financial standing.
+
+Part 1.2  Interpretation
+Division 1  General
+9A  Meaning of rights issue
+
+(1) A rights issue is an offer of a body’s securities for issue in respect 
+of which the following conditions are met:
+(a) the securities being offered for issue are in a particular class;
+(b) either:
+(i) the offer is made to every person who holds securities in 
+that class to issue them, or their assignee, with the 
+percentage of the securities to be issued that is the same 
+as the percentage of the securities in that class that they 
+hold before the offer; or
+(ii) if the conditions in subsection (3) are met—such an 
+offer is made to every person with a registered address 
+in Australia or New Zealand who holds securities in that 
+class;
+(c) the terms of each offer are the same.
+(2) A rights issue is an offer of interests in a registered scheme or 
+notified foreign passport fund for issue in respect of which the 
+following conditions are met:
+(a) the interests being offered for issue are in a particular class;
+(b) either:
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9A
+
+Corporations Act 2001 149
+Compilation No. 143 Compilation date: 09/07/2025(i) the offer is made to every person who holds interests in 
+that class to issue them, or their assignee, with the 
+percentage of the interests to be issued that is the same 
+as the percentage of the interests in that class that they 
+hold before the offer; or
+(ii) if the conditions in subsection (3) are met—such an 
+offer is made to every person with a registered address 
+in Australia or New Zealand who holds interests in that 
+class;
+(c) the terms of each offer are the same.
+(3) The conditions in this subsection are met if:
+(a) the offering entity decides that it is unreasonable to offer 
+securities or interests (as the case requires) for issue to 
+persons (the non-residents) with a registered address in a 
+place outside Australia or New Zealand, after taking into 
+account the following matters:
+(i) the number of non-residents, in that place, to whom 
+offers would otherwise be made;
+(ii) the number and value of the securities or interests that 
+would otherwise be offered for issue;
+(iii) the cost of complying with the laws, and any 
+requirements of any regulatory authority, of the place 
+where the securities or interests would otherwise be 
+offered for issue; and
+(b) the offering entity:
+(i) sends details of the offer to each non-resident in that 
+place; and
+(ii) advises each non-resident in that place that the 
+non-resident will not be offered the securities or 
+interests; and
+(c) if the invitation to apply for, or the right to be issued with, 
+the securities or interests is able to be assigned—the offering 
+entity:
+(i) advises each non-resident in that place that a nominee 
+will be appointed to sell the invitation or right that 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9B

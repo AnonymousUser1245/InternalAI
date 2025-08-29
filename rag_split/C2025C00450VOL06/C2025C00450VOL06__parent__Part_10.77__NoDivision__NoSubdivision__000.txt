@@ -1,0 +1,190 @@
+Part 10.77
+
+Preliminary  Division 1
+
+Part 10.77
+Section 1707
+
+Corporations Act 2001 635
+Compilation No. 143 Compilation date: 09/07/2025Part 10.77—Application and transitional provisions 
+relating to Schedule 4 to the Treasury 
+Laws Amendment (Financial Market 
+Infrastructure and Other Measures) Act
+
+Part 10.77
+2024
+
+Part 10.77
+
+Sustainability reporting  Division 2
+
+Part 10.77
+Section 1707A
+
+Corporations Act 2001 637
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Sustainability reporting
+
+Part 10.77
+1707A  Application of amendments—place where sustainability
+
+records are kept
+(1) If, under subsection 289A(4), an entity would be required to give 
+ASIC notice before the end of the 12 months starting on the 
+commencement of this section, that subsection has effect as if it 
+required the notice to be given at the end of those 12 months.
+(2) For the purposes of subsections 289A(3) and (4), if, at the 
+commencement of this section, an entity keeps information at a 
+particular place in this jurisdiction for the purposes of 
+subsection 289A(2), the entity is taken:
+(a) not to keep information at that place for that purpose 
+immediately before that commencement; and
+(b) to begin to keep information at that place for that purpose on 
+that commencement.
+
+Part 10.77
+1707B  Application of amendments—sustainability reporting
+
+(1) Section 292A, as inserted by Part 1 of the amending Schedule, 
+applies to an entity for a financial year if:
+(a) both of the following subparagraphs apply:
+(i) the financial year commences during the first 
+transitional period;
+(ii) subsection (2) or (4) of this section applies to the entity 
+for the financial year; or
+(b) both of the following subparagraphs apply:
+(i) the financial year commences during the second 
+transitional period;
+(ii) subsection 296B(2), (4) or (5) applies to the entity for 
+the financial year; or
+(c) the financial year commences on or after 1 July 2027.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.77
+
+Sustainability reporting  Division 2
+
+Part 10.77
+Section 1707C
+
+Corporations Act 2001 639
+Compilation No. 143 Compilation date: 09/07/2025(a) the question whether an entity controls an entity is to be 
+decided in accordance with accounting standards made for 
+the purposes of paragraph 295(2)(b); and
+(b) consolidated revenue and the value of consolidated gross 
+assets are to be calculated in accordance with accounting 
+standards in force at the relevant time;
+(even if the standards do not otherwise apply to the financial year 
+of some or all of the entities concerned).
+
+Part 10.77
+1707C  Application of amendments—directors’ declaration
+
+(1) This section applies in relation to a financial year commencing 
+during the 3 years starting on the start date.
+(2) Subsection 296A(6) applies to an entity for the financial year as if 
+the reference in that subsection to whether, in the directors’ 
+opinion, the substantive provisions of the sustainability report are 
+in accordance with this Act were a reference to whether, in the 
+directors’ opinion, the entity has taken reasonable steps to ensure 
+the substantive provisions of the sustainability report are in 
+accordance with this Act.
+
+Part 10.77
+1707D  Limited immunity for statements in new sustainability
+
+reporting
+(1) No action, suit or proceeding lies against a person in relation to:
+(a) a protected statement; or
+(b) a statement that is required to be made under a 
+Commonwealth law and:
+(i) is the same as a protected statement; or
+(ii) differs from a protected statement only in so far as it 
+contains updates or corrections to the protected 
+statement.
+(2) Subsection (1) does not apply to an action, suit or proceeding if it 
+is any of the following:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.77
+
+Sustainability reporting  Division 2
+
+Part 10.77
+Section 1707D
+
+Corporations Act 2001 641
+Compilation No. 143 Compilation date: 09/07/2025(b) relates to climate; and
+(c) at the time it is made, is about the future.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.77
+
+Audit and review  Division 3
+
+Part 10.77
+Section 1707F
+
+Corporations Act 2001 643
+Compilation No. 143 Compilation date: 09/07/2025(4) If the AUASB makes auditing standards for the purposes of 
+subsection (2) of this section that require a sustainability report to 
+be reviewed to any extent, references in this Act and the ASIC Act 
+(other than in sections 307AA and 309A of this Act and this 
+section):
+(a) to audit include a reference to a review of a sustainability 
+report; and
+(b) to an auditor’s report include a reference to an auditor’s 
+report under section 1707F(2).
+(5) Section 307AA has effect as if:
+(a) the reference in paragraph 307AA(a) to the sustainability 
+report were a reference to the sustainability report to the 
+extent (if any) that it is required to be audited by the auditing 
+standards; and
+(b) the reference in paragraph 307AA(c) to audited were a 
+reference to audited to the extent (if any) required to by the 
+auditing standards.
+(6) Subsection 309A(1) has effect as if the reference in that subsection 
+to whether the auditor is of the opinion that the sustainability report 
+is in accordance with this Act were a reference to whether the 
+auditor is of the opinion that the sustainability report, to the extent 
+(if any) that it is required to be audited by the auditing standards, is 
+in accordance with this Act.
+
+Part 10.77
+1707F  Review of sustainability report before 1 July 2030
+
+(1) This section applies in relation to a sustainability report for a 
+financial year if the AUASB makes auditing standards for the 
+purposes of subsection 1707E(2) that require the sustainability 
+report to be reviewed to any extent.
+(2) An auditor who reviews the sustainability report must report to 
+members in accordance with subsections (3), (4) and (5) of this 
+section on whether the auditor became aware of any matter in the 
+course of the review that makes the auditor believe that the 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.77
+
+Review of operation of laws  Division 4
+
+Part 10.77
+Section 1707G
+
+Corporations Act 2001 645
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Review of operation of laws
+
+Part 10.77
+1707G  Review of operation of laws
+
+(1) The Minister must cause a review of the operation of the 
+amendments made by the amending Schedule to be conducted.
+(2) The review must be conducted as soon as practicable after 1 July
+
+Part 10.77
+2028.
+
+(3) The Minister must cause a written report of the review to be 
+prepared.
+(4) The Minister must cause a copy of the report to be tabled in each 
+House of the Parliament within 15 sitting days of that House after 
+the report is given to the Minister.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions

@@ -1,0 +1,189 @@
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+Section 601CF
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+34 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) a certified copy of its constitution; and
+(c) a list of its directors containing personal details of those 
+directors that are equivalent to the personal details of 
+directors referred to in subsection 205B(3); and
+(d) if that list includes directors who are:
+(i) resident in Australia; and
+(ii) members of a local board of directors;
+a memorandum that is duly executed by or on behalf of the 
+foreign company and states the powers of those directors; 
+and
+(f) notice of the address of:
+(i) if it has in its place of origin a registered office for the 
+purposes of a law there in force—that office; or
+(ii) otherwise—its principal place of business in its place of 
+origin; and
+(g) notice of the address of its registered office under 
+section 601CT;
+ASIC must:
+(h) grant the application and register the foreign company under 
+this Division by entering the foreign company’s name in a 
+register kept for the purposes of this Division; and
+(j) allot to the foreign company an ARBN distinct from the 
+ARBN or ACN of each body corporate (other than the 
+foreign company) already registered as a company or 
+registered body under this Act.
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+601CF  Appointment of local agent
+
+(1) A foreign company may at any time appoint a person as a local 
+agent.
+(2) ASIC must not register a foreign company under this Division 
+unless the foreign company has at least one local agent in relation 
+to whom the foreign company has complied with section 601CG.
+Authorised Version C2025C00450 registered 21/07/2025Bodies corporate registered as companies, and registrable bodies  Chapter 5B
+Registrable bodies  Part 5B.2
+Foreign companies  Division 2
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+Section 601CG
+
+Corporations Act 2001 35
+Compilation No. 143 Compilation date: 09/07/2025(3) Where:
+(a) because a person ceased on a particular day to be a local 
+agent of the foreign company, a registered foreign company 
+has no local agent; and
+(b) the foreign company carries on business, or has a place of 
+business, in this jurisdiction;
+the foreign company must, within 21 days after that day, appoint a 
+person as a local agent.
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+601CG  Local agent: how appointed
+
+(1) A foreign company that lodges a memorandum of appointment, or 
+a power of attorney, that is duly executed by or on behalf of the 
+foreign company and states the name and address of a person who 
+is:
+(a) a natural person or a company; and
+(b) resident in this jurisdiction; and
+(c) authorised to accept on the foreign company’s behalf service 
+of process and notices;
+is taken to appoint that person as a local agent.
+(2) Where a memorandum of appointment, or a power of attorney, 
+lodged under subsection (1) is executed on the foreign company’s 
+behalf, the foreign company must, unless it has already done so, 
+lodge a copy, verified in writing in the prescribed form to be a true 
+copy, of the document authorising the execution.
+(3) A copy lodged under subsection (2) is taken for all purposes to be 
+the original of the document.
+(4) A foreign company that appoints a local agent must lodge a written 
+statement that is in the prescribed form and is made by the local 
+agent.
+(5) A person whom a foreign company appoints as a local agent is a 
+local agent of the foreign company until the person:
+(a) ceases by virtue of section 601CH to be such a local agent; or
+(b) dies or ceases to exist.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5B  Bodies corporate registered as companies, and registrable bodies
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+Section 601CH
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+36 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025601CH  Local agent: how removed
+(1) Where a person is a local agent of a foreign company, the foreign 
+company or the person may lodge a written notice stating that the 
+person’s appointment as a local agent has terminated, or will 
+terminate, on a specified day.
+(2) Where a notice is lodged under subsection (1), the person ceases to 
+be a local agent of the foreign company at the end of:
+(a) the period of 21 days beginning on the day of lodgment; or
+(b) the day specified in the notice;
+whichever is the later.
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+601CJ  Liability of local agent
+
+A local agent of a registered foreign company:
+(a) is answerable for the doing of all acts, matters and things that 
+the foreign company is required by or under this Act to do; 
+and
+(b) is personally liable to a penalty imposed on the foreign 
+company for a contravention of this Act if the court or 
+tribunal hearing the matter is satisfied that the local agent 
+should be so liable.
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+601CK  Balance-sheets and other documents
+
+(1) Subject to this section, a registered foreign company must, at least 
+once in every calendar year and at intervals of not more than 15 
+months, lodge a copy of its balance-sheet made up to the end of its 
+last financial year, a copy of its cash flow statement for its last 
+financial year and a copy of its profit and loss statement for its last 
+financial year, in such form and containing such particulars and 
+including copies of such documents as the company is required to 
+prepare by the law for the time being applicable to that company in 
+its place of origin, together with a statement in writing in the 
+prescribed form verifying that the copies are true copies of the 
+documents so required.
+Authorised Version C2025C00450 registered 21/07/2025Bodies corporate registered as companies, and registrable bodies  Chapter 5B
+Registrable bodies  Part 5B.2
+Foreign companies  Division 2
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+Section 601CK
+
+Corporations Act 2001 37
+Compilation No. 143 Compilation date: 09/07/2025(2) ASIC may extend the period within which subsection (1) requires a 
+balance-sheet, profit and loss statement, cash flow statement or 
+other document to be lodged.
+(3) ASIC may, if it is of the opinion that the balance-sheet, the profit 
+and loss statement and the other documents referred to in 
+subsection (1) do not sufficiently disclose the company’s financial 
+position:
+(a) require the company to lodge a balance-sheet; or
+(b) require the company to lodge an audited balance-sheet; or
+(ba) require the company to lodge a cash flow statement; or
+(bb) require the company to lodge an audited cash flow statement; 
+or
+(c) require the company to lodge a profit and loss statement; or
+(d) require the company to lodge an audited profit and loss 
+statement;
+within such period, in such form, containing such particulars and 
+including such documents as ASIC by notice in writing to the 
+company requires, but this subsection does not authorise ASIC to 
+require a balance-sheet or a profit and loss statement to contain any 
+particulars or include any documents that would not be required to 
+be given if the company were a public company within the 
+meaning of this Act.
+(4) The registered foreign company must comply with the 
+requirements set out in the notice.
+(5) Where a registered foreign company is not required by the law of 
+the place of its incorporation or formation to prepare a 
+balance-sheet, the company must prepare and lodge a 
+balance-sheet, or, if ASIC so requires, an audited balance-sheet, 
+within such period, in such form and containing such particulars 
+and including such documents as the company would have been 
+required to prepare if the company were a public company 
+incorporated under this Act.
+(5A) If a registered foreign company is not required by the law of the 
+place of its incorporation or formation to prepare a cash flow 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5B  Bodies corporate registered as companies, and registrable bodies
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+Section 601CL
+
+Part 5B.2  Registrable bodies
+Division 2  Foreign companies
+38 Corporations Act 2001

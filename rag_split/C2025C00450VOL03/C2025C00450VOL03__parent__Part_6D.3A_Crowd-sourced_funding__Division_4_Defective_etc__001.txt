@@ -1,0 +1,214 @@
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+Section 738X
+
+Corporations Act 2001 475
+Compilation No. 143 Compilation date: 09/07/2025Note: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+(4) An offence based on subsection (2) or (3) is an offence of strict 
+liability.
+Consequences of publication of supplementary or replacement 
+CSF offer document
+(5) Subsections (6) and (7) apply if:
+(a) for the purpose of correcting the defect in the CSF offer 
+document, the company making the CSF offer provides the 
+responsible intermediary with a supplementary CSF offer 
+document or a replacement CSF offer document; and
+(b) the responsible intermediary publishes the supplementary 
+CSF offer document or replacement CSF offer document on 
+the offer platform.
+(6) If the CSF offer has been suspended, the suspension of the CSF 
+offer ends when the supplementary CSF offer document or 
+replacement CSF offer document is first published on the offer 
+platform.
+(7) The responsible intermediary must, as soon as practicable after the 
+supplementary CSF offer document or replacement CSF offer 
+document is first published on the offer platform, give each person 
+who has already applied pursuant to the CSF offer a written notice, 
+accompanied by that document, advising the person that they may, 
+within 14 days after the date of the notice, withdraw their 
+application and be repaid.
+Note 1: Failure to comply with this subsection is an offence (see 
+subsection 1311(1)).
+Note 2: If the suspension does not end under this subsection, the responsible 
+intermediary must return the application money when the offer closes 
+(see section 738ZB).
+(8) An offence based on subsection (7) is an offence of strict liability.
+(9) A person who is given a notice under subsection (7) may, within
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+14 days after the date of the notice, withdraw their application. The
+
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+Section 738Y
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+476 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025withdrawal must be by notice in writing to the responsible 
+intermediary.
+Note: If an applicant withdraws their application, the responsible 
+intermediary must return the application money (see section 738ZB).
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+738Y  Other liabilities relating to defective CSF offer documents
+
+Obligations giving rise to liabilities
+(1) A company must not offer securities under a CSF offer document 
+if the document is defective.
+Note 1: A defect may be corrected by a supplementary CSF offer document or 
+a replacement CSF offer document (see section 738W).
+Note 2: If this subsection is contravened, ASIC may make a stop order under 
+section 739.
+(2) For the purposes of subsection (1), a company is taken to offer 
+securities under a CSF offer document at all times, before the offer 
+is closed, when the offer document is published on a platform of a 
+CSF intermediary.
+(3) A CSF intermediary must not publish (or continue to publish) a 
+CSF offer document on a platform of the intermediary if:
+(a) the document is defective; and
+(b) the intermediary knows that the document is defective.
+Note 1: A defect may be corrected by a supplementary CSF offer document or 
+a replacement CSF offer document (see section 738W).
+Note 2: The question whether a CSF intermediary knows that a document is 
+defective is affected by subsection 738Q(4).
+Criminal liability
+(4) A person commits an offence if:
+(a) the person contravenes subsection (1) or (3) in relation to a 
+defective CSF offer document; and
+(b) the statement, omission or new circumstance because of 
+which the document is defective is materially adverse from 
+the point of view of an investor.
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Crowd-sourced funding  Part 6D.3A
+Defective etc. CSF offer documents  Division 4
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+Section 738Y
+
+Corporations Act 2001 477
+Compilation No. 143 Compilation date: 09/07/2025Note: For exceptions to liability, see section 738Z.
+Right to recover loss or damage
+(5) A person who suffers loss or damage because an offer of securities 
+under a CSF offer document contravenes subsection (1) may 
+recover the amount of the loss or damage from a person referred to 
+in the following table if the loss or damage is one that the table 
+makes the person liable for. This is so even if the person did not 
+commit, and was not involved in, the contravention.
+People liable on disclosure document
+Item These people ... are liable for loss or damage caused 
+by ...
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+1 the company making the CSF
+
+offerany contravention of subsection (1) in 
+relation to the CSF offer document
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+2 each director of the company
+
+making the CSF offerany contravention of subsection (1) in 
+relation to the CSF offer document
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+3 a person named in the CSF
+
+offer document with their 
+consent as a proposed director 
+of the companyany contravention of subsection (1) in 
+relation to the CSF offer document
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+4 an underwriter (but not a
+
+sub-underwriter) to the issue 
+named in the CSF offer 
+document with their consentany contravention of subsection (1) in 
+relation to the CSF offer document
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+5 a person named in the CSF
+
+offer document with their 
+consent as having made a 
+statement:
+(a) that is included in the CSF 
+offer document; or
+(b) on which a statement made 
+in the CSF offer document 
+is basedthe inclusion of the statement in the 
+CSF offer document
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+Section 738Z
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+478 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025People liable on disclosure document
+Item These people ... are liable for loss or damage caused 
+by ...
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+6 a person who contravenes, or
+
+is involved in the 
+contravention of, 
+subsection (1)that contravention
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+7 a CSF intermediary that
+
+publishes the CSF offer 
+document on a platform of the 
+intermediarya contravention of subsection (1) in 
+relation to the CSF offer document, but 
+only if paragraph (3)(b) is satisfied
+Note: For exceptions to liability, see section 738Z.
+(6) An action under subsection (5) may be begun at any time within 6 
+years after the day the cause of action arose.
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+738Z  Exceptions to liability under section 738Y
+
+Lack of knowledge
+(1) A person:
+(a) does not commit an offence against subsection 738Y(4) in 
+respect of a contravention of subsection 738Y(1) that relates 
+to a CSF offer document; and
+(b) is not liable under subsection 738Y(5) in respect of a 
+contravention of subsection 738Y(1) that relates to a CSF 
+offer document;
+if the person did not know that the CSF offer document was 
+defective.
+Note: In a prosecution for an offence, a defendant bears an evidential burden 
+in relation to the matter in this subsection (see subsection 13.3(3) of 
+the Criminal Code).
+(2) Subsection (1) does not apply to a liability of a CSF intermediary 
+that is covered by item 7 of the table in subsection 738Y(5).
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Crowd-sourced funding  Part 6D.3A
+Defective etc. CSF offer documents  Division 4
+
+Part 6D.3A  Crowd-sourced funding
+Division 4  Defective etc. CSF offer documents
+Section 738Z

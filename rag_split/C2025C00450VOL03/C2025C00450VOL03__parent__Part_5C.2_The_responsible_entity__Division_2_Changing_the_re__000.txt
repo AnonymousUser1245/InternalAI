@@ -1,0 +1,194 @@
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+Section 601FJ
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+70 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Changing the responsible entity
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+601FJ  Changes only take effect when ASIC alters record of
+
+registration
+(1) Despite anything in this Division, the company named in ASIC’s 
+record of registration as the responsible entity or temporary 
+responsible entity of a registered scheme remains the scheme’s 
+responsible entity until the record is altered to name another 
+company as the scheme’s responsible entity or temporary 
+responsible entity.
+(2) A purported change of the scheme’s responsible entity is 
+ineffective unless it is in accordance with this Division.
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+601FK  Requirements of section 601FA must be met
+
+A company cannot be chosen or appointed as the responsible entity 
+or temporary responsible entity of a registered scheme unless it 
+meets the requirements of section 601FA.
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+601FL  Retirement of responsible entity
+
+(1) If the responsible entity of a registered scheme wants to retire, it 
+must call a members’ meeting to explain its reason for wanting to 
+retire and to enable the members to vote on a resolution to choose a 
+company to be the new responsible entity. The resolution must be 
+an extraordinary resolution if the scheme is not listed.
+(2) If the members choose a company to be the new responsible entity 
+and that company has consented, in writing, to becoming the 
+scheme’s responsible entity:
+(a) as soon as practicable and in any event within 2 business 
+days after the resolution is passed, the current responsible 
+entity must lodge a notice with ASIC asking it to alter the 
+record of the scheme’s registration to name the chosen 
+company as the scheme’s responsible entity; and
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+The responsible entity  Part 5C.2
+Changing the responsible entity  Division 2
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+Section 601FM
+
+Corporations Act 2001 71
+Compilation No. 143 Compilation date: 09/07/2025(b) if the current responsible entity does not lodge the notice 
+required by paragraph (a), the company chosen by the 
+members to be the new responsible entity may lodge that 
+notice; and
+(c) ASIC must comply with the notice when it is lodged.
+(3) If the members do not choose a company to be the new responsible 
+entity, or the company they choose does not consent to becoming 
+the scheme’s responsible entity, the current responsible entity may 
+apply to the Court for appointment of a temporary responsible 
+entity under section 601FP.
+(4) A person must not lodge a notice under subsection (2) unless the 
+consent referred to in that subsection has been given before the 
+notice is lodged.
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+601FM  Removal of responsible entity by members
+
+(1) If members of a registered scheme want to remove the responsible 
+entity, they may take action under Division 1 of Part 2G.4 for the 
+calling of a members’ meeting to consider and vote on a resolution 
+that the current responsible entity should be removed and a 
+resolution choosing a company to be the new responsible entity. 
+The resolutions must be extraordinary resolutions if the scheme is 
+not listed.
+(2) If the members vote to remove the responsible entity and, at the 
+same meeting, choose a company to be the new responsible entity 
+that consents, in writing, to becoming the scheme’s responsible 
+entity:
+(a) as soon as practicable and in any event within 2 business 
+days after the resolution is passed, the current responsible 
+entity must lodge a notice with ASIC asking it to alter the 
+record of the scheme’s registration to name the chosen 
+company as the scheme’s responsible entity; and
+(b) if the current responsible entity does not lodge the notice 
+required by paragraph (a), the company chosen by the 
+members to be the new responsible entity may lodge that 
+notice; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+Section 601FN
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+72 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(c) ASIC must comply with the notice when it is lodged.
+(3) A person must not lodge a notice under subsection (2) unless the 
+consent referred to in that subsection has been given before the 
+notice is lodged.
+Note: If the members vote to remove the responsible entity but do not, at 
+the same meeting, choose a company to be the new responsible 
+entity, or the company they choose does not consent to becoming 
+the scheme’s responsible entity, the scheme must be wound up 
+(see section 601NE).
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+601FN  ASIC or scheme member may apply to Court for
+
+appointment of temporary responsible entity
+ASIC or a member of the registered scheme may apply to the Court 
+for the appointment of a temporary responsible entity of the 
+scheme under section 601FP if the scheme does not have a 
+responsible entity that meets the requirements of section 601FA.
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+601FP  Appointment of temporary responsible entity by Court
+
+(1) On application under section 601FL or 601FN, the Court may, by 
+order, appoint a company as the temporary responsible entity of a 
+registered scheme if the Court is satisfied that the appointment is in 
+the interest of the members.
+(2) The Court may make any further orders that it considers necessary.
+(3) If the application was made by the current responsible entity, it 
+must, as soon as practicable after the Court’s order appointing the 
+temporary responsible entity, lodge a notice with ASIC informing 
+ASIC of the appointment made by the Court.
+(4) As soon as practicable after the appointment, ASIC must alter the 
+record of the scheme’s registration to name the appointed company 
+as the scheme’s temporary responsible entity.
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+The responsible entity  Part 5C.2
+Changing the responsible entity  Division 2
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+Section 601FQ
+
+Corporations Act 2001 73
+Compilation No. 143 Compilation date: 09/07/2025601FQ  Temporary responsible entity to take steps for appointment 
+of new responsible entity
+(1) The temporary responsible entity of a registered scheme must call a 
+members’ meeting for the purpose of the members, by resolution, 
+choosing a company to be the new responsible entity. The 
+resolution must be an extraordinary resolution if the scheme is not 
+listed. The temporary responsible entity must call the meeting as 
+soon as practicable and, in any event, within 3 months of becoming 
+the temporary responsible entity.
+(2) Within that 3 months, the temporary responsible entity may call 
+further members’ meetings for the purpose of choosing a company 
+to be the new responsible entity. Before the end of the 3 months, it 
+may apply to the Court for an extension of that period. If the Court 
+grants the extension, the temporary responsible entity may, within 
+the extended period, call further members’ meetings for the 
+purpose of choosing a company to be the new responsible entity.
+(3) Provided it still meets the requirements in section 601FA, nothing 
+prevents the company that is the temporary responsible entity from 
+being chosen as the new responsible entity.
+(4) If the members choose a company to be the new responsible entity 
+and that company has consented, in writing, to becoming the 
+scheme’s responsible entity, the temporary responsible entity must, 
+as soon as practicable, lodge a notice with ASIC asking it to alter 
+the record of the scheme’s registration to name the chosen 
+company as the scheme’s responsible entity. ASIC must comply 
+with the notice when it is lodged.
+(5) The temporary responsible entity must apply to the Court for an 
+order directing it to wind up the scheme, and the Court may make 
+the order, if:
+(a) no meeting is called within the 3 months or extended period 
+for the purpose of choosing a new company to be the 
+responsible entity; or
+(b) the meeting or meetings called within that period for that 
+purpose have not resulted in the members choosing a 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+Section 601FQ
+
+Part 5C.2  The responsible entity
+Division 2  Changing the responsible entity
+74 Corporations Act 2001

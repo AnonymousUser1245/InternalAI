@@ -1,0 +1,81 @@
+Part 7.7  Financial services disclosure
+Division 1—Preliminary
+940A  How Part applies if a financial services licensee is acting as
+
+authorised representative
+If a financial services licensee is, in providing a financial service, 
+acting as the authorised representative of another financial services 
+licensee (see section 916E), this Part applies to the first-mentioned 
+licensee, in relation to the service, in the capacity of authorised 
+representative (rather than the capacity of licensee).
+
+Part 7.7  Financial services disclosure
+Division 1—Preliminary
+940B  What if there is no reasonable opportunity to give a document,
+
+information or statement required by this Part?
+(1) If:
+(a) apart from this section, a person (the providing entity) would 
+be required by a provision of this Part to give another person 
+(the client) a particular document (for example, a Financial 
+Services Guide or a Statement of Advice), or particular 
+information or a particular statement; and
+(b) the providing entity has not had a reasonable opportunity to 
+give (in accordance with section 940C) the client the 
+document, information or statement by the time they are 
+required by this Part to give it to the client;
+the fact that the providing entity has not given the document, 
+information or statement to the client as required by the provision 
+is not a contravention of the provision.
+Note: In a prosecution for an offence, a defendant bears an evidential burden 
+in relation to the matters in this section (see subsection 13.3(3) of the 
+Criminal Code).
+(2) For the purposes of subsection (1), the providing entity is not taken 
+not to have had a reasonable opportunity to provide the document, 
+information or statement if:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Financial services disclosure  Part 7.7
+Preliminary  Division 1
+
+Part 7.7  Financial services disclosure
+Division 1—Preliminary
+Section 940C
+
+Corporations Act 2001 625
+Compilation No. 143 Compilation date: 09/07/2025(a) section 940C (or regulations made for the purposes of that 
+section) permit the document, information or statement to be 
+sent to an address (including an electronic address) or fax 
+number nominated by the client; and
+(b) the client has not given the providing entity an address 
+(including an electronic address) or fax number to which the 
+document, information or statement can be sent; but
+(c) the providing entity has had a reasonable opportunity to 
+make, but has not made, reasonable enquiries of the client to 
+obtain such an address or fax number.
+
+Part 7.7  Financial services disclosure
+Division 1—Preliminary
+940C  How documents, information and statements are to be given
+
+(1) For the purposes of this Part (unless a contrary intention appears), a 
+Financial Services Guide, a Supplementary Financial Services 
+Guide, a Statement of Advice or a Cash Settlement Fact Sheet is 
+given by a person (the providing entity) to another person (the 
+client) if (and only if):
+(a) it is:
+(i) given to the client, or to the client’s agent, personally; or
+(ii) sent to the client, or the client’s agent, at an address 
+(including an electronic address) or fax number 
+nominated by the client or the client’s agent; or
+(iii) otherwise made available to the client, or the client’s 
+agent, as agreed between the client, or the client’s agent, 
+and the providing entity; and
+(b) it is in printed or electronic form.
+(2) For the purposes of this Part (unless a contrary intention appears), 
+information that subsection 941C(7) or 946B(6) requires to be 
+given by a person (the providing entity) to another person (the 
+client) is given by the providing entity to the client if (and only if):
+(a) it is given to the client, or the client’s agent, orally; or
+(b) it is in printed or electronic form and is:
+(i) given to the client, or the client’s agent, personally; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

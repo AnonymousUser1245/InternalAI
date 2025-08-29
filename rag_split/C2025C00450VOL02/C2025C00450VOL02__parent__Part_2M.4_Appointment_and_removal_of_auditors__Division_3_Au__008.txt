@@ -1,0 +1,122 @@
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+324CJ  Special rule for retiring professional member of audit
+
+company
+A person contravenes this section if:
+(a) the person who is not a director of an audit company ceases 
+to be a professional employee of the audit company at a 
+particular time (the departure time); and
+(b) at any time before the departure time, the audit company has 
+engaged in an audit of an audited body; and
+(c) the person was a lead auditor or review auditor for the audit; 
+and
+(d) within the period of 2 years starting on the date the report 
+under section 308 or 309 was made on the latest audit to 
+which paragraphs (b) and (c) apply, the person becomes, or 
+continues to be, an officer of the audited body; and
+(e) subsection 324CH(3A) (about small proprietary companies) 
+does not apply to the audited body for the most recently 
+ended financial year.
+If the audited body is a listed entity (other than a registered 
+scheme), apply paragraph (d) as if references in that paragraph to 
+the audited body included references to a related body corporate of 
+the audited body.
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+324CK  Multiple former audit firm partners or audit company
+
+directors
+A person contravenes this section if:
+(a) an audit firm, or audit company, is an auditor of an audited 
+body for a financial year; and
+(b) the person has at any time been a member of the audit firm or 
+a director of the audit company; and
+(c) the person becomes an officer of the audited body within a 
+period of 5 years after the person ceased (or last ceased) to be 
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Appointment and removal of auditors  Part 2M.4
+Auditor independence  Division 3
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+Section 324CL
+
+Corporations Act 2001 191
+Compilation No. 143 Compilation date: 09/07/2025a member of the audit firm or a director of the audit company 
+(as the case may be); and
+(d) at the time when paragraph (c) is satisfied another person 
+who is or who also has at any time been a member of the 
+audit firm, or a director of the audit company, at a time when 
+the audit firm, or audit company, undertook an audit of the 
+audited body is also an officer of the audited body; and
+(e) subsection 324CH(3A) (about small proprietary companies) 
+does not apply to the audited body for the most recently 
+ended financial year.
+If the audited body is a listed entity (other than a registered 
+scheme), apply paragraphs (c) and (d) as if references in those 
+paragraphs to the audited body included references to a related 
+body corporate of the audited body.
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+
+Section 324CLA
+
+Part 2M.4  Appointment and removal of auditors
+Division 3  Auditor independence
+192 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) For the purposes of this Division, a person is not taken to be an 
+officer of a company by reason only of being, or having been, the 
+liquidator of:
+(a) the company; or
+(b) a related body corporate; or
+(c) an entity that the company controls or has controlled.
+(4) For the purposes of this Division, a person is not taken to be an 
+officer of a company merely because of one or more of the 
+following:
+(a) having been appointed as auditor of:
+(i) the company; or
+(ii) a related body corporate; or
+(iii) an entity that the company controls or has controlled;
+(b) having been appointed, for any purpose relating to taxation, 
+as public officer of:
+(i) a body corporate; or
+(ii) an unincorporated body; or
+(iii) a trust estate;
+(c) being or having been authorised to accept service of process 
+or notices on behalf of:
+(i) the company; or
+(ii) a related body corporate; or
+(iii) an entity that the company controls or has controlled.
+324CLA  Extended meaning of officer of a registrable 
+superannuation entity
+(1) For the purposes of this Division, a person is taken to be an officer 
+of a registrable superannuation entity if:
+(a) the person is an officer of:
+(i) a related body corporate of the RSE licensee for the 
+registrable superannuation entity; or
+(ii) an entity that the RSE licensee for the registrable 
+superannuation entity controls; or
+Authorised Version C2025C00450 registered 21/07/2025Financial reports, sustainability reports and audit  Chapter 2M
+Appointment and removal of auditors  Part 2M.4
+Auditor independence  Division 3
+Section 324CLA
+Corporations Act 2001 193
+Compilation No. 143 Compilation date: 09/07/2025(b) the person has, at any time within the immediately preceding 
+period of 12 months, been an officer or promoter of:
+(i) a related body corporate of the RSE licensee for the 
+registrable superannuation entity; or
+(ii) an entity that the RSE licensee for the registrable 
+superannuation entity controlled at that time.
+Note:Officer of a registrable superannuation entity is defined in 
+section 345AAD. This subsection extends the meaning of that 
+expression for the purposes of this Division.
+(2) Paragraph (1)(b) does not apply if ASIC directs that it does not 
+apply in relation to the person in relation to the RSE licensee for 
+the registrable superannuation entity. ASIC may give the direction 
+only if ASIC thinks that it is appropriate to do so in the 
+circumstances of the case.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2M  Financial reports, sustainability reports and audit

@@ -1,0 +1,68 @@
+Part 7.7 when providing financial advice. ASIC has a power under
+
+section 915C to suspend or cancel a licensee’s licence.
+(9) In calculating the amount payable, or paid, for securities for the 
+purposes of paragraph (8)(a) or (b), disregard any amount payable, 
+or paid, to the extent to which it is to be paid, or was paid, out of 
+money lent by the person offering the securities or an associate.
+(9A) In addition to specifying amounts for the purposes of 
+subparagraphs (8)(c)(i) and (ii), the regulations may do either or 
+both of the following:
+(a) deal with how net assets referred to in subparagraph (8)(c)(i) 
+are to be determined and valued, either generally or in 
+specified circumstances;
+(b) deal with how gross income referred to in 
+subparagraph (8)(c)(ii) is to be calculated, either generally or 
+in specified circumstances.
+(9B) In determining the net assets of a person under 
+subparagraph (8)(c)(i), the net assets of a company or trust 
+controlled by the person may be included.
+Note:Control is defined in section 50AA.
+(9C) In determining the gross income of a person under 
+subparagraph (8)(c)(ii), the gross income of a company or trust 
+controlled by the person may be included.
+Note:Control is defined in section 50AA.
+(10) An offer of a body’s securities does not need disclosure to 
+investors under this Part if:
+(a) the offer is made through a financial services licensee; and
+Authorised Version C2025C00450 registered 21/07/2025Fundraising  Chapter 6D
+Disclosure to investors about securities (other than for CSF offers)  Part 6D.2
+Offers that need disclosure to investors  Division 2
+
+Part 7.7 when providing financial advice. ASIC has a power under
+Section 708
+
+Corporations Act 2001 385
+Compilation No. 143 Compilation date: 09/07/2025(b) the licensee is satisfied on reasonable grounds that the person 
+to whom the offer is made has previous experience in 
+investing in securities that allows them to assess:
+(i) the merits of the offer; and
+(ii) the value of the securities; and
+(iii) the risks involved in accepting the offer; and
+(iv) their own information needs; and
+(v) the adequacy of the information given by the person 
+making the offer; and
+(c) the licensee gives the person before, or at the time when, the 
+offer is made a written statement of the licensee’s reasons for 
+being satisfied as to those matters; and
+(d) the person to whom the offer is made signs a written 
+acknowledgment before, or at the time when, the offer is 
+made that the licensee has not given the person a disclosure 
+document under this Part in relation to the offer.
+Professional investors
+(11) An offer of securities does not need disclosure to investors under 
+this Part if it is made to:
+(a) a person covered by the definition of professional investor in 
+section 9 (except a person mentioned in paragraph (e) of the 
+definition); or
+(b) a person who has or controls gross assets of at least $10 
+million (including any assets held by an associate or under a 
+trust that the person manages).
+Offers of securities to people associated with the body
+(12) An offer of a body’s securities does not need disclosure to 
+investors under this Part if it is made to:
+(a) a senior manager of the body or a related body or their 
+spouse, parent, child, brother or sister; or
+(b) a body corporate controlled by a person referred to in 
+paragraph (a).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 6D  Fundraising

@@ -1,0 +1,189 @@
+Part 5.2  Receivers, and other controllers, of property of corporations
+434E  Appointment of 2 or more receivers and managers of property
+
+of a corporation
+If 2 or more persons have been appointed as receivers and 
+managers of property of a corporation:
+(a) a function or power of a receiver and manager of property of 
+the corporation may be performed or exercised by any one of 
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 434F
+
+Corporations Act 2001 335
+Compilation No. 143 Compilation date: 09/07/2025them, or by any 2 or more of them together, except so far as 
+the order or instrument appointing them otherwise provides; 
+and
+(b) a reference in this Act to a receiver and manager, or to the 
+receiver and manager, of property of a corporation is, in the 
+case of the first-mentioned corporation, a reference to 
+whichever one or more of those receivers and managers the 
+case requires.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+434F  Appointment of 2 or more controllers of property of a
+
+corporation
+If 2 or more persons have been appointed as controllers of property 
+of a corporation:
+(a) a function or power of a controller of property of the 
+corporation may be performed or exercised by any one of 
+them, or by any 2 or more of them together, except so far as 
+the order or instrument appointing them otherwise provides; 
+and
+(b) a reference in this Act to a controller, or to the controller, of 
+property of a corporation is, in the case of the first-mentioned 
+corporation, a reference to whichever one or more of those 
+controllers the case requires.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+434G  Appointment of 2 or more managing controllers of property of
+
+a corporation
+If 2 or more persons have been appointed as managing controllers 
+of property of a corporation:
+(a) a function or power of a managing controller of property of 
+the corporation may be performed or exercised by any one of 
+them, or by any 2 or more of them together, except so far as 
+the order or instrument appointing them otherwise provides; 
+and
+(b) a reference in this Act to a managing controller, or to the 
+managing controller, of property of a corporation is, in the 
+case of the first-mentioned corporation, a reference to 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 434H
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+336 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025whichever one or more of those managing controllers the 
+case requires.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+434H  Regulations may provide for reporting to ASIC
+
+(1) The regulations may provide for and in relation to the obligations 
+of a controller, or a managing controller, of the property of a 
+corporation:
+(a) to give information; and
+(b) to provide reports; and
+(c) to produce documents;
+to ASIC.
+(2) Without limiting subsection (1), the regulations may provide for 
+and in relation to:
+(a) the manner and form in which information is to be given, a 
+report provided or a document produced; and
+(b) the timeframes in which information is to be given, a report 
+provided or a document produced; and
+(c) who is to bear the cost of giving information, providing a 
+report or producing a document.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+434J  Stay on enforcing rights merely because of the appointment of
+
+a managing controller of a corporation’s property etc.
+Stay on enforcing rights
+(1) A right cannot be enforced against a corporation for:
+(a) the reason of the appointment or existence of a managing 
+controller of the whole or substantially the whole of the 
+corporation’s property; or
+(b) the corporation’s financial position, if there is a managing 
+controller of the whole or substantially the whole of the 
+corporation’s property; or
+(c) a reason, prescribed by the regulations for the purposes of 
+this paragraph, that relates to:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 434J
+
+Corporations Act 2001 337
+Compilation No. 143 Compilation date: 09/07/2025(i) the appointing, or possible appointing, of a managing 
+controller of the whole or substantially the whole of the 
+corporation’s property; or
+(ii) the corporation’s financial position;
+if such an appointment is later made for the whole or 
+substantially the whole of the corporation’s property; or
+(d) a reason that, in substance, is contrary to this subsection;
+if the right arises for that reason by express provision (however 
+described) of a contract, agreement or arrangement.
+Note: This result is subject to subsections (5) and (7), and to any order under 
+section 434K.
+Example: A right to terminate a contract will not be enforceable to the extent 
+that those rights are triggered by the appointment of a managing 
+controller.
+Period of the stay
+(2) The right cannot be enforced as described in subsection (1) during 
+the period (the stay period) starting at the appointment of the 
+managing controller and ending:
+(a) unless paragraph (b) applies—when the managing 
+controller’s control of the corporation’s property ends; or
+(b) if one or more orders are made under subsection (3) for the 
+corporation as the result of an application made before the 
+end of the managing controller’s control of the corporation’s 
+property—when the last made of those orders ceases to be in 
+force.
+(3) The Court:
+(a) may order an extension of the period otherwise applying 
+under subsection (2) for the corporation if the Court is 
+satisfied that the extension is appropriate having regard to the 
+interests of justice; and
+(b) before deciding an application for an order under 
+paragraph (a), may grant an interim order, but must not 
+require the applicant to give an undertaking as to damages as 
+a condition for doing so.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 434J
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+338 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Enforcing rights after the stay for reasons relating to earlier 
+circumstances
+(4) The right is unenforceable against the corporation indefinitely after 
+the end of the stay period to the extent that a reason for seeking to 
+enforce the right:
+(a) is the corporation’s financial position before the end of the 
+stay period; or
+(b) is the appointment or existence of a managing controller of 
+the whole or substantially the whole of the corporation’s 
+property before the end of the stay period; or
+(c) is a reason, prescribed by the regulations for the purposes of 
+this paragraph, relating to circumstances in existence during 
+the stay period; or
+(d) is a reason referred to in paragraph (1)(c) or (d).
+Rights not subject to the stay
+(5) Subsection (1) does not apply to the right if it is:
+(a) a right under a contract, agreement or arrangement entered 
+into after the appointment of the managing controller; or
+(b) a right contained in a kind of contract, agreement or 
+arrangement:
+(i) prescribed by the regulations for the purposes of this 
+subparagraph; or
+(ii) declared under paragraph (6)(a); or
+(c) a right of a kind:
+(i) prescribed by the regulations for the purposes of this 
+subparagraph; or
+(ii) declared under paragraph (6)(b); or
+(d) a right of a kind declared under paragraph (6)(c), and the 
+circumstances specified in that declaration exist.
+(6) For the purposes of subsection (5), the Minister may, by legislative 
+instrument:
+(a) declare kinds of contracts, agreements or arrangements 
+referred to in a specified law of the Commonwealth; or
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 434K

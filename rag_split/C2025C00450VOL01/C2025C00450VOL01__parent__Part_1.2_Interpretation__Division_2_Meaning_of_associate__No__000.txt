@@ -1,0 +1,219 @@
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+Section 10
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+152 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Meaning of associate
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+10  Effect of Division
+
+(1) This Division has effect for the purposes of interpreting a reference 
+(in this Division called the associate reference), in relation to a 
+person (in this Division called the primary person), to an associate.
+(2) A person is not an associate of the primary person except as 
+provided in this Division.
+(3) Nothing in this Division limits the generality of anything else in it.
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+11  Associates of bodies corporate
+
+If the primary person is a body corporate, the associate reference 
+includes a reference to:
+(a) a director or secretary of the body; and
+(b) a related body corporate; and
+(c) a director or secretary of a related body corporate.
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+12  References in Chapters 6 to 6C, and other references relating to
+
+voting power and takeovers etc.
+(1) Subject to subsection 16(1), but despite anything else in this Part, 
+this section applies for the purposes of interpreting a reference to 
+an associate (the associate reference), in relation to a designated 
+body, if:
+(a) the reference occurs in a provision of Chapter 6, 6A, 6B or
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+6C; or
+
+(b) the reference occurs in a provision outside those Chapters 
+that relates to any of the following matters:
+(i) the extent, or restriction, of a power to exercise, or to 
+control the exercise of, the votes attached to voting 
+shares in the designated body;
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Meaning of associate  Division 2
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+Section 12
+
+Corporations Act 2001 153
+Compilation No. 143 Compilation date: 09/07/2025(ii) the primary person’s voting power in the designated 
+body;
+(iii) relevant interests in securities in the designated body;
+(iv) a substantial holding in the designated body;
+(v) a takeover bid for securities in the designated body;
+(vi) the compulsory acquisition, or compulsory buy-out, of 
+securities in the designated body.
+(2) For the purposes of the application of the associate reference in 
+relation to the designated body, a person (the second person) is an 
+associate of the primary person if, and only if, one or more of the 
+following paragraphs applies:
+(a) the primary person is a body corporate and the second person 
+is:
+(i) a body corporate the primary person controls; or
+(ii) a body corporate that controls the primary person; or
+(iii) a body corporate that is controlled by an entity that 
+controls the primary person;
+(b) subject to subsection (2A), the second person is a person with 
+whom the primary person has, or proposes to enter into, a 
+relevant agreement for the purpose of controlling or 
+influencing the composition of the designated body’s board 
+or the conduct of the designated body’s affairs;
+(c) subject to subsection (2A), the second person is a person with 
+whom the primary person is acting, or proposing to act, in 
+concert in relation to the designated body’s affairs.
+(2A) For the purposes of paragraphs (2)(b) and (c), the second person is 
+not an associate of the primary person in relation to a designated 
+body merely because:
+(a) they have entered or propose to enter into a relevant 
+agreement; and
+(b) one of them has or will have a right under the relevant 
+agreement (whether the right is enforceable presently or in 
+the future and whether or not on the fulfilment of a 
+condition) to dispose of securities in the designated body or 
+control the exercise of a power to dispose of the securities.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+Section 13
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+154 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(3) For the purposes of the application of this section in relation to a 
+designated body that is a managed investment scheme:
+(a) a reference to controlling or influencing the composition of 
+the designated body’s board is taken to be a reference to 
+controlling or influencing:
+(i) if the scheme is a registered scheme—whether a 
+particular company becomes or remains the scheme’s 
+responsible entity; or
+(ii) if the scheme is not a registered scheme—whether a 
+particular person is appointed, or remains appointed, to 
+the office (by whatever name it is known) in relation to 
+the scheme that corresponds most closely to the office 
+of responsible entity of a registered scheme; and
+(b) a reference to voting shares in the designated body is taken to 
+be a reference to voting interests in the managed investment 
+scheme.
+(4) In relation to a matter relating to securities in a designated body, a 
+person may be an associate of the body and the body may be an 
+associate of the person.
+(5) In this section:
+designated body means:
+(a) a body; or
+(b) a managed investment scheme.
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+13  References in Chapter 7
+
+If the associate reference occurs in Chapter 7, it includes a 
+reference to:
+(a) a person in partnership with whom the primary person carries 
+on a financial services business; and
+(b) subject to subsection 16(2), a person who is a partner of the 
+primary person otherwise than because of carrying on a 
+financial services business in partnership with the primary 
+person; and
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Meaning of associate  Division 2
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+Section 15
+
+Corporations Act 2001 155
+Compilation No. 143 Compilation date: 09/07/2025(c) a trustee of a trust in relation to which the primary person 
+benefits, or is capable of benefiting, otherwise than because 
+of transactions entered into in the ordinary course of business 
+in connection with the lending of money; and
+(d) a director of a body corporate of which the primary person is 
+also a director and that carries on a financial services 
+business; and
+(e) subject to subsection 16(2), a director of a body corporate of 
+which the primary person is also a director and that does not 
+carry on a financial services business.
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+15  General
+
+(1) The associate reference includes a reference to:
+(a) a person in concert with whom the primary person is acting, 
+or proposes to act; and
+(b) a person who, under the regulations, is, for the purposes of 
+the provision in which the associate reference occurs, an 
+associate of the primary person; and
+(c) a person with whom the primary person is, or proposes to 
+become, associated, whether formally or informally, in any 
+other way;
+in respect of the matter to which the associate reference relates.
+(2) If the primary person has entered, or proposes to enter, into a 
+transaction, or has done, or proposes to do, any act or thing, in 
+order to become associated with another person as mentioned in an 
+applicable provision of this Division, the associate reference 
+includes a reference to that other person.
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+16  Exclusions
+
+(1) A person is not an associate of another person by virtue of 
+section 12 or subsection 15(1), or by virtue of subsection 15(2) as 
+it applies in relation to section 12 or subsection 15(1), merely 
+because of one or more of the following:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+Section 17
+
+Part 1.2  Interpretation
+Division 2  Meaning of associate
+156 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) one gives advice to the other, or acts on the other’s behalf, in 
+the proper performance of the functions attaching to a 
+professional capacity or a business relationship;
+(b) one, a client, gives specific instructions to the other, whose 
+ordinary business includes dealing in financial products, to 
+acquire financial products on the client’s behalf in the 
+ordinary course of that business;
+(c) one had sent, or proposes to send, to the other an offer under 
+a takeover bid for shares held by the other;
+(d) one has appointed the other, otherwise than for valuable 
+consideration given by the other or by an associate of the 
+other, to vote as a proxy or representative at a meeting of 
+members, or of a class of members, of a body corporate.
+(2) For the purposes of proceedings under this Act in which it is 
+alleged that a person was an associate of another person by virtue 
+of paragraph 13(b) or (e), the first-mentioned person is not taken to 
+have been an associate of the other person in relation to a matter by 
+virtue of that paragraph unless it is proved that the first-mentioned 
+person knew, or ought to have known, at that time, the material 
+particulars of that matter.

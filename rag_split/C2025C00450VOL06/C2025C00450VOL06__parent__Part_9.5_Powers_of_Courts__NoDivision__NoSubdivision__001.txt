@@ -1,0 +1,185 @@
+Part 9.5  Powers of Courts
+Section 1323
+
+Corporations Act 2001 195
+Compilation No. 143 Compilation date: 09/07/2025(ii) if the relevant person is a body corporate—a receiver or 
+receiver and manager, having such powers as the Court 
+orders, of the property or of part of the property of that 
+person;
+(j) if the relevant person is a natural person—an order requiring 
+that person to deliver up to the Court his or her passport and 
+such other documents as the Court thinks fit;
+(k) if the relevant person is a natural person—an order 
+prohibiting that person from leaving this jurisdiction, or 
+Australia, without the consent of the Court.
+(2A) A reference in paragraph (1)(g) or (h) to property of a person 
+includes a reference to property that the person holds otherwise 
+than as sole beneficial owner, for example:
+(a) as trustee for, as nominee for, or otherwise on behalf of or on 
+account of, another person; or
+(b) in a fiduciary capacity.
+(2B) Subsection (2A) is to avoid doubt, is not to limit the generality of 
+anything in subsection (1) and is not to affect by implication the 
+interpretation of any other provision of this Act.
+(2) An order under subsection (1) prohibiting conduct may prohibit the 
+conduct either absolutely or subject to conditions.
+(3) Where an application is made to the Court for an order under 
+subsection (1), the Court may, if in the opinion of the Court it is 
+desirable to do so, before considering the application, grant an 
+interim order, being an order of the kind applied for that is 
+expressed to have effect pending the determination of the 
+application.
+(4) On an application under subsection (1), the Court must not require 
+the applicant or any other person, as a condition of granting an 
+interim order under subsection (3), to give an undertaking as to 
+damages.
+(5) Where the Court has made an order under this section on a 
+person’s application, the Court may, on application by that person 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.5  Powers of Courts
+
+Part 9.5  Powers of Courts
+Section 1324
+
+Part 9.5  Powers of Courts
+196 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025or by any person affected by the order, make a further order 
+discharging or varying the first-mentioned order.
+(6) An order made under subsection (1) or (2) may be expressed to 
+operate for a specified period or until the order is discharged by a 
+further order under this section.
+(7) Nothing in this section affects the powers that the Court has apart 
+from this section.
+(8) This section has effect subject to the Bankruptcy Act 1966.
+(9) A person must not contravene an order by the Court under this 
+section that is applicable to the person.
+(10) An offence based on subsection (9) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 9.5  Powers of Courts
+1324  Injunctions
+
+(1) Where a person has engaged, is engaging or is proposing to engage 
+in conduct that constituted, constitutes or would constitute:
+(a) a contravention of this Act; or
+(b) attempting to contravene this Act; or
+(c) aiding, abetting, counselling or procuring a person to 
+contravene this Act; or
+(d) inducing or attempting to induce, whether by threats, 
+promises or otherwise, a person to contravene this Act; or
+(e) being in any way, directly or indirectly, knowingly concerned 
+in, or party to, the contravention by a person of this Act; or
+(f) conspiring with others to contravene this Act;
+the Court may, on the application of ASIC, or of a person whose 
+interests have been, are or would be affected by the conduct, grant 
+an injunction, on such terms as the Court thinks appropriate, 
+restraining the first-mentioned person from engaging in the 
+conduct and, if in the opinion of the Court it is desirable to do so, 
+requiring that person to do any act or thing.
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Powers of Courts  Part 9.5
+
+Part 9.5  Powers of Courts
+Section 1324
+
+Corporations Act 2001 197
+Compilation No. 143 Compilation date: 09/07/2025(1A) For the purposes of subsection (1):
+(a) a contravention of this Act affects the interests of a creditor 
+or member of a company if the insolvency of the company is 
+an element of the contravention; and
+(b) a company’s contravention of:
+(i) paragraph 257A(1)(a) (share buy-back not to prejudice 
+ability to pay creditors); or
+(ia) paragraph 256B(1)(b) (share capital reduction not to 
+prejudice ability to pay creditors); or
+(ii) paragraph 260A(1)(a) (financial assistance for share 
+acquisition not to prejudice company or shareholders or 
+ability to pay creditors);
+affects the interests of a creditor or member of the company; 
+and
+(c) a company’s contravention of paragraph 256B(1)(a) (fair and 
+reasonable test for share capital reduction) affects the 
+interests of a member of the company.
+This subsection does not limit subsection (1) in any way.
+(1B) If the ground relied on in an application for an injunction is 
+conduct or proposed conduct of a company or other person that it is 
+alleged constitutes, or would constitute:
+(a) a contravention of paragraph 256B(1)(a) or (b), section 257A 
+or paragraph 260A(1)(a); or
+(b) a contravention of a provision of this Act involving the 
+insolvency of the company because of:
+(i) the company making a reduction of its share capital to 
+which Division 1 of Part 2J.1 applies; or
+(ii) the company buying back its shares; or
+(iii) the company giving financial assistance to which
+
+Part 9.5  Powers of Courts
+
+Part 9.5  Powers of Courts
+Section 1324
+
+Part 9.5  Powers of Courts
+198 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(2) Where a person has refused or failed, is refusing or failing, or is 
+proposing to refuse or fail, to do an act or thing that the person is 
+required by this Act to do, the Court may, on the application of:
+(a) ASIC; or
+(b) any person whose interests have been, are or would be 
+affected by the refusal or failure to do that act or thing;
+grant an injunction, on such terms as the Court thinks appropriate, 
+requiring the first-mentioned person to do that act or thing.
+(3) Where an application for an injunction under subsection (1) or (2) 
+has been made, the Court may, if the Court determines it to be 
+appropriate, grant an injunction by consent of all the parties to the 
+proceedings, whether or not the Court is satisfied that that 
+subsection applies.
+(4) Where in the opinion of the Court it is desirable to do so, the Court 
+may grant an interim injunction pending determination of an 
+application under subsection (1).
+(5) The Court may discharge or vary an injunction granted under 
+subsection (1), (2) or (4).
+(6) The power of the Court to grant an injunction restraining a person 
+from engaging in conduct may be exercised:
+(a) whether or not it appears to the Court that the person intends 
+to engage again, or to continue to engage, in conduct of that 
+kind; and
+(b) whether or not the person has previously engaged in conduct 
+of that kind; and
+(c) whether or not there is an imminent danger of substantial 
+damage to any person if the first-mentioned person engages 
+in conduct of that kind.
+(7) The power of the Court to grant an injunction requiring a person to 
+do an act or thing may be exercised:
+(a) whether or not it appears to the Court that the person intends 
+to refuse or fail again, or to continue to refuse or fail, to do 
+that act or thing; and
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Powers of Courts  Part 9.5
+
+Part 9.5  Powers of Courts
+Section 1324A
+
+Corporations Act 2001 199
+Compilation No. 143 Compilation date: 09/07/2025(b) whether or not the person has previously refused or failed to 
+do that act or thing; and
+(c) whether or not there is an imminent danger of substantial 
+damage to any person if the first-mentioned person refuses or 
+fails to do that act or thing.
+(8) Where ASIC applies to the Court for the grant of an injunction 
+under this section, the Court must not require the applicant or any 
+other person, as a condition of granting an interim injunction, to 
+give an undertaking as to damages.
+(9) In proceedings under this section against a person the Court may 
+make an order under section 1323 in respect of the person.
+(10) Where the Court has power under this section to grant an 
+injunction restraining a person from engaging in particular 
+conduct, or requiring a person to do a particular act or thing, the 
+Court may, either in addition to or in substitution for the grant of 
+the injunction, order that person to pay damages to any other 
+person.
+
+Part 9.5  Powers of Courts
+1324A  Provisions relating to prosecutions

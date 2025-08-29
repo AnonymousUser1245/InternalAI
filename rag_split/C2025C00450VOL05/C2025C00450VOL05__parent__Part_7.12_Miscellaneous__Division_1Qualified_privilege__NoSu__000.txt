@@ -1,0 +1,73 @@
+Part 7.12  Miscellaneous
+Division 1—Qualified privilege
+1100A  Qualified privilege for information given to ASIC
+
+(1) A person has qualified privilege in respect of the giving of any 
+information to ASIC that the person:
+(a) is required to give under this Chapter or regulations made for 
+the purposes of this Chapter; or
+(b) gives in relation to a contravention or suspected 
+contravention of subsection 798H(1) (complying with market 
+integrity rules), 908CF(1) (complying with rules about 
+financial benchmarks) or 981M(1) (complying with client 
+money reporting rules).
+(2) A person or body that is:
+(a) a market licensee; or
+(b) a CS facility licensee; or
+(c) a person acting under an arrangement to operate a licensed 
+market or supervise a licensed CS facility; or
+(d) a foreign person or body responsible for the supervision of 
+the operation in a foreign country of a financial market or 
+clearing and settlement facility; or
+(e) a benchmark administrator licensee;
+also has qualified privilege in respect of the giving of any 
+information to ASIC in connection with the performance or 
+exercise of ASIC’s functions or powers under, or in relation to, this 
+Chapter or regulations made for the purposes of this Chapter.
+(3) A person or body that has qualified privilege under subsection (1) 
+or (2) in respect of conduct is also not liable for any action based 
+on breach of confidence in relation to that conduct.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Miscellaneous  Part 7.12
+Qualified privilege  Division 1
+
+Part 7.12  Miscellaneous
+Division 1—Qualified privilege
+Section 1100B
+
+Corporations Act 2001 339
+Compilation No. 143 Compilation date: 09/07/20251100B  Qualified privilege for the conduct of market licensees and 
+CS facility licensees
+(1) A market licensee, or CS facility licensee, has qualified privilege in 
+respect of actions (including the giving of information) done in 
+connection with:
+(a) the performance, or purported performance, of the licensee’s 
+obligations under this Act; or
+(b) the exercise or performance, or purported exercise or 
+performance, of the licensee’s powers, functions or 
+obligations under the operating rules of the market or facility 
+concerned, if the licensee believes, on reasonable grounds, 
+that the action is necessary:
+(i) in the case of a market licensee—to ensure the market 
+operates in a fair, orderly and transparent way; or
+(ii) in the case of a CS facility licensee—to ensure the 
+facility’s services are provided in a fair and effective 
+manner or to reduce systemic risk in the provision of 
+those services.
+(2) A market licensee, or CS facility licensee, has qualified privilege in 
+respect of the giving of information:
+(a) to the operator of a financial market (regardless of where the 
+market is operated) for the purpose of assisting the operator 
+to ensure that market operates in a fair, orderly and 
+transparent way; or
+(b) to the operator of a clearing and settlement facility 
+(regardless of where the facility is operated) for the purpose 
+of assisting the operator to ensure that facility’s services are 
+provided in a fair and effective manner or to reduce systemic 
+risk.
+(3) Despite subsections (1) and (2), a market licensee does not have 
+qualified privilege in respect of the giving of information if:
+(a) an entity included on the market’s official list gave the 
+information to the licensee under a provision of this Act or of 
+the market’s operating rules; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

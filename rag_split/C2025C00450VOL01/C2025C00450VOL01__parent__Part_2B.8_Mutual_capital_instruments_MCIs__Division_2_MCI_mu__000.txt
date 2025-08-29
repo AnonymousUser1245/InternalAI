@@ -1,0 +1,91 @@
+Part 2B.8  Mutual capital instruments (MCIs)
+Division 2  MCI mutual entities and MCIs
+Section 167AE
+
+Part 2B.8  Mutual capital instruments (MCIs)
+Division 2  MCI mutual entities and MCIs
+332 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025167AE  MCI requirements—class rights
+A share in a mutual entity meets the requirement in this section if 
+the rights attached to the share can be varied or cancelled only by 
+special resolution of the company and either:
+(a) by special resolution passed at a meeting of the class of 
+members holding shares in the same class; or
+(b) with the written consent of members with at least 75% of the 
+votes in the class.
+
+Part 2B.8  Mutual capital instruments (MCIs)
+Division 2  MCI mutual entities and MCIs
+167AF  MCI requirements—other requirements
+
+A share in a mutual entity meets the requirements in this section if 
+the entity’s constitution:
+(a) provides that the share can only be issued as a fully paid 
+share; and
+(b) provides that dividends in respect of the share are 
+non-cumulative; and
+(c) sets out the rights attached to the share with respect to 
+participation in surplus assets and profits.
+
+Part 2B.8  Mutual capital instruments (MCIs)
+Division 2  MCI mutual entities and MCIs
+167AG  MCIs must be cancelled before MCI mutual entity
+
+demutualises
+A resolution of an MCI mutual entity that would result in the entity 
+ceasing to be an MCI mutual entity can only take effect if:
+(a) there are no MCIs in the entity; or
+(b) the resolution provides for each MCI to be cancelled at or 
+before the time the entity ceases to be an MCI mutual entity 
+(whether or not the holders of the MCIs to be cancelled are to 
+receive other securities in respect of those MCIs).
+Authorised Version C2025C00450 registered 21/07/2025Basic features of a company  Chapter 2B
+Mutual capital instruments (MCIs)  Part 2B.8
+Special procedure for amending constitution of mutual entity that proposes to issue 
+MCIs  Division 3
+
+Part 2B.8  Mutual capital instruments (MCIs)
+Division 2  MCI mutual entities and MCIs
+Section 167AH
+
+Corporations Act 2001 333
+Compilation No. 143 Compilation date: 09/07/2025Division 3—Special procedure for amending constitution 
+of mutual entity that proposes to issue MCIs
+
+Part 2B.8  Mutual capital instruments (MCIs)
+Division 2  MCI mutual entities and MCIs
+167AH  Purpose and application of this Division
+
+(1) This Division sets out a special procedure for the constitution of a 
+mutual entity to be amended to provide for the entity to issue 
+MCIs.
+(2) This Division applies to a mutual entity that:
+(a) is a public company; and
+(b) does not have voting shares quoted on a declared financial 
+market; and
+(c) is not a registered entity within the meaning of the Australian 
+Charities and Not-for-profits Commission Act 2012.
+
+Part 2B.8  Mutual capital instruments (MCIs)
+Division 2  MCI mutual entities and MCIs
+167AI  MCI amendment resolution
+
+(1) An MCI amendment resolution is a resolution of the mutual entity 
+to amend the entity’s constitution for one or more of the following 
+purposes, and for no other purpose:
+(a) to include a statement that the entity is intended to be an MCI 
+mutual entity for the purposes of this Act;
+(b) to provide for the entity to issue MCIs;
+(c) to provide for the rights and obligations attached to MCIs;
+(d) to make changes that are incidental or ancillary to the 
+purpose in paragraph (a), (b) or (c).
+(2) An MCI amendment resolution must not result in the mutual entity 
+ceasing to be a mutual entity.
+
+Part 2B.8  Mutual capital instruments (MCIs)
+Division 2  MCI mutual entities and MCIs
+167AJ  Procedure for MCI amendment resolution
+
+(1) This section applies to a meeting of the mutual entity’s members if:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2B  Basic features of a company

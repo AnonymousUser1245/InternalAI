@@ -1,0 +1,198 @@
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823G
+
+Corporations Act 2001 153
+Compilation No. 143 Compilation date: 09/07/2025(3) For the purposes of paragraph (2)(b), the regulations may specify 
+that a particular form of support:
+(a) is external support; or
+(b) is not external support.
+(4) The direction:
+(a) must specify a reasonable time by which, or a reasonable 
+period during which, it is to be complied with; and
+(b) may deal with one or more of the matters in the paragraphs or 
+subparagraphs of subsection (1).
+(5) The licensee must comply with the direction.
+Note: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823G  Reserve Bank’s directions power—directions to enhance
+
+resolvability
+(1) The Reserve Bank may, by written notice given to:
+(a) a body corporate that is a CS facility licensee; or
+(b) a body corporate that:
+(i) is a related body corporate of a CS facility licensee; and
+(ii) is incorporated in Australia;
+direct the body corporate to take:
+(c) specified measures to comply with all or part of one or more 
+standards in force under section 827DA that applies to the 
+body corporate, if the Reserve Bank reasonably believes that 
+the body corporate is not complying with those standards or 
+parts; or
+(d) specified action to manage or resolve an impediment to the 
+effective management of or response to a condition in 
+section 831A being satisfied in relation to the CS facility 
+licensee, if the Reserve Bank reasonably believes that the 
+body corporate:
+(i) has not done; or
+(ii) is unlikely to do;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823H
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+154 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025all things reasonably practicable to manage or resolve the 
+impediment.
+(2) The direction must specify a reasonable time by which, or a 
+reasonable period during which, it is to be complied with.
+(3) The body corporate must comply with the direction.
+Note: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823H  Reserve Bank’s directions power—directions to give
+
+information to assist the Reserve Bank perform its 
+functions
+(1) The Reserve Bank may, by written notice given to a body 
+corporate to which subsection (2) or (3) applies, direct the body 
+corporate to give:
+(a) specified information; or
+(b) documents containing specified information;
+to the Reserve Bank or a Reserve Bank staff member.
+(2) This subsection applies to a body corporate if:
+(a) the body corporate is a CS facility licensee; and
+(b) the Reserve Bank reasonably believes that the licensee 
+possesses the information or documents; and
+(c) the Reserve Bank reasonably believes that the information or 
+documents could assist the Reserve Bank to perform its 
+functions, or exercise its powers, under this Part.
+(3) This subsection applies to a body corporate if:
+(a) the body corporate:
+(i) is a related body corporate of a CS facility licensee; and
+(ii) is incorporated in Australia; and
+(b) the Reserve Bank reasonably believes that the body corporate 
+possesses the information or documents; and
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of clearing and settlement facilities  Part 7.3
+Regulation of CS facility licensees  Division 2
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823J
+
+Corporations Act 2001 155
+Compilation No. 143 Compilation date: 09/07/2025(c) the Reserve Bank reasonably believes that the information or 
+documents could assist the Reserve Bank to perform its 
+functions, or exercise its powers:
+(i) under section 823CA in relation to the body corporate 
+or the licensee; or
+(ii) under section 827DB (resolution planning) in relation to 
+the licensee.
+(4) The direction:
+(a) must specify a reasonable time by which, or a reasonable 
+period during which, it is to be complied with; and
+(b) may specify the form and manner in which the information or 
+documents must be given.
+(5) The body corporate must comply with the direction.
+Note: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823J  Matters relating to all Reserve Bank directions—order for
+
+body corporate to comply with direction
+If a body corporate fails to comply with a direction given under 
+this Subdivision to the body corporate, the Reserve Bank may 
+apply to the Court for, and the Court may make, an order that the 
+body corporate comply with the direction.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823K  Matters relating to all Reserve Bank directions—variation or
+
+revocation
+(1) The Reserve Bank:
+(a) may, by written notice given to a body corporate:
+(i) vary a direction given under this Subdivision to the 
+body corporate if, at the time of variation, the Reserve 
+Bank reasonably believes the variation is necessary or 
+appropriate; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823L
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+156 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) revoke such a direction if, at the time of revocation, the 
+Reserve Bank reasonably believes the direction is no 
+longer necessary or appropriate; and
+(b) for a direction given under subsection 823E(1)—must 
+immediately do so if required under subsection 823E(6).
+(2) A direction given under this Subdivision has effect until the 
+Reserve Bank revokes it under subsection (1).
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823N
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+158 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025expert’s ability to give an unbiased opinion in relation to the 
+matter being reported on.
+(3) The Reserve Bank may publish details of, or relating to the report.
+(4) Despite subsection (1), the Reserve Bank need not obtain the report 
+if it is satisfied that doing so would detrimentally affect:
+(a) participants, or proposed participants, in the CS facility; or
+(b) the continuity of one or more clearing and settlement facility 
+services that are critical to the functioning of the financial 
+system in Australia; or
+(c) the stability of the financial system in Australia.
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+823N  Recapitalisation directions—determination of the fair value of
+
+shares or rights by an expert
+Determining the fair value of shares
+(1) In determining the fair value for each share in a CS facility licensee 
+for the purposes of paragraph 823M(2)(a), the expert must:
+(a) first, assess the value of the licensee as a whole in accordance 
+with the assumptions (if any) notified to the expert under 
+subsection (3) of this section for the valuation of the licensee; 
+and
+(b) second, allocate that value among the classes of shares in the 
+licensee that:
+(i) have been issued; or
+(ii) the Reserve Bank proposes to direct be issued (taking 
+into account the relative financial risk, and voting and 
+distribution rights, of the classes); and
+(c) third, allocate the value of each class pro rata among the 
+shares in that class that:
+(i) have been issued; or
+(ii) the Reserve Bank proposes to direct be issued (without 
+allowing a premium or applying a discount for 
+particular shares in that class).
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Licensing of clearing and settlement facilities  Part 7.3
+Regulation of CS facility licensees  Division 2
+
+Part 7.3  Licensing of clearing and settlement facilities
+Division 2  Regulation of CS facility licensees
+Section 823P

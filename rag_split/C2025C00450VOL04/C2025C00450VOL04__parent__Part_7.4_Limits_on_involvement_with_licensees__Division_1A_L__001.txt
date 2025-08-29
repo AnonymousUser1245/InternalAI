@@ -1,0 +1,138 @@
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+
+market bodies
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+Section 852DR
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+316 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025the applicant must, as soon as practicable after the applicant 
+becomes aware of that fact, give ASIC the correct information in 
+writing.
+Note: Failure to comply with this section is an offence: see 
+subsection 1311(1).
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+852DR  Time limit for ASIC’s decision
+
+Time limit
+(1) ASIC must decide an application lodged under this Subdivision 
+within the 90-day period starting on the day the application was 
+lodged. This subsection has effect subject to subsections (2), (3) 
+and (5).
+Extending the time limit
+(2) Before the end of the period mentioned in subsection (1):
+(a) ASIC may, by written notice given to the applicant, extend 
+the period by up to 30 days; and
+(b) if ASIC does so, this section has effect as if references to the 
+period mentioned in subsection (1) were references to the 
+period as so extended.
+Stopping the clock
+(3) In working out the period mentioned in subsection (1), disregard:
+(a) the period:
+(i) starting on the day ASIC gives the applicant a notice 
+under section 852DP requesting information about the 
+application; and
+(ii) ending on the day the applicant gives ASIC all of the 
+information requested under, or ASIC otherwise 
+disposes of, the notice; and
+(b) any day on which ASIC believes relevant information 
+currently before ASIC, that was provided by the applicant in 
+relation to the application, is incorrect.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Limits on involvement with licensees  Part 7.4
+Limit on control of certain Australian licensees that are not widely held market bodies
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+
+market bodies
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+Section 852DT
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+318 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025852DT  Anti-avoidance
+(1) If:
+(a) one or more persons enter into, begin to carry out or carry out 
+a scheme; and
+(b) it would be concluded that the person, or any of the persons, 
+who:
+(i) entered into; or
+(ii) began to carry out; or
+(iii) carried out;
+the scheme or any part of the scheme did so for the sole or 
+dominant purpose of avoiding the application of any 
+provision of Subdivision B in relation to any person or 
+persons (whether or not mentioned in paragraph (a)); and
+(c) as a result of the scheme or a part of the scheme, a person 
+(the controller) increases (including from a starting point of 
+nil) the controller’s voting power in a controlled Australian 
+financial body;
+ASIC may give the controller a written direction to cease having 
+that voting power within a time specified in the direction.
+(2) A person who is subject to a written direction under subsection (1) 
+must comply with the direction.
+Note: Failure to comply with this subsection is an offence: see 
+subsection 1311(1).
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Limits on involvement with licensees  Part 7.4
+Individuals who are not fit and proper are disqualified  Division 2
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+Section 853A
+
+Corporations Act 2001 319
+Compilation No. 143 Compilation date: 09/07/2025Division 2—Individuals who are not fit and proper are 
+disqualified
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+853A  Meaning of disqualified individual
+
+An individual is a disqualified individual if:
+(a) a declaration by ASIC that the individual is disqualified is in 
+effect under section 853C; or
+(b) the individual is disqualified from managing a corporation 
+under section 206B; or
+(c) the individual is on the Register that ASIC must keep under 
+section 1274AA.
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+853B  Meaning of involved—in some licensees or applicants for a
+
+licence
+An individual is involved in a market licensee, a CS facility 
+licensee, a derivative trade repository licensee or a benchmark 
+administrator licensee, or an applicant for such a licence, if:
+(a) the individual is a director, secretary or senior manager of the 
+licensee or applicant, or in a holding company of the licensee 
+or applicant; or
+(b) the individual has more than 20% of the total voting power in 
+the licensee or applicant, or in a holding company of the 
+licensee or applicant.
+
+Part 7.4  Limits on involvement with licensees
+Division 1A  Limit on control of certain Australian licensees that are not widely held
+853C  Declaration by ASIC
+
+(1) ASIC may declare in writing that an individual who is involved in 
+a market licensee, a CS facility licensee, a derivative trade 
+repository licensee or a benchmark administrator licensee, or in an 
+applicant for a licence of any of those kinds, is disqualified for the 
+purposes of this Division.
+(2) ASIC may make such a declaration only if ASIC is satisfied that 
+the individual is unfit to be involved in the licensee or applicant.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

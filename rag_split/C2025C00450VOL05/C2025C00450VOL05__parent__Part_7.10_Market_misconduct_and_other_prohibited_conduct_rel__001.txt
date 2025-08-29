@@ -1,0 +1,187 @@
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+Section 1043H
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+230 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251043H  Exception for knowledge of person’s own intentions or 
+activities
+A natural person does not contravene subsection 1043A(1) by 
+entering into a transaction or agreement in relation to financial 
+products issued by another person merely because the person is 
+aware that he or she proposes to enter into, or has previously 
+entered into or proposed to enter into, one or more transactions or 
+agreements in relation to financial products issued by the other 
+person or by a third person.
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+1043I  Exception for bodies corporate
+
+(1) A body corporate does not contravene subsection 1043A(1) by 
+entering into a transaction or agreement in relation to financial 
+products issued by another person merely because the body 
+corporate is aware that it proposes to enter into, or has previously 
+entered into or proposed to enter into, one or more transactions or 
+agreements in relation to financial products issued by the other 
+person or by a third person.
+(2) Subject to subsection (3), a body corporate does not contravene 
+subsection 1043A(1) by entering into a transaction or agreement in 
+relation to financial products issued by another person merely 
+because an officer or employee of the body corporate is aware that 
+the body corporate proposes to enter into, or has previously entered 
+into or proposed to enter into, one or more transactions or 
+agreements in relation to financial products issued by the other 
+person or by a third person.
+(3) Subsection (2) does not apply unless the officer or employee of the 
+body corporate became aware of the matters referred to in that 
+subsection in the course of the performance of duties as such an 
+officer or employee.
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+1043J  Exception for officers or agents of body corporate
+
+(1) Subject to subsection (2), a person (the first person) does not 
+contravene subsection 1043A(1) by entering into a transaction or 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Market misconduct and other prohibited conduct relating to financial products and 
+financial services  Part 7.10
+The insider trading prohibitions  Division 3
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+Section 1043K
+
+Corporations Act 2001 231
+Compilation No. 143 Compilation date: 09/07/2025agreement on behalf of a person (the second person) in relation to 
+financial products issued by another person (the third person) 
+merely because the first person is aware that the second person 
+proposes to enter into, or has previously entered into or proposed to 
+enter into, one or more transactions or agreements in relation to 
+financial products issued by the third person or by a fourth person.
+(2) Subsection (1) does not apply unless the first person became aware 
+of the matters referred to in that subsection in the course of the 
+performance of duties as an officer or employee of the second 
+person or in the course of acting as an agent of the second person.
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+1043K  Transactions by holder of financial services licence or a
+
+representative of the holder of such a licence
+A person (the agent) does not contravene subsection 1043A(1) by 
+applying for, acquiring, or disposing of, or entering into an 
+agreement to apply for, acquire, or dispose of, financial products 
+that are able to be traded on a licensed market if:
+(a) the agent is a financial services licensee or a representative of 
+a financial services licensee; and
+(b) the agent entered into the transaction or agreement concerned 
+on behalf of another person (the principal) under a specific 
+instruction by the principal to enter into that transaction or 
+agreement; and
+(c) the licensee had in operation, at the time when that 
+transaction or agreement was entered into, arrangements that 
+could reasonably be expected to ensure that any information 
+in the possession of the licensee, or of any representative of 
+the licensee, as a result of which the person in possession of 
+the information would be prohibited by subsection 1043A(1) 
+from entering into that transaction or agreement was not 
+communicated to the agent and that no advice with respect to 
+the transaction or agreement was given to the principal or to 
+the agent by a person in possession of the information; and
+(d) the information was not so communicated and no such advice 
+was so given; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+Section 1043L
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+232 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(e) the principal is not an associate of the licensee or of any 
+representative of the licensee;
+but nothing in this section affects the application of 
+subsection 1043A(1) in relation to the principal.
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+1043L  A specific situation in which a compensation order under
+
+section 1317HA may be made
+Situation to which this section applies
+(1) If:
+(a) a person (the insider) possesses information that is not 
+generally available but, if the information were generally 
+available, a reasonable person would expect it to have a 
+material effect on the price or value of Division 3 financial 
+products (other than derivatives); and
+(b) the insider knows that, or is reckless as to whether:
+(i) the information is not generally available; and
+(ii) if the information were generally available, it might 
+have a material effect on the price or value of those
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+Section 1043L
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+234 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Compensation for damage suffered by person acquiring the
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+Section 1043L
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+236 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025appears to the court that the information came into the 
+first-mentioned person’s possession solely as a result of the 
+information having been made known as mentioned in 
+subparagraph 1042C(1)(b)(i).
+Special provision for registered schemes and notified foreign 
+passport funds—treatment of amount recovered in respect of 
+subsection (2) loss
+(8) If:
+(a) the responsible entity for a registered scheme or the operator 
+of a notified foreign passport fund; or
+(b) ASIC in the name of, and for the benefit of, the responsible 
+entity for a registered scheme or the operator of a notified 
+foreign passport fund;
+brings an action in accordance with subsection (2) in respect of a 
+subscription for, or any agreement to subscribe for, any interests in 
+the scheme or fund, any amount recovered in the action:
+(c) is to be held:
+(i) in the case of a registered scheme other than an 
+Australian passport fund—by the responsible entity; and
+(ii) in the case of an Australian passport fund or a notified 
+foreign passport fund—by the responsible holding party 
+for the fund;
+on behalf of the persons who, at the time of the subscription 
+or agreement, had rights or interests in the relevant financial 
+or business undertaking or scheme, common enterprise, 
+investment contract or time-sharing scheme; and
+(d) is to be held on their behalf in the respective proportions that, 
+at that time, their individual rights or interests bore to the 
+total of all those rights or interests.
+Special provision for registered schemes and notified foreign 
+passport funds—treatment of amount recovered in respect of 
+subsection (5) loss
+(9) If:
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Market misconduct and other prohibited conduct relating to financial products and 
+financial services  Part 7.10
+The insider trading prohibitions  Division 3
+
+Part 7.10  Market misconduct and other prohibited conduct relating to financial
+Division 3  The insider trading prohibitions
+Section 1043M

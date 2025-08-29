@@ -1,0 +1,194 @@
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 51F
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+168 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Division 7—Meaning of some other expressions
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+51F  Meaning of PPSA retention of title property
+
+Definition
+(1) Property is PPSA retention of title property (short for Personal 
+Property Securities Act retention of title property) of a corporation 
+if:
+(a) the property is personal property; and
+(b) the property is used or occupied by, or is in the possession of, 
+the corporation; and
+(c) the corporation does not have title to the property; and
+(d) a PPSA security interest is attached to the property, within 
+the meaning of the Personal Property Securities Act 2009; 
+and
+(e) the corporation is the grantor in relation to the PPSA security 
+interest, within the meaning of that Act.
+Examples: The following personal property is PPSA retention of title property if 
+a PPSA security interest attaches to the property by virtue of the 
+transaction concerned, and the grantor is a corporation:
+(a) property that is the subject of an agreement to sell subject to 
+retention of title, or a hire purchase agreement, that secures the 
+payment or performance of an obligation (see subsection 12(2) of 
+the Personal Property Securities Act 2009);
+(b) property that is the subject of a lease, or a consignment 
+agreement, that secures the payment or performance of an 
+obligation (see subsection 12(2) of the Personal Property 
+Securities Act 2009);
+(c) goods that are the subject of a commercial consignment (see 
+subsection 12(3) of the Personal Property Securities Act 2009);
+(d) goods that are leased or bailed under a PPS lease (see 
+subsection 12(3) of the Personal Property Securities Act 2009).
+References to property of a corporation
+(2) A reference in this Act to the property of a corporation does not 
+include a reference to any PPSA retention of title property of the 
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Meaning of some other expressions  Division 7
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 51M
+
+Corporations Act 2001 169
+Compilation No. 143 Compilation date: 09/07/2025corporation, unless provided otherwise expressly or by necessary 
+implication.
+Note: See also the definition of property in section 9.
+References to property of a sub-fund of a CCIV
+(3) A reference in a provision of this Act to property of a sub-fund of a 
+CCIV (including a substituted reference provided for by Part 8B.6) 
+is a reference to something that is:
+(a) property of the CCIV (within the meaning of the provision); 
+and
+(b) an asset of the sub-fund of the CCIV.
+Note: For assets of a sub-fund of a CCIV, see section 1233H.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+51M  Meaning of mutual entity
+
+(1) A company is a mutual entity if:
+(a) the company is registered under this Act; and
+(b) the company’s constitution provides that a person has no 
+more than one vote at a general meeting of the company for 
+each capacity in which the person is a member of the 
+company.
+(2) To avoid doubt:
+(a) the requirement in paragraph (1)(b) does not fail to be 
+satisfied merely because the company’s constitution provides 
+that:
+(i) 2 or more persons may together be joint members of the 
+company; and
+(ii) those persons each have one vote at a general meeting 
+of the company; and
+(b) that requirement does not fail to be satisfied merely because 
+the company’s constitution provides that:
+(i) a person may vote as proxy or representative at a 
+general meeting of the company; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 52A
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+170 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) as a result of voting as a proxy or representative, the 
+person may have more than one vote at a general 
+meeting of the company.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+52A  Signing
+
+Without affecting the law on agency, if this Act requires that 
+something be signed, it can be signed by an individual using a 
+power of attorney from the person required to sign.
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+53  Meaning of affairs—body corporate other than a CCIV
+
+For the purposes of the definition of examinable affairs in 
+section 9, section 53AA, 232, 233 or 234, paragraph 461(1)(e), 
+section 487, subsection 1307(1) or section 1309, or of a prescribed 
+provision of this Act, the affairs of a body corporate (other than a 
+CCIV) include:
+(a) the promotion, formation, membership, control, business, 
+trading, transactions and dealings (whether alone or jointly 
+with any other person or persons and including transactions 
+and dealings as agent, bailee or trustee), property (whether 
+held alone or jointly with any other person or persons and 
+including property held as agent, bailee or trustee), liabilities 
+(including liabilities owed jointly with any other person or 
+persons and liabilities as trustee), profits and other income, 
+receipts, losses, outgoings and expenditure of the body; and
+(b) in the case of a body corporate (not being a licensed trustee 
+company or the Public Trustee of a State or Territory) that is 
+a trustee (but without limiting the generality of 
+paragraph (a))—matters concerned with the ascertainment of 
+the identity of the persons who are beneficiaries under the 
+trust, their rights under the trust and any payments that they 
+have received, or are entitled to receive, under the terms of 
+the trust; and
+(c) the internal management and proceedings of the body; and
+(d) any act or thing done (including any contract made and any 
+transaction entered into) by or on behalf of the body, or to or 
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+Meaning of some other expressions  Division 7
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+Section 53
+
+Corporations Act 2001 171
+Compilation No. 143 Compilation date: 09/07/2025in relation to the body or its business or property, at a time 
+when:
+(i) a receiver, or a receiver and manager, is in possession 
+of, or has control over, property of the body; or
+(ii) the body is under administration; or
+(iia) a deed of company arrangement executed by the body 
+has not yet terminated; or
+(iib) the body is under restructuring; or
+(iic) a restructuring plan made by the body has not yet 
+terminated; or
+(iii) a compromise or arrangement made between the body 
+and any other person or persons is being administered; 
+or
+(iv) the body is being wound up;
+and, without limiting the generality of the foregoing, any 
+conduct of such a receiver or such a receiver and manager, of 
+an administrator of the body, of an administrator of such a 
+deed of company arrangement, of a restructuring practitioner 
+for the body, of a restructuring practitioner for such a 
+restructuring plan, of a person administering such a 
+compromise or arrangement or of a liquidator or provisional 
+liquidator of the body; and
+(e) the ownership of shares in, debentures of, and interests in a 
+managed investment scheme made available by, the body; 
+and
+(f) the power of persons to exercise, or to control the exercise of, 
+the rights to vote attached to shares in the body or to dispose 
+of, or to exercise control over the disposal of, such shares; 
+and
+(g) matters concerned with the ascertainment of the persons who 
+are or have been financially interested in the success or 
+failure, or apparent success or failure, of the body or are or 
+have been able to control or materially to influence the policy 
+of the body; and
+(h) the circumstances under which a person acquired or disposed 
+of, or became entitled to acquire or dispose of, shares in, 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+
+Section 53AAA
+
+Part 1.2  Interpretation
+Division 7  Meaning of some other expressions
+172 Corporations Act 2001

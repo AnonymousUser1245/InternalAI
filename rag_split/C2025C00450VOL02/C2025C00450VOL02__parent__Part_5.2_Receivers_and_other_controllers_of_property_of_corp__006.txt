@@ -1,0 +1,169 @@
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 431
+
+Corporations Act 2001 329
+Compilation No. 143 Compilation date: 09/07/2025(4) A person must comply with a requirement made under 
+subsection (1).
+(5) A reference in this section to the controller’s successor includes a 
+reference to a continuing controller.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+431  Controller may inspect books
+
+A controller of property of a corporation is entitled to inspect at 
+any reasonable time any books of the corporation that relate to that 
+property and a person must not fail to allow the controller to 
+inspect such books at such a time.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+432  Auditing returns by controllers
+
+(2) ASIC may, of its own motion or on the application of the 
+corporation or a creditor of the corporation, cause the returns 
+lodged in accordance with sections 422A and 422B to be audited 
+by a registered company auditor appointed by ASIC and, for the 
+purpose of the audit, the controller must furnish the auditor with 
+such books and information as the auditor requires.
+(3) Where ASIC causes the returns to be audited on the request of the 
+corporation or a creditor, ASIC may require the corporation or 
+creditor, as the case may be, to give security for the payment of the 
+cost of the audit.
+(4) The costs of an audit under subsection (2) must be fixed by ASIC 
+and ASIC may if it thinks fit make an order declaring that, for the 
+purposes of subsection 419(1), those costs are taken to be a debt 
+incurred by the controller as mentioned in subsection 419(1) and, 
+where such an order is made, the controller is liable accordingly.
+(5) A person must comply with a requirement made under this section.
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+433  Property subject to circulating security interest—payment of
+
+certain debts to have priority
+(2) This section applies where:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 433
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+330 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) a receiver is appointed on behalf of the holders of any 
+debentures of a company or registered body that are secured 
+by a circulating security interest, or possession is taken or 
+control is assumed, by or on behalf of the holders of any 
+debentures of a company or registered body, of any property 
+comprised in or subject to a circulating security interest; and
+(b) at the date of the appointment or of the taking of possession 
+or assumption of control (in this section called the relevant 
+date):
+(i) the company or registered body has not commenced to 
+be wound up voluntarily; and
+(ii) the company or registered body has not been ordered to 
+be wound up by the Court.
+(3) In the case of a company, the receiver or other person taking 
+possession or assuming control of property of the company must 
+pay, out of the property coming into his, her or its hands, the 
+following debts or amounts in priority to any claim for principal or 
+interest in respect of the debentures:
+(a) first, any amount that in a winding up is payable in priority to 
+unsecured debts pursuant to section 562;
+(b) next, if an auditor of the company had applied to ASIC under 
+subsection 329(6) for consent to his, her or its resignation as 
+auditor and ASIC had refused that consent before the 
+relevant date—the reasonable fees and expenses of the 
+auditor incurred during the period beginning on the day of 
+the refusal and ending on the relevant date;
+(c) subject to subsections (6) and (7), next, any debt or amount 
+that in a winding up is payable in priority to other unsecured 
+debts pursuant to paragraph 556(1)(e), (g) or (h) or 
+section 560.
+(4) In the case of a registered body, the receiver or other person taking 
+possession or assuming control of property of the registered body 
+must pay, out of the property of the registered body coming into 
+his, her or its hands, the following debts or amounts in priority to 
+any claim for principal or interest in respect of the debentures:
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Receivers, and other controllers, of property of corporations  Part 5.2
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 433
+
+Corporations Act 2001 331
+Compilation No. 143 Compilation date: 09/07/2025(a) first, any amount that in a winding up is payable in priority to 
+unsecured debts pursuant to section 562;
+(b) next, any debt or amount that in a winding up is payable in 
+priority to other unsecured debts pursuant to 
+paragraph 556(1)(e), (g) or (h) or section 560.
+(5) The receiver or other person taking possession or assuming control 
+of property must pay debts and amounts payable pursuant to 
+paragraph (3)(c) or (4)(b) in the same order of priority as is 
+prescribed by Division 6 of Part 5.6 in respect of those debts and 
+amounts.
+(6) In the case of a company, if an auditor of the company had applied 
+to ASIC under subsection 329(6) for consent to his, her or its 
+resignation as auditor and ASIC had, before the relevant date, 
+refused that consent, a receiver must, when property comes to the 
+receiver’s hands, before paying any debt or amount referred to in 
+paragraph (3)(c), make provision out of that property for the 
+reasonable fees and expenses of the auditor incurred after the 
+relevant date but before the date on which the property comes into 
+the receiver’s hands, being fees and expenses in respect of which 
+provision has not already been made under this subsection.
+(7) If an auditor of the company applies to ASIC under 
+subsection 329(6) for consent to his, her or its resignation as 
+auditor and, after the relevant date, ASIC refuses that consent, the 
+receiver must, in relation to property that comes into the receiver’s 
+hands after the refusal, before paying any debt or amount referred 
+to in paragraph (3)(c), make provision out of that property for the 
+reasonable fees and expenses of the auditor incurred after the 
+refusal and before the date on which the property comes into the 
+receiver’s hands, being fees and expenses in respect of which 
+provision has not already been made under this subsection.
+(8) A receiver must make provision in respect of reasonable fees and 
+expenses of an auditor in respect of a particular period as required 
+by subsection (6) or (7) whether or not the auditor has made a 
+claim for fees and expenses for that period, but where the auditor 
+has not made a claim, the receiver may estimate the reasonable fees 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 434
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+332 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025and expenses of the auditor for that period and make provision in 
+accordance with the estimate.
+(9) For the purposes of this section, the references in Division 6 of
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+Section 434C
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+334 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) entering into possession, or taking control, of such property 
+for the purpose of enforcing the security interest;
+(c) appointing a person so to enter into possession or take control 
+(whether as agent for the secured party or for the 
+corporation).
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+434C  Effect of sections 434A and 434B
+
+(1) Except as expressly provided in section 434A or 434B, an order 
+under that section does not affect a security interest in property of a 
+corporation.
+(2) Nothing in section 434A or 434B limits any other power of the 
+Court to remove, or otherwise deal with, a controller of property of 
+a corporation (for example, the Court’s powers under section 423).
+
+Part 5.2  Receivers, and other controllers, of property of corporations
+434D  Appointment of 2 or more receivers of property of a

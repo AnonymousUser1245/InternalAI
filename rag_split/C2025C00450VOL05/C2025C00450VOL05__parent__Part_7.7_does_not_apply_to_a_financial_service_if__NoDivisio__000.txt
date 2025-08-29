@@ -1,0 +1,59 @@
+Part 7.7 does not apply to a financial service if:
+
+(a) the financial service consists only of operating the business 
+and conducting the affairs of a CCIV; and
+(b) the financial service is provided by the corporate director of 
+the CCIV.
+
+Part 7.7 does not apply to a financial service if:
+1241M  Financial records of the corporate director of a CCIV
+
+When section 988E applies to a licensee because the licensee is the 
+corporate director of a CCIV, treat that section as requiring the 
+particulars of the matters in paragraphs 988E(a) to (g) to be shown 
+so that they are clearly identifiable for each sub-fund of the CCIV.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Control, financial services and disclosure  Part 8B.7
+Financial services and markets  Division 4
+
+Part 7.7 does not apply to a financial service if:
+Section 1241N
+
+Corporations Act 2001 681
+Compilation No. 143 Compilation date: 09/07/2025Note: Section 988E is about the categories of information to be shown in the 
+licensee’s financial records.
+
+Part 7.7 does not apply to a financial service if:
+1241N  Prohibition on hawking of securities in a CCIV
+
+(1) Treat subsection 992A(2) as also providing that 
+subsection 992A(1) does not apply to the offering of securities in a 
+CCIV, hawking of which is prohibited by section 992AA (as 
+extended by this section).
+(2) Subsection 992AA(1) also applies as if the reference in that 
+subsection to interests in managed investment schemes included a 
+reference to securities in a CCIV.
+Note: Failure to comply with subsection 992AA(1) is an offence (see 
+subsection 1311(1)).
+(3) Subsection 992AA(1), as it applies because of subsection (2) of 
+this section, does not apply to an offer of securities in a CCIV if:
+(a) the offer is not to a retail client; or
+(b) the CCIV is a listed company and the offer is an offer of 
+securities in the CCIV made by telephone by a financial 
+services licensee; or
+(c) the offer is made to a client by a financial services licensee 
+through whom the client has acquired or disposed of a 
+security in a CCIV in the previous 12 months.
+Note: A defendant bears an evidential burden in relation to the matters in 
+this subsection (see subsection 13.3(3) of the Criminal Code).
+(4) For the purposes of subsection 992AA(1), as it applies because of 
+subsection (2) of this section:
+(a) a reference to offering securities in a CCIV for issue includes 
+a reference to inviting an application for the issue of 
+securities in the CCIV; and
+(b) a reference to offering securities in a CCIV for sale includes 
+a reference to inviting an offer to purchase securities in the 
+CCIV.
+(5) Subsection 736(1) (about prohibiting the hawking of securities) 
+does not apply to securities in a CCIV.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles

@@ -1,0 +1,237 @@
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 103
+Compilation No. 143 Compilation date: 09/07/2025premises includes:
+(a) a structure, building, aircraft, vehicle or vessel; and
+(b) any land or place (whether enclosed or built on or not); and
+(c) a part of a structure, building, aircraft, vehicle or vessel or of 
+such a place.
+prescribed CS facility means a licensed CS facility that is 
+prescribed by regulations made for the purposes of this definition.
+prescribed derivative trade repository means a facility that is (or 
+that is in a class that is) prescribed by the regulations for the 
+purposes of paragraph 901A(6)(b).
+prescribed form: see section 350.
+printed includes type-written, lithographed or reproduced by any 
+mechanical means.
+procure for the purposes of Division 3 (insider trading 
+prohibitions) of Part 7.10 has a meaning affected by section 1042F.
+Product Disclosure Statement:
+(a) means a Product Disclosure Statement:
+(i) required by section 1012A, 1012B, 1012C, 1012I or
+
+Part 1.2  Interpretation
+Division 1  General
+1012IA to be given in accordance with Division 2 of
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+104 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025professional employee of an individual auditor, audit firm or audit 
+company means an employee of the auditor, firm or company who 
+participates in the conduct of the audits on behalf of the auditor, 
+firm or company and, in the course of doing so, exercises 
+professional judgment in relation to the application of or 
+compliance with:
+(a) accounting standards; or
+(b) auditing standards; or
+(c) the provisions of this Act dealing with financial reporting and 
+the conduct of audits.
+professional investor means a person in relation to whom one or 
+more of the following paragraphs apply:
+(a) the person is a financial services licensee whose Australian 
+financial services licence covers the provision of financial 
+services that are not limited to claims handling and settling 
+services;
+(b) the person is a body regulated by APRA, other than a trustee 
+of any of the following:
+(i) a superannuation fund;
+(ii) an approved deposit fund;
+(iii) a pooled superannuation trust;
+(iv) a public sector superannuation scheme;
+(c) the person is a registered entity within the meaning of the 
+Financial Sector (Collection of Data) Act 2001;
+(d) the person is the trustee of:
+(i) a superannuation fund; or
+(ii) an approved deposit fund; or
+(iii) a pooled superannuation trust; or
+(iv) a public sector superannuation scheme;
+and the fund, trust or scheme has net assets of at least $10 
+million;
+(e) the person controls at least $10 million (including any 
+amount held by an associate or under a trust that the person 
+manages);
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 105
+Compilation No. 143 Compilation date: 09/07/2025(f) the person is a listed entity, or a related body corporate of a 
+listed entity;
+(g) the person is an exempt public authority;
+(h) the person is a body corporate, or an unincorporated body, 
+that:
+(i) carries on a business of investment in financial 
+products, interests in land or other investments; and
+(ii) for those purposes, invests funds received (directly or 
+indirectly) following an offer or invitation to the public, 
+within the meaning of section 82, the terms of which 
+provided for the funds subscribed to be invested for 
+those purposes;
+(i) the person is a foreign entity that, if established or 
+incorporated in Australia, would be covered by one of the 
+preceding paragraphs.
+Note: A CCIV can also be a professional investor, see section 1241K.
+professional member of the audit team for an audit has the 
+meaning given by section 324AE.
+profile statement means a profile statement that is lodged with 
+ASIC.
+prohibition end day, in relation to a registration prohibition order, 
+has the meaning given by subparagraph 921L(1)(c)(ii).
+property means any legal or equitable estate or interest (whether 
+present or future and whether vested or contingent) in real or 
+personal property of any description and includes a thing in action, 
+and:
+(aaa) in Part 5.2 (receivers, and other controllers, of property of 
+corporations)—has a meaning affected by section 416; and
+(a) in Part 5.3A (administration)—has a meaning affected by 
+section 435B; and
+(aa) in Part 5.3B (restructuring)—has a meaning affected by 
+section 452B; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+106 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) in Part 5.4B (winding up in insolvency or by the Court)—has 
+a meaning affected by section 465; and
+(c) in Part 5.5 (voluntary winding up)—has a meaning affected 
+by section 489F; and
+(d) in Part 5.6 (winding up generally)—has a meaning affected 
+by section 513AA; and
+(e) in Part 5.7B (recovering property or compensation for 
+creditors of insolvent company)—has a meaning affected by 
+section 588C; and
+(f) in Part 5.8 (offences relating to external administration)—has 
+a meaning affected by subsection 589(5); and
+(g) in Part 5A.1 (deregistration, and transfer of registration, of 
+companies)—has a meaning affected by section 601; and
+(h) in Part 5B.2 (registrable bodies)—has a meaning affected by 
+section 601C; and
+(ha) in Part 7.3B (crisis resolution for CS facility licensees)—has 
+a meaning affected by subsection 833A(4); and
+(i) in Part 8B.5 (operation of a CCIV)—has a meaning affected 
+by section 1233; and
+(j) in Part 8B.6 (external administration and deregistration of 
+CCIVs)—has a meaning affected by section 1236A.
+Note: A reference in this Act to the property of a corporation does not 
+include a reference to any PPSA retention of title property of the 
+corporation, unless provided otherwise expressly or by necessary 
+implication (see section 51F). The sections mentioned in 
+paragraphs (a) to (i) extend references to property of a corporation in 
+Parts of this Act to PPSA retention of title property (or to certain 
+PPSA retention of title property).
+property recovery provisions has the meaning given by 
+subsection 1238A(2).
+proportional takeover approval provisions, in relation to a 
+company, means provisions of the kind referred to in 
+subsection 648D(1) that are contained in, or that it is proposed to 
+insert in, the constitution of the company.
+Authorised Version C2025C00450 registered 21/07/2025Introductory  Chapter 1
+Interpretation  Part 1.2
+General  Division 1
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Corporations Act 2001 107
+Compilation No. 143 Compilation date: 09/07/2025proportional takeover bid means an off-market bid for a specified 
+proportion of the securities in the bid class (see 
+paragraph 618(1)(b)).
+proposed action notice has the meaning given by 
+subsection 921P(1).
+proposed licensed trustee company means a company:
+(a) that is a trustee company, or a corporation to which 
+paragraph 51(xx) of the Constitution applies that proposes to 
+become a trustee company; and
+(b) that proposes to apply for an Australian financial services 
+licence covering the provision of one or more traditional 
+trustee company services.
+proposed operator of a collective investment fund has the meaning 
+given by subsection 1212(1).
+proprietary company has the meaning given by subsection 45A(1).
+prospectus means a prospectus that is lodged with ASIC.
+protected information means information:
+(a) obtained by a person in the course of the person’s official 
+employment; and
+(b) disclosed to the person or another person, or obtained by the 
+person or another person:
+(i) under, or in relation to, this Act; or
+(ii) under another law of the Commonwealth;
+in connection with particular functions or powers of the 
+Registrar.
+prove includes establish in any way (for example, but without 
+limitation, through the operation of a presumption for which this 
+Act or a law of a State or Territory provides).
+provide:
+(a) in relation to a financial product—provide has a meaning 
+affected by section 761E; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 1  Introductory
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+108 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) in Subdivision A (volume-based shelf-space fees) of
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+110 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025of offers to dispose of, purchase or exchange the financial 
+products at particular prices, or for particular consideration—
+those prices or that consideration; or
+(c) in any case—the price at which, or the consideration for 
+which, particular persons, or particular classes of persons, 
+propose, or may reasonably be expected, to dispose of, 
+purchase or exchange the financial products.
+quoted ED securities has the meaning given by section 111AM.
+quoted security means a security that is quoted on a declared 
+financial market.
+reasonable investigation into financial products has a meaning 
+affected by section 961D.
+reasonably apparent:
+(a) for the purposes of Division 2 (best interests obligations) of
+
+Part 1.2  Interpretation
+Division 1  General
+Section 9
+
+Part 1.2  Interpretation
+Division 1  General
+112 Corporations Act 2001

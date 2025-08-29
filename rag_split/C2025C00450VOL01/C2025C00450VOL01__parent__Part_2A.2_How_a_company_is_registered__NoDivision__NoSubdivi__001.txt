@@ -1,0 +1,70 @@
+Part 2A.2  How a company is registered
+120  Members, directors and company secretary of a company
+
+(1) A person becomes a member, director or company secretary of a 
+company on registration if the person is specified in the application 
+with their consent as a proposed member, director or company 
+secretary of the company.
+Note: For the equivalent provision for a CCIV, see section 1222D.
+(2) The shares to be taken up by the members as specified in the 
+application are taken to be issued to the members on registration of 
+the company.
+Note: A member’s name must be entered in the register of members (see 
+section 169).
+
+Part 2A.2  How a company is registered
+121  Registered office
+
+The address specified in the application for registration for the 
+company’s proposed registered office becomes the address of the 
+company’s registered office on registration.
+
+Part 2A.2  How a company is registered
+122  Expenses incurred in promoting and setting up company
+
+The expenses incurred before registration in promoting and setting 
+up a company may be paid out of the company’s assets.
+
+Part 2A.2  How a company is registered
+123  Company may have common seal
+
+(1) A company may have a common seal. If a company does have a 
+common seal, the company must set out on it:
+(a) for a company that has its ACN in its name—the company’s 
+name; or
+(b) otherwise—the company’s name and either:
+(i) the expression “Australian Company Number” and the 
+company’s ACN; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2A  Registering a company
+
+Part 2A.2  How a company is registered
+
+Part 2A.2  How a company is registered
+Section 123
+
+Part 2A.2  How a company is registered
+282 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) if the last 9 digits of the company’s ABN are the same, 
+and in the same order, as the last 9 digits of its ACN—
+the expression “Australian Business Number” and the 
+company’s ABN.
+Note 1: A company may make contracts and execute documents without using 
+a seal (see sections 126 and 127).
+Note 2: For abbreviations that can be used on a seal, see section 149.
+(2) A company may have a duplicate common seal. The duplicate 
+must be a copy of the common seal with the words “duplicate 
+seal”, “share seal” or “certificate seal” added.
+(3) A person must not use, or authorise the use of, a seal that purports 
+to be the common seal of a company or a duplicate if the seal does 
+not comply with the requirements set out in subsection (1) or (2).
+(4) An offence based on subsection (3) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Basic features of a company  Chapter 2B
+Company powers and how they are exercised  Part 2B.1
+
+Part 2A.2  How a company is registered
+Section 124
+
+Corporations Act 2001 283
+Compilation No. 143 Compilation date: 09/07/2025Chapter 2B—Basic features of a company

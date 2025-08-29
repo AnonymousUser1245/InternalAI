@@ -1,0 +1,147 @@
+Part 9.5  Powers of Courts
+1325B  Court may order bidder to make offers
+
+(1) If a bidder making a takeover bid for a class of securities 
+contravenes section 631 by failing to make offers under the bid 
+within time and ASIC applies for an order under this section, the 
+Court may:
+(a) order the bidder to send, to each holder of securities in that 
+class, an offer to which the bidder’s statement relates within 
+a specified time; and
+(b) make any ancillary orders it thinks appropriate including 
+orders that the bidder:
+(i) send notices setting out specified information with the 
+offer; and
+(ii) send copies of the notice within a specified period to the 
+target and, if the target is listed, to the relevant market 
+operator; and
+(iii) lodge a copy of the notice with ASIC within a specified 
+period.
+(2) Offers sent in accordance with an order under this section are taken 
+to be made under a takeover bid.
+
+Part 9.5  Powers of Courts
+1325C  Unfair or unconscionable agreements, payments or benefits
+
+(1) The Court may make orders under subsection (2) if:
+(a) a body corporate gives, or enters into an agreement to give, a 
+director or secretary of the body corporate or a related body 
+corporate a benefit (including a payment or an agreement to 
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Powers of Courts  Part 9.5
+
+Part 9.5  Powers of Courts
+Section 1325C
+
+Corporations Act 2001 205
+Compilation No. 143 Compilation date: 09/07/2025employ them, or engage their services, for a fixed period); 
+and
+(b) the agreement is entered into or the benefit is given:
+(i) within 12 months after the start of the bid period for a 
+takeover bid for the securities of the body corporate or a 
+related body corporate; or
+(ii) at a time when the directors of the body corporate have 
+reason to believe that a takeover bid is to be made in 
+respect of securities of the body corporate or a related 
+body corporate; and
+(c) the Court is satisfied that the agreement or benefit was unfair 
+or unconscionable having regard to the interests of the body 
+corporate.
+(2) The Court may:
+(a) declare the agreement, or any part of it, to be void or to have 
+always been void; or
+(b) direct a person to whom a benefit is given, or another 
+specified person, to:
+(i) make a payment or transfer property to the body 
+corporate; or
+(ii) do any other act for the benefit of the body corporate; or
+(c) make any other order it considers appropriate.
+(3) This section does not apply to an agreement or benefit that has 
+been approved by an ordinary resolution of the body corporate 
+(whether before or after the agreement was entered into or the 
+benefit given) with no vote being cast by the person who is to 
+receive the benefit or their associates.
+(4) An order under this section may be made on application by:
+(a) the body corporate; or
+(b) ASIC; or
+(c) members who together hold shares carrying at least 10% of 
+the votes attached to voting shares in the body corporate or a 
+related body corporate;
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous
+
+Part 9.5  Powers of Courts
+
+Part 9.5  Powers of Courts
+Section 1325D
+
+Part 9.5  Powers of Courts
+206 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025within 12 months, or any longer period that the Court thinks 
+appropriate in the circumstances, after the agreement is entered 
+into or the benefit given.
+
+Part 9.5  Powers of Courts
+1325D  Contravention due to inadvertence etc.
+
+(1) The Court may declare that any act, document or matter:
+(a) is not invalid merely because a person has contravened a 
+provision of Chapter 6, 6A, 6B or 6C; and
+(b) has had effect at all times as if there had been no 
+contravention;
+if the Court is satisfied that the contravention ought to be excused 
+in all the circumstances.
+(2) An application for an order under subsection (1) may be made by 
+any interested person.
+(3) If the Court is satisfied that in all the circumstances a contravention 
+of a provision of Chapter 6, 6A, 6B or 6C ought to be excused, the 
+Court must not make an order under section 1325A, 1325B or
+
+Part 9.5  Powers of Courts
+1325C other than:
+
+(a) an order restraining the exercise of voting or other rights 
+attached to securities; or
+(b) an order that an exercise of voting or other rights attached to 
+securities be disregarded.
+(4) In determining whether or not a contravention of a provision by a 
+person ought to be excused, have regard to the contravention being 
+caused by any of the following:
+(a) the person’s inadvertence or mistake;
+(b) the person not having been aware of a relevant fact or 
+occurrence;
+(c) circumstances beyond the control of the person.
+(5) This section applies notwithstanding anything contained in any 
+other provision of this Chapter.
+Authorised Version C2025C00450 registered 21/07/2025Miscellaneous  Chapter 9
+Powers of Courts  Part 9.5
+
+Part 9.5  Powers of Courts
+Section 1325E
+
+Corporations Act 2001 207
+Compilation No. 143 Compilation date: 09/07/20251325E  Orders to secure compliance
+In order to secure compliance with an order under section 1325A,
+
+Part 9.5  Powers of Courts
+1325B or 1325C, the Court may direct a person to:
+
+(a) do a specified act; or
+(b) refrain from doing a specified act.
+
+Part 9.5  Powers of Courts
+1326  Effect of sections 1323, 1324 and 1325
+
+Nothing in any of sections 1323, 1324, 1324A, 1324B, and 1325 
+limits the generality of anything else in any of those sections.
+
+Part 9.5  Powers of Courts
+1327  Power of Court to punish for contempt of Court
+
+Nothing in a provision of this Act that provides:
+(a) that a person must not contravene an order of the Court; or
+(b) that a person who contravenes an order of the Court 
+contravenes a provision of this Act or is guilty of an offence;
+affects the powers of the Court in relation to the punishment of 
+contempts of the Court.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 9  Miscellaneous

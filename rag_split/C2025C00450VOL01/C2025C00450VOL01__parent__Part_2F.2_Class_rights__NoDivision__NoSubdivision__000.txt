@@ -1,0 +1,167 @@
+Part 2F.2  Class rights
+
+Part 2F.2  Class rights
+Section 246C
+
+Part 2F.2  Class rights
+474 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(ii) for a company without a share capital of the class of 
+members whose rights are being varied or cancelled; or
+(d) with the written consent of members with at least 75% of the 
+votes in the class.
+Note: This subsection applies to a CCIV in a modified form: see 
+section 1227J.
+(3) The company must give written notice of the variation or 
+cancellation to the members of the class within 7 days after the 
+variation or cancellation is made.
+(4) An offence based on subsection (3) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+
+Part 2F.2  Class rights
+246C  Certain actions taken to vary rights etc.
+
+Company with share capital
+(1) If the shares in a class of shares in a company are divided into 
+further classes, and after the division the rights attached to all of 
+those shares are not the same:
+(a) the division is taken to vary the rights attached to every share 
+that was in the class existing before the division; and
+(b) members who hold shares to which the same rights are 
+attached after the division form a separate class.
+(2) If the rights attached to some of the shares in a class of shares in a 
+company are varied:
+(a) the variation is taken to vary the rights attached to every 
+other share that was in the class existing before the variation; 
+and
+(b) members who hold shares to which the same rights are 
+attached after the variation form a separate class.
+Authorised Version C2025C00450 registered 21/07/2025Members’ rights and remedies  Chapter 2F
+Class rights  Part 2F.2
+
+Part 2F.2  Class rights
+Section 246C
+
+Corporations Act 2001 475
+Compilation No. 143 Compilation date: 09/07/2025Company without share capital
+(3) If the members in a class of members in a company without share 
+capital are divided into further classes of members, and after the 
+division the rights of all of those members are not the same:
+(a) the division is taken to vary the rights of every member who 
+was in the class existing before the division; and
+(b) members who have the same rights after the division form a 
+separate class.
+(4) If the rights of some of the members in a class of members in a 
+company without a share capital are varied:
+(a) the variation is taken to vary the rights of every other 
+member who was in the class existing before the variation; 
+and
+(b) members who have the same rights after the variation form a 
+separate class.
+Company with 1 class of shares issuing new class of shares
+(5) If a company with 1 class of shares issues new shares, the issue is 
+taken to vary the rights attached to shares already issued if:
+(a) the rights attaching to the new shares are not the same as the 
+rights attached to shares already issued; and
+(b) those rights are not provided for in:
+(i) the company’s constitution (if any); or
+(ii) a notice, document or resolution that is lodged with 
+ASIC.
+(6) If a company issues new preference shares that rank equally with 
+existing preference shares, the issue is taken to vary the rights 
+attached to the existing preference shares unless the issue is 
+authorised by:
+(a) the terms of issue of the existing preference shares; or
+(b) the company’s constitution (if any) as in force when the 
+existing preference shares were issued.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2F  Members’ rights and remedies
+
+Part 2F.2  Class rights
+
+Part 2F.2  Class rights
+Section 246D
+
+Part 2F.2  Class rights
+476 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025246D  Variation, cancellation or modification without unanimous 
+support of class
+(1) If members in a class do not all agree (whether by resolution or 
+written consent) to:
+(a) a variation or cancellation of their rights; or
+(b) a modification of the company’s constitution (if any) to allow 
+their rights to be varied or cancelled;
+members with at least 10% of the votes in the class may apply to 
+the Court to have the variation, cancellation or modification set 
+aside.
+(2) An application may only be made within 1 month after the 
+variation, cancellation or modification is made.
+(3) The variation, cancellation or modification takes effect:
+(a) if no application is made to the Court to have it set aside—1 
+month after the variation, cancellation or modification is 
+made; or
+(b) if an application is made to the Court to have it set aside—
+when the application is withdrawn or finally determined.
+(4) The members of the class who want to have the variation, 
+cancellation or modification set aside may appoint 1 or more of 
+themselves to make the application on their behalf. The 
+appointment must be in writing.
+(5) The Court may set aside the variation, cancellation or modification 
+if it is satisfied that it would unfairly prejudice the applicants. 
+However, the Court must confirm the variation, cancellation or 
+modification if the Court is not satisfied of unfair prejudice.
+(6) Within 14 days after the Court makes an order, the company must 
+lodge a copy of it with ASIC.
+(7) An offence based on subsection (6) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Members’ rights and remedies  Chapter 2F
+Class rights  Part 2F.2
+
+Part 2F.2  Class rights
+Section 246E
+
+Corporations Act 2001 477
+Compilation No. 143 Compilation date: 09/07/2025246E  Variation, cancellation or modification with unanimous 
+support of class
+If the members in a class all agree (whether by resolution or 
+written consent) to the variation, cancellation or modification, it 
+takes effect:
+(a) if no later date is specified in the resolution or consent—on 
+the date of the resolution or consent; or
+(b) on a later date specified in the resolution or consent.
+
+Part 2F.2  Class rights
+246F  Company must lodge documents and resolutions with ASIC
+
+(1) A company must lodge with ASIC a notice in the prescribed form 
+setting out particulars of any of the following:
+(a) a division of shares in the company into classes if the shares 
+were not previously so divided;
+(b) a conversion of shares in a class of shares in the company 
+into shares in another class.
+Note: A proprietary company may also have to notify certain particulars 
+under Part 2C.2.
+(2) The notice must be lodged within 14 days after the division or 
+conversion.
+(3) A public company must lodge with ASIC a copy of each document 
+(including an agreement or consent) or resolution that:
+(a) does any of the following:
+(i) attaches rights to issued or unissued shares;
+(ii) varies or cancels rights attaching to issued or unissued 
+shares;
+(iii) varies or cancels rights of members in a class of 
+members of a company that does not have a share 
+capital;
+(iv) binds a class of members; and
+(b) is not already lodged with ASIC.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2F  Members’ rights and remedies
+
+Part 2F.2  Class rights
+
+Part 2F.2  Class rights
+Section 246G
+
+Part 2F.2  Class rights
+478 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025This also applies to a proprietary company that has applied under

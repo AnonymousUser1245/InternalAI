@@ -1,0 +1,223 @@
+Part 7.2A  Supervision of financial markets
+
+Part 7.2A  Supervision of financial markets
+Section 798F
+
+Part 7.2A  Supervision of financial markets
+106 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 7.2A—Supervision of financial markets
+
+Part 7.2A  Supervision of financial markets
+798F  ASIC to supervise financial markets
+
+ASIC has the function of supervising financial markets the 
+operators of which are licensed under subsection 795B(1).
+
+Part 7.2A  Supervision of financial markets
+798G  Market integrity rules
+
+(1) ASIC may, by legislative instrument, make rules (the market 
+integrity rules) that deal with the following:
+(a) the activities or conduct of licensed markets;
+(b) the activities or conduct of persons in relation to licensed 
+markets;
+(c) the activities or conduct of persons in relation to financial 
+products traded on licensed markets.
+Note: The market integrity rules will not apply in relation to all licensed 
+markets: see subsection 798H(2).
+(2) Without limiting subsection (1), the market integrity rules may:
+(a) provide for applications to be made to the Administrative 
+Review Tribunal for review of decisions made under the 
+rules; and
+(b) contain provisions that apply:
+(i) in addition to the Administrative Review Tribunal Act
+
+Part 7.2A  Supervision of financial markets
+2024; or
+
+(ii) instead of that Act; or
+(iii) contrary to that Act.
+(3) ASIC must not make a market integrity rule unless the Minister has 
+consented, in writing, to the making of the rule.
+Emergency rules
+(4) Despite subsection (3), ASIC may make a market integrity rule 
+without the consent of the Minister if ASIC is of the opinion that it 
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Supervision of financial markets  Part 7.2A
+
+Part 7.2A  Supervision of financial markets
+Section 798H
+
+Corporations Act 2001 107
+Compilation No. 143 Compilation date: 09/07/2025is necessary, or in the public interest, to protect people dealing in a 
+financial product or class of financial products.
+(5) However, if ASIC does so, ASIC must:
+(a) provide the Minister, on the following day, with a written 
+explanation of the need for the rule; and
+(b) amend or revoke the rule in accordance with any written 
+directions of the Minister.
+Crisis resolution
+(5A) Despite subsection (3), ASIC may make a market integrity rule 
+without the consent of the Minister if the Reserve Bank, under 
+subsection 849AB(1), requests ASIC to make the rule.
+(5B) However, if ASIC does so, ASIC must provide the Minister, on the 
+following day, with a copy of the request.
+(5C) The Minister may, if the Minister considers it appropriate after 
+being given the copy of the request, direct ASIC to vary or revoke 
+the rule.
+(5D) ASIC must comply with the direction given under subsection (5C) 
+immediately.
+Minister’s instruments are not legislative instruments
+(6) None of the following is a legislative instrument:
+(a) a consent given under subsection (3);
+(b) a direction given under paragraph (5)(b);
+(c) a direction given under subsection (5C).
+
+Part 7.2A  Supervision of financial markets
+798H  Complying with market integrity rules
+
+(1) The following entities must comply with the market integrity rules:
+(a) operators of licensed markets;
+(b) participants in licensed markets;
+(c) entities prescribed by the regulations for the purposes of this 
+paragraph.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.2A  Supervision of financial markets
+
+Part 7.2A  Supervision of financial markets
+Section 798J
+
+Part 7.2A  Supervision of financial markets
+108 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Note: This subsection is a civil penalty provision (see section 1317E). For 
+relief from liability to a civil penalty relating to this subsection, see 
+section 1317S.
+(2) Subsection (1) does not apply in relation to a financial market the 
+operator of which is licensed under subsection 795B(2) (overseas 
+markets).
+(3) If there is an inconsistency between the market integrity rules and 
+the derivative transaction rules or the derivative trade repository 
+rules, the market integrity rules prevail to the extent of the 
+inconsistency.
+
+Part 7.2A  Supervision of financial markets
+798J  ASIC’s directions power—protecting people dealing in
+
+financial products
+(1) ASIC may, by written notice given to an entity, direct the entity:
+(a) to suspend dealings in a financial product or class of financial 
+products; or
+(b) to take, or refrain from taking:
+(i) any actions; or
+(ii) one or more specified actions;
+relating to dealings in a specified financial product or class of 
+financial products;
+if ASIC considers the direction is necessary, or in the public 
+interest, to protect people dealing in the financial product or class 
+of financial products.
+(2) The direction:
+(a) must specify a reasonable time by which, or a reasonable 
+period during which, it is to be complied with; and
+(b) must include the reasons for the direction; and
+(c) may deal with either or both of the matters in 
+paragraphs (1)(a) and (b).
+Note: ASIC may also give directions to entities that are market licensees 
+under section 794D. A failure to comply with a direction under that 
+section is an offence: see subsection 1311(1).
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Supervision of financial markets  Part 7.2A
+
+Part 7.2A  Supervision of financial markets
+Section 798JA
+
+Corporations Act 2001 109
+Compilation No. 143 Compilation date: 09/07/2025(3) The entity must comply with the direction (even if, under 
+subsection 798JA(1), the licensee has requested ASIC to refer the 
+direction to the Minister).
+(4) If the licensee fails to comply with the direction, ASIC may apply 
+to the Court for, and the Court may make, an order that the licensee 
+comply with the direction.
+
+Part 7.2A  Supervision of financial markets
+798JA  Matters relating to ASIC directions—protecting people
+
+dealing in financial products
+Referrals to the Minister
+(1) If, at any time after an entity receives a direction under 
+subsection 798J(1), the entity requests in writing that ASIC refer 
+the direction to the Minister, ASIC must do so immediately.
+(2) The Minister may, if the Minister considers it appropriate after 
+being referred the direction, direct ASIC to vary or revoke the 
+direction.
+(3) ASIC must comply with the direction given under subsection (2) 
+immediately.
+(4) A direction given under subsection (2) is not a legislative 
+instrument.
+Variations and revocations
+(5) ASIC may vary or revoke a direction given under 
+subsection 798J(1):
+(a) in like manner; and
+(b) subject to like conditions, except if a condition is contrary to 
+a direction given under subsection (2) of this section;
+(see subsection 33(3) of the Acts Interpretation Act 1901).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.2A  Supervision of financial markets
+
+Part 7.2A  Supervision of financial markets
+Section 798JB
+
+Part 7.2A  Supervision of financial markets
+110 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Directions are not legislative instruments
+(6) A direction given under subsection 798J(1) is not a legislative 
+instrument.
+
+Part 7.2A  Supervision of financial markets
+798JB  ASIC’s directions power—crisis resolution
+
+(1) If the Reserve Bank, under subsection 849AB(1), requests ASIC 
+to:
+(a) give a direction to an entity under this subsection to suspend 
+dealings in a financial product or class of financial products; 
+or
+(b) give some other direction to an entity under this subsection in 
+relation to dealings in a financial product or class of financial 
+products;
+ASIC may give the direction, in writing, to the entity.
+Note: ASIC may also, at the request of the Reserve Bank, give directions to 
+entities that are market licensees under section 794AA. A failure to 
+comply with a direction under that section is an offence: see 
+subsection 1311(1).
+(2) The entity must comply with the direction.
+(3) If the entity fails to comply with the direction, ASIC may apply to 
+the Court for, and the Court may make, an order that the entity 
+comply with the direction.
+
+Part 7.2A  Supervision of financial markets
+798JC  Matters relating to ASIC directions—crisis resolution
+
+Variation or revocation
+(1) If the Reserve Bank, under subsection 849AB(1), requests ASIC to 
+vary a direction given to an entity under subsection 798JB(1), 
+ASIC may vary the direction by giving written notice to the entity.
+(2) ASIC may revoke a direction given to an entity under 
+subsection 798JB(1) by giving written notice to the entity.
+Authorised Version C2025C00450 registered 21/07/2025Financial services and markets  Chapter 7
+Supervision of financial markets  Part 7.2A
+
+Part 7.2A  Supervision of financial markets
+Section 798K
+
+Corporations Act 2001 111
+Compilation No. 143 Compilation date: 09/07/2025Directions are not legislative instruments
+(3) A direction given under subsection 798JB(1), a variation under 
+subsection (1) of this section, or a revocation under subsection (2) 
+of this section is not a legislative instrument.
+
+Part 7.2A  Supervision of financial markets
+798K  Alternatives to civil proceedings

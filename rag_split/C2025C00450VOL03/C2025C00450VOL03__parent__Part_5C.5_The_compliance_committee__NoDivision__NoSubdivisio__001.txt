@@ -1,0 +1,99 @@
+Part 5C.5  The compliance committee
+Section 601JG
+
+Corporations Act 2001 95
+Compilation No. 143 Compilation date: 09/07/2025indemnify includes indemnify indirectly through one or more 
+interposed entities.
+
+Part 5C.5  The compliance committee
+601JG  When can responsible entity pay insurance premiums for
+
+compliance committee members?
+(1) A scheme’s responsible entity or a related body corporate must not 
+pay, or agree to pay, a premium in respect of a contract insuring a 
+person who is or has been a member of the scheme’s compliance 
+committee against a liability:
+(a) incurred by the person as a member; and
+(b) arising out of conduct involving a wilful breach of a duty 
+referred to in section 601JD.
+(2) If subsection (1) is contravened, the contract is void in so far as it 
+insures the person against the liability.
+(3) Subsections (1) and (2) do not apply to a liability for costs and 
+expenses incurred by a person in defending proceedings, whether 
+civil or criminal and whatever their outcome.
+(4) In this section:
+pay includes pay indirectly through one or more interposed entities.
+
+Part 5C.5  The compliance committee
+601JH  Proceedings of compliance committee
+
+(1) Subject to the requirements of the compliance plan, a scheme’s 
+compliance committee may regulate its proceedings as it thinks 
+appropriate.
+(2) The committee must keep:
+(a) minutes of its meetings; and
+(b) records of its reports and recommendations.
+(3) A committee meeting may be held using any technology agreed to 
+by all the members.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes
+
+Part 5C.5  The compliance committee
+
+Part 5C.5  The compliance committee
+Section 601JJ
+
+Part 5C.5  The compliance committee
+96 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025601JJ  Disclosure of interests
+(1) A member of a scheme’s compliance committee must disclose to 
+the committee a direct or indirect pecuniary interest that they have 
+in a matter being considered, or about to be considered, by the 
+committee if their interest could conflict with the proper 
+performance of their duties in relation to the consideration of the 
+matter.
+(2) A disclosure under subsection (1) must occur at the first meeting of 
+the committee after the relevant facts have come to the member’s 
+knowledge and must be recorded in the minutes of the meeting.
+Authorised Version C2025C00450 registered 21/07/2025Managed investment schemes  Chapter 5C
+Members’ rights to withdraw from a scheme  Part 5C.6
+
+Part 5C.5  The compliance committee
+Section 601KA
+
+Corporations Act 2001 97
+Compilation No. 143 Compilation date: 09/07/2025Part 5C.6—Members’ rights to withdraw from a 
+scheme
+
+Part 5C.5  The compliance committee
+601KA  Members’ rights to withdraw
+
+Withdrawal from schemes that are liquid
+(1) The constitution of a registered scheme may make provision for 
+members to withdraw from the scheme, wholly or partly, at any 
+time while the scheme is liquid (see subsection 601GA(4)).
+Withdrawal from schemes that are not liquid
+(2) The constitution of a registered scheme may make provision for 
+members to withdraw from the scheme, wholly or partly, in 
+accordance with this Part while the scheme is not liquid (see 
+subsection 601GA(4)).
+Restrictions on withdrawal from schemes
+(3) The responsible entity must not allow a member to withdraw from 
+the scheme:
+(a) if the scheme is liquid—otherwise than in accordance with 
+the scheme’s constitution; or
+(b) if the scheme is not liquid—otherwise than in accordance 
+with the scheme’s constitution and sections 601KB to
+
+Part 5C.5  The compliance committee
+601KE.
+
+(3A) An offence based on subsection (3) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Liquid schemes
+(4) A registered scheme is liquid if liquid assets account for at least
+
+Part 5C.5  The compliance committee
+80% of the value of scheme property.
+
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5C  Managed investment schemes

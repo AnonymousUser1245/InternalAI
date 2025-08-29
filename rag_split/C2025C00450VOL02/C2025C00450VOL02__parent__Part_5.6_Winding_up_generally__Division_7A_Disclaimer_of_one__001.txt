@@ -1,0 +1,119 @@
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+568E  Application to set aside disclaimer after it has taken effect
+
+(1) With the leave of the Court, a person who has, or claims to have, 
+an interest in disclaimed property may apply to the Court for an 
+order setting aside the disclaimer after it has taken effect.
+(2) The Court may give leave only if it is satisfied that it is 
+unreasonable in all the circumstances to expect the person to have 
+applied for an order setting aside the disclaimer before it took 
+effect.
+(3) The Court may give leave subject to conditions.
+(4) On an application under subsection (1), the Court:
+(a) may by order set aside the disclaimer; and
+(b) if it does so—may make such further orders as it thinks 
+appropriate, including orders necessary to put the company, 
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Disclaimer of onerous property  Division 7A
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+Section 568F
+
+Corporations Act 2001 629
+Compilation No. 143 Compilation date: 09/07/2025the liquidator or anyone else in the same position, as nearly 
+as practicable, as if the disclaimer had never taken effect.
+(5) However, the Court may set aside a disclaimer only if satisfied that 
+the disclaimer has caused, or would cause, to persons who have, or 
+claim to have, interests in the property, prejudice that is grossly out 
+of proportion to the prejudice that setting aside the disclaimer (and 
+making any further orders) would cause to:
+(a) the company’s creditors; and
+(b) persons who have changed their position in reliance on the 
+disclaimer taking effect.
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+568F  Court may dispose of disclaimed property
+
+(1) The Court may order that disclaimed property vest in, or be 
+delivered to:
+(a) a person entitled to the property; or
+(b) a person in or to whom it seems to the Court appropriate that 
+the property be vested or delivered; or
+(c) a person as trustee for a person of a kind referred to in 
+paragraph (a) or (b).
+(2) The Court may make an order under subsection (1):
+(a) on the application of a person who claims an interest in the 
+property, or is under a liability in respect of the property that 
+this Act has not discharged; and
+(b) after hearing such persons as it thinks appropriate.
+(3) Subject to subsection (4), where an order is made under 
+subsection (1) vesting property, the property vests immediately, for 
+the purposes of the order, without any conveyance, transfer or 
+assignment.
+(4) Where:
+(a) a law of the Commonwealth or of a State or Territory 
+requires the transfer of property vested by an order under 
+subsection (1) to be registered; and
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+Section 568F
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+630 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(b) that law enables the order to be registered;
+the property vests in equity because of the order but does not vest 
+at law until that law has been complied with.
+Authorised Version C2025C00450 registered 21/07/2025External administration  Chapter 5
+Winding up generally  Part 5.6
+Effect on enforcement process against company’s property  Division 7B
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+Section 569
+
+Corporations Act 2001 631
+Compilation No. 143 Compilation date: 09/07/2025Division 7B—Effect on enforcement process against 
+company’s property
+
+Part 5.6  Winding up generally
+Division 7A  Disclaimer of onerous property
+569  Executions, attachments etc. before winding up
+
+(1) Where:
+(a) a creditor has issued execution against property of a 
+company, or instituted proceedings to attach a debt due to a 
+company or to enforce a charge or a charging order against 
+property of a company, within 6 months immediately before 
+the commencement of the winding up; and
+(b) the company commences to be wound up;
+the creditor must pay to the liquidator an amount equal to the 
+amount (if any) received by the creditor as a result of the 
+execution, attachment or enforcement of the charge or the charging 
+order, less an amount in respect of the costs of the execution, 
+attachment or enforcement of the charge or the charging order, 
+being an amount agreed between the creditor and the liquidator or, 
+if no agreement is reached, an amount equal to the taxed cost of 
+that execution, attachment or enforcement.
+(2) Where the creditor has paid to the liquidator an amount in 
+accordance with subsection (1), the creditor may prove in the 
+winding up for the creditor’s debt as an unsecured creditor as if the 
+execution or attachment or the enforcement of the charge or the 
+charging order, as the case may be, had not taken place.
+(3) Subject to subsections (4) and (5), where a creditor of a company 
+receives:
+(a) notice in writing of an application to the Court for the 
+winding up of the company; or
+(b) notice in writing of the convening of a meeting of the 
+company to consider a resolution that the company be wound 
+up voluntarily;
+it is not competent for the creditor to take any action, or any further 
+action, as the case may be, to attach a debt due to the company or 
+Authorised Version C2025C00450 registered 21/07/2025Chapter 5  External administration

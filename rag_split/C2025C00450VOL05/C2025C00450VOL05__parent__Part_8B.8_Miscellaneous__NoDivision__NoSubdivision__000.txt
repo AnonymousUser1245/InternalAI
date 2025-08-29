@@ -1,0 +1,146 @@
+Part 8B.8  Miscellaneous
+
+Part 8B.8  Miscellaneous
+Section 1242D
+
+Part 8B.8  Miscellaneous
+692 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251242D  Application of Part 9.4
+(1) Sections 1309 and 1317 apply as if:
+(a) each of the following were a director of a CCIV:
+(i) the corporate director of the CCIV;
+(ii) a director of the corporate director of the CCIV; and
+(b) each of the following were an officer of a CCIV:
+(i) an officer of the CCIV;
+(ii) an officer of the corporate director of the CCIV; and
+(c) an employee of the corporate director of a CCIV were an 
+employee of the CCIV; and
+(d) each of the following were an agent of a CCIV:
+(i) an agent of the CCIV;
+(ii) an agent of the corporate director of the CCIV.
+(2) Subparagraphs (1)(a)(i), (b)(i) and (d)(i) are included for the 
+avoidance of doubt.
+
+Part 8B.8  Miscellaneous
+1242E  Disclosures qualifying for protection under Part 9.4AAA
+
+Eligible whistleblower
+(1) Treat section 1317AAA as also providing that an individual is an 
+eligible whistleblower in relation to a regulated entity that is a 
+CCIV if the individual is, or has been, any of the following:
+(a) an officer of the corporate director of the CCIV;
+(b) an employee of the corporate director of the CCIV;
+(c) a relative of an individual referred to in paragraph (a) or (b);
+(d) a dependant of an individual referred to in paragraph (a) or 
+(b), or of such an individual’s spouse.
+Eligible recipient
+(2) Treat subsection 1317AAC(1) as also providing that each of the 
+following is an eligible recipient in relation to a regulated entity 
+that is a CCIV:
+(a) an officer of the corporate director of the CCIV;
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Miscellaneous  Part 8B.8
+
+Part 8B.8  Miscellaneous
+Section 1242F
+
+Corporations Act 2001 693
+Compilation No. 143 Compilation date: 09/07/2025(b) a senior manager of the corporate director of the CCIV.
+Whistleblower policies
+(3) Treat subsection 1317AI(5) as also providing that the matters that 
+must be set out in a policy for a corporate director of a CCIV also 
+include the following:
+(a) information about to whom disclosures in relation to the 
+CCIV that qualify for protection under Part 9.4AAA may be 
+made, and how they may be made;
+(b) information about how the CCIV will support whistleblowers 
+and protect them from detriment;
+(c) information about how the CCIV will investigate disclosures 
+that qualify for protection under Part 9.4AAA;
+(d) information about how the policy is to be made available to 
+officers of the CCIV;
+(e) any matters prescribed by the regulations for the purposes of 
+this paragraph.
+
+Part 8B.8  Miscellaneous
+1242F  Powers of Courts—irregularities
+
+Subparagraph 1322(1)(b)(i) applies to:
+(a) a meeting of the members of a sub-fund of the CCIV in the 
+same way as it applies in relation to a meeting of a 
+corporation; and
+(b) a joint meeting of creditors and members of a sub-fund of a 
+CCIV in the same way as it applies in relation to a joint 
+meeting of creditors and members of a corporation.
+
+Part 8B.8  Miscellaneous
+1242G  Fees payable to the Commonwealth
+
+Subsection 1351(4) has effect in relation to a review fee payable to 
+the Commonwealth by a CCIV in relation to a review date in a 
+year as if paragraph 1351(4)(a) were substituted with the 
+following:
+“(a) all of the following apply:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles
+
+Part 8B.8  Miscellaneous
+
+Part 8B.8  Miscellaneous
+Section 1242G
+
+Part 8B.8  Miscellaneous
+694 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(i) ASIC has given notice of the proposed deregistration of 
+a sub-fund of the CCIV in accordance with 
+paragraph 1239(5)(c), and published notice of the 
+proposed deregistration of the sub-fund in accordance 
+with paragraph 1239(5)(d);
+(ii) as a result of ASIC deregistering the sub-fund, ASIC 
+will be required to deregister the CCIV under 
+section 1239K;
+(iii) the review date for that year falls in the 2 month period 
+before or after the publication of the notice published in 
+accordance with paragraph 1239(5)(d); or”.
+Authorised Version C2025C00450 registered 21/07/2025Corporate collective investment vehicles  Chapter 8B
+Subordinate legislation relating to CCIVs  Part 8B.9
+
+Part 8B.8  Miscellaneous
+Section 1243
+
+Corporations Act 2001 695
+Compilation No. 143 Compilation date: 09/07/2025Part 8B.9—Subordinate legislation relating to 
+CCIVs
+
+Part 8B.8  Miscellaneous
+1243  ASIC’s power to make exemption and modification orders
+
+(1) This section applies in relation to the following (the CCIV 
+provisions):
+(a) Part 8B.2 (registration of CCIVs);
+(b) Part 8B.3 (corporate governance of CCIVs);
+(c) sections 1230J and 1230K (about redemptions for non-liquid 
+sub-funds);
+(d) Division 4 of Part 8B.4 (financial reports and audits of 
+CCIVs);
+(e) Division 9 of Part 8B.6 (deregistration and transfer of 
+registration);
+(f) Part 8B.7 (control, financial services and disclosure).
+(2) ASIC may do either or both of the following:
+(a) exempt from all or specified provisions of the CCIV 
+provisions:
+(i) a specified CCIV, a specified class of CCIVs or all 
+CCIVs; or
+(ii) a specified class of sub-funds of CCIVs, all sub-funds of 
+a specified class of CCIVs, or all sub-funds of all 
+CCIVs; or
+(iii) a specified entity, a specified class of entities or all 
+entities, in relation to a specified CCIV, a specified 
+class of CCIVs or all CCIVs; or
+(iv) a specified entity, a specified class of entities or all 
+entities, in relation to a specified class of sub-funds of 
+CCIVs, all sub-funds of a specified class of CCIVs, or 
+all sub-funds of all CCIVs;
+(b) declare that the CCIV provisions apply in relation to:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 8B  Corporate collective investment vehicles

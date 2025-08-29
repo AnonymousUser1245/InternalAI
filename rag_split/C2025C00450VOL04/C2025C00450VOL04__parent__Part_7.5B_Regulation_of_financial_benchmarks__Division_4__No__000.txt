@@ -1,0 +1,121 @@
+Part 7.5B  Regulation of financial benchmarks
+Division 4
+Section 908DA
+
+Corporations Act 2001 457
+Compilation No. 143 Compilation date: 09/07/2025Division 4—Offences and civil penalties relating to 
+manipulation of financial benchmarks
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4
+908DA  Manipulation of financial benchmarks
+
+Civil penalty provisions
+(1) A person contravenes this subsection if:
+(a) the person does, or omits to do, one or more acts; and
+(b) the acts or omissions have or are likely to have the effect of 
+influencing the level at which a financial benchmark is 
+generated or administered; and
+(c) the person intends for the acts or omissions to have that 
+effect (whether or not the person also intends for the acts or 
+omissions to have another effect).
+Note 1: This is a civil penalty provision (see section 1317E). For relief from 
+liability, see section 1317S.
+Note 2: Section 908DD (about geographical scope) causes this subsection to 
+be read down so that it covers persons who are Australian entities, or 
+persons whose acts or omissions occur wholly or partly in Australia 
+etc.
+(2) A person contravenes this subsection if:
+(a) paragraphs (1)(a) to (c) apply in relation to the person, one or 
+more acts or omissions, and a financial benchmark; and
+(b) the acts or omissions result, or are likely to result, in any of 
+the following suffering financial or other disadvantage from 
+use of the financial benchmark:
+(i) an Australian citizen;
+(ii) a resident of Australia (within the meaning of the 
+Criminal Code);
+(iii) a body corporate incorporated by or under a law of the 
+Commonwealth or of a State or Territory.
+Note 1: This is a civil penalty provision (see section 1317E). For relief from 
+liability, see section 1317S.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4
+Section 908DC
+
+Corporations Act 2001 459
+Compilation No. 143 Compilation date: 09/07/2025financial or other disadvantage from use of the financial 
+benchmark:
+(i) an Australian citizen;
+(ii) a resident of Australia (within the meaning of the 
+Criminal Code);
+(iii) a body corporate incorporated by or under a law of the 
+Commonwealth or of a State or Territory.
+Note 1: This is a civil penalty provision (see section 1317E). For relief from 
+liability, see section 1317S.
+Note 2: This subsection extends subsection (1) so that persons, who are not 
+otherwise covered, will be covered if a result of their conduct occurs 
+wholly or partly in Australia etc.
+Offence
+(3) A person commits an offence if the person contravenes 
+subsection (1) or (2).
+Note: For the penalty for the offence, see section 908DC. For its 
+geographical scope, see section 908DD.
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4
+908DC  Penalties for offences against this Division
+
+The penalty for an offence against this Division is 15 years 
+imprisonment.
+Note: However, sections 1311A to 1311E will apply in relation to the 
+penalty in the usual way.
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4
+908DD  Geographical scope of offences and civil penalty provisions
+
+Offences
+(1) Section 15.2 of the Criminal Code (extended geographical 
+jurisdiction—category B) applies to each offence against this 
+Division.
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets
+
+Part 7.5B  Regulation of financial benchmarks
+Division 4
+Section 908DD
+
+Corporations Act 2001 461
+Compilation No. 143 Compilation date: 09/07/2025(ii) a body corporate incorporated by or under a law of the 
+Commonwealth or of a State or Territory; and
+(c) there is not in force in:
+(i) the foreign country where the conduct constituting the 
+alleged contravention occurs; or
+(ii) the part of the foreign country where the conduct 
+constituting the alleged contravention occurs;
+a law of that foreign country, or a law of that part of that 
+foreign country, that provides for a pecuniary or criminal 
+penalty for such conduct.
+(4) A defendant bears an evidential burden in relation to the matter in 
+subsection (3).
+Attorney-General’s consent needed for certain proceedings
+(5) The Attorney-General’s prior written consent must be obtained to 
+commence proceedings under section 1317E for a declaration of 
+contravention by a person relating to an alleged contravention by 
+the person of a civil penalty provision in this Division if:
+(a) the conduct constituting the alleged contravention occurs 
+wholly in a foreign country; and
+(b) at the time of the alleged contravention, the person is neither:
+(i) an Australian citizen; nor
+(ii) a body corporate incorporated by or under a law of the 
+Commonwealth or of a State or Territory.
+When conduct taken to occur partly in Australia
+(6) For the purposes of (but without limiting) this section, if a person 
+sends a thing, or causes a thing to be sent:
+(a) from a point outside Australia to a point in Australia; or
+(b) from a point in Australia to a point outside Australia;
+that conduct is taken to have occurred partly in Australia.
+(7) For the purposes of (but without limiting) this section, if a person 
+sends, or causes to be sent, an electronic communication:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 7  Financial services and markets

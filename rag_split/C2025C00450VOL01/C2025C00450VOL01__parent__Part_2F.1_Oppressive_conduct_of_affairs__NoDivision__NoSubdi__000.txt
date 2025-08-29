@@ -1,0 +1,165 @@
+Part 2F.1  Oppressive conduct of affairs
+
+Part 2F.1  Oppressive conduct of affairs
+Section 232
+
+Part 2F.1  Oppressive conduct of affairs
+464 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 2F.1—Oppressive conduct of affairs
+
+Part 2F.1  Oppressive conduct of affairs
+232  Grounds for Court order
+
+The Court may make an order under section 233 if:
+(a) the conduct of a company’s affairs; or
+(b) an actual or proposed act or omission by or on behalf of a 
+company; or
+(c) a resolution, or a proposed resolution, of members or a class 
+of members of a company;
+is either:
+(d) contrary to the interests of the members as a whole; or
+(e) oppressive to, unfairly prejudicial to, or unfairly 
+discriminatory against, a member or members whether in that 
+capacity or in any other capacity.
+For the purposes of this Part, a person to whom a share in the 
+company has been transmitted by will or by operation of law is 
+taken to be a member of the company.
+Note 1: For affairs, see sections 53 and 53AAA.
+Note 2: The effect of paragraph (d) is extended in relation to a sub-fund of a 
+CCIV: see section 1227F.
+
+Part 2F.1  Oppressive conduct of affairs
+233  Orders the Court can make
+
+(1) The Court can make any order under this section that it considers 
+appropriate in relation to the company, including an order:
+(a) that the company be wound up;
+(b) that the company’s existing constitution be modified or 
+repealed;
+(c) regulating the conduct of the company’s affairs in the future;
+(d) for the purchase of any shares by any member or person to 
+whom a share in the company has been transmitted by will or 
+by operation of law;
+Authorised Version C2025C00450 registered 21/07/2025Members’ rights and remedies  Chapter 2F
+Oppressive conduct of affairs  Part 2F.1
+
+Part 2F.1  Oppressive conduct of affairs
+Section 233
+
+Corporations Act 2001 465
+Compilation No. 143 Compilation date: 09/07/2025(e) for the purchase of shares with an appropriate reduction of 
+the company’s share capital;
+(f) for the company to institute, prosecute, defend or discontinue 
+specified proceedings;
+(g) authorising a member, or a person to whom a share in the 
+company has been transmitted by will or by operation of law, 
+to institute, prosecute, defend or discontinue specified 
+proceedings in the name and on behalf of the company;
+(h) appointing a receiver or a receiver and manager of any or all 
+of the company’s property;
+(i) restraining a person from engaging in specified conduct or 
+from doing a specified act;
+(j) requiring a person to do a specified act.
+Note: If the company is a CCIV there are modifications for 
+paragraphs (1)(a) and (h) (see section 1227G and Part 8B.6).
+Order that the company be wound up
+(2) If an order that a company be wound up is made under this section, 
+the provisions of this Act relating to the winding up of companies 
+apply:
+(a) as if the order were made under section 461; and
+(b) with such changes as are necessary.
+Order altering constitution
+(3) If an order made under this section repeals or modifies a 
+company’s constitution, or requires the company to adopt a 
+constitution, the company does not have the power under 
+section 136 to change or repeal the constitution if that change or 
+repeal would be inconsistent with the provisions of the order, 
+unless:
+(a) the order states that the company does have the power to 
+make such a change or repeal; or
+(b) the company first obtains the leave of the Court.
+Note: If the company is a CCIV the reference to section 136 is modified (see 
+subsection 1227G(2)).
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2F  Members’ rights and remedies
+
+Part 2F.1  Oppressive conduct of affairs
+
+Part 2F.1  Oppressive conduct of affairs
+Section 234
+
+Part 2F.1  Oppressive conduct of affairs
+466 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025234  Who can apply for order
+An application for an order under section 233 in relation to a 
+company may be made by:
+(a) a member of the company, even if the application relates to 
+an act or omission that is against:
+(i) the member in a capacity other than as a member; or
+(ii) another member in their capacity as a member; or
+(b) a person who has been removed from the register of members 
+because of a selective reduction; or
+(c) a person who has ceased to be a member of the company if 
+the application relates to the circumstances in which they 
+ceased to be a member; or
+(d) a person to whom a share in the company has been 
+transmitted by will or by operation of law; or
+(e) a person whom ASIC thinks appropriate having regard to 
+investigations it is conducting or has conducted into:
+(i) the company’s affairs; or
+(ii) matters connected with the company’s affairs.
+Note 1: If an application is made under this section, in certain cases the court 
+may order that the company be wound up in insolvency (see 
+section 459B).
+Note 2: For selective reduction, see subsection 256B(2).
+
+Part 2F.1  Oppressive conduct of affairs
+235  Requirement for person to lodge order
+
+(1) If an order is made under section 233, the applicant must lodge a 
+copy of the order with ASIC within 14 days after it is made.
+(2) An offence based on subsection (1) is an offence of strict liability.
+Note: For strict liability, see section 6.1 of the Criminal Code.
+Authorised Version C2025C00450 registered 21/07/2025Members’ rights and remedies  Chapter 2F
+Proceedings on behalf of a company by members and others  Part 2F.1A
+
+Part 2F.1  Oppressive conduct of affairs
+Section 236
+
+Corporations Act 2001 467
+Compilation No. 143 Compilation date: 09/07/2025Part 2F.1A—Proceedings on behalf of a company 
+by members and others
+
+Part 2F.1  Oppressive conduct of affairs
+236  Bringing, or intervening in, proceedings on behalf of a company
+
+(1) A person may bring proceedings on behalf of a company, or 
+intervene in any proceedings to which the company is a party for 
+the purpose of taking responsibility on behalf of the company for 
+those proceedings, or for a particular step in those proceedings (for 
+example, compromising or settling them), if:
+(a) the person is:
+(i) a member, former member, or person entitled to be 
+registered as a member, of the company or of a related 
+body corporate; or
+(ii) an officer or former officer of the company; and
+(b) the person is acting with leave granted under section 237.
+(2) Proceedings brought on behalf of a company must be brought in 
+the company’s name.
+(3) The right of a person at general law to bring, or intervene in, 
+proceedings on behalf of a company is abolished.
+Note 1: For the right to inspect company books, see subsections 247A(3) to 
+(6).
+Note 2: For the requirements to disclose proceedings and leave applications in 
+the annual directors’ report, see subsections 300(14) and (15).
+Note 3: This section does not prevent a person bringing, or intervening in, 
+proceedings on their own behalf in respect of a personal right.
+
+Part 2F.1  Oppressive conduct of affairs
+237  Applying for and granting leave
+
+(1) A person referred to in paragraph 236(1)(a) may apply to the Court 
+for leave to bring, or to intervene in, proceedings.
+(2) The Court must grant the application if it is satisfied that:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2F  Members’ rights and remedies

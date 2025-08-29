@@ -1,0 +1,207 @@
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+
+(Corporations and Other Amendments) Act 2010
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+Section 1501
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+402 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(as amended by the amending Act) to a security interest does not 
+include a reference to a lien or a pledge, or that particular form of 
+security over the property, as the case may be.
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1501  Charges, liens, pledges and third party property—application
+
+The amendments made by Part 1 (new concepts) of Schedule 1 to 
+the amending Act apply:
+(a) in relation to charges, liens and pledges, whether created or 
+arising before, at or after the commencement time; and
+(b) in relation to property owned, occupied or used by, or in the 
+possession of, a corporation, whether the ownership, 
+occupation, use or possession started before, at or after the 
+commencement time.
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1501A  References to the whole or substantially the whole of a
+
+company’s property
+(1) This section applies to a transitional security interest within the 
+meaning of the Personal Property Securities Act 2009.
+Note: For the meaning of transitional security interest, see section 308 of 
+the Personal Property Securities Act 2009.
+(2) In working out for the purposes of this Act whether the security 
+interest covers the whole, or substantially the whole, of the 
+company’s property at a time (the later time) that is at or after the 
+commencement time, disregard any of the company’s property that 
+is PPSA retention of title property of the company at the later time.
+Note: This Act gives certain powers to secured parties who hold security 
+interests over the whole, or substantially the whole, of a company’s 
+property (for example, the power to appoint an administrator under 
+section 436C).
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1501B  Constructive notice of registrable charges
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+Section 130 does not apply in relation to a document that has been
+
+lodged with ASIC to the extent that the document relates to a 
+registrable charge.
+Authorised Version C2025C00450 registered 21/07/2025Transitional provisions  Chapter 10
+Transitional provisions relating to the Personal Property Securities (Corporations and 
+Other Amendments) Act 2010  Part 10.13
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+Section 1502
+
+Corporations Act 2001 403
+Compilation No. 143 Compilation date: 09/07/2025Note: Section 130 provides that a person is not taken to have information 
+about a company merely because the information is available to the 
+public from ASIC.
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1502  Repeal of Chapter 2K (charges)—general
+
+(1) For the period of 7 years after the commencement time, the 
+amendments made by Part 2 of Schedule 1 to the amending Act do 
+not apply in relation to registrable charges.
+Note: The amendments made by Part 2 of Schedule 1 to the amending Act 
+repeal Chapter 2K and make consequential amendments to other 
+provisions.
+(2) This section applies subject to sections 1503 to 1506.
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1503  Repeal of Chapter 2K (charges)—cessation of requirements in
+
+relation to documents or notices
+Scope
+(1) This section applies if, immediately before the commencement 
+time, a document (however described) or notice is required to be 
+lodged or given by a company or other person under one of the 
+following provisions:
+(a) paragraph 263(1)(a), (b) or (c);
+(b) paragraph 263(2)(b);
+(c) subsection 263(3);
+(d) paragraph 264(1)(a) or (b);
+(e) paragraph 265(6)(b);
+(f) paragraph 268(1)(a) or (b);
+(g) subsection 268(2);
+(h) subsection 269(1) or (2);
+(i) subsection 270(4).
+Requirements that stop applying
+(2) Whichever of the following requirements would otherwise apply 
+stops applying at the commencement time:
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+
+(Corporations and Other Amendments) Act 2010
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+Section 1504
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+404 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(a) the requirement to lodge or give the document or notice;
+(b) the requirement for ASIC to enter or delete particulars in the 
+Register in relation to the document or notice.
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1504  Repeal of Chapter 2K (charges)—application of section 266
+
+(1) Subject to this section, section 266 stops applying at the 
+commencement time in relation to registrable charges.
+(2) However, if a registrable charge is void under section 266 
+immediately before the commencement time, that section continues 
+to apply in relation to the charge, subject to subsection (3) of this 
+section.
+(3) The Court may, on such terms and conditions as seem to the Court 
+just and expedient, by order, declare a registrable charge not to be, 
+and never to have been, void under subsection 266(1) or (3), if:
+(a) before the commencement time, the charge is void under 
+subsection 266(1) or (3) (as the case requires); and
+(b) either:
+(i) an application is made to the Court under 
+subsection 266(4) before the commencement time for an 
+extension of the relevant period, and as at the 
+commencement time, the Court had not made a decision 
+in relation to the application; or
+(ii) an application is made to the Court at or after the 
+commencement time for an order under this subsection; 
+and
+(c) the Court is satisfied of the matters set out in 
+subsection 266(4).
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1505  Repeal of Chapter 2K (charges)—cessation of company
+
+registration requirements
+The requirements in section 271 (company documentation and 
+registration of charges) stop applying in relation to registrable 
+charges at the commencement time.
+Authorised Version C2025C00450 registered 21/07/2025Transitional provisions  Chapter 10
+Transitional provisions relating to the Personal Property Securities (Corporations and 
+Other Amendments) Act 2010  Part 10.13
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+Section 1506
+
+Corporations Act 2001 405
+Compilation No. 143 Compilation date: 09/07/20251506  Repeal of Chapter 2K (charges)—priority between registrable 
+charges
+At and after the commencement time, registrable charges have the 
+priority between themselves that they would have had under this 
+Act as in force immediately before the commencement time, 
+subject to Chapter 9 (Transitional provisions) of the Personal 
+Property Securities Act 2009.
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1507  New section 440B (restrictions on third party property rights)
+
+The repeal of sections 440B, 440BA, 440BB and 440C by 
+item 156 of Schedule 1 to the amending Act does not affect the 
+operation of subsections 1483(9) and (10) in relation to:
+(a) the administration of a company that began at or after the 
+start of the day section 440BA commenced, and before the 
+commencement time within the meaning of section 1499; or
+(b) distress for rent that began to be carried out before the day 
+section 440BB commenced.
+Note: Sections 440BA and 440BB commenced on 31 December 2007.
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1508  New subsection 442CB(1) (administrator’s duty of care)
+
+The amendment of this Act by item 135 of Schedule 1 to the 
+amending Act does not apply in relation to the exercise of a power 
+of sale if the power began to be exercised before the 
+commencement time.
+Note: Item 135 of Schedule 1 to the amending Act repealed 
+subsection 442CB(1) and substituted a new subsection.
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+1509  New section 588FP (security interests in favour of an officer of
+
+a company etc. void)
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+Section 588FP does not apply in relation to a registrable charge.
+
+Authorised Version C2025C00450 registered 21/07/2025Chapter 10  Transitional provisions
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+
+(Corporations and Other Amendments) Act 2010
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+Section 1510
+
+Part 10.13  Transitional provisions relating to the Personal Property Securities
+406 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/20251510  Winding up applied for before the commencement time
+Subject to this Part, the amendments made by the amending Act do 
+not apply in relation to the winding up of a company under

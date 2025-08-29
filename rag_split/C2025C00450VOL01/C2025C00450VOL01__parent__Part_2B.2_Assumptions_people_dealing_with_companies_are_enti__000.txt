@@ -1,0 +1,88 @@
+Part 2B.2  Assumptions people dealing with companies are entitled to make
+
+Part 2B.2  Assumptions people dealing with companies are entitled to make
+Section 128
+
+Part 2B.2  Assumptions people dealing with companies are entitled to make
+288 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025Part 2B.2—Assumptions people dealing with 
+companies are entitled to make
+
+Part 2B.2  Assumptions people dealing with companies are entitled to make
+128  Entitlement to make assumptions
+
+(1) A person is entitled to make the assumptions in section 129 in 
+relation to dealings with a company. The company is not entitled to 
+assert in proceedings in relation to the dealings that any of the 
+assumptions are incorrect.
+(2) A person is entitled to make the assumptions in section 129 in 
+relation to dealings with another person who has, or purports to 
+have, directly or indirectly acquired title to property from a 
+company. The company and the other person are not entitled to 
+assert in proceedings in relation to the dealings that any of the 
+assumptions are incorrect.
+(3) The assumptions may be made even if an officer or agent of the 
+company acts fraudulently, or forges a document, in connection 
+with the dealings.
+(4) A person is not entitled to make an assumption in section 129 if at 
+the time of the dealings they knew or suspected that the assumption 
+was incorrect.
+
+Part 2B.2  Assumptions people dealing with companies are entitled to make
+129  Assumptions that can be made under section 128
+
+Constitution and replaceable rules complied with
+(1) A person may assume that the company’s constitution (if any), and 
+any provisions of this Act that apply to the company as replaceable 
+rules, have been complied with.
+Authorised Version C2025C00450 registered 21/07/2025Basic features of a company  Chapter 2B
+Assumptions people dealing with companies are entitled to make  Part 2B.2
+
+Part 2B.2  Assumptions people dealing with companies are entitled to make
+Section 129
+
+Corporations Act 2001 289
+Compilation No. 143 Compilation date: 09/07/2025Director or company secretary
+(2) A person may assume that anyone who appears, from information 
+provided by the company that is available to the public from ASIC, 
+to be a director or a company secretary of the company:
+(a) has been duly appointed; and
+(b) has authority to exercise the powers and perform the duties 
+customarily exercised or performed by a director or company 
+secretary of a similar company.
+Officer or agent
+(3) A person may assume that anyone who is held out by the company 
+to be an officer or agent of the company:
+(a) has been duly appointed; and
+(b) has authority to exercise the powers and perform the duties 
+customarily exercised or performed by that kind of officer or 
+agent of a similar company.
+Proper performance of duties
+(4) A person may assume that the officers and agents of the company 
+properly perform their duties to the company.
+Document duly executed without seal
+(5) A person may assume that a document has been duly executed by 
+the company if the document appears to have been signed in 
+accordance with subsection 127(1). For the purposes of making the 
+assumption, a person may also assume that, if any person who 
+signs the document states next to their signature that:
+(a) they are a director of the company—that is the case; or
+(b) they are the company secretary of the company—that is the 
+case; or
+(c) they are the sole director of the company and that the 
+company does not have a company secretary—that is the 
+case; or
+Authorised Version C2025C00450 registered 21/07/2025Chapter 2B  Basic features of a company
+
+Part 2B.2  Assumptions people dealing with companies are entitled to make
+
+Part 2B.2  Assumptions people dealing with companies are entitled to make
+Section 129
+
+Part 2B.2  Assumptions people dealing with companies are entitled to make
+290 Corporations Act 2001
+
+Compilation No. 143 Compilation date: 09/07/2025(d) they are the sole director and sole company secretary of the 
+company—that is the case.
+Note: For provisions about technology neutral signing, see Division 1 of
