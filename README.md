@@ -2,6 +2,10 @@
 
 This project processes Australian Corporations Act (ACT) documents, generates embeddings, and provides semantic search functionality.
 
+## Purpose
+
+**Note:** While a normal AI can answer legal questions just as accurately or even better than this system, this tool serves a specific purpose: **providing exact citations and source references** from the ACT documents. The value lies not in the quality of answers, but in the ability to retrieve specific sections, subsections, and exact text from the legislation for proper legal citation and reference.
+
 ## Setup
 
 1. **Install dependencies:**
